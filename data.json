@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T23:27:41.039Z",
+  "updated": "2026-03-22T23:57:49.985Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -22,20 +22,6 @@
       "link": "http://arxiv.org/abs/2603.18969v1",
       "desc": "As insurers increasingly behave like financial intermediaries and actively participate in capital markets, understanding the dependence structure between insurance and financial risks becomes crucial for insurers' operations. This paper studies dynamic equilibrium insurance pricing when insurers fac",
       "date": "2026-03-19T14:35:31.000Z",
-      "type": "arxiv",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research"
-      ],
-      "archive_url": null,
-      "relevance": 11
-    },
-    {
-      "title": "SPX-VIX Risk Computations Via Perturbed Optimal Transport",
-      "link": "http://arxiv.org/abs/2603.10857v2",
-      "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
-      "date": "2026-03-19T13:50:39.000Z",
       "type": "arxiv",
       "label": "arXiv q-fin",
       "tags": [
@@ -93,6 +79,20 @@
       "link": "http://arxiv.org/abs/2603.19225v1",
       "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
       "date": "2026-03-19T17:59:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 10
+    },
+    {
+      "title": "SPX-VIX Risk Computations Via Perturbed Optimal Transport",
+      "link": "http://arxiv.org/abs/2603.10857v2",
+      "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
+      "date": "2026-03-19T13:50:39.000Z",
       "type": "arxiv",
       "label": "arXiv q-fin",
       "tags": [
