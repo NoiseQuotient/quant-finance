@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T22:57:52.248Z",
+  "updated": "2026-03-22T23:27:41.039Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -203,20 +203,6 @@
       "relevance": 9
     },
     {
-      "title": "Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum",
-      "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
-      "desc": "Tehran’s military says its strategy has shifted from defensive to offensive",
-      "date": "2026-03-22T12:34:05.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets"
-      ],
-      "archive_url": "https://web.archive.org/web/https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
-      "relevance": 8
-    },
-    {
       "title": "Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective",
       "link": "http://arxiv.org/abs/2603.17463v1",
       "desc": "We assess the advantage of combining univariate and multivariate portfolio risk forecasts with the aid of forecast reconciliation techniques. In our analyzes, we assume knowledge of portfolio weights, a standard for portfolio risk management applications. With an extensive simulation experiment, we ",
@@ -301,6 +287,19 @@
         "economics"
       ],
       "archive_url": "https://web.archive.org/web/https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
+      "relevance": 7
+    },
+    {
+      "title": "Financial markets are responding to the Iran conflict in unexpected ways &#x2014; leaving some investors puzzled",
+      "link": "https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories",
+      "desc": "Gold, often a haven during times of stress, has been falling. Meanwhile, stocks are down, but not as much as many expected.",
+      "date": "2026-03-22T23:11:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ],
+      "archive_url": null,
       "relevance": 7
     },
     {
