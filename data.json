@@ -1,0 +1,859 @@
+{
+  "updated": "2026-03-22T21:26:30.271Z",
+  "count": 71,
+  "failed": [],
+  "items": [
+    {
+      "title": "The Return of the King: Trend Following Is Back &#8211; But Will It Last?",
+      "link": "https://alphaarchitect.com/the-return-of-the-king-trend-following-is-back-but-will-it-last/",
+      "desc": "Trend following is finally moving while U.S. stocks are flat. And so—like with most assets or strategies that post strong returns—investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return",
+      "date": "2026-03-20T15:21:00.000Z",
+      "type": "blog",
+      "label": "Alpha Architect",
+      "tags": [
+        "factor",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/19/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03192026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/19/2026. To see our most recent links, visit the Quant Mashup. Read on readers! More of the Disease, Faster (What happens when you ask an LLM to find you an edge) [Robot Wealth] This week I discovered ",
+      "date": "2026-03-20T05:15:05.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "More of the Disease, Faster (What happens when you ask an LLM to find you an edge)",
+      "link": "https://robotwealth.com/more-of-the-disease-faster-what-happens-when-you-ask-an-llm-to-find-you-an-edge/",
+      "desc": "This week I discovered the &#8220;vibe quant&#8221; movement (or rather, it discovered me). People using LLMs to find trading strategies, validate them, and put them into production. The pitch is seductive: the LLM reads the literature, implements the ideas, backtests them, and y",
+      "date": "2026-03-19T04:16:00.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Thermal Renaissance: Why Gas-Fired Generation is Infrastructure Again",
+      "link": "https://caia.org/blog/2026/03/18/thermal-renaissance-why-gas-fired-generation-infrastructure-again",
+      "desc": "By Aaron Vale, CAIA, CFA, MFin, Global Managing Director, Mexico Infrastructure Partners   In recent years, owning a natural gas power plant in the U.S. felt tenuous. Today, it can be among the most coveted assets in private infrastructure portfolios. Investors who recognized thi",
+      "date": "2026-03-18T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/16/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03162026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/16/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Landing Your First Role &#8211; Breaking Into Quant Finance [Quantt] Why Breaking In Feels So Hard (and Why It Is Still Ach",
+      "date": "2026-03-17T05:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/15/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03152026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Calendar Ensemble: Building an Event-Driven Alpha Overlay [Beyond Passive] In the previous article, we established that",
+      "date": "2026-03-16T05:15:05.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Unlocking Hidden Value: How Corporate Language Reveals the Future of Intangible Investment",
+      "link": "https://alphaarchitect.com/intangible-investment/",
+      "desc": "Intangible assets—things like brand reputation, proprietary knowledge, and organizational capabilities—have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital.",
+      "date": "2026-03-13T15:38:00.000Z",
+      "type": "blog",
+      "label": "Alpha Architect",
+      "tags": [
+        "factor",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/12/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03122026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Quant&#8217;s Guide to Cross-Section Maxxing, Code Included [Quant Galore] Quantitative trading is about many things; b",
+      "date": "2026-03-13T05:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "A CAIA Mini Course: A Real Estate Focus on the Crypto Tokenization of Real Assets - Part Two",
+      "link": "https://caia.org/blog/2026/03/10/caia-mini-course-real-estate-focus-crypto-tokenization-real-assets-part-two",
+      "desc": "By Stylianos Kampakis PhD, CEO, Tesseract Academy   In this CAIA mini-course, we introduce the work of Stylianos Kampakis PhD, CEO of Tesseract Academy, and member of the Quantum Finance Boardroom. Each installment of this series will present a new chapter in Dr. Kampakis’ work o",
+      "date": "2026-03-10T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Best Defensive Strategies: Two Centuries of Evidence",
+      "link": "https://alphaarchitect.com/defensive-investment-strategies/",
+      "desc": "Which defensive strategies have actually worked, and do the conclusions survive when we evaluate them over multiple centuries rather than a few decades? The Best Defensive Strategies: Two Centuries of Evidence was originally published at Alpha Architect . Please read the Alpha Ar",
+      "date": "2026-03-09T15:30:00.000Z",
+      "type": "blog",
+      "label": "Alpha Architect",
+      "tags": [
+        "factor",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03082026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal po",
+      "date": "2026-03-09T05:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "link": "https://robotwealth.com/everything-everywhere-all-at-once/",
+      "desc": "The four hats of the solo trader At a trading firm or fund, the researcher doesn&#8217;t run the execution desk. The portfolio manager doesn&#8217;t build the tech and infrastructure. These are different jobs, done by different people, with different skill sets. When you&#8217;re",
+      "date": "2026-03-08T05:26:42.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/05/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03052026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! New Contributor: Scaling Python Financial Models on AWS [Quantt] How to take a Python financial model from running 150 sc",
+      "date": "2026-03-06T06:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Suffering from Success: How Infrastructure Became Too Big to Ignore",
+      "link": "https://caia.org/blog/2026/03/05/suffering-success-how-infrastructure-became-too-big-ignore",
+      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association   What happens when all you do is win, win, win…no matter what?",
+      "date": "2026-03-05T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03022026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we buil",
+      "date": "2026-03-03T06:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Cryptos, Stablecoins and Sovereign CBDCs",
+      "link": "https://caia.org/blog/2026/03/03/cryptos-stablecoins-and-sovereign-cbdcs",
+      "desc": "How should SWFs and Asset Owners rethink crypto assets in 2026?      By Winston Ma, Partner of Dragon Global Family Office; Former MD, China Investment Corp (CIC)",
+      "date": "2026-03-03T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Fund Selection When Borrowing Is Restricted",
+      "link": "https://alphaarchitect.com/fund-selection-when-borrowing-is-restricted/",
+      "desc": "Once borrowing is realistically restricted, the Sharpe ratio can stop lining up with what investors actually care about: utility. This paper argues that in this constrained world, the geometric mean is a better compass. Fund Selection When Borrowing Is Restricted was originally p",
+      "date": "2026-03-02T16:09:00.000Z",
+      "type": "blog",
+      "label": "Alpha Architect",
+      "tags": [
+        "factor",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations",
+      "link": "https://robotwealth.com/the-winter-of-our-pairs-trading-discontent-problems-limitations-frustrations/",
+      "desc": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care",
+      "date": "2026-03-02T02:13:39.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "How AI Can Help Find the Needle in the Haystack",
+      "link": "https://alphaarchitect.com/ai-tools-financial-disclosures/",
+      "desc": "Artificial intelligence is rapidly transforming the investment landscape in ways that extend far beyond algorithmic trading and robo-advisors. One of AI's most promising applications lies in its ability to process and extract meaning from vast amounts of unstructured text—somethi",
+      "date": "2026-02-27T16:03:00.000Z",
+      "type": "blog",
+      "label": "Alpha Architect",
+      "tags": [
+        "factor",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 02/26/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02262026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 02/26/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Systematic Allocation in International Equity Regimes [Quantpedia] This research examines the critical quantitative inves",
+      "date": "2026-02-27T06:15:05.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 02/23/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02232026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 02/23/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Evaluating Reversal Potential in Niche Alternative ETFs [Quantpedia] Alternative ETFs sit at an unusual intersection of pub",
+      "date": "2026-02-24T06:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "No Exit, No Problem? How Asset Owners Can Tame Illiquidity Risk",
+      "link": "https://caia.org/blog/2026/02/24/no-exit-no-problem-how-asset-owners-can-tame-illiquidity-risk",
+      "desc": "By Andreas Rothacher, CFA, CAIA Head of Investment Research at Complementa AG & Richard Sanders, CFA, Head of asset allocation and manager selection at Cöoperatie VGZ",
+      "date": "2026-02-24T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 02/22/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02222026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 02/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Kronos and the Rise of Pre-Trained Market Models [Jonathan Kinlay] The quant finance industry has spent decades building sp",
+      "date": "2026-02-23T06:15:04.000Z",
+      "type": "blog",
+      "label": "Quantocracy",
+      "tags": [
+        "curated",
+        "blog"
+      ]
+    },
+    {
+      "title": "Moneyball: Finding Undervalued Pairs Using Unconventional Metrics",
+      "link": "https://robotwealth.com/moneyball-finding-undervalued-pairs-using-unconventional-metrics/",
+      "desc": "Previously: ​A Tale of Two Prices (the core idea of stat arb)​ Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Rem",
+      "date": "2026-02-20T07:23:51.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "A Tale of Two Prices",
+      "link": "https://robotwealth.com/a-tale-of-two-prices/",
+      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness&#8230; I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interes",
+      "date": "2026-02-20T07:13:24.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Is Quantum Technology the Next Great Alternative Asset?",
+      "link": "https://caia.org/blog/2026/02/17/quantum-technology-next-great-alternative-asset",
+      "desc": "By Andre Costa, CAIA and Oswaldo Zapata, PhD",
+      "date": "2026-02-17T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Continuation Vehicle Boom: Structural Shift or Liquidity Patch?",
+      "link": "https://caia.org/blog/2026/02/11/continuation-vehicle-boom-structural-shift-or-liquidity-patch",
+      "desc": "By Koen van Mierlo, MSc, LLM, CFA, CAIA, Head of Analysis at Bluemetric Wealth Advisory.   A thirst for liquidity",
+      "date": "2026-02-11T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "The TPA Roadmap for GPs: From Parts Provider to Chief Problem Solver",
+      "link": "https://caia.org/blog/2026/02/09/tpa-roadmap-gps-parts-provider-chief-problem-solver",
+      "desc": "By John L. Bowman, CFA, Chief Executive Officer, CAIA Association   If our entire pitch book is based on the beauty contest mentality of us vs. them, we will be speaking a foreign language, eventually an offensive one, to the TPA CIO.",
+      "date": "2026-02-09T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Crypto Chart Patterns: Insights for Tactical Trading",
+      "link": "https://caia.org/blog/2026/01/30/crypto-chart-patterns-insights-tactical-trading",
+      "desc": "By Fernando Walter Lolo, CAIA",
+      "date": "2026-01-30T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Participant’s Trilemma: Learning from Other DC Plans Around the World",
+      "link": "https://caia.org/blog/2026/01/27/participants-trilemma-learning-other-dc-plans-around-world",
+      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association",
+      "date": "2026-01-27T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Bank-Level Lessons for Private Credit Valuations",
+      "link": "https://caia.org/blog/2026/01/20/bank-level-lessons-private-credit-valuations",
+      "desc": "By John Sedunov and Michael Pagano",
+      "date": "2026-01-20T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Alignment Over Access: Gauging the Fit Between Alternative Investment Strategies and their Fund Structures",
+      "link": "https://caia.org/blog/2026/01/14/alignment-over-access-gauging-fit-between-alternative-investment-strategies-and",
+      "desc": "By John W. Moore, CFA®, CAIA®, CMT®, Stratview Wealth Management",
+      "date": "2026-01-14T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Much Ado About Variance",
+      "link": "https://robotwealth.com/much-ado-about-variance/",
+      "desc": "What&#8217;s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. Tha",
+      "date": "2026-01-11T10:15:28.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Vision 2035: Riyadh Edition",
+      "link": "https://caia.org/blog/2026/01/02/vision-2035-riyadh-edition",
+      "desc": "By Laura Merlini, CAIA, CIFD, Managing Director, EMEA, CAIA Association",
+      "date": "2026-01-02T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Unlocking Liquidity: The Case for Securitized Private Credit Markets",
+      "link": "https://caia.org/blog/2025/12/30/unlocking-liquidity-case-securitized-private-credit-markets",
+      "desc": "By Shreyash Shrivastava, FRM and Shubham (Sam) Goyat, CAIA   Why Private-Credit Liquidity Now?",
+      "date": "2025-12-30T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Institutional Custody Dilemma: Balancing Centralization and Self-Custody in Digital Asset Portfolios",
+      "link": "https://caia.org/blog/2025/12/22/institutional-custody-dilemma-balancing-centralization-and-self-custody-digital",
+      "desc": "By Kate Zogaj   Introduction: Custody as the Defining Question of Institutional Digital Asset Adoption",
+      "date": "2025-12-22T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Utility Tokens in Portfolio Allocation: The Digital Counterparts to Commodities",
+      "link": "https://caia.org/blog/2025/12/15/utility-tokens-portfolio-allocation-digital-counterparts-commodities",
+      "desc": "By Tatja (Tati) Karkkainen, PhD, Research, Development and Innovation (RDI), Kiitot   Utility tokens represent a distinct category within the digital economy. They connect blockchain technology to online services such as storage, computation, and communication.",
+      "date": "2025-12-15T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Private Credit Risk Management in Evergreen Funds",
+      "link": "https://caia.org/blog/2025/12/08/private-credit-risk-management-evergreen-funds",
+      "desc": "By Mark Garfinkel, Sr. Portfolio Manager at Liquid Strategies, LLC   As the private credit market surges toward $3 trillion in assets 1 , concerns are growing over the potential formation of a bubble—driven by too much capital chasing too few high-profile lending opportunities. R",
+      "date": "2025-12-08T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "A Deep Dive into Staking Yields as a Source of Return",
+      "link": "https://caia.org/blog/2025/12/02/deep-dive-staking-yields-source-return",
+      "desc": "By Jasmin Muelhaupt, CAIA, Director of Financial Product Development at 21Shares AG & Darius Moukhtarzadeh, CDAA, Research Strategist at 21Shares AG",
+      "date": "2025-12-02T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Credit Where Credit Is (Over)due: Private Credit’s Second Act",
+      "link": "https://caia.org/blog/2025/11/26/credit-where-credit-overdue-private-credits-second-act",
+      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association",
+      "date": "2025-11-26T00:00:00.000Z",
+      "type": "blog",
+      "label": "All About Alpha",
+      "tags": [
+        "hedge fund",
+        "blog"
+      ]
+    },
+    {
+      "title": "Why You Can’t Tell if Your Strategy “Stopped Working” (Statistically Speaking)",
+      "link": "https://robotwealth.com/why-you-cant-tell-if-your-strategy-stopped-working-statistically-speaking/",
+      "desc": "Traders love the illusion of precision. A few bad weeks go by, and you think, “Let’s run a t-test and see if the strategy stopped working.” It sounds rigorous. It isn’t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility &#8211; roughly the S&#38;P’s long-t",
+      "date": "2025-10-10T07:01:44.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Trading Without Edge? That’s expensive gambling, I said…",
+      "link": "https://robotwealth.com/trading-without-edge-thats-expensive-gambling-i-said/",
+      "desc": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one &#8211; focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all",
+      "date": "2025-09-23T04:08:42.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Finding Edges",
+      "link": "https://robotwealth.com/finding-edges/",
+      "desc": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn’t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won’t let you sell naked option",
+      "date": "2025-08-31T05:06:22.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Trading Signals in High Definition",
+      "link": "https://robotwealth.com/trading-signals-in-high-definition/",
+      "desc": "We&#8217;ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You’ve seen them every",
+      "date": "2025-08-15T12:57:38.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Understanding &#8220;why&#8221; beats statistical significance",
+      "link": "https://robotwealth.com/understanding-why-beats-statistical-significance/",
+      "desc": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is “real” or just random noise. And in ",
+      "date": "2025-08-11T04:02:28.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "If your edge is so good, why share it?",
+      "link": "https://robotwealth.com/if-your-edge-is-so-good-why-share-it/",
+      "desc": "The market is a highly competitive beast. If you&#8217;ve spotted an edge, others have too. And as capital piles in, most obvious mispricings will eventually decay. Take the reasonably well-known end-of-month bond trade, for example. Towards month end, excess price-insensitive de",
+      "date": "2025-08-01T14:13:22.000Z",
+      "type": "blog",
+      "label": "Robot Wealth",
+      "tags": [
+        "strategy",
+        "blog"
+      ]
+    },
+    {
+      "title": "Opinion: Rationalizing Latency Competition in High-Frequency Trading",
+      "link": "https://blog.headlandstech.com/2024/05/01/opinion-rationalizing-latency-competition-in-high-frequency-trading/",
+      "desc": "Introduction There is a common misunderstanding, even among practitioners, that low-latency trading is a waste of human talent and resources that could instead go to advancing physics or curing cancer. It&#8217;s been attacked by books like Flash Boys, governments trying to pass ",
+      "date": "2024-05-01T23:39:30.000Z",
+      "type": "blog",
+      "label": "Headlands Tech",
+      "tags": [
+        "HFT",
+        "blog"
+      ]
+    },
+    {
+      "title": "15 Ideas, Frameworks, and Lessons from 15 Years",
+      "link": "https://blog.thinknewfound.com/2023/08/15-ideas-frameworks-and-lessons-from-15-years/",
+      "desc": "Today, August 28th, 2023, my company Newfound Research turns 15. It feels kind of absurd saying that. I know I’ve told this story before, but I never actually expected this company to turn into anything. I started the company while I was still in undergrad and I named it Newfound",
+      "date": "2023-08-28T12:25:39.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Is Managed Futures Value-able?",
+      "link": "https://blog.thinknewfound.com/2023/06/is-managed-futures-value-able/",
+      "desc": "In Return StackingTM: Strategies for Overcoming a Low Return Environment, we advocated for the addition of managed futures to traditionally allocated portfolios. We argued that managed futures’ low empirical correlation to both equities and bonds and its historically positive ave",
+      "date": "2023-06-19T20:09:46.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Index Funds Reimagined?",
+      "link": "https://blog.thinknewfound.com/2023/05/index-funds-reimagined/",
+      "desc": "I recently had the privilege to serve as a discussant at the Democratize Quant 2023 conference to review Research Affliates&#8217;s new paper, Reimagining Index Funds. The post below is a summary of my presentation. Introduction In Reimagining Index Funds (Arnott, Brightman, Liu ",
+      "date": "2023-05-19T15:24:48.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Portfolio Tilts versus Overlays: It&#8217;s Long/Short Portfolios All the Way Down",
+      "link": "https://blog.thinknewfound.com/2023/04/portfolio-tilts-versus-overlays-its-long-short-portfolios-all-the-way-down/",
+      "desc": "Several years ago, I started using the phrase, “It’s long/short portfolios all the way down.” I think it’s clever. Spoiler: it has not caught on. The point I was trying to make is that the distance between any two portfolios can be measured as a long/short strategy. This simple p",
+      "date": "2023-04-13T00:04:59.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "What Is Managed Futures?",
+      "link": "https://blog.thinknewfound.com/2023/02/what-is-managed-futures/",
+      "desc": "Summary Much like in 2008, managed futures as an investment strategy had an impressive year in 2022. With most traditional asset classes struggling to navigate the inflationary macroeconomic environment, managed futures has been drawing interest as a potential diversifier. Manage",
+      "date": "2023-02-02T16:20:22.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "The Hidden Cost in Costless Put-Spread Collars: Rebalance Timing Luck",
+      "link": "https://blog.thinknewfound.com/2023/01/the-hidden-cost-in-costless-put-spread-collars-rebalance-timing-luck/",
+      "desc": "We have published a new paper on the topic of rebalance timing luck in option strategies: The Hidden Cost in Costless Put-Spread Collars: Rebalance Timing Luck. Prior research and empirical investment results demonstrate that strategy performance can be highly sensitive to rebala",
+      "date": "2023-01-24T17:49:11.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Return Stacking in an Inverted Yield Curve Environment",
+      "link": "https://blog.thinknewfound.com/2023/01/return-stacking-in-an-inverted-yield-curve-environment/",
+      "desc": "Introduction When we first started publicly writing and talking about capital efficiency in 2017 – the predecessor conversation to return stackingTM – the 13-week U.S. Treasury Bill rate sat around 1.30%. The prototypical example at the time was a 1.5x levered 60% stock / 40% bon",
+      "date": "2023-01-18T18:47:58.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Elements of Statistical Learning. 8/10",
+      "link": "https://blog.headlandstech.com/2022/02/16/elements-of-statistical-learning-8-10/",
+      "desc": "This is the first in a series of book recommendations for new quants. We will only focus on books that quants commonly come across in their journey. Elements of Statistical Learning (ESL) is the classic recommendation for new quants, for good reason. However it&#8217;s a massive ",
+      "date": "2022-02-16T14:56:34.000Z",
+      "type": "blog",
+      "label": "Headlands Tech",
+      "tags": [
+        "HFT",
+        "blog"
+      ]
+    },
+    {
+      "title": "Liquidity Cascades: The Coordinated Risk of Uncoordinated Market Participants",
+      "link": "https://blog.thinknewfound.com/2020/09/liquidity-cascades-the-coordinated-risk-of-uncoordinated-market-participants/",
+      "desc": "This paper is unlike any research we&#8217;ve shared in the past. Within we dive into the circumstantial evidence surrounding the &#8220;weird&#8221; behavior many investors believe markets are exhibiting. We tackle narratives such as the impact of central bank intervention, the ",
+      "date": "2020-09-11T10:53:23.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Rebalance Timing Luck: The (Dumb) Luck of Smart Beta",
+      "link": "https://blog.thinknewfound.com/2020/08/rebalance-timing-luck-the-dumb-luck-of-smart-beta/",
+      "desc": "We are proud to announce the release of our newest paper, Rebalance Timing Luck: The (Dumb) Luck of Smart Beta. Abstract Prior research and empirical investment results have shown that portfolio construction choices related to rebalance schedules may have non-trivial impacts on r",
+      "date": "2020-08-14T13:15:43.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "Heads I Win, Tails I Hedge",
+      "link": "https://blog.thinknewfound.com/2020/07/heads-i-win-tails-i-hedge/",
+      "desc": "This post is available as a PDF download here. Summary For hedging strategies, there is often a trade-off between degree, certainty, and cost. Put options have high certainty and typically offer a high degree of protection, making them costly to hold and roll over the long run. I",
+      "date": "2020-07-06T13:00:30.000Z",
+      "type": "blog",
+      "label": "Newfound Research",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "OutOfLine – A Memory-Locality Pattern for High Performance C++",
+      "link": "https://blog.headlandstech.com/2018/08/15/outofline-a-memory-locality-pattern-for-high-performance-c/",
+      "desc": "In my time at Headlands Technologies, I&#8217;ve gotten the opportunity to build some utilities that have improved the ergonomics of maintaining high-performance C++ codebases. This article will give a generic overview of one of those utilities, OutOfLine. Let&#8217;s start with ",
+      "date": "2018-08-15T23:22:42.000Z",
+      "type": "blog",
+      "label": "Headlands Tech",
+      "tags": [
+        "HFT",
+        "blog"
+      ]
+    },
+    {
+      "title": "Successfully Starting a Career in Quant Research",
+      "link": "https://blog.headlandstech.com/2018/06/05/successfully-starting-a-career-in-quant-research/",
+      "desc": "People setting out to pursue a career in the quantitative trading industry won’t always know what questions they should be asking of prospective employers. As a result, they are susceptible to making a mistake in choosing their first job. That mistake could lead to later giving u",
+      "date": "2018-06-05T18:08:20.000Z",
+      "type": "blog",
+      "label": "Headlands Tech",
+      "tags": [
+        "HFT",
+        "blog"
+      ]
+    },
+    {
+      "title": "Quantitative Trading Summary",
+      "link": "https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/",
+      "desc": "(pdf version) This summary is an attempt to shed some light on modern quantitative trading since there is limited information available for people who are not already in the industry. Hopefully this is useful for students and candidates coming from outside the industry who are lo",
+      "date": "2017-08-03T16:06:41.000Z",
+      "type": "blog",
+      "label": "Headlands Tech",
+      "tags": [
+        "HFT",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 final",
+      "link": "https://www.portfolioprobe.com/2017/01/01/us-market-portrait-2016-final/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2017-01-01T13:10:30.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 52",
+      "link": "https://www.portfolioprobe.com/2016/12/26/us-market-portrait-2016-week-52/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-12-26T10:46:36.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 51",
+      "link": "https://www.portfolioprobe.com/2016/12/18/us-market-portrait-2016-week-51/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-12-18T11:34:58.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 50",
+      "link": "https://www.portfolioprobe.com/2016/12/11/us-market-portrait-2016-week-50/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-12-11T19:03:35.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 49",
+      "link": "https://www.portfolioprobe.com/2016/12/03/us-market-portrait-2016-week-49/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-12-03T10:53:48.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 48",
+      "link": "https://www.portfolioprobe.com/2016/11/26/us-market-portrait-2016-week-48/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo (which was less than perfect the last few weeks, seems okay this week) The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;",
+      "date": "2016-11-26T18:51:23.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 44",
+      "link": "https://www.portfolioprobe.com/2016/10/29/us-market-portrait-2016-week-44/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-10-29T09:26:46.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 42",
+      "link": "https://www.portfolioprobe.com/2016/10/15/us-market-portrait-2016-week-42/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-10-15T09:41:39.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 41",
+      "link": "https://www.portfolioprobe.com/2016/10/08/us-market-portrait-2016-week-41/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-10-08T20:07:31.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    },
+    {
+      "title": "US market portrait 2016 week 40",
+      "link": "https://www.portfolioprobe.com/2016/10/01/us-market-portrait-2016-week-40/",
+      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
+      "date": "2016-10-01T11:08:26.000Z",
+      "type": "blog",
+      "label": "Portfolio Probe",
+      "tags": [
+        "portfolio",
+        "blog"
+      ]
+    }
+  ]
+}
