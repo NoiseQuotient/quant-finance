@@ -1,858 +1,3075 @@
 {
-  "updated": "2026-03-22T21:26:30.271Z",
-  "count": 71,
+  "updated": "2026-03-22T21:35:17.585Z",
+  "count": 251,
   "failed": [],
   "items": [
     {
-      "title": "The Return of the King: Trend Following Is Back &#8211; But Will It Last?",
-      "link": "https://alphaarchitect.com/the-return-of-the-king-trend-following-is-back-but-will-it-last/",
-      "desc": "Trend following is finally moving while U.S. stocks are flat. And so—like with most assets or strategies that post strong returns—investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return",
-      "date": "2026-03-20T15:21:00.000Z",
-      "type": "blog",
-      "label": "Alpha Architect",
+      "title": "S&P 500: The Technicals Align (Technical Analysis)",
+      "link": "https://seekingalpha.com/article/4884774-s-and-p500-the-technicals-align?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T20:00:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "factor",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/19/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03192026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/19/2026. To see our most recent links, visit the Quant Mashup. Read on readers! More of the Disease, Faster (What happens when you ask an LLM to find you an edge) [Robot Wealth] This week I discovered ",
-      "date": "2026-03-20T05:15:05.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Stocks are teetering on the edge of correction territory. Why the &#x2018;TACO trade&#x2019; could flop.",
+      "link": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
+      "desc": "The once-reliable trade on Wall Street, that President Trump &#x201c;always chickens out,&#x201d; could be torpedoed by the Iran conflict.",
+      "date": "2026-03-22T19:29:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "curated",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "More of the Disease, Faster (What happens when you ask an LLM to find you an edge)",
-      "link": "https://robotwealth.com/more-of-the-disease-faster-what-happens-when-you-ask-an-llm-to-find-you-an-edge/",
-      "desc": "This week I discovered the &#8220;vibe quant&#8221; movement (or rather, it discovered me). People using LLMs to find trading strategies, validate them, and put them into production. The pitch is seductive: the LLM reads the literature, implements the ideas, backtests them, and y",
-      "date": "2026-03-19T04:16:00.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
+      "link": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
+      "desc": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
+      "date": "2026-03-22T19:25:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "strategy",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "Thermal Renaissance: Why Gas-Fired Generation is Infrastructure Again",
-      "link": "https://caia.org/blog/2026/03/18/thermal-renaissance-why-gas-fired-generation-infrastructure-again",
-      "desc": "By Aaron Vale, CAIA, CFA, MFin, Global Managing Director, Mexico Infrastructure Partners   In recent years, owning a natural gas power plant in the U.S. felt tenuous. Today, it can be among the most coveted assets in private infrastructure portfolios. Investors who recognized thi",
-      "date": "2026-03-18T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Allspring Ultra Short-Term Municipal Income Fund Q4 2025 Commentary",
+      "link": "https://seekingalpha.com/article/4884818-allspring-ultra-short-term-municipal-income-fund-q4-2025-commentary?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T19:18:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/16/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03162026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/16/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Landing Your First Role &#8211; Breaking Into Quant Finance [Quantt] Why Breaking In Feels So Hard (and Why It Is Still Ach",
-      "date": "2026-03-17T05:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Wall Street Brunch: Oil And Rates Will Still Dominate Sentiment",
+      "link": "https://seekingalpha.com/article/4884817-wall-street-brunch-oil-and-rates-will-still-dominate-sentiment?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T18:22:13.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/15/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03152026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Calendar Ensemble: Building an Event-Driven Alpha Overlay [Beyond Passive] In the previous article, we established that",
-      "date": "2026-03-16T05:15:05.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Iran war fallout set to filter into economic data",
+      "link": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
+      "desc": "Telling PMI, consumer confidence and inflation updates, plus Denmark goes to the polls, Anglicans anoint first female leader",
+      "date": "2026-03-22T18:15:01.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "curated",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Unlocking Hidden Value: How Corporate Language Reveals the Future of Intangible Investment",
-      "link": "https://alphaarchitect.com/intangible-investment/",
-      "desc": "Intangible assets—things like brand reputation, proprietary knowledge, and organizational capabilities—have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital.",
-      "date": "2026-03-13T15:38:00.000Z",
-      "type": "blog",
-      "label": "Alpha Architect",
+      "title": "A Guide To Stablecoins: Majority Fiat-Backed Stablecoins - USDT, USDC, PYUSD",
+      "link": "https://seekingalpha.com/article/4884816-guide-to-stablecoins-majority-fiat-backed-stablecoins-usdt-usdc-pyusd?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T17:55:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "factor",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/12/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03122026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Quant&#8217;s Guide to Cross-Section Maxxing, Code Included [Quant Galore] Quantitative trading is about many things; b",
-      "date": "2026-03-13T05:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Trump to send immigration enforcement officers to US airports",
+      "link": "https://www.ft.com/content/5bb963b7-12a1-497b-b481-a80dcef2a588",
+      "desc": "Officials say ICE agents will bolster security and ease long waiting times caused by partial government shutdown",
+      "date": "2026-03-22T17:34:05.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "curated",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "A CAIA Mini Course: A Real Estate Focus on the Crypto Tokenization of Real Assets - Part Two",
-      "link": "https://caia.org/blog/2026/03/10/caia-mini-course-real-estate-focus-crypto-tokenization-real-assets-part-two",
-      "desc": "By Stylianos Kampakis PhD, CEO, Tesseract Academy   In this CAIA mini-course, we introduce the work of Stylianos Kampakis PhD, CEO of Tesseract Academy, and member of the Quantum Finance Boardroom. Each installment of this series will present a new chapter in Dr. Kampakis’ work o",
-      "date": "2026-03-10T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "24 Safer Buys From 10 Years Of Dogcatcher Digging",
+      "link": "https://seekingalpha.com/article/4884815-24-safer-buys-from-10-years-of-dogcatcher-digging?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T16:26:27.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "The Best Defensive Strategies: Two Centuries of Evidence",
-      "link": "https://alphaarchitect.com/defensive-investment-strategies/",
-      "desc": "Which defensive strategies have actually worked, and do the conclusions survive when we evaluate them over multiple centuries rather than a few decades? The Best Defensive Strategies: Two Centuries of Evidence was originally published at Alpha Architect . Please read the Alpha Ar",
-      "date": "2026-03-09T15:30:00.000Z",
-      "type": "blog",
-      "label": "Alpha Architect",
+      "title": "AT&T: Starlink IPO Risk",
+      "link": "https://seekingalpha.com/article/4884814-at-and-t-starlink-ipo-risk?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T16:23:44.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "factor",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03082026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal po",
-      "date": "2026-03-09T05:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Heidelberg Materials: Getting Closer To An Attractive Price",
+      "link": "https://seekingalpha.com/article/4884813-heidelberg-materials-getting-closer-to-attractive-price?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T16:17:18.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Everything Everywhere All at Once",
-      "link": "https://robotwealth.com/everything-everywhere-all-at-once/",
-      "desc": "The four hats of the solo trader At a trading firm or fund, the researcher doesn&#8217;t run the execution desk. The portfolio manager doesn&#8217;t build the tech and infrastructure. These are different jobs, done by different people, with different skill sets. When you&#8217;re",
-      "date": "2026-03-08T05:26:42.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Whale's Insight: Strategy's $10B Preferred Stock Machine And The Global Rate Freeze",
+      "link": "https://seekingalpha.com/article/4884812-whales-insight-strategys-10b-preferred-stock-machine-and-global-rate-freeze?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T15:54:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "strategy",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/05/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03052026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! New Contributor: Scaling Python Financial Models on AWS [Quantt] How to take a Python financial model from running 150 sc",
-      "date": "2026-03-06T06:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Retirees, steel yourselves: Global crises might rattle the markets, but they don&#x2019;t have to ruin your retirement",
+      "link": "https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories",
+      "desc": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement",
+      "date": "2026-03-22T15:27:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "curated",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "Suffering from Success: How Infrastructure Became Too Big to Ignore",
-      "link": "https://caia.org/blog/2026/03/05/suffering-success-how-infrastructure-became-too-big-ignore",
-      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association   What happens when all you do is win, win, win…no matter what?",
-      "date": "2026-03-05T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Shin nominated governor of Bank of Korea",
+      "link": "https://www.ft.com/content/e70ea434-f585-4271-bb75-7265b3f02a37",
+      "desc": "BIS top economist chosen to lead monetary policy amid won weakness and oil price shock",
+      "date": "2026-03-22T14:48:44.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "hedge fund",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03022026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we buil",
-      "date": "2026-03-03T06:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "DoorDash: Order Acceleration Defies A Weaker Macro",
+      "link": "https://seekingalpha.com/article/4884806-doordash-order-acceleration-defies-a-weaker-macro?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:45:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Cryptos, Stablecoins and Sovereign CBDCs",
-      "link": "https://caia.org/blog/2026/03/03/cryptos-stablecoins-and-sovereign-cbdcs",
-      "desc": "How should SWFs and Asset Owners rethink crypto assets in 2026?      By Winston Ma, Partner of Dragon Global Family Office; Former MD, China Investment Corp (CIC)",
-      "date": "2026-03-03T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Pearl Diver Credit: Preferred Stock Is The Way To Go",
+      "link": "https://seekingalpha.com/article/4884439-pearl-diver-credit-preferred-stock-is-the-way-to-go?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:40:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Fund Selection When Borrowing Is Restricted",
-      "link": "https://alphaarchitect.com/fund-selection-when-borrowing-is-restricted/",
-      "desc": "Once borrowing is realistically restricted, the Sharpe ratio can stop lining up with what investors actually care about: utility. This paper argues that in this constrained world, the geometric mean is a better compass. Fund Selection When Borrowing Is Restricted was originally p",
-      "date": "2026-03-02T16:09:00.000Z",
-      "type": "blog",
-      "label": "Alpha Architect",
+      "title": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems.",
+      "link": "https://www.marketwatch.com/story/i-opened-a-0-credit-card-to-pay-11-000-in-vacation-debt-why-cant-i-get-a-higher-credit-limit-my-debt-utilization-is-only-10-d8746a91?mod=mw_rss_topstories",
+      "desc": "&#x201c;We&#x2019;ve been aggressively paying down our credit cards.&#x201d;",
+      "date": "2026-03-22T14:34:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "factor",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations",
-      "link": "https://robotwealth.com/the-winter-of-our-pairs-trading-discontent-problems-limitations-frustrations/",
-      "desc": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care",
-      "date": "2026-03-02T02:13:39.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Challenges And Opportunities As A Seeking Alpha Analyst Overseas",
+      "link": "https://seekingalpha.com/article/4883840-challenges-opportunities-seeking-alpha-analyst-overseas?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:30:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "strategy",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "How AI Can Help Find the Needle in the Haystack",
-      "link": "https://alphaarchitect.com/ai-tools-financial-disclosures/",
-      "desc": "Artificial intelligence is rapidly transforming the investment landscape in ways that extend far beyond algorithmic trading and robo-advisors. One of AI's most promising applications lies in its ability to process and extract meaning from vast amounts of unstructured text—somethi",
-      "date": "2026-02-27T16:03:00.000Z",
-      "type": "blog",
-      "label": "Alpha Architect",
+      "title": "Trump pushes Iran war to new phase of escalation",
+      "link": "https://www.ft.com/content/2c901f4b-b9c8-4fab-8fe1-6b58cb062957",
+      "desc": "US president’s 48-hour ultimatum to open Strait of Hormuz follows series of tit-for-tat strikes by Tehran",
+      "date": "2026-03-22T14:23:36.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "factor",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 02/26/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02262026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 02/26/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Systematic Allocation in International Equity Regimes [Quantpedia] This research examines the critical quantitative inves",
-      "date": "2026-02-27T06:15:05.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Nvidia's Customers Are Quietly Building Alternatives",
+      "link": "https://seekingalpha.com/article/4884811-nvidias-customers-are-quietly-building-alternatives?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:23:01.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 02/23/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02232026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 02/23/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Evaluating Reversal Potential in Niche Alternative ETFs [Quantpedia] Alternative ETFs sit at an unusual intersection of pub",
-      "date": "2026-02-24T06:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "I Am Swimming In Dividends: 2 Top Picks For You",
+      "link": "https://seekingalpha.com/article/4884413-i-am-swimming-in-dividends-2-top-picks-for-you?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:15:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "No Exit, No Problem? How Asset Owners Can Tame Illiquidity Risk",
-      "link": "https://caia.org/blog/2026/02/24/no-exit-no-problem-how-asset-owners-can-tame-illiquidity-risk",
-      "desc": "By Andreas Rothacher, CFA, CAIA Head of Investment Research at Complementa AG & Richard Sanders, CFA, Head of asset allocation and manager selection at Cöoperatie VGZ",
-      "date": "2026-02-24T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Barings BDC: Surviving But No Catalyst To Thrive Yet",
+      "link": "https://seekingalpha.com/article/4884809-barings-bdc-stock-surviving-but-no-catalyst-to-thrive-yet?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:14:34.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Recent Quant Links from Quantocracy as of 02/22/2026",
-      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02222026/",
-      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 02/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Kronos and the Rise of Pre-Trained Market Models [Jonathan Kinlay] The quant finance industry has spent decades building sp",
-      "date": "2026-02-23T06:15:04.000Z",
-      "type": "blog",
-      "label": "Quantocracy",
+      "title": "Standard Motor Products: Mr. Market Continues To Undervalue This Automotive Play",
+      "link": "https://seekingalpha.com/article/4884797-standard-motor-products-mr-market-continues-to-undervalue-this-automotive-play?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:10:42.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "curated",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Moneyball: Finding Undervalued Pairs Using Unconventional Metrics",
-      "link": "https://robotwealth.com/moneyball-finding-undervalued-pairs-using-unconventional-metrics/",
-      "desc": "Previously: ​A Tale of Two Prices (the core idea of stat arb)​ Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Rem",
-      "date": "2026-02-20T07:23:51.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Nvidia: AI Is Here To Stay, And The Fear Is Misplaced (Rating Upgrade)",
+      "link": "https://seekingalpha.com/article/4884808-nvidia-ai-is-here-to-stay-and-the-fear-is-misplaced-rating-upgrade?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:08:05.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "strategy",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "A Tale of Two Prices",
-      "link": "https://robotwealth.com/a-tale-of-two-prices/",
-      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness&#8230; I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interes",
-      "date": "2026-02-20T07:13:24.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Central Banks Spook The Market",
+      "link": "https://seekingalpha.com/article/4884810-central-banks-spook-the-market?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T14:00:03.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "strategy",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Is Quantum Technology the Next Great Alternative Asset?",
-      "link": "https://caia.org/blog/2026/02/17/quantum-technology-next-great-alternative-asset",
-      "desc": "By Andre Costa, CAIA and Oswaldo Zapata, PhD",
-      "date": "2026-02-17T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "&#x2018;We&#x2019;re living the simple life&#x2019;: I was a fisherman and my wife was a nurse. We retired with $6 million. Here&#x2019;s how we did it.",
+      "link": "https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories",
+      "desc": "&#x201c;It probably makes little sense, given our lifestyle, to obsess over retirement accounts.&#x201d;",
+      "date": "2026-03-22T14:00:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "hedge fund",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "The Continuation Vehicle Boom: Structural Shift or Liquidity Patch?",
-      "link": "https://caia.org/blog/2026/02/11/continuation-vehicle-boom-structural-shift-or-liquidity-patch",
-      "desc": "By Koen van Mierlo, MSc, LLM, CFA, CAIA, Head of Analysis at Bluemetric Wealth Advisory.   A thirst for liquidity",
-      "date": "2026-02-11T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "The Next Bear Market May Have Just Begun",
+      "link": "https://seekingalpha.com/article/4884783-next-bear-market-may-have-just-begun?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:55:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "The TPA Roadmap for GPs: From Parts Provider to Chief Problem Solver",
-      "link": "https://caia.org/blog/2026/02/09/tpa-roadmap-gps-parts-provider-chief-problem-solver",
-      "desc": "By John L. Bowman, CFA, Chief Executive Officer, CAIA Association   If our entire pitch book is based on the beauty contest mentality of us vs. them, we will be speaking a foreign language, eventually an offensive one, to the TPA CIO.",
-      "date": "2026-02-09T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Mako Mining: Getting A Nevada Gold Mine For Free",
+      "link": "https://seekingalpha.com/article/4884805-mako-mining-getting-a-nevada-gold-mine-for-free?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:37:58.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Crypto Chart Patterns: Insights for Tactical Trading",
-      "link": "https://caia.org/blog/2026/01/30/crypto-chart-patterns-insights-tactical-trading",
-      "desc": "By Fernando Walter Lolo, CAIA",
-      "date": "2026-01-30T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "I&#x2019;m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?",
+      "link": "https://www.marketwatch.com/story/im-59-my-wife-and-i-bought-a-second-home-for-484-000-at-6-2-interest-will-this-be-a-drain-on-our-retirement-02627377?mod=mw_rss_topstories",
+      "desc": "&#x201c;I earn an annual salary of $116,000. My wife&#x2019;s annual income is about $55,000.&#x201d;",
+      "date": "2026-03-22T13:34:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "hedge fund",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "The Participant’s Trilemma: Learning from Other DC Plans Around the World",
-      "link": "https://caia.org/blog/2026/01/27/participants-trilemma-learning-other-dc-plans-around-world",
-      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association",
-      "date": "2026-01-27T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "I'm Buying These 7-12% Yields With Discounts To NAV And Peers",
+      "link": "https://seekingalpha.com/article/4884770-im-buying-these-7-12-percent-yields-with-discounts-to-nav-and-peers?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:30:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Bank-Level Lessons for Private Credit Valuations",
-      "link": "https://caia.org/blog/2026/01/20/bank-level-lessons-private-credit-valuations",
-      "desc": "By John Sedunov and Michael Pagano",
-      "date": "2026-01-20T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Kyivstar Margins Suffer As Wars Fuels Rising Costs (Rating Downgrade)",
+      "link": "https://seekingalpha.com/article/4884791-kyivstar-margins-suffer-as-wars-fuels-rising-costs?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:30:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Alignment Over Access: Gauging the Fit Between Alternative Investment Strategies and their Fund Structures",
-      "link": "https://caia.org/blog/2026/01/14/alignment-over-access-gauging-fit-between-alternative-investment-strategies-and",
-      "desc": "By John W. Moore, CFA®, CAIA®, CMT®, Stratview Wealth Management",
-      "date": "2026-01-14T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Arcosa: Making Strategic Progress",
+      "link": "https://seekingalpha.com/article/4884804-arcosa-making-strategic-progress?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:25:54.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Much Ado About Variance",
-      "link": "https://robotwealth.com/much-ado-about-variance/",
-      "desc": "What&#8217;s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. Tha",
-      "date": "2026-01-11T10:15:28.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Plains All American: Timely Crude Oil Focused Yield Shelter To Buy Now",
+      "link": "https://seekingalpha.com/article/4884744-plains-all-american-timely-crude-oil-focused-yield-shelter-to-buy-now?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:15:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "strategy",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Vision 2035: Riyadh Edition",
-      "link": "https://caia.org/blog/2026/01/02/vision-2035-riyadh-edition",
-      "desc": "By Laura Merlini, CAIA, CIFD, Managing Director, EMEA, CAIA Association",
-      "date": "2026-01-02T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "BMEZ: Sell, Distributions Down 34% And Undercovered",
+      "link": "https://seekingalpha.com/article/4884771-bmez-sell-distributions-down-34-percent-and-undercovered?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:15:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "Unlocking Liquidity: The Case for Securitized Private Credit Markets",
-      "link": "https://caia.org/blog/2025/12/30/unlocking-liquidity-case-securitized-private-credit-markets",
-      "desc": "By Shreyash Shrivastava, FRM and Shubham (Sam) Goyat, CAIA   Why Private-Credit Liquidity Now?",
-      "date": "2025-12-30T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Frontier Airlines Ebbs With Industry Ups And Downs",
+      "link": "https://seekingalpha.com/article/4884781-frontier-airlines-ebbs-with-industry-ups-and-downs?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-22T13:15:00.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
       "tags": [
-        "hedge fund",
-        "blog"
+        "analysis",
+        "equities"
       ]
     },
     {
-      "title": "The Institutional Custody Dilemma: Balancing Centralization and Self-Custody in Digital Asset Portfolios",
-      "link": "https://caia.org/blog/2025/12/22/institutional-custody-dilemma-balancing-centralization-and-self-custody-digital",
-      "desc": "By Kate Zogaj   Introduction: Custody as the Defining Question of Institutional Digital Asset Adoption",
-      "date": "2025-12-22T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "War with Iran has exposed American fragility at sea",
+      "link": "https://www.ft.com/content/a492b155-d8c4-4c7d-93ab-6a0d40e74489",
+      "desc": "The move from ‘efficiency’ to ‘resilience’ in maritime supply chains has a long way to go",
+      "date": "2026-03-22T13:00:09.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "hedge fund",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Utility Tokens in Portfolio Allocation: The Digital Counterparts to Commodities",
-      "link": "https://caia.org/blog/2025/12/15/utility-tokens-portfolio-allocation-digital-counterparts-commodities",
-      "desc": "By Tatja (Tati) Karkkainen, PhD, Research, Development and Innovation (RDI), Kiitot   Utility tokens represent a distinct category within the digital economy. They connect blockchain technology to online services such as storage, computation, and communication.",
-      "date": "2025-12-15T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum",
+      "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
+      "desc": "Tehran’s military says its strategy has shifted from defensive to offensive",
+      "date": "2026-03-22T12:34:05.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "hedge fund",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Private Credit Risk Management in Evergreen Funds",
-      "link": "https://caia.org/blog/2025/12/08/private-credit-risk-management-evergreen-funds",
-      "desc": "By Mark Garfinkel, Sr. Portfolio Manager at Liquid Strategies, LLC   As the private credit market surges toward $3 trillion in assets 1 , concerns are growing over the potential formation of a bubble—driven by too much capital chasing too few high-profile lending opportunities. R",
-      "date": "2025-12-08T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "I&#x2019;m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+      "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+      "desc": "&#x201c;The money is tax-free and does not affect our income, which comes from investments and Social Security.&#x201d;",
+      "date": "2026-03-22T12:33:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "hedge fund",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "A Deep Dive into Staking Yields as a Source of Return",
-      "link": "https://caia.org/blog/2025/12/02/deep-dive-staking-yields-source-return",
-      "desc": "By Jasmin Muelhaupt, CAIA, Director of Financial Product Development at 21Shares AG & Darius Moukhtarzadeh, CDAA, Research Strategist at 21Shares AG",
-      "date": "2025-12-02T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "How the Iran war could derail the AI boom",
+      "link": "https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8",
+      "desc": "The entire chip supply chain depends on energy and chemical imports from the Middle East",
+      "date": "2026-03-22T12:00:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "hedge fund",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Credit Where Credit Is (Over)due: Private Credit’s Second Act",
-      "link": "https://caia.org/blog/2025/11/26/credit-where-credit-overdue-private-credits-second-act",
-      "desc": "By Aaron Filbeck, CAIA, CFA, CFP®, CIPM, FDP, Managing Director, Content & Community Strategy, CAIA Association",
-      "date": "2025-11-26T00:00:00.000Z",
-      "type": "blog",
-      "label": "All About Alpha",
+      "title": "The price of menstrual products is skyrocketing from inflation, tariffs",
+      "link": "https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html",
+      "desc": "With rising inflation and changing tariff policies, menstrual products have seen a drastic rise in price over the past few years.",
+      "date": "2026-03-22T12:00:01.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "hedge fund",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Why You Can’t Tell if Your Strategy “Stopped Working” (Statistically Speaking)",
-      "link": "https://robotwealth.com/why-you-cant-tell-if-your-strategy-stopped-working-statistically-speaking/",
-      "desc": "Traders love the illusion of precision. A few bad weeks go by, and you think, “Let’s run a t-test and see if the strategy stopped working.” It sounds rigorous. It isn’t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility &#8211; roughly the S&#38;P’s long-t",
-      "date": "2025-10-10T07:01:44.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "&#x2018;I&#x2019;m completely gobsmacked&#x2019;: My elderly brother has a reverse mortgage &#x2014; yet he still ran out of money. Do I help?",
+      "link": "https://www.marketwatch.com/story/im-completely-gobsmacked-my-elderly-brother-has-a-reverse-mortgage-but-has-run-out-of-money-do-i-help-2185859c?mod=mw_rss_topstories",
+      "desc": "&#x201c;My husband and I are both retired and have saved for years &#x2014; we simply can&#x2019;t afford to take on his financial situation.&#x201d;",
+      "date": "2026-03-22T11:32:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "strategy",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "Trading Without Edge? That’s expensive gambling, I said…",
-      "link": "https://robotwealth.com/trading-without-edge-thats-expensive-gambling-i-said/",
-      "desc": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one &#8211; focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all",
-      "date": "2025-09-23T04:08:42.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Iran war leaves US oil and gas dealmaking ‘in paralysis’",
+      "link": "https://www.ft.com/content/193718a3-5f4f-4a5d-9847-97820d63a546",
+      "desc": "Surging energy prices have made it challenging to calculate transaction valuations",
+      "date": "2026-03-22T11:00:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "strategy",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Finding Edges",
-      "link": "https://robotwealth.com/finding-edges/",
-      "desc": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn’t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won’t let you sell naked option",
-      "date": "2025-08-31T05:06:22.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Westerners are fleeing their countries in record numbers",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers",
+      "desc": "This will have economic consequences for the places they leave and their destinations",
+      "date": "2026-03-22T10:41:41.000Z",
+      "type": "news",
+      "label": "The Economist",
       "tags": [
-        "strategy",
-        "blog"
+        "macro",
+        "economics"
       ]
     },
     {
-      "title": "Trading Signals in High Definition",
-      "link": "https://robotwealth.com/trading-signals-in-high-definition/",
-      "desc": "We&#8217;ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You’ve seen them every",
-      "date": "2025-08-15T12:57:38.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "&#x2018;This guy has no manners&#x2019;: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?",
+      "link": "https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories",
+      "desc": "&#x201c;I don&#x2019;t want him to retaliate with a bad review.&#x201d;",
+      "date": "2026-03-22T10:32:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "strategy",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "Understanding &#8220;why&#8221; beats statistical significance",
-      "link": "https://robotwealth.com/understanding-why-beats-statistical-significance/",
-      "desc": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is “real” or just random noise. And in ",
-      "date": "2025-08-11T04:02:28.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "Even the best-case scenario for energy markets is disastrous",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous",
+      "desc": "Whatever happens, high prices will outlive the Iran war",
+      "date": "2026-03-22T10:15:15.000Z",
+      "type": "news",
+      "label": "The Economist",
       "tags": [
-        "strategy",
-        "blog"
+        "macro",
+        "economics"
       ]
     },
     {
-      "title": "If your edge is so good, why share it?",
-      "link": "https://robotwealth.com/if-your-edge-is-so-good-why-share-it/",
-      "desc": "The market is a highly competitive beast. If you&#8217;ve spotted an edge, others have too. And as capital piles in, most obvious mispricings will eventually decay. Take the reasonably well-known end-of-month bond trade, for example. Towards month end, excess price-insensitive de",
-      "date": "2025-08-01T14:13:22.000Z",
-      "type": "blog",
-      "label": "Robot Wealth",
+      "title": "&#x2018;Healthcare is important to me&#x2019;: I&#x2019;m worried about relocating to Florida from New Jersey. Are hospitals there under stress?",
+      "link": "https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories",
+      "desc": "&#x201c;The issue is not the weather, high insurance premiums or high maintenance fees.&#x201d;",
+      "date": "2026-03-22T09:31:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
       "tags": [
-        "strategy",
-        "blog"
+        "markets"
       ]
     },
     {
-      "title": "Opinion: Rationalizing Latency Competition in High-Frequency Trading",
-      "link": "https://blog.headlandstech.com/2024/05/01/opinion-rationalizing-latency-competition-in-high-frequency-trading/",
-      "desc": "Introduction There is a common misunderstanding, even among practitioners, that low-latency trading is a waste of human talent and resources that could instead go to advancing physics or curing cancer. It&#8217;s been attacked by books like Flash Boys, governments trying to pass ",
-      "date": "2024-05-01T23:39:30.000Z",
-      "type": "blog",
-      "label": "Headlands Tech",
+      "title": "World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports",
+      "link": "https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f",
+      "desc": "Carriers that departed from the Middle East before Iran’s missile attacks began are due to arrive in the next 10 days",
+      "date": "2026-03-22T05:00:18.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "HFT",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "15 Ideas, Frameworks, and Lessons from 15 Years",
-      "link": "https://blog.thinknewfound.com/2023/08/15-ideas-frameworks-and-lessons-from-15-years/",
-      "desc": "Today, August 28th, 2023, my company Newfound Research turns 15. It feels kind of absurd saying that. I know I’ve told this story before, but I never actually expected this company to turn into anything. I started the company while I was still in undergrad and I named it Newfound",
-      "date": "2023-08-28T12:25:39.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "Global carmakers retreat en masse from electric vehicle plans",
+      "link": "https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26",
+      "desc": "Rolls-Royce is latest of more than a dozen groups to change course as demand for petrol engines persists",
+      "date": "2026-03-22T05:00:17.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "portfolio",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Is Managed Futures Value-able?",
-      "link": "https://blog.thinknewfound.com/2023/06/is-managed-futures-value-able/",
-      "desc": "In Return StackingTM: Strategies for Overcoming a Low Return Environment, we advocated for the addition of managed futures to traditionally allocated portfolios. We argued that managed futures’ low empirical correlation to both equities and bonds and its historically positive ave",
-      "date": "2023-06-19T20:09:46.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’",
+      "link": "https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f",
+      "desc": "US president who pledged to end America’s forever wars has started another Middle East conflict with no easy off-ramps",
+      "date": "2026-03-22T05:00:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "portfolio",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Index Funds Reimagined?",
-      "link": "https://blog.thinknewfound.com/2023/05/index-funds-reimagined/",
-      "desc": "I recently had the privilege to serve as a discussant at the Democratize Quant 2023 conference to review Research Affliates&#8217;s new paper, Reimagining Index Funds. The post below is a summary of my presentation. Introduction In Reimagining Index Funds (Arnott, Brightman, Liu ",
-      "date": "2023-05-19T15:24:48.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "VW’s retro American truck brand traverses bumpy road in US market",
+      "link": "https://www.ft.com/content/1a45156a-f3bc-4e7d-a5b2-37977a4a0717",
+      "desc": "Scout Motors’ distinct identity is a radical move for Volkswagen, but it faces stiff dealer opposition",
+      "date": "2026-03-22T05:00:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "portfolio",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "Portfolio Tilts versus Overlays: It&#8217;s Long/Short Portfolios All the Way Down",
-      "link": "https://blog.thinknewfound.com/2023/04/portfolio-tilts-versus-overlays-its-long-short-portfolios-all-the-way-down/",
-      "desc": "Several years ago, I started using the phrase, “It’s long/short portfolios all the way down.” I think it’s clever. Spoiler: it has not caught on. The point I was trying to make is that the distance between any two portfolios can be measured as a long/short strategy. This simple p",
-      "date": "2023-04-13T00:04:59.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "Private jets face $50,000 ‘war risk’ insurance costs to land in Gulf",
+      "link": "https://www.ft.com/content/49cfc1af-8a13-49b4-9186-a7af47e376c6",
+      "desc": "Some operators refuelling outside region to minimise time spent on the ground",
+      "date": "2026-03-22T05:00:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
       "tags": [
-        "portfolio",
-        "blog"
+        "FT",
+        "markets"
       ]
     },
     {
-      "title": "What Is Managed Futures?",
-      "link": "https://blog.thinknewfound.com/2023/02/what-is-managed-futures/",
-      "desc": "Summary Much like in 2008, managed futures as an investment strategy had an impressive year in 2022. With most traditional asset classes struggling to navigate the inflationary macroeconomic environment, managed futures has been drawing interest as a potential diversifier. Manage",
-      "date": "2023-02-02T16:20:22.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "Nissan’s new hybrid is a U.S.-first that mixes EV driving with a gas engine",
+      "link": "https://www.cnbc.com/2026/03/21/nissan-series-hybrid-rogue-suv.html",
+      "desc": "Nissan plans to introduce a new type of hybrid for the U.S. market that drives like an all-electric vehicle but is powered by a traditional gas-powered engine.",
+      "date": "2026-03-21T13:00:02.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "The Hidden Cost in Costless Put-Spread Collars: Rebalance Timing Luck",
-      "link": "https://blog.thinknewfound.com/2023/01/the-hidden-cost-in-costless-put-spread-collars-rebalance-timing-luck/",
-      "desc": "We have published a new paper on the topic of rebalance timing luck in option strategies: The Hidden Cost in Costless Put-Spread Collars: Rebalance Timing Luck. Prior research and empirical investment results demonstrate that strategy performance can be highly sensitive to rebala",
-      "date": "2023-01-24T17:49:11.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
+      "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
+      "desc": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses.",
+      "date": "2026-03-21T12:00:01.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Return Stacking in an Inverted Yield Curve Environment",
-      "link": "https://blog.thinknewfound.com/2023/01/return-stacking-in-an-inverted-yield-curve-environment/",
-      "desc": "Introduction When we first started publicly writing and talking about capital efficiency in 2017 – the predecessor conversation to return stackingTM – the 13-week U.S. Treasury Bill rate sat around 1.30%. The prototypical example at the time was a 1.5x levered 60% stock / 40% bon",
-      "date": "2023-01-18T18:47:58.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "The spring housing market is on, but mortgage rates just shot higher. Here&apos;s what to know.",
+      "link": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
+      "desc": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
+      "date": "2026-03-20T19:03:56.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Elements of Statistical Learning. 8/10",
-      "link": "https://blog.headlandstech.com/2022/02/16/elements-of-statistical-learning-8-10/",
-      "desc": "This is the first in a series of book recommendations for new quants. We will only focus on books that quants commonly come across in their journey. Elements of Statistical Learning (ESL) is the classic recommendation for new quants, for good reason. However it&#8217;s a massive ",
-      "date": "2022-02-16T14:56:34.000Z",
-      "type": "blog",
-      "label": "Headlands Tech",
+      "title": "David Zaslav’s WBD-Paramount deal payout highlights new &apos;golden parachutes&apos; for CEOs",
+      "link": "https://www.cnbc.com/2026/03/20/wbd-david-zaslav-pay-paramount.html",
+      "desc": "WBD CEO David Zaslav could see a payout of more than $800 million after the Paramount Skydance deal.",
+      "date": "2026-03-20T19:00:48.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "HFT",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Liquidity Cascades: The Coordinated Risk of Uncoordinated Market Participants",
-      "link": "https://blog.thinknewfound.com/2020/09/liquidity-cascades-the-coordinated-risk-of-uncoordinated-market-participants/",
-      "desc": "This paper is unlike any research we&#8217;ve shared in the past. Within we dive into the circumstantial evidence surrounding the &#8220;weird&#8221; behavior many investors believe markets are exhibiting. We tackle narratives such as the impact of central bank intervention, the ",
-      "date": "2020-09-11T10:53:23.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "Salesforce issues $25 billion in debt to buy back stock. Should we be concerned?",
+      "link": "https://www.cnbc.com/2026/03/20/salesforce-issues-25-billion-in-debt-to-buy-back-stock-should-we-be-concerned.html",
+      "desc": "Raising debt to repurchase shares is a move that deserves scrutiny.",
+      "date": "2026-03-20T17:53:01.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "markets"
       ]
     },
     {
-      "title": "Rebalance Timing Luck: The (Dumb) Luck of Smart Beta",
-      "link": "https://blog.thinknewfound.com/2020/08/rebalance-timing-luck-the-dumb-luck-of-smart-beta/",
-      "desc": "We are proud to announce the release of our newest paper, Rebalance Timing Luck: The (Dumb) Luck of Smart Beta. Abstract Prior research and empirical investment results have shown that portfolio construction choices related to rebalance schedules may have non-trivial impacts on r",
-      "date": "2020-08-14T13:15:43.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "&apos;Marriage penalty&apos; in Washington state&apos;s new millionaire tax stirs debate",
+      "link": "https://www.cnbc.com/2026/03/20/washington-millionaire-tax-marriage.html",
+      "desc": "Washington state's first-ever income tax would impose a 9.9% tax on income of more than $1 million a year.",
+      "date": "2026-03-20T15:36:08.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Heads I Win, Tails I Hedge",
-      "link": "https://blog.thinknewfound.com/2020/07/heads-i-win-tails-i-hedge/",
-      "desc": "This post is available as a PDF download here. Summary For hedging strategies, there is often a trade-off between degree, certainty, and cost. Put options have high certainty and typically offer a high degree of protection, making them costly to hold and roll over the long run. I",
-      "date": "2020-07-06T13:00:30.000Z",
-      "type": "blog",
-      "label": "Newfound Research",
+      "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
+      "link": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
+      "desc": "FedEx posted strong fiscal third quarter results on Thursday and raised its guidance following a strong performance.",
+      "date": "2026-03-20T14:56:47.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "OutOfLine – A Memory-Locality Pattern for High Performance C++",
-      "link": "https://blog.headlandstech.com/2018/08/15/outofline-a-memory-locality-pattern-for-high-performance-c/",
-      "desc": "In my time at Headlands Technologies, I&#8217;ve gotten the opportunity to build some utilities that have improved the ergonomics of maintaining high-performance C++ codebases. This article will give a generic overview of one of those utilities, OutOfLine. Let&#8217;s start with ",
-      "date": "2018-08-15T23:22:42.000Z",
-      "type": "blog",
-      "label": "Headlands Tech",
+      "title": "Global banking and geopolitics through time",
+      "link": "https://www.bis.org/publ/work1338.htm",
+      "desc": "by Lorenz Emter, Laura Kuitunen, Arnaud Mehl, Peter McQuade, Swapan-Kumar Pradhan, Goetz von Peter<br />This paper examines asymmetries in the effects of geopolitical events on international bank credit, contrasting adverse events, such as the 2022 invasion of Ukraine, with positive events like the ",
+      "date": "2026-03-20T14:53:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
       "tags": [
-        "HFT",
-        "blog"
+        "paper",
+        "macro",
+        "policy"
       ]
     },
     {
-      "title": "Successfully Starting a Career in Quant Research",
-      "link": "https://blog.headlandstech.com/2018/06/05/successfully-starting-a-career-in-quant-research/",
-      "desc": "People setting out to pursue a career in the quantitative trading industry won’t always know what questions they should be asking of prospective employers. As a result, they are susceptible to making a mistake in choosing their first job. That mistake could lead to later giving u",
-      "date": "2018-06-05T18:08:20.000Z",
-      "type": "blog",
-      "label": "Headlands Tech",
+      "title": "Nexstar, Tegna merger closes after winning regulatory approval",
+      "link": "https://www.cnbc.com/2026/03/20/nexstar-tegna-merger-closes-after-winning-regulatory-approval-.html",
+      "desc": "Nexstar has closed its $6.2 billion acquisition of Tegna after winning approval from the Federal Communications Commission and Department of Justice.",
+      "date": "2026-03-20T14:51:52.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "HFT",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "Quantitative Trading Summary",
-      "link": "https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/",
-      "desc": "(pdf version) This summary is an attempt to shed some light on modern quantitative trading since there is limited information available for people who are not already in the industry. Hopefully this is useful for students and candidates coming from outside the industry who are lo",
-      "date": "2017-08-03T16:06:41.000Z",
-      "type": "blog",
-      "label": "Headlands Tech",
+      "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
+      "link": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
+      "desc": "Uber plans to invest up to $1.25 billion in Rivian as part of a deal to deploy up to 50,000 robotaxis in several countries through 2031.",
+      "date": "2026-03-19T20:01:16.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "HFT",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "US market portrait 2016 final",
-      "link": "https://www.portfolioprobe.com/2017/01/01/us-market-portrait-2016-final/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2017-01-01T13:10:30.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "link": "http://arxiv.org/abs/2603.19225v1",
+      "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
+      "date": "2026-03-19T17:59:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
       "tags": [
-        "portfolio",
-        "blog"
+        "paper",
+        "research"
       ]
     },
     {
-      "title": "US market portrait 2016 week 52",
-      "link": "https://www.portfolioprobe.com/2016/12/26/us-market-portrait-2016-week-52/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-12-26T10:46:36.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "FDA approves higher dose version of weight loss drug Wegovy as Novo Nordisk tries to win back market share",
+      "link": "https://www.cnbc.com/2026/03/19/fda-approves-high-dose-version-of-novo-nordisks-obesity-drug-wegovy.html",
+      "desc": "The high-dose Wegovy helped patients with obesity lose an average 20.7% of their weight after 72 weeks in a phase three trial.",
+      "date": "2026-03-19T17:48:22.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "US market portrait 2016 week 51",
-      "link": "https://www.portfolioprobe.com/2016/12/18/us-market-portrait-2016-week-51/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-12-18T11:34:58.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "January new home sales plunge to the lowest pace since 2022",
+      "link": "https://www.cnbc.com/2026/03/19/january-new-home-sales.html",
+      "desc": "New home sales fell to the lowest level in four years, despite lower interest rates and builder incentives.",
+      "date": "2026-03-19T16:26:13.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "US market portrait 2016 week 50",
-      "link": "https://www.portfolioprobe.com/2016/12/11/us-market-portrait-2016-week-50/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-12-11T19:03:35.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models",
+      "link": "http://arxiv.org/abs/2603.12422v3",
+      "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
+      "date": "2026-03-19T16:12:09.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
       "tags": [
-        "portfolio",
-        "blog"
+        "paper",
+        "research"
       ]
     },
     {
-      "title": "US market portrait 2016 week 49",
-      "link": "https://www.portfolioprobe.com/2016/12/03/us-market-portrait-2016-week-49/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-12-03T10:53:48.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
+      "link": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
+      "desc": "Micron's stock has soared this year while its tech peers have struggled, as the impact of rising memory costs ripples across the industry.",
+      "date": "2026-03-19T14:59:50.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "markets"
       ]
     },
     {
-      "title": "US market portrait 2016 week 48",
-      "link": "https://www.portfolioprobe.com/2016/11/26/us-market-portrait-2016-week-48/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo (which was less than perfect the last few weeks, seems okay this week) The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;",
-      "date": "2016-11-26T18:51:23.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "Major League Baseball names Polymarket exclusive prediction market partner",
+      "link": "https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html",
+      "desc": "Major League Baseball is partnering with Polymarket to offer exclusive rights and data.",
+      "date": "2026-03-19T14:47:11.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "US market portrait 2016 week 44",
-      "link": "https://www.portfolioprobe.com/2016/10/29/us-market-portrait-2016-week-44/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-10-29T09:26:46.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "Robust Investment-Driven Insurance Pricing under Correlation Ambiguity",
+      "link": "http://arxiv.org/abs/2603.18969v1",
+      "desc": "As insurers increasingly behave like financial intermediaries and actively participate in capital markets, understanding the dependence structure between insurance and financial risks becomes crucial for insurers' operations. This paper studies dynamic equilibrium insurance pricing when insurers fac",
+      "date": "2026-03-19T14:35:31.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
       "tags": [
-        "portfolio",
-        "blog"
+        "paper",
+        "research"
       ]
     },
     {
-      "title": "US market portrait 2016 week 42",
-      "link": "https://www.portfolioprobe.com/2016/10/15/us-market-portrait-2016-week-42/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-10-15T09:41:39.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "Robust Investment-Driven Insurance Pricing and Liquidity Management",
+      "link": "http://arxiv.org/abs/2603.18962v1",
+      "desc": "This paper develops a dynamic equilibrium model of the insurance market that jointly characterizes insurers' underwriting, investment, recapitalization, and dividend policies under model uncertainty and financial frictions. Competitive insurers maximize shareholder value under a subjective worst-cas",
+      "date": "2026-03-19T14:27:54.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
       "tags": [
-        "portfolio",
-        "blog"
+        "paper",
+        "research"
       ]
     },
     {
-      "title": "US market portrait 2016 week 41",
-      "link": "https://www.portfolioprobe.com/2016/10/08/us-market-portrait-2016-week-41/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-10-08T20:07:31.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "JPMorgan Chase taps A&apos;ja Wilson, Tom Brady for new athlete wealth management push",
+      "link": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
+      "desc": "JPMorgan's move reflects growing competition among banks and wealth managers to serve athletes, who are increasingly becoming entrepreneurs and investors.",
+      "date": "2026-03-19T14:20:28.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
       "tags": [
-        "portfolio",
-        "blog"
+        "CNBC",
+        "finance"
       ]
     },
     {
-      "title": "US market portrait 2016 week 40",
-      "link": "https://www.portfolioprobe.com/2016/10/01/us-market-portrait-2016-week-40/",
-      "desc": "US large cap market returns. Fine print The data are from Yahoo The S&#38;P 500 stocks are used (as implied by Wikipedia on 2016 January 16) that still survive with the same symbol The initial post was &#8220;Replacing market indices&#8221; The R code is in marketportrait_funs.R ",
-      "date": "2016-10-01T11:08:26.000Z",
-      "type": "blog",
-      "label": "Portfolio Probe",
+      "title": "SPX-VIX Risk Computations Via Perturbed Optimal Transport",
+      "link": "http://arxiv.org/abs/2603.10857v2",
+      "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
+      "date": "2026-03-19T13:50:39.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
       "tags": [
-        "portfolio",
-        "blog"
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
+      "link": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
+      "desc": "Lilly is betting big on retatrutide as the next pillar of its obesity portfolio after its weight loss injection Zepbound and its upcoming pill, orforglipron.",
+      "date": "2026-03-19T12:06:14.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
+      "link": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
+      "desc": "The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.",
+      "date": "2026-03-19T11:52:17.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "America may be a petrostate. But the energy shock still hurts",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/19/america-may-be-a-petrostate-but-the-energy-shock-still-hurts",
+      "desc": "And further angers economically frustrated citizens",
+      "date": "2026-03-19T11:21:03.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Which country is the biggest loser from the energy shock?",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/19/which-country-is-the-biggest-loser-from-the-energy-shock",
+      "desc": "We rank the poor world’s exposure and buffers",
+      "date": "2026-03-19T11:18:58.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "The new economics of sex work",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/19/the-new-economics-of-sex-work",
+      "desc": "As the sex economy grows, it deserves serious analysis",
+      "date": "2026-03-19T11:16:43.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Optimal execution with deterministically time varying liquidity: well posedness and price manipulation",
+      "link": "http://arxiv.org/abs/2410.04867v2",
+      "desc": "We investigate the well-posedness in the Hadamard sense and the absence of price manipulation in the optimal execution problem within the Almgren-Chriss framework, where the temporary and permanent impact parameters vary deterministically over time. We present sufficient conditions for the existence",
+      "date": "2026-03-19T08:19:43.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "A Unified Generalization Framework for Model Merging: Trade-offs, Non-Linearity, and Scaling Laws",
+      "link": "http://arxiv.org/abs/2601.21690v2",
+      "desc": "Model merging efficiently aggregates capabilities from multiple fine-tuned models into a single one, operating purely in parameter space without original data or expensive re-computation. Despite empirical successes, a unified theory for its effectiveness under heterogeneous finetuning hyperparamete",
+      "date": "2026-03-19T06:54:16.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Mapping the Midweek Mountain: The New Geography of Hybrid Work",
+      "link": "http://arxiv.org/abs/2603.18440v1",
+      "desc": "This paper provides a behavioral analysis of the post-pandemic transformation of work, using a dataset of approximately 41 billion mobile geolocation records from 73.5 million individuals in the five largest U.S. metropolitan areas from the pre- to post- pandemic periods. By tracking movements betwe",
+      "date": "2026-03-19T02:58:54.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "RE-SAC: Disentangling aleatoric and epistemic risks in bus fleet control: A stable and robust ensemble DRL approach",
+      "link": "http://arxiv.org/abs/2603.18396v1",
+      "desc": "Bus holding control is challenging due to stochastic traffic and passenger demand. While deep reinforcement learning (DRL) shows promise, standard actor-critic algorithms suffer from Q-value instability in volatile environments. A key source of this instability is the conflation of two distinct unce",
+      "date": "2026-03-19T01:37:45.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "What if Donald Trump decided to ban oil exports?",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports",
+      "desc": "Trying to keep prices low that way could backfire spectacularly",
+      "date": "2026-03-18T20:54:20.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Forecasting and Manipulating the Forecasts of Others",
+      "link": "http://arxiv.org/abs/2603.12140v2",
+      "desc": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis ",
+      "date": "2026-03-18T20:40:18.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Macy&apos;s store revamp shows progress, but company expects sales to fall this year",
+      "link": "https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html",
+      "desc": "Macy's posted solid fourth-quarter results as it tries to revamp some stores and close others.",
+      "date": "2026-03-18T20:06:13.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Entity-Specific Cyber Risk Assessment using InsurTech Empowered Risk Factors",
+      "link": "http://arxiv.org/abs/2507.08193v3",
+      "desc": "The lack of high-quality public cyber incident data limits empirical research and predictive modeling for cyber risk assessment. This challenge persists due to the reluctance of companies to disclose incidents that could damage their reputation or investor confidence. Therefore, from an actuarial pe",
+      "date": "2026-03-18T18:51:58.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Disney embarks on new chapter as Josh D&apos;Amaro takes over as CEO",
+      "link": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
+      "desc": "Bob Iger is stepping aside as Josh D'Amaro, who previously served as chairman of Disney's experiences division, takes over as CEO.",
+      "date": "2026-03-18T18:29:04.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Robust quasi-convex risk measures and applications",
+      "link": "http://arxiv.org/abs/2603.17954v1",
+      "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
+      "date": "2026-03-18T17:28:26.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "FDA approves psoriasis pill from J&J that rivals shots Tremfya, Skyrizi",
+      "link": "https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html",
+      "desc": "Johnson & Johnson said the U.S. Food and Drug Administration approved its once-daily psoriasis pill, the first oral option to rival best-selling shots.",
+      "date": "2026-03-18T17:17:34.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Multivariate Residual Estimation Risk",
+      "link": "http://arxiv.org/abs/2603.17792v1",
+      "desc": "The purpose of this paper is to describe and extend the use of the newly-introduced measure, residual estimation risk. Following the seminal work of Bignozzi and Tsanakas, the quantification of residual estimation risk is proposed in a multivariate framework. Our aim is to provide a succinct and pra",
+      "date": "2026-03-18T14:51:59.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Transfer Learning for Contextual Joint Assortment-Pricing under Cross-Market Heterogeneity",
+      "link": "http://arxiv.org/abs/2603.18114v1",
+      "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
+      "date": "2026-03-18T14:48:04.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers",
+      "link": "https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html",
+      "desc": "As generative AI models get more sophisticated, companies need more memory and faster memory, Micron CEO Sanjay Mehrotra said in January.",
+      "date": "2026-03-18T13:37:07.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+      "link": "http://arxiv.org/abs/2603.17692v1",
+      "desc": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not",
+      "date": "2026-03-18T13:09:11.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Objective Mispricing Detection for Shortlisting Undervalued Football Players via Market Dynamics and News Signals",
+      "link": "http://arxiv.org/abs/2603.17687v1",
+      "desc": "We present a practical, reproducible framework for identifying undervalued football players grounded in objective mispricing. Instead of relying on subjective expert labels, we estimate an expected market value from structured data (historical market dynamics, biographical and contract features, tra",
+      "date": "2026-03-18T13:03:23.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics",
+      "link": "http://arxiv.org/abs/2603.18107v1",
+      "desc": "Deep learning models in quantitative finance often operate as black boxes, lacking interpretability and failing to incorporate fundamental economic principles such as no-arbitrage constraints. This paper introduces ARTEMIS (Arbitrage-free Representation Through Economic Models and Interpretable Symb",
+      "date": "2026-03-18T13:00:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework",
+      "link": "http://arxiv.org/abs/2603.06238v2",
+      "desc": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleten",
+      "date": "2026-03-18T12:05:46.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Lululemon reports weak guidance as proxy battle, tariffs weigh on bottom line",
+      "link": "https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html",
+      "desc": "Lululemon topped fourth-quarter estimates but gave weaker-than-expected sales and earnings forecasts for 2026.",
+      "date": "2026-03-18T11:38:07.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Tencent&apos;s 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
+      "link": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
+      "desc": "The tech giant said its core business provided it with the resources to fund increasing investments in AI.",
+      "date": "2026-03-18T10:35:42.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective",
+      "link": "http://arxiv.org/abs/2603.17463v1",
+      "desc": "We assess the advantage of combining univariate and multivariate portfolio risk forecasts with the aid of forecast reconciliation techniques. In our analyzes, we assume knowledge of portfolio weights, a standard for portfolio risk management applications. With an extensive simulation experiment, we ",
+      "date": "2026-03-18T08:10:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Equilibrium strategies for stochastic control problems with higher-order moments and applications to portfolio selection",
+      "link": "http://arxiv.org/abs/2504.04113v3",
+      "desc": "In this paper we derive a novel characterization result for time-consistent stochastic control problems with higher-order moments, originally formulated by Wang et al. [SIAM J. Control. Optim., 63 (2025), 1560--1589], and newly explore many solvable instances including a mean-variance-excess kurtosi",
+      "date": "2026-03-18T06:25:46.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Short-horizon Duesenberry Equilibrium",
+      "link": "http://arxiv.org/abs/2603.16108v2",
+      "desc": "We develop a continuous-time general equilibrium framework for economies with a heterogeneous population -- modeled as a continuum -- that repeatedly optimizes over short horizons under relative-income (Duesenberry-type) criteria. The cross-section evolves through a Brownian flow on a type space, tr",
+      "date": "2026-03-18T02:15:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Shallow Representation of Option Implied Information",
+      "link": "http://arxiv.org/abs/2603.17151v1",
+      "desc": "Option prices encode the market's collective outlook through implied density and implied volatility. An explicit link between implied density and implied volatility translates the risk-neutrality of the former into conditions on the latter to rule out static arbitrage. Despite earlier recognition of",
+      "date": "2026-03-17T21:29:17.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
+      "link": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
+      "desc": "CEO Ed Bastian told CNBC's Phil LeBeau that Delta had taken a $400 million fuel hit in the quarter, but that demand has been \"really, really great.\"",
+      "date": "2026-03-17T20:00:39.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Arizona charges Kalshi with criminal misdemeanors, alleging it&apos;s an illegal gambling operation",
+      "link": "https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html",
+      "desc": "The Arizona charges are the first criminal charges to have been filed against Kalshi, though the company is embroiled in multiple lawsuits over its predictions platform.",
+      "date": "2026-03-17T19:40:14.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Will South Korea’s epic bull market survive the energy shock?",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
+      "desc": "Probably, but investors should brace for more volatility",
+      "date": "2026-03-17T19:14:10.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "China cannot escape the energy shock",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock",
+      "desc": "Despite renewables and reserves, it will suffer",
+      "date": "2026-03-17T18:58:22.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Nissan joins Toyota, Honda in plans to export U.S. cars to Japan",
+      "link": "https://www.cnbc.com/2026/03/17/nissan-toyota-honda-export-japan.html",
+      "desc": "Nissan will export the Murano SUV built in Smyrna, Tennessee, beginning early next year. It marks the first American-made Nissan sold in Japan since the 1990s.",
+      "date": "2026-03-17T18:44:50.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs",
+      "link": "http://arxiv.org/abs/2505.18448v3",
+      "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
+      "date": "2026-03-17T18:09:23.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection",
+      "link": "http://arxiv.org/abs/2603.16697v1",
+      "desc": "Outlier detection identifies data points that deviate significantly from expected patterns, revealing anomalies that may require special attention. Incorporating online learning further improves accuracy by continuously updating the model to reflect the most recent data. When employing the Christoff",
+      "date": "2026-03-17T15:51:18.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Real-world models for multiple term structures: a unifying HJM semimartingale framework",
+      "link": "http://arxiv.org/abs/2411.01983v3",
+      "desc": "We develop a unified framework for modeling multiple term structures arising in financial, insurance, and energy markets, adopting an extended Heath-Jarrow-Morton (HJM) approach under the real-world probability. We study market viability and characterize the set of local martingale deflators. We con",
+      "date": "2026-03-17T12:53:48.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "From Natural Language to Executable Option Strategies via Large Language Models",
+      "link": "http://arxiv.org/abs/2603.16434v1",
+      "desc": "Large Language Models (LLMs) excel at general code generation, yet translating natural-language trading intents into correct option strategies remains challenging. Real-world option design requires reasoning over massive, multi-dimensional option chain data with strict constraints, which often overw",
+      "date": "2026-03-17T12:14:47.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification",
+      "link": "http://arxiv.org/abs/2603.13354v2",
+      "desc": "Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations often focus on single architectural families or lab-generated datasets. This work presents a systematic empirical comparison of three model paradigms for fine-gra",
+      "date": "2026-03-17T10:54:10.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Open vs. Sealed: Auction Format Choice for Maximal Extractable Value",
+      "link": "http://arxiv.org/abs/2603.16333v1",
+      "desc": "We study optimal auction design for Maximum Extractable Value (MEV) auction markets on Ethereum. Using a dataset of 2.2 million transactions across three major orderflow providers, we establish three empirical regularities: extracted values follow a log-normal distribution with extreme right-tail co",
+      "date": "2026-03-17T10:04:14.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Robust Optimal Strategies for Early Liquidation in Financial Systems",
+      "link": "http://arxiv.org/abs/2603.14546v2",
+      "desc": "We study the problem of asset liquidation in financial systems. During financial crises, asset liquidation is often inevitable but can lead to substantial losses if a significant amount of illiquid assets are sold simultaneously at depressed prices -- a phenomenon known as price impact. To tackle th",
+      "date": "2026-03-17T07:20:26.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
+      "link": "http://arxiv.org/abs/2603.15059v2",
+      "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
+      "date": "2026-03-17T04:14:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Heterogeneous Returns and Wealth Tax Neutrality: A Fokker--Planck Framework",
+      "link": "http://arxiv.org/abs/2603.16006v1",
+      "desc": "We extend the Fokker--Planck framework of Frøseth (2026, arXiv:2603.05283) to populations of investors with heterogeneous, persistent return-generating ability. When the drift coefficient in the Langevin equation for log-wealth varies across investors, the proportional wealth tax remains a uniform d",
+      "date": "2026-03-16T23:30:15.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Flow Taxes, Stock Taxes, and Portfolio Choice: A Generalised Neutrality Result",
+      "link": "http://arxiv.org/abs/2603.15974v1",
+      "desc": "A proportional wealth tax -- a levy on the stock of wealth -- preserves portfolio neutrality by acting as a uniform drift shift in the Fokker-Planck equation for wealth dynamics. We extend this result to the full system of ownership taxes (eierkostnader) that a shareholder faces: a corporate tax on ",
+      "date": "2026-03-16T22:44:27.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "The Iran war is roiling commodities far beyond oil",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil",
+      "desc": "Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals",
+      "date": "2026-03-16T22:34:40.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Risk-Based Auto-Deleveraging",
+      "link": "http://arxiv.org/abs/2603.15963v1",
+      "desc": "Auto-deleveraging (ADL) mechanisms are a critical yet understudied component of risk management on cryptocurrency futures exchanges. When available margin and other loss-absorbing resources are insufficient to cover losses following large price moves, exchanges reduce positions and socialize losses ",
+      "date": "2026-03-16T22:25:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Nvidia adds Hyundai, BYD and other automakers to self-driving tech business",
+      "link": "https://www.cnbc.com/2026/03/16/nvidia-hyundai-byd-nissan-self-driving-tech.html",
+      "desc": "AVs are important to Nvidia as self-driving cars remain one of the primary areas where the company can show growth outside of artificial intelligence.",
+      "date": "2026-03-16T22:06:38.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Longitudinal Risk Prediction in Mammography with Privileged History Distillation",
+      "link": "http://arxiv.org/abs/2603.15814v1",
+      "desc": "Breast cancer remains a leading cause of cancer-related mortality worldwide. Longitudinal mammography risk prediction models improve multi-year breast cancer risk prediction based on prior screening exams. However, in real-world clinical practice, longitudinal histories are often incomplete, irregul",
+      "date": "2026-03-16T18:45:19.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
+      "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
+      "desc": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
+      "date": "2026-03-16T17:17:36.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy",
+      "link": "https://www.cnbc.com/2026/03/16/peloton-launches-bike-and-tread-for-gyms.html",
+      "desc": "Peloton is launching commercial gym-ready Bikes and Treads, expanding into gyms globally as it seeks new growth beyond its at-home fitness business.",
+      "date": "2026-03-16T16:00:41.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Introducing BISTRO: a foundational model for unconditional and conditional forecasting of macroeconomic time series",
+      "link": "https://www.bis.org/publ/work1337.htm",
+      "desc": "by Batuhan Koyuncu, Byeungchun Kwon, Marco Jacopo Lombardi, Fernando Perez-Cruz, Hyun Song Shin<br />This article introduces the BIS Time-series Regression Oracle (BISTRO), a general purpose time series model for macroeconomic forecasting. Its edge over traditional econometric approaches lies in its",
+      "date": "2026-03-16T13:57:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Feature-driven reinforcement learning for photovoltaic in continuous intraday trading",
+      "link": "http://arxiv.org/abs/2510.16021v3",
+      "desc": "Sequential intraday electricity trading allows photovoltaic (PV) operators to reduce imbalance settlement costs as forecasts improve throughout the day. Yet deployable trading policies must jointly handle forecast uncertainty, intraday prices, liquidity, and the asymmetric economics of PV imbalance ",
+      "date": "2026-03-16T11:29:00.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty",
+      "link": "http://arxiv.org/abs/2404.12598v2",
+      "desc": "This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach",
+      "date": "2026-03-15T13:09:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
+      "link": "http://arxiv.org/abs/2603.15681v1",
+      "desc": "Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 2023 monsoon season alone. Existing risk maps treat every pixel independently, ignoring the basic fact that flooding upstream raises risk downstream. We",
+      "date": "2026-03-15T02:54:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Conditioning on a Volatility Proxy Compresses the Apparent Timescale of Collective Market Correlation",
+      "link": "http://arxiv.org/abs/2603.14072v1",
+      "desc": "We address the attribution problem for apparent slow collective dynamics: is the observed persistence intrinsic, or inherited from a persistent driver? For the leading eigenvalue fraction $ψ_1=λ_{\\max}/N$ of S\\&P 500 60-day rolling correlation matrices ($237$ stocks, 2004--2023), a VIX-coupled Ornst",
+      "date": "2026-03-14T18:37:40.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
+      "link": "https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html",
+      "desc": "Paramount CEO David Ellison has said he wants to make 30 movies a year and has franchises like Godzilla-Kong, Superman and Sonic the Hedgehog to lean on.",
+      "date": "2026-03-14T11:00:01.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ]
+    },
+    {
+      "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
+      "link": "http://arxiv.org/abs/2603.13830v1",
+      "desc": "The high-frequency issuance and short-cycle speculation of meme tokens in decentralized finance (DeFi) have significantly amplified rug-pull risk. Existing approaches still struggle to provide stable early warning under scarce anomalies, incomplete labels, and limited interpretability. To address th",
+      "date": "2026-03-14T08:25:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Risk-Sensitive Agent Compositions",
+      "link": "http://arxiv.org/abs/2506.04632v4",
+      "desc": "From software development to robot control, modern agentic systems decompose complex objectives into a sequence of subtasks and choose a set of specialized AI agents to complete them. We formalize agentic workflows as directed acyclic graphs, called agent graphs, where edges represent AI agents and ",
+      "date": "2026-03-14T03:19:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
+      "link": "http://arxiv.org/abs/2603.13059v1",
+      "desc": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se",
+      "date": "2026-03-13T15:07:53.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty",
+      "link": "http://arxiv.org/abs/2603.12507v1",
+      "desc": "Minimising a spectral risk objective, defined as a convex combination of expected cost and Conditional Value-at-Risk (CVaR), is challenging when the uncertainty distribution is decision-dependent, making both surrogate modelling and simulation-based ranking sensitive to tail estimation error. We pro",
+      "date": "2026-03-12T22:53:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Ulta Beauty stock drops as company reports mixed earnings, gives 2026 guidance",
+      "link": "https://www.cnbc.com/2026/03/12/ulta-beauty-ulta-q4-earnings-2025.html",
+      "desc": "Ulta Beauty reported fiscal fourth-quarter earnings Thursday that beat Wall Street revenue expectations but missed on earnings per share.",
+      "date": "2026-03-12T22:42:32.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Bridging the Gap Between Security Metrics and Key Risk Indicators: An Empirical Framework for Vulnerability Prioritization",
+      "link": "http://arxiv.org/abs/2603.12450v1",
+      "desc": "Organisations overwhelmingly prioritize vulnerability remediation using Common Vulnerability Scoring System (CVSS) severity scores, yet CVSS classifiers achieve an Area Under the Precision-Recall Curve (AUPRC) of 0.011 on real-world exploitation data, near random chance. We propose a composite Key R",
+      "date": "2026-03-12T21:05:22.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ]
+    },
+    {
+      "title": "Dick&apos;s Sporting Goods issues weak profit guidance as Foot Locker merger weighs on bottom line",
+      "link": "https://www.cnbc.com/2026/03/12/dicks-sporting-goods-dks-earnings-q4-2025.html",
+      "desc": "Dick's Sporting Goods' merger with Foot Locker led to a 60% increase in sales but a substantial decline in companywide profits.",
+      "date": "2026-03-12T18:18:13.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Why investors won’t know what to make of AI for a while",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while",
+      "desc": "Markets always struggle to price technological revolutions",
+      "date": "2026-03-12T15:11:08.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "A public-private partnership? Central bank funding and credit supply",
+      "link": "https://www.bis.org/publ/work1336.htm",
+      "desc": "by Matthieu Chavaz, David Elliott, Win Monroe<br />We exploit the surprise announcement and subsequent amendment of a central bank funding scheme to test how public liquidity provision affects credit market outcomes. Contrary to the notion that public liquidity is primarily a substitute for private ",
+      "date": "2026-03-12T07:47:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Rheinmetall sees sales growth of up to 45% in 2026, says it&apos;s in &apos;prime position&apos; to arm the U.S. amid war in Iran",
+      "link": "https://www.cnbc.com/2026/03/11/rheinmetall-rhm-fy-earnings-stock-2025.html",
+      "desc": "Arms maker Rheinmetall reported full-year sales that grew 29% year-over-year and said revenue would grow by even more this year.",
+      "date": "2026-03-11T12:16:23.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Liquefied natural gas: the overlooked economic chokepoint",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/11/liquefied-natural-gas-the-overlooked-economic-chokepoint",
+      "desc": "Alternatives to Gulf supplies are scarce",
+      "date": "2026-03-11T12:06:58.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%",
+      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
+      "desc": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
+      "date": "2026-03-11T12:01:57.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Donald Trump’s options to cool oil prices are sorely limited",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited",
+      "desc": "He says he has a plan. It would need to be very cunning",
+      "date": "2026-03-10T21:55:49.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Time to buy the most rubbish stocks you can find",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/10/time-to-buy-the-most-rubbish-stocks-you-can-find",
+      "desc": "The dash for trash",
+      "date": "2026-03-10T21:46:38.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Tokenomics and blockchain fragmentation",
+      "link": "https://www.bis.org/publ/work1335.htm",
+      "desc": "by Hyun Song Shin<br />Money is a coordination device underpinned by strong network effects: the more others accept a form of money, the more I wish to adopt it too. The decentralisation agenda of public permissionless blockchains undercuts these network effects and leads to fragmentation of the mon",
+      "date": "2026-03-10T14:22:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
+      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
+      "desc": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.",
+      "date": "2026-03-10T13:01:52.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Olaplex stock has plunged since its IPO. Here’s how the hair care brand is trying to turn itself around",
+      "link": "https://www.cnbc.com/2026/03/10/olaplex-stock-ipo-business-turnaround.html",
+      "desc": "Olaplex, a prestige hair care brand, has seen its sales and stock price plummet after a lawsuit. Now, the company is trying to turn its business around.",
+      "date": "2026-03-10T13:01:11.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Lego keeps beating the toy industry. Its secret weapon is not what you&apos;d expect",
+      "link": "https://www.cnbc.com/2026/03/10/lego-2025-earnings-toy-industry.html",
+      "desc": "Lego on Tuesday reported a 12% jump in revenue for fiscal year 2025 and reported consumer sales that far outpace the broader toy industry.",
+      "date": "2026-03-10T11:58:07.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Volkswagen flags a tough year ahead as 2025 profit halves on tariffs, China competition",
+      "link": "https://www.cnbc.com/2026/03/10/volkswagen-earnings-full-year-2025.html",
+      "desc": "Volkswagen reported a more than 50% drop in annual operating profit, citing the impact of U.S. tariffs, currency effects and a strategic shift at Porsche.",
+      "date": "2026-03-10T10:01:05.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Iran war threatens catastrophic consequences for the oil market, Aramco CEO says",
+      "link": "https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html",
+      "desc": "Saudi Aramco beats profit estimates and keeps $85 billion payouts as oil prices surge again.",
+      "date": "2026-03-10T08:19:38.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "The Iran energy shock reverberates across financial markets",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets",
+      "desc": "For investors, the war is like the invasion of Ukraine all over again",
+      "date": "2026-03-09T19:49:06.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Robots, ICT and employment: evidence from advanced and emerging EU countries",
+      "link": "https://www.bis.org/publ/work1334.htm",
+      "desc": "by Costanza Bosone, Leonardo Gambacorta, Paolo Giudici, Enisse Kharroubi, Ulf Lewrick<br />We study how robot adoption and investment in information and communication technologies (ICT) jointly shape sectoral employment across 20 European Union (EU) countries over the period 1995-2020. Using a cross",
+      "date": "2026-03-09T09:27:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "The Iran war puts Asia in an energy panic",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic",
+      "desc": "Stranded Gulf supplies are choking off the region’s economies",
+      "date": "2026-03-08T17:48:39.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Would America be in recession without the super-rich?",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
+      "desc": "American anxieties are K-shaped. The economy is more like a slash-mark",
+      "date": "2026-03-08T12:36:30.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Marvell stock surges 18% as CEO points to continuing AI demand: &apos;Do you see me blinking?&apos;",
+      "link": "https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html",
+      "desc": "Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.",
+      "date": "2026-03-06T21:05:24.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Income Mobility of the Top One Percent",
+      "link": "https://www.federalreserve.gov/econres/feds/income-mobility-of-the-top-one-percent.htm",
+      "desc": "David Splinter and Jeff Larrimore Circulation into and out of the top one percent is pronounced in the U.S. One third exit after a year and two-thirds exit after a decade. This mobility lowers top income shares when shifting from annual to multi-year income measures. Intragenerational mobility over ",
+      "date": "2026-03-06T20:10:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Generative AI for surveys on payment apps: AI views on privacy and technology",
+      "link": "https://www.bis.org/publ/work1333.htm",
+      "desc": "by Koji Takahashi, Joon Suk Park<br />This study uses ChatGPT to simulate survey responses about payment apps, focusing on privacy and perceived benefits. By designing prompts that mirror real user characteristics, the generated responses align with findings from a Dutch survey, especially when grou",
+      "date": "2026-03-06T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Historic winter storms weigh on Gap, Old Navy performance after 800 temporary store closures",
+      "link": "https://www.cnbc.com/2026/03/05/gap-gap-q4-2025-earnings.html",
+      "desc": "Gap has been on a steady upswing of growth but saw worse than expected results during its holiday quarter after historic winter storms led to store closures.",
+      "date": "2026-03-06T10:50:35.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "We&apos;re raising our Costco price target after a good but not great quarter. Here&apos;s why",
+      "link": "https://www.cnbc.com/2026/03/05/were-raising-our-costco-price-target-after-a-good-but-not-great-quarter-heres-why.html",
+      "desc": "Costco's quarterly results Thursday checked only some of the most important boxes.",
+      "date": "2026-03-06T00:27:20.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
+      "link": "https://www.cnbc.com/2026/03/05/broadcom-stock-rally-ai-chip-growth.html",
+      "desc": "Broadcom's AI revenue forecast surpassed many bullish expectations from Wall Street analysts.",
+      "date": "2026-03-05T21:00:26.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Victoria’s Secret posts longest sales growth streak in four years as shoppers return to Pink brand",
+      "link": "https://www.cnbc.com/2026/03/05/victorias-secret-vsco-earnings-q4-2025.html",
+      "desc": "Victoria's Secret has been working to regain relevancy and win back shoppers under CEO Hillary Super.",
+      "date": "2026-03-05T16:56:33.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "German defense firm Renk CEO says Iran war could drive &apos;increasing demand&apos; in the Middle East",
+      "link": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
+      "desc": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call.",
+      "date": "2026-03-05T14:17:53.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "To understand why countries grow, look at their firms",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms",
+      "desc": "The third way in development economics",
+      "date": "2026-03-05T10:36:23.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "India’s economy is not as big as economists thought",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought",
+      "desc": "But it is growing faster",
+      "date": "2026-03-05T10:33:42.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Americans’ electricity bills are up. Don’t blame AI",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai",
+      "desc": "Were it not for data centres, prices might be even higher",
+      "date": "2026-03-05T10:31:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "European pensions are a $30trn missed opportunity",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity",
+      "desc": "If only more countries went Dutch",
+      "date": "2026-03-04T22:58:03.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
+      "link": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+      "desc": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.",
+      "date": "2026-03-04T22:53:45.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "Okta beats fourth-quarter estimates, but issues weak guidance",
+      "link": "https://www.cnbc.com/2026/03/04/okta-okta-q4-2026-earnings.html",
+      "desc": "Okta's stock has dropped this year as investors fret over AI replacing cybersecurity",
+      "date": "2026-03-04T21:40:57.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
+      ]
+    },
+    {
+      "title": "FEDS Paper: The Practice of U.S. Monetary Policy Independence from Martin to Greenspan",
+      "link": "https://www.federalreserve.gov/econres/feds/the-practice-of-us-monetary-policy-independence-from-martin-to-greenspan.htm",
+      "desc": "Edward Nelson Central bank independence is a major area of study, but the economic literature has been characterized by numerous misstatements regarding how U.S. monetary policy independence has operated over time. Against this backdrop, this paper lays out major elements of the practice of central ",
+      "date": "2026-03-03T21:27:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Why war isn’t always good for defence stocks",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks",
+      "desc": "They win only if governments want just enough weapons—but not too many",
+      "date": "2026-03-03T20:19:26.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "The nightmare war scenario is becoming reality in energy markets",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets",
+      "desc": "The longer the war in the Gulf, the harsher the global economic fallout",
+      "date": "2026-03-03T20:15:57.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Debt Flexibility(Revised)",
+      "link": "https://www.federalreserve.gov/econres/feds/debt-flexibility.htm",
+      "desc": "Rhys Bidder, Nicolas Crouzet, Margaret M. Jacobson , and  Michael Siemer How flexible are corporate loans after origination? Theory predicts coordination problems should make syndicated loans harder to modify than single-bank loans. We show the opposite. Using comprehensive regulatory data, we docum",
+      "date": "2026-03-02T20:45:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "War in Iran could cause the biggest oil shock in years",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years",
+      "desc": "Prices have surged—and may stay high for a while",
+      "date": "2026-03-01T12:28:02.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Disruptions to Foreign Trade and U.S. Banks' Returns",
+      "link": "https://www.federalreserve.gov/econres/feds/disruptions-to-foreign-trade-and-us-banks-returns.htm",
+      "desc": "Michele Modugno , Dino Palazzo , Carlos A. Ram&iacute;rez , and Thiago R.T. Ferreira We develop a market-based measure of firms' and industries' exposure to foreign trade disruptions. Combining this approach with detailed supervisory data, we quantify large U.S. banks' exposure to such disruptions a",
+      "date": "2026-02-27T16:40:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Enforcing Fair Lending: Evidence from Mortgage Market Litigation",
+      "link": "https://www.federalreserve.gov/econres/feds/enforcing-fair-lending-evidence-from-mortgage-market-litigation.htm",
+      "desc": "Matthew Maury, Michael Suher , and Jeffery Y. Zhang Does fair lending litigation impact mortgage lender decisions? Using a novel dataset of all fair lending legal actions from 1991 to 2023, we find that it does. In the wake of legal settlements for discrimination against Black borrowers, lenders sig",
+      "date": "2026-02-27T16:37:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "America’s trade chaos is just beginning",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/26/americas-trade-chaos-is-just-beginning",
+      "desc": "Tariff wrangling will stretch through the rest of Donald Trump’s term, and beyond",
+      "date": "2026-02-26T10:37:01.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "Protectionists dislike trade and migration. And capital flows?",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/26/protectionists-dislike-trade-and-migration-and-capital-flows",
+      "desc": "The amount of money crossing borders has flattened off—but not because of capital controls",
+      "date": "2026-02-26T10:36:29.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Contrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems",
+      "link": "https://www.federalreserve.gov/econres/feds/contrasting-ledgers-considerations-for-us-dollar-interbank-payment-systems.htm",
+      "desc": "Melissa Leistra This paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.",
+      "date": "2026-02-25T22:00:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Decomposing Gender Differences in Bankcard Credit Limits: Evidence from Sole Mortgage Applicants(Revised)",
+      "link": "https://www.federalreserve.gov/econres/feds/decomposing-gender-differences-in-bankcard-credit-limits.htm",
+      "desc": "Nathan Blascak and Anna Tranfaglia Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total credit card limits for sole mortgage applicants. We estimate that male borrowers have approximately $1,300 ",
+      "date": "2026-02-23T15:18:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Kalshi and the Rise of Macro Markets",
+      "link": "https://www.federalreserve.gov/econres/feds/kalshi-and-the-rise-of-macro-markets.htm",
+      "desc": "Anthony M. Diercks , Jared Dean Katz, and Jonathan H. Wright Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overs",
+      "date": "2026-02-18T20:30:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Dollar funding and housing markets: the role of non-US global banks",
+      "link": "https://www.bis.org/publ/work1332.htm",
+      "desc": "by Torsten Ehlers, Mathias Hoffmann, Alexander Raabe<br />House prices co-move considerably across countries. We show how non-US global banks and their exposure to US dollar funding conditions help explain this comovement. ..",
+      "date": "2026-02-16T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Initial Margin for Crypto Currencies Risks in Uncleared Markets",
+      "link": "https://www.federalreserve.gov/econres/feds/initial-margin-for-crypto-currencies-risks-in-uncleared-markets.htm",
+      "desc": "Anna Amirdjanova , David Lynch , and Anni Zheng We examine prospective classification of crypto currencies risks within the ISDA Standardized Initial Margin Model (SIMM) framework for calculation of initial margin on trades sensitive to cryptocurrencies’ risk factors in the uncleared market. Consist",
+      "date": "2026-02-12T16:40:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Lending to vulnerable households and consumption: evidence from Korea",
+      "link": "https://www.bis.org/publ/work1331.htm",
+      "desc": "by Jieun Lee, Ilhyock Shim<br />Using a large quarterly consumer credit panel dataset from Korea covering 2017–2023, we present four key findings on the characteristics, lending sources, and macroeconomic consequences of vulnerable borrowers-namely, delinquent borrowers whose debt repayment is overd",
+      "date": "2026-02-12T09:54:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Passive investors and loan spreads",
+      "link": "https://www.bis.org/publ/work1330.htm",
+      "desc": "by Konrad Adler, Sebastian Doerr, Sonya Zhu<br />",
+      "date": "2026-02-10T10:23:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Adoption and welfare effects of payment innovations: the case of digital wallets in Peru",
+      "link": "https://www.bis.org/publ/work1329.htm",
+      "desc": "by Arturo Andia, José Aurazo, Marcelo Paliza<br />Digital wallets like Yape and Plin have gained widespread popularity in Peru, allowing users to make instant payments through quick response (QR) codes or mobile phone numbers. This paper examines the drivers of their adoption and their impact on eve",
+      "date": "2026-02-09T15:23:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Monetary Policy Exposure of Banks and Loan Contracting",
+      "link": "https://www.federalreserve.gov/econres/feds/monetary-policy-exposure-of-banks-and-loan-contracting.htm",
+      "desc": "Ahmet Degerli , Jing Wang We provide evidence that banks use loan covenants to prepare for future monetary policy tightening, thereby facilitating the bank lending channel of monetary policy transmission. Specifically, banks with greater monetary policy exposure—those whose lending capacity contract",
+      "date": "2026-02-02T19:40:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "The perils of narrowing fiscal spaces",
+      "link": "https://www.bis.org/publ/work1328.htm",
+      "desc": "by Hanno Kase, Leonardo Melosi, Sebastian Rast, Matthias Rottner<br />When public debt is elevated, the fiscal cost of fighting inflation rises sharply, as interest rate hikes increase government interest expenditures. We formalize this mechanism in a nonlinear New Keynesian model with a state-depen",
+      "date": "2026-02-02T14:13:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Inequality in Comprehensive Wealth",
+      "link": "https://www.federalreserve.gov/econres/feds/inequality-in-comprehensive-wealth.htm",
+      "desc": "Hannah Landel, David Love, and Paul A. Smith We create an annualized measure of comprehensive household wealth using the 1998–2022 waves of the Health and Retirement Study and examine heterogeneity in retirement resources across households, cohorts, and time. We augment traditional net worth with th",
+      "date": "2026-01-30T14:15:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "FEDS Paper: What Do LLMs Want?",
+      "link": "https://www.federalreserve.gov/econres/feds/what-do-llms-want.htm",
+      "desc": "Thomas R. Cook, Sophia Kazinnik, Zach Modig , and Nathan M. Palmer Large language models (LLMs) are now used for economic reasoning, but their implicit \"preferences\" are poorly understood. We study these preferences by analyzing revealed choices in canonical allocation games and a sequential job-sea",
+      "date": "2026-01-30T14:10:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "A tractable menu cost model with an aggregate markup drift",
+      "link": "https://www.bis.org/publ/work1327.htm",
+      "desc": "by Ko Munakata<br />This paper extends the menu cost model of Gertler and Leahy (2008) by introducing a drift in the aggregate markup. Assuming that the drift is always negative and not large, consistent with moderate and positive trend inflation, the paper analytically characterizes firms' value fu",
+      "date": "2026-01-27T08:13:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Monetary policy and private equity acquisitions: tracing the links",
+      "link": "https://www.bis.org/publ/work1326.htm",
+      "desc": "by Fernando Avalos, Boris Hofmann, José María Serena Garralda<br />Private equity funds play an increasingly important role in financial systems. Yet, the impact of monetary policy on their activity has been little explored so far. In this paper, we analyse the transmission of monetary policy throug",
+      "date": "2026-01-26T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "AI adoption, productivity and employment: evidence from European firms",
+      "link": "https://www.bis.org/publ/work1325.htm",
+      "desc": "by Iñaki Aldasoro, Leonardo Gambacorta, Rozalia Pal, Debora Revoltella, Christoph Weiss, Marcin Wolski<br />This paper provides new evidence on how the adoption of artificial intelligence (AI) affects productivity and employment in Europe...",
+      "date": "2026-01-23T09:49:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "The macro-financial impact of economic policy uncertainty in Latin America",
+      "link": "https://www.bis.org/publ/work1324.htm",
+      "desc": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
+      "date": "2026-01-21T07:14:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Banks and capital requirements: evidence from countercyclical buffers",
+      "link": "https://www.bis.org/publ/work1323.htm",
+      "desc": "Working Paper 1323, \"Banks and capital requirements: evidence from countercyclical buffers,\" has been withdrawn at the request of the authors.",
+      "date": "2026-01-20T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "FEDS Paper: The Spillovers of LSAPs on Banks in the Euro Area",
+      "link": "https://www.federalreserve.gov/econres/feds/the-spillovers-of-lsaps-on-banks-in-the-euro-area.htm",
+      "desc": "Marco Graziano, Marius Koechlin, and Andreas Tischbirek We study the spillovers of large-scale asset purchases (LSAPs) in the U.S. on financial intermediation in the euro area using bank-level supervisory data and high-frequency identified policy surprises. Our detailed panel data permit us to trace",
+      "date": "2026-01-16T19:25:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Do Anecdotes Matter? Exploring the Beige Book through Textual Analysis from 1970 to 2025",
+      "link": "https://www.federalreserve.gov/econres/feds/do-anecdotes-matter-exploring-the-beige-book-through-textual-analysis-from-1970-to-2025.htm",
+      "desc": "Shengwu Du , Flora Haberkorn , Isabel Kitschelt, Seung Jung Lee , Anderson Monken , Dylan Saez, Kelsey Shipman, and Sandeep Thakur We apply various natural language processing tools to see if the Beige Book is helpful in understanding economic activity. The Beige Book is a gathering of anecdotal com",
+      "date": "2026-01-15T17:10:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Embracing gen AI: a comparison of Italian and US households",
+      "link": "https://www.bis.org/publ/work1322.htm",
+      "desc": "by David Loschiavo, Olivier Armantier, Antonio Dalla Zuanna, Leonardo Gambacorta, Mirko Moscatelli, Ilaria Supino<br />This paper explores the household adoption of Generative Artificial Intelligence (GenAI) in the United States and Italy, leveraging survey data to compare usage patterns, demographi",
+      "date": "2026-01-14T13:19:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Firm Dynamics, Inflation, and the Transmission of Monetary Policy",
+      "link": "https://www.federalreserve.gov/econres/feds/firm-dynamics-inflation-and-the-transmission-of-monetary-policy.htm",
+      "desc": "William L. Gamber I study how fluctuations in business formation and destruction affect inflation and the transmission of monetary policy. To do this analysis, I extend a New Keynesian model to include endogenous business formation and destruction and heterogeneous producers. A decline in the number",
+      "date": "2026-01-08T16:35:00.000Z",
+      "type": "arxiv",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro"
+      ]
+    },
+    {
+      "title": "Artificial intelligence and growth in advanced and emerging economies: short-run impact",
+      "link": "https://www.bis.org/publ/work1321.htm",
+      "desc": "by Leonardo Gambacorta, Enisse Kharroubi, Aaron Mehrotra, Tommaso Oliviero<br />This paper investigates whether the positive effects of generative artificial intelligence (gen AI) on growth rate of value added differ across countries in the short run.",
+      "date": "2025-12-19T09:34:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Inflation and the joint bond-FX spanning puzzle",
+      "link": "https://www.bis.org/publ/work1320.htm",
+      "desc": "by Andreas Schrimpf, Markus Sihvonen<br />We investigate the relationship between inflation and excess returns in bond and foreign exchange (FX) markets, specifically addressing the \"spanning puzzle\".",
+      "date": "2025-12-18T14:14:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Housing wealth effects in China",
+      "link": "https://www.bis.org/publ/work1319.htm",
+      "desc": "by Benoit Mojon, Han Qiu, Fang Wang, Michael Weber<br />We estimate the effects of changes in house prices on consumption using unique data of Alipay transactions from Chinese households, spanning from January 2017 to March 2023. We find significant housing wealth effects: changes in house prices ar",
+      "date": "2025-12-17T12:57:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Auction-based liquidity saving mechanisms",
+      "link": "https://www.bis.org/publ/work1318.htm",
+      "desc": "by Caner Ates, Morten Linnemann Bech, Rodney Garratt, Marko Nanut Petri <br />This paper introduces a novel liquidity-saving mechanism (LSM) for real-time gross settlement (RTGS) systems based on an auction framework. Unlike conventional queue-based LSMs that optimise payment netting given pre-commi",
+      "date": "2025-12-16T12:57:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "From listings to all-tenant rents: a probabilistic model",
+      "link": "https://www.bis.org/publ/work1317.htm",
+      "desc": "by Emanuel Nussli, Rachel Arulraj-Cordonier, Flurina Strasser, Marko Nanut Petri , Morten Linnemann Bech, Antonio Pipino<br />Rents are the largest component of the Consumer Price Index (CPI) in many countries, making accurate and timely measurements of rental price developments essential for inflat",
+      "date": "2025-12-12T10:14:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Assessing the macroeconomic impacts of the 2025 US tariffs",
+      "link": "https://www.bis.org/publ/work1316.htm",
+      "desc": "by Hongyan Zhao<br />This paper develops a multi-country, multi-sector trade model with input-output linkages to analyze the global macroeconomic effects of the United States'(US) 2025 tariff policies. The model incorporates endogenous labor supply and captures the transmission of tariff-induced sho",
+      "date": "2025-12-11T12:53:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "The ripple effect: supply chain reconfigurations and cross-border credit dynamics",
+      "link": "https://www.bis.org/publ/work1315.htm",
+      "desc": "by Ricardo Correa, Andrea Fabiani, Matias Ossandon Busch, Miguel Sarmiento<br />We study the role that cross-border firm-to-firm credit plays in financing exporters. Exploiting the exogenous shock of US tariffs on Chinese goods in 2018–2019, we examine the response of Colombian firms – bystanders no",
+      "date": "2025-12-10T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "The economics of water scarcity",
+      "link": "https://www.bis.org/publ/work1314.htm",
+      "desc": "by Jon Frost, Carlos Madeira, Serafín Martínez-Jaramillo<br />In many countries around the world, water scarcity could become a macroeconomically relevant concern. As a key input into production processes (agriculture, power generation and industrial use) and a common good, water resources risk bein",
+      "date": "2025-12-09T13:00:00.000Z",
+      "type": "arxiv",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy"
+      ]
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "date": "2025-01-27T19:26:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "date": "2025-01-27T19:01:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "date": "2025-01-27T18:12:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+      "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "date": "2025-01-27T17:27:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+      "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "date": "2025-01-27T17:20:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+      "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "date": "2025-01-27T14:55:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+      "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+      "date": "2025-01-27T14:05:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+      "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+      "date": "2025-01-27T13:28:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+      "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+      "date": "2025-01-27T11:57:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+      "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+      "date": "2025-01-27T10:30:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+      "desc": "Companies with good payouts are now the hottest bet in China markets.",
+      "date": "2025-01-27T10:30:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+      "date": "2025-01-27T10:02:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+      "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+      "date": "2025-01-27T09:46:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+      "date": "2025-01-27T06:05:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+      "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+      "date": "2025-01-27T03:33:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+      "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+      "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
+      "date": "2025-01-26T11:00:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+      "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+      "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
+      "date": "2025-01-26T10:30:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+      "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+      "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
+      "date": "2025-01-26T05:01:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+      "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+      "desc": "The story of home affordability in the U.S. told from a single front porch.",
+      "date": "2025-01-26T02:00:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+      "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+      "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+      "date": "2025-01-25T10:30:00.000Z",
+      "type": "news",
+      "label": "WSJ Markets",
+      "tags": [
+        "WSJ",
+        "markets"
+      ]
+    },
+    {
+      "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
+      "link": "https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f",
+      "desc": "Banks are hoping to sell the X debt at around 90 to 95 cents on the dollar.",
+      "date": "2025-01-24T20:37:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service",
+      "link": "https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f",
+      "desc": "The Canadian government said it would provide extraordinary financing to Canada Post to avoid insolvency at the state-owned mail service.",
+      "date": "2025-01-24T20:13:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Amazon Willing to Discuss Quebec Shutdown With Canadian Officials",
+      "link": "https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f",
+      "desc": "Amazon.com said it is open to talks with officials from the Canadian and Quebec governments about the decision to shut down operations in the country’s French-speaking province, which would lead to 1,700 people losing their jobs.",
+      "date": "2025-01-24T19:15:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Target Drops DEI Goals and Ends Program to Boost Black Suppliers",
+      "link": "https://www.wsj.com/articles/target-drops-dei-goals-and-ends-program-to-boost-black-suppliers-77cb4c75?mod=pls_whats_news_us_business_f",
+      "desc": "Once a stalwart supporter of Black and LGBTQ rights, the retailer joined corporate America’s retreat from DEI initiatives.",
+      "date": "2025-01-24T18:51:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-08708375?mod=pls_whats_news_us_business_f",
+      "desc": "Find insight on Cnooc, YTL Power International, Ampol, and more in the latest Market Talks covering energy and utilities.",
+      "date": "2025-01-24T17:29:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-f817645e?mod=pls_whats_news_us_business_f",
+      "desc": "Find insight on CSX, Givaudan, Rio Tinto and more in the latest Market Talks covering basic materials.",
+      "date": "2025-01-24T17:28:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-f1469058?mod=pls_whats_news_us_business_f",
+      "desc": "Read about CSX, Magna International, Alaska Air and more in the latest Market Talks covering the auto and transport sector.",
+      "date": "2025-01-24T17:28:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Novo Nordisk Shares Surge on New Obesity Drug Results",
+      "link": "https://www.wsj.com/articles/novo-nordisk-shares-surge-on-new-obesity-drug-results-416670ee?mod=pls_whats_news_us_business_f",
+      "desc": "Novo Nordisk shares rose sharply after the Danish pharmaceutical giant said an experimental weight-loss shot helped patients lose 22% of their body weight in a clinical trial.",
+      "date": "2025-01-24T16:52:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "EU Conditionally Approves International Paper's $7.16 Billion DS Smith Buy",
+      "link": "https://www.wsj.com/articles/eu-conditionally-approves-international-papers-7-16-billion-ds-smith-buy-c1ce87f1?mod=pls_whats_news_us_business_f",
+      "desc": "The European Commission said that the parties’ offer to sell five of International Paper’s plants in Europe fully addresses its competition concerns over the deal.",
+      "date": "2025-01-24T15:55:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Google to Put Warnings on U.K. Businesses Using Fake Online Reviews",
+      "link": "https://www.wsj.com/articles/google-to-put-warnings-on-u-k-businesses-using-fake-online-reviews-eb75c038?mod=pls_whats_news_us_business_f",
+      "desc": "The search giant has offered to start punishing British businesses that boost their star ratings with fake reviews and the people that post them, ending the U.K. competition watchdog’s investigation into online reviews.",
+      "date": "2025-01-24T15:40:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Ericsson Shares Slump as Earnings Hit by Weakness Outside of Core Networks Business",
+      "link": "https://www.wsj.com/articles/ericsson-sees-further-signs-of-market-stabilization-as-north-america-sales-rise-19ac5238?mod=pls_whats_news_us_business_f",
+      "desc": "The company’s shares fell to the bottom of the Stoxx Europe 600 index as higher operating costs and weakness in some of its business units dented earnings.",
+      "date": "2025-01-24T14:07:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Verizon Results Boosted by Higher Prices, Gain in Wireless Customers",
+      "link": "https://www.wsj.com/articles/verizon-results-boosted-by-higher-prices-gain-in-wireless-customers-5f0ff6e9?mod=pls_whats_news_us_business_f",
+      "desc": "The New York telecommunications giant’s quarterly earnings beat Wall Street forecasts as higher prices helped to boost revenue.",
+      "date": "2025-01-24T14:05:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "If You Need to Escape a Wildfire in an EV, Here Is What to Know",
+      "link": "https://www.wsj.com/articles/if-you-need-to-escape-a-wildfire-in-an-ev-here-is-what-to-know-0fa41f51?mod=pls_whats_news_us_business_f",
+      "desc": "Driving an electric car in a wildfire emergency has its own unique challenges and benefits.",
+      "date": "2025-01-24T13:00:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "CaixaBank's CFO Sees Case for Dealmaking Among Europe's Banks",
+      "link": "https://www.wsj.com/articles/caixabanks-cfo-sees-case-for-dealmaking-among-europes-banks-0b47910b?mod=pls_whats_news_us_business_f",
+      "desc": "Growth through acquisitions isn’t part of CaixaBank’s latest three-year plan, it should be for other banks in Europe, Caixa’s finance chief Javier Pano said in an interview.",
+      "date": "2025-01-24T11:11:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Tesla to Recall Cars in China on Safety Concerns",
+      "link": "https://www.wsj.com/articles/tesla-to-recall-1-2-million-cars-in-china-on-safety-concerns-06ff757a?mod=pls_whats_news_us_business_f",
+      "desc": "Tesla China plans to fix 1.2 million China-made and imported vehicles with software issues.",
+      "date": "2025-01-24T10:56:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Korea Zinc Shares Rally After Adopting New Investor Protection Rules",
+      "link": "https://www.wsj.com/articles/korea-zinc-shares-rally-after-rules-for-better-minority-investors-protection-8874c125?mod=pls_whats_news_us_business_f",
+      "desc": "Korea Zinc’s shares rose sharply a day after the world’s leading zinc smelter decided to adopt new rules that management said would bolster minority shareholders’ rights.",
+      "date": "2025-01-24T09:56:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Burberry Sees Positive Signs as Turnaround Plan Continues",
+      "link": "https://www.wsj.com/articles/burberry-sees-positive-signs-as-turnaround-plan-continues-d3713aff?mod=pls_whats_news_us_business_f",
+      "desc": "The company upgraded its earnings outlook as sales returned to growth in the Americas, saying efforts to revamp its brand showed positive signs over the key holiday period.",
+      "date": "2025-01-24T09:31:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Rolls-Royce Strikes Contract to Supply Nuclear Reactors for U.K. Submarines",
+      "link": "https://www.wsj.com/articles/rolls-royce-gets-9-37-bln-contract-to-supply-nuclear-reactors-for-u-k-submarines-4ad2961c?mod=pls_whats_news_us_business_f",
+      "desc": "Rolls-Royce will manufacture nuclear reactors to power new U.K. submarines under a contract valued approximately at $11.1 billion.",
+      "date": "2025-01-24T09:27:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "China's WeRide Wants to Build Global Robotaxi Empire",
+      "link": "https://www.wsj.com/articles/chinas-weride-wants-to-build-global-robotaxi-empire-6804cc80?mod=pls_whats_news_us_business_f",
+      "desc": "The Chinese autonomous-driving company is aiming to make more inroads overseas this year, betting that robotaxis and related services will be in high demand in coming years.",
+      "date": "2025-01-24T08:30:00.000Z",
+      "type": "news",
+      "label": "WSJ Business",
+      "tags": [
+        "WSJ",
+        "business"
+      ]
+    },
+    {
+      "title": "Climate Change and the Environment",
+      "link": "https://cepr.org/research/programme-areas/climate-change-and-environment",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Climate Change and the Environment</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (n",
+      "date": "2024-04-18T08:40:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Public Policy",
+      "link": "https://cepr.org/research/programme-areas/public-policy",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Public Policy</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span></",
+      "date": "2022-12-08T13:40:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Human Resources",
+      "link": "https://cepr.org/research/programme-areas/human-resources",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Human Resources</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span>",
+      "date": "2022-11-08T15:30:59.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Transition Economics",
+      "link": "https://cepr.org/research/programme-areas/transition-economics",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Transition Economics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</",
+      "date": "2022-11-03T13:40:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Institutions and Economic Performance",
+      "link": "https://cepr.org/research/programme-areas/institutions-and-economic-performance",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Institutions and Economic Performance</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous",
+      "date": "2022-11-03T13:40:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Applied Macroeconomics",
+      "link": "https://cepr.org/research/programme-areas/applied-macroeconomics",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Applied Macroeconomics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)",
+      "date": "2022-11-03T12:43:17.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Banking and Corporate Finance",
+      "link": "https://cepr.org/research/programme-areas/banking-and-corporate-finance",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Banking and Corporate Finance</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not ve",
+      "date": "2022-09-06T13:00:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "Asset Pricing",
+      "link": "https://cepr.org/research/programme-areas/asset-pricing",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Asset Pricing</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span></",
+      "date": "2022-09-06T13:00:01.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
+      ]
+    },
+    {
+      "title": "International Macroeconomics",
+      "link": "https://cepr.org/research/programme-areas/international-macroeconomics",
+      "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">International Macroeconomics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not ver",
+      "date": "2022-08-09T16:13:04.000Z",
+      "type": "arxiv",
+      "label": "CEPR",
+      "tags": [
+        "paper",
+        "economics",
+        "policy"
       ]
     }
   ]
