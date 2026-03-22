@@ -508,20 +508,6 @@
 // ─────────────────────────────────────────────────────
 //  CONFIG
 // ─────────────────────────────────────────────────────
-const FEEDS = [
-  { url:'https://arxiv.org/rss/q-fin',           type:'arxiv',  label:'arXiv q-fin',       tags:['research','paper'] },
-  { url:'https://arxiv.org/rss/q-fin.PM',         type:'arxiv',  label:'arXiv Portfolio',   tags:['portfolio','paper'] },
-  { url:'https://arxiv.org/rss/q-fin.TR',         type:'arxiv',  label:'arXiv Trading',     tags:['trading','paper'] },
-  { url:'https://arxiv.org/rss/q-fin.RM',         type:'arxiv',  label:'arXiv Risk',        tags:['risk','paper'] },
-  { url:'https://arxiv.org/rss/q-fin.CP',         type:'arxiv',  label:'arXiv Pricing',     tags:['derivatives','paper'] },
-  { url:'https://quantocracy.com/feed/',           type:'blog',   label:'Quantocracy',       tags:['curated','blog'] },
-  { url:'https://robotwealth.com/feed/',           type:'blog',   label:'Robot Wealth',      tags:['strategy','blog'] },
-  { url:'https://alphaarchitect.com/feed/',        type:'blog',   label:'Alpha Architect',   tags:['factor','blog'] },
-  { url:'https://www.reddit.com/r/quant.rss?limit=20',        type:'reddit', label:'r/quant',     tags:['community'] },
-  { url:'https://www.reddit.com/r/algotrading.rss?limit=20',  type:'reddit', label:'r/algotrading',tags:['algo','community'] },
-  { url:'https://www.reddit.com/r/quantfinance.rss?limit=15', type:'reddit', label:'r/quantfinance',tags:['community'] },
-];
-
 const TOPIC_KEYWORDS = {
   ml:          ['machine learning','neural','deep learning','llm','transformer','reinforcement','lstm','gpt','model'],
   risk:        ['risk','var','volatility','stress test','tail','drawdown','hedge','covariance'],
@@ -541,99 +527,47 @@ let sortMode     = 'date';
 let failedFeeds  = [];
 
 // ─────────────────────────────────────────────────────
-//  FETCH & PARSE
-// ─────────────────────────────────────────────────────
-async function fetchWithProxy(url) {
-  const proxies = [
-    `https://corsproxy.io/?${encodeURIComponent(url)}`,
-    `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
-    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-  ];
-  for (const proxy of proxies) {
-    try {
-      const res = await fetch(proxy, { signal: AbortSignal.timeout(7000) });
-      if (!res.ok) continue;
-      // allorigins wraps in JSON
-      if (proxy.includes('allorigins')) {
-        const j = await res.json();
-        return j.contents || '';
-      }
-      return await res.text();
-    } catch { continue; }
-  }
-  return null;
-}
-
-function parseXML(xmlStr, feed) {
-  try {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(xmlStr, 'application/xml');
-    const isAtom = !!doc.querySelector('feed');
-    const items  = [...doc.querySelectorAll(isAtom ? 'entry' : 'item')];
-    return items.slice(0, 20).map(item => {
-      const txt  = sel => item.querySelector(sel)?.textContent?.trim() || '';
-      const attr = (sel, a) => item.querySelector(sel)?.getAttribute(a) || '';
-      const title = stripHtml(txt('title'));
-      const link  = txt('link') || attr('link','href') || txt('guid') || '#';
-      const desc  = stripHtml(txt('description') || txt('summary') || txt('content') || '').slice(0, 260);
-      const raw   = txt('pubDate') || txt('published') || txt('updated') || txt('dc\\:date') || '';
-      const date  = raw ? new Date(raw) : new Date();
-      return { title, link, desc, date, type: feed.type, label: feed.label, tags: [...feed.tags] };
-    }).filter(i => i.title && i.title.length > 4);
-  } catch { return []; }
-}
-
-async function fetchFeed(feed) {
-  try {
-    const xml = await fetchWithProxy(feed.url);
-    if (!xml) { failedFeeds.push(feed.label); return []; }
-    return parseXML(xml, feed);
-  } catch { failedFeeds.push(feed.label); return []; }
-}
-
-// ─────────────────────────────────────────────────────
-//  LOAD ALL
+//  LOAD ALL — reads from data.json (built by GitHub Actions)
 // ─────────────────────────────────────────────────────
 async function loadAll() {
-  failedFeeds = [];
   document.getElementById('feed-container').innerHTML = `
     <div class="loader">
       <div class="loader-grid">
         ${Array(9).fill('<div class="loader-cell"></div>').join('')}
       </div>
-      <div class="loader-text">Fetching feeds…</div>
-      <div class="loader-sub">Connecting to arXiv · blogs · Reddit…</div>
+      <div class="loader-text">Loading feed data…</div>
+      <div class="loader-sub">Fetching latest from arXiv · blogs · Reddit…</div>
     </div>`;
 
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  allItems = results
-    .flatMap(r => r.status === 'fulfilled' ? r.value : [])
-    .filter(i => i.title)
-    .sort((a,b) => b.date - a.date);
+  try {
+    const res = await fetch('./data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('data.json not found');
+    const data = await res.json();
 
-  // Dedupe
-  const seen = new Set();
-  allItems = allItems.filter(i => {
-    const k = i.title.toLowerCase().slice(0,55);
-    if (seen.has(k)) return false;
-    seen.add(k); return true;
-  });
+    failedFeeds = data.failed || [];
+    allItems = (data.items || []).map(i => ({ ...i, date: new Date(i.date) }));
 
-  // Update stats
-  const now = new Date();
-  document.getElementById('lastUpdate').textContent = now.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-  document.getElementById('stat-total').textContent   = allItems.length;
-  document.getElementById('stat-sources').textContent = new Set(allItems.map(i=>i.label)).size + '/' + FEEDS.length;
-  document.getElementById('stat-time').textContent    = now.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+    const updated = data.updated ? new Date(data.updated) : new Date();
+    document.getElementById('lastUpdate').textContent = updated.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('stat-total').textContent   = allItems.length;
+    document.getElementById('stat-sources').textContent = new Set(allItems.map(i=>i.label)).size;
+    document.getElementById('stat-time').textContent    = updated.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
 
-  // Update counts
-  ['all','arxiv','blog','reddit'].forEach(t => {
-    const n = t === 'all' ? allItems.length : allItems.filter(i=>i.type===t).length;
-    const el = document.getElementById('count-'+t);
-    if (el) el.textContent = n || '—';
-  });
+    ['all','arxiv','blog','reddit'].forEach(t => {
+      const n = t === 'all' ? allItems.length : allItems.filter(i=>i.type===t).length;
+      const el = document.getElementById('count-'+t);
+      if (el) el.textContent = n || '—';
+    });
 
-  renderAll();
+    renderAll();
+
+  } catch(e) {
+    document.getElementById('feed-container').innerHTML = `
+      <div class="loader">
+        <div class="loader-text" style="color:var(--red)">⚠ Feed data not ready yet</div>
+        <div class="loader-sub">The GitHub Action is building data.json for the first time.<br>Check back in ~2 minutes or trigger the workflow manually.</div>
+      </div>`;
+  }
 }
 
 // ─────────────────────────────────────────────────────
@@ -725,11 +659,6 @@ function setSort(v) { sortMode = v; renderAll(); }
 // ─────────────────────────────────────────────────────
 //  UTILS
 // ─────────────────────────────────────────────────────
-function stripHtml(s) {
-  return s.replace(/<[^>]*>/g,' ').replace(/\s+/g,' ')
-    .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>')
-    .replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ').trim();
-}
 function esc(s) {
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
