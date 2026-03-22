@@ -1,115 +1,202 @@
+/**
+ * QuantFrontier — Feed Fetcher
+ * Pulls from tier-1 financial news & research sources.
+ * Runs server-side every 30 min, outputs data.json.
+ */
 import { XMLParser } from 'fast-xml-parser';
 import { writeFileSync } from 'fs';
 
+// ─────────────────────────────────────────────────────────────
+//  SOURCES — only confirmed, high-quality, publicly accessible
+// ─────────────────────────────────────────────────────────────
 const FEEDS = [
-  // arXiv — redirects to export.arxiv.org, empty on weekends (expected)
-  { url:'https://export.arxiv.org/rss/q-fin',      type:'arxiv',  label:'arXiv q-fin',       tags:['research','paper'] },
-  { url:'https://export.arxiv.org/rss/q-fin.PM',   type:'arxiv',  label:'arXiv Portfolio',   tags:['portfolio','paper'] },
-  { url:'https://export.arxiv.org/rss/q-fin.TR',   type:'arxiv',  label:'arXiv Trading',     tags:['trading','paper'] },
-  { url:'https://export.arxiv.org/rss/q-fin.RM',   type:'arxiv',  label:'arXiv Risk',        tags:['risk','paper'] },
-  { url:'https://export.arxiv.org/rss/q-fin.CP',   type:'arxiv',  label:'arXiv Pricing',     tags:['derivatives','paper'] },
-  { url:'https://export.arxiv.org/rss/cs.LG',      type:'arxiv',  label:'arXiv ML',          tags:['ML','paper'] },
-  // Blogs
-  { url:'https://quantocracy.com/feed/',               type:'blog', label:'Quantocracy',        tags:['curated','blog'] },
-  { url:'https://robotwealth.com/feed/',               type:'blog', label:'Robot Wealth',       tags:['strategy','blog'] },
-  { url:'https://alphaarchitect.com/feed/',            type:'blog', label:'Alpha Architect',    tags:['factor','blog'] },
-  { url:'https://blog.thinknewfound.com/feed/',        type:'blog', label:'Newfound Research',  tags:['portfolio','blog'] },
-  { url:'https://www.portfolioprobe.com/feed/',        type:'blog', label:'Portfolio Probe',    tags:['portfolio','blog'] },
-  { url:'https://blog.headlandstech.com/feed/',        type:'blog', label:'Headlands Tech',     tags:['HFT','blog'] },
-  { url:'https://feeds.feedburner.com/AllAboutAlpha',  type:'blog', label:'All About Alpha',    tags:['hedge fund','blog'] },
-  { url:'https://www.eurekahedge.com/Research/RSS',    type:'blog', label:'Eurekahedge',        tags:['hedge fund','research'] },
+
+  // ── FINANCIAL NEWS ──────────────────────────────────────────
+  {
+    url:   'https://www.ft.com/rss/home',
+    type:  'news', label: 'Financial Times', tags: ['FT','markets'],
+  },
+  {
+    url:   'https://www.economist.com/finance-and-economics/rss.xml',
+    type:  'news', label: 'The Economist', tags: ['macro','economics'],
+  },
+  {
+    url:   'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
+    type:  'news', label: 'WSJ Markets', tags: ['WSJ','markets'],
+  },
+  {
+    url:   'https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml',
+    type:  'news', label: 'WSJ Business', tags: ['WSJ','business'],
+  },
+  {
+    url:   'https://www.cnbc.com/id/10001147/device/rss/rss.html',
+    type:  'news', label: 'CNBC Finance', tags: ['CNBC','finance'],
+  },
+  {
+    url:   'https://www.cnbc.com/id/15839135/device/rss/rss.html',
+    type:  'news', label: 'CNBC Markets', tags: ['CNBC','markets'],
+  },
+  {
+    url:   'https://feeds.marketwatch.com/marketwatch/topstories/',
+    type:  'news', label: 'MarketWatch', tags: ['markets'],
+  },
+  {
+    url:   'https://seekingalpha.com/feed.xml',
+    type:  'news', label: 'Seeking Alpha', tags: ['analysis','equities'],
+  },
+
+  // ── RESEARCH PAPERS ─────────────────────────────────────────
+  {
+    // arXiv search API — returns recent q-fin papers any day of the week
+    url:   'https://export.arxiv.org/api/query?search_query=cat:q-fin.PM+OR+cat:q-fin.TR+OR+cat:q-fin.RM+OR+cat:q-fin.CP+OR+cat:q-fin.MF&start=0&max_results=30&sortBy=lastUpdatedDate&sortOrder=descending',
+    type:  'arxiv', label: 'arXiv q-fin', tags: ['paper','research'], atom: true,
+  },
+  {
+    url:   'https://export.arxiv.org/api/query?search_query=cat:cs.LG+AND+%28ti:portfolio+OR+ti:trading+OR+ti:finance+OR+ti:risk+OR+ti:market%29&start=0&max_results=20&sortBy=lastUpdatedDate&sortOrder=descending',
+    type:  'arxiv', label: 'arXiv ML×Finance', tags: ['ML','paper','research'], atom: true,
+  },
+  {
+    // BIS Working Papers (Bank for International Settlements) — uses RDF/RSS 1.0
+    url:   'https://www.bis.org/doclist/wppubls.rss',
+    type:  'arxiv', label: 'BIS Working Papers', tags: ['paper','macro','policy'], rdf: true,
+  },
+  {
+    // Federal Reserve FEDS Notes & Working Papers
+    url:   'https://www.federalreserve.gov/feeds/feds.xml',
+    type:  'arxiv', label: 'Federal Reserve', tags: ['paper','policy','macro'],
+  },
+  {
+    // CEPR — Centre for Economic Policy Research
+    url:   'https://cepr.org/rss.xml',
+    type:  'arxiv', label: 'CEPR', tags: ['paper','economics','policy'],
+  },
 ];
 
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_' });
+// ─────────────────────────────────────────────────────────────
+const parser = new XMLParser({
+  ignoreAttributes:    false,
+  attributeNamePrefix: '@_',
+  parseAttributeValue: true,
+  processEntities:     false,   // avoid entity expansion limit
+  htmlEntities:        true,
+});
 
 function stripHtml(s = '') {
-  return s.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ')
+  return String(s)
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
     .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>')
-    .replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ').trim();
+    .replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ')
+    .replace(/&#8211;/g,'\u2013').replace(/&#8212;/g,'\u2014')
+    .replace(/&#8216;/g,'\u2018').replace(/&#8217;/g,'\u2019')
+    .replace(/&#8220;/g,'\u201c').replace(/&#8221;/g,'\u201d')
+    .replace(/&#\d+;/g, ' ')
+    .trim();
+}
+
+function str(v) {
+  if (!v) return '';
+  if (typeof v === 'string') return v;
+  if (v['#text']) return String(v['#text']);
+  if (Array.isArray(v)) return String(v[0] || '');
+  return String(v);
 }
 
 async function fetchFeed(feed) {
-  try {
-    const res = await fetch(feed.url, {
-      headers: {
-        'User-Agent': 'QuantFrontier/1.0 (feed aggregator; research tool)',
-        'Accept': feed.json ? 'application/json' : 'application/rss+xml, application/xml, text/xml',
-      },
-      signal: AbortSignal.timeout(12000),
-      redirect: 'follow',
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const res = await fetch(feed.url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; QuantFrontier/2.0; +https://noisequotient.github.io/quant-finance)',
+      'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+    },
+    signal:   AbortSignal.timeout(12000),
+    redirect: 'follow',
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const xml = await res.text();
+  const doc = parser.parse(xml);
 
-    // Reddit JSON API
-    if (feed.json) {
-      const data = await res.json();
-      const posts = data?.data?.children || [];
-      return posts.slice(0,25).map(p => {
-        const d = p.data;
-        return {
-          title: d.title || '',
-          link:  `https://reddit.com${d.permalink}`,
-          desc:  (d.selftext || '').slice(0,280),
-          date:  new Date(d.created_utc * 1000).toISOString(),
-          type:  feed.type, label: feed.label, tags: feed.tags,
-        };
-      }).filter(i => i.title && i.title.length > 4);
-    }
+  let items = [];
 
-    // XML / RSS
-    const xml = await res.text();
-    const doc = parser.parse(xml);
-    const channel = doc?.rss?.channel || doc?.feed || {};
-    const rawItems = channel.item || channel.entry || [];
-    const items = Array.isArray(rawItems) ? rawItems : (rawItems ? [rawItems] : []);
+  if (feed.atom) {
+    // Atom feed (arXiv API)
+    const entries = doc?.feed?.entry || [];
+    const arr = Array.isArray(entries) ? entries : [entries];
+    items = arr.map(e => ({
+      title: stripHtml(str(e.title)),
+      link:  str(e.id) || (Array.isArray(e.link) ? str(e.link[0]?.['@_href']) : str(e.link?.['@_href'])),
+      desc:  stripHtml(str(e.summary)).slice(0, 300),
+      date:  new Date(str(e.updated) || str(e.published) || Date.now()).toISOString(),
+    }));
 
-    return items.slice(0, 20).map(item => {
-      const title = stripHtml(String(item.title?.['#text'] || item.title || '')).trim();
-      const link  = item.link?.['@_href'] || (typeof item.link === 'string' ? item.link : '') || item.guid?.['#text'] || String(item.guid||'');
-      const desc  = stripHtml(String(item.description || item.summary?.['#text'] || item.summary || item['content:encoded'] || '')).slice(0, 280);
-      const raw   = item.pubDate || item.published || item.updated || '';
-      const date  = raw ? new Date(String(raw)).toISOString() : new Date().toISOString();
-      return { title, link: typeof link === 'string' ? link : '', desc, date, type: feed.type, label: feed.label, tags: feed.tags };
-    }).filter(i => i.title && i.title.length > 4);
+  } else if (feed.rdf) {
+    // RSS 1.0 / RDF (BIS)
+    const ns = doc?.['rdf:RDF'] || doc?.RDF || doc;
+    const rawItems = ns?.item || [];
+    const arr = Array.isArray(rawItems) ? rawItems : [rawItems];
+    items = arr.map(i => ({
+      title: stripHtml(str(i.title)),
+      link:  str(i.link) || str(i['@_rdf:about']),
+      desc:  stripHtml(str(i.description)).slice(0, 300),
+      date:  new Date(str(i['dc:date']) || str(i.pubDate) || Date.now()).toISOString(),
+    }));
 
-  } catch(e) {
-    console.error(`✗ ${feed.label}: ${e.message}`);
-    return null;
+  } else {
+    // Standard RSS 2.0
+    const channel = doc?.rss?.channel || {};
+    const rawItems = channel.item || [];
+    const arr = Array.isArray(rawItems) ? rawItems : [rawItems];
+    items = arr.map(i => ({
+      title: stripHtml(str(i.title)),
+      link:  str(i.link) || str(i.guid?.['#text']) || str(i.guid),
+      desc:  stripHtml(str(i.description) || str(i['content:encoded'])).slice(0, 300),
+      date:  new Date(str(i.pubDate) || str(i.updated) || Date.now()).toISOString(),
+    }));
   }
+
+  return items
+    .filter(i => i.title && i.title.length > 6 && i.link)
+    .slice(0, 25)
+    .map(i => ({ ...i, type: feed.type, label: feed.label, tags: feed.tags }));
 }
 
-console.log('Fetching feeds...\n');
-const results = await Promise.allSettled(FEEDS.map(fetchFeed));
+// ─────────────────────────────────────────────────────────────
+console.log(`\n⚡ QuantFrontier Feed Refresh — ${new Date().toUTCString()}\n`);
 
-const failed = [];
-let items = [];
-results.forEach((r, i) => {
-  if (r.status === 'fulfilled' && r.value !== null) {
-    console.log(`✓ ${FEEDS[i].label}: ${r.value.length} items`);
-    items.push(...r.value);
-  } else {
-    console.log(`✗ ${FEEDS[i].label}: failed`);
-    failed.push(FEEDS[i].label);
+const results = await Promise.allSettled(FEEDS.map(async feed => {
+  try {
+    const items = await fetchFeed(feed);
+    console.log(`  ✓ ${feed.label.padEnd(24)} ${items.length} items`);
+    return items;
+  } catch(e) {
+    console.log(`  ✗ ${feed.label.padEnd(24)} ${e.message}`);
+    return [];
   }
-});
+}));
 
-// Deduplicate
+const failed = FEEDS
+  .filter((_,i) => results[i].status === 'rejected' || (results[i].value?.length === 0))
+  .map(f => f.label);
+
+let items = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+
+// Deduplicate by title
 const seen = new Set();
 items = items
-  .sort((a,b) => new Date(b.date) - new Date(a.date))
+  .sort((a, b) => new Date(b.date) - new Date(a.date))
   .filter(i => {
-    const k = i.title.toLowerCase().slice(0,60);
+    const k = i.title.toLowerCase().slice(0, 70);
     if (seen.has(k)) return false;
     seen.add(k); return true;
   });
 
 const output = {
   updated: new Date().toISOString(),
-  count: items.length,
+  count:   items.length,
   failed,
   items,
 };
 
 writeFileSync('data.json', JSON.stringify(output, null, 2));
-console.log(`\n✓ Saved ${items.length} items to data.json`);
-if (failed.length) console.log(`✗ Failed: ${failed.join(', ')}`);
+console.log(`\n✓ ${items.length} articles saved to data.json`);
+if (failed.length) console.log(`  Gaps: ${failed.join(', ')}`);
