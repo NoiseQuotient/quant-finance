@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T22:27:51.972Z",
+  "updated": "2026-03-22T22:57:52.248Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -459,21 +459,6 @@
       "relevance": 7
     },
     {
-      "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
-      "link": "http://arxiv.org/abs/2603.15059v2",
-      "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
-      "date": "2026-03-17T04:14:28.000Z",
-      "type": "arxiv",
-      "label": "arXiv ML×Finance",
-      "tags": [
-        "ML",
-        "paper",
-        "research"
-      ],
-      "archive_url": null,
-      "relevance": 7
-    },
-    {
       "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
       "link": "http://arxiv.org/abs/2603.15681v1",
       "desc": "Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 2023 monsoon season alone. Existing risk maps treat every pixel independently, ignoring the basic fact that flooding upstream raises risk downstream. We",
@@ -603,6 +588,21 @@
       "relevance": 6
     },
     {
+      "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
+      "link": "http://arxiv.org/abs/2603.15059v2",
+      "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
+      "date": "2026-03-17T04:14:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
       "title": "A public-private partnership? Central bank funding and credit supply",
       "link": "https://www.bis.org/publ/work1336.htm",
       "desc": "by Matthieu Chavaz, David Elliott, Win Monroe<br />We exploit the surprise announcement and subsequent amendment of a central bank funding scheme to test how public liquidity provision affects credit market outcomes. Contrary to the notion that public liquidity is primarily a substitute for private ",
@@ -672,20 +672,6 @@
         "markets"
       ],
       "archive_url": "https://web.archive.org/web/https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-      "relevance": 5
-    },
-    {
-      "title": "The spring housing market is on, but mortgage rates just shot higher. Here&apos;s what to know.",
-      "link": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
-      "desc": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
-      "date": "2026-03-20T19:03:56.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ],
-      "archive_url": null,
       "relevance": 5
     },
     {
@@ -1024,6 +1010,20 @@
         "markets"
       ],
       "archive_url": "https://web.archive.org/web/https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "relevance": 4
+    },
+    {
+      "title": "The spring housing market is on, but mortgage rates just shot higher. Here&apos;s what to know.",
+      "link": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
+      "desc": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
+      "date": "2026-03-20T19:03:56.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ],
+      "archive_url": null,
       "relevance": 4
     },
     {
