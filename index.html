@@ -381,6 +381,58 @@
       opacity: 0.5;
       cursor: not-allowed;
     }
+    .btn-summary {
+      background: rgba(245, 158, 11, 0.1);
+      color: var(--warning);
+      border-color: rgba(245, 158, 11, 0.2);
+    }
+    .btn-summary:hover {
+      background: rgba(245, 158, 11, 0.2);
+      border-color: rgba(245, 158, 11, 0.4);
+    }
+    .summary-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 20px;
+    }
+    .summary-content {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      max-width: 600px;
+      width: 100%;
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    .summary-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: var(--text);
+    }
+    .summary-text {
+      color: var(--text2);
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+    .summary-close {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-family: var(--sans);
+    }
 
     /* ── LOADING & EMPTY STATES ────────────── */
     .loading {
@@ -716,10 +768,10 @@
     // Render single article
     function renderArticle(item) {
       const date = new Date(item.date);
-      const isPaywalled = item.tags?.includes('premium');
+      const isPaywalled = item.isPaywalled || item.tags?.includes('premium');
       const hasArchive = item.archiveLink;
       
-      // For paywalled sites with archive, use archive link as primary
+      // Use archive link for paywalled sites if available
       const primaryLink = (isPaywalled && hasArchive) ? item.archiveLink : item.link;
       const showArchiveBtn = (isPaywalled && hasArchive && primaryLink !== item.archiveLink);
       
@@ -742,8 +794,11 @@
       const primaryBtnText = (isPaywalled && hasArchive) ? 'Read (Archived)' : 'Read';
       const primaryBtnClass = (isPaywalled && hasArchive) ? 'btn-archive' : 'btn-primary';
       
+      // Summary button (will trigger AI summary)
+      const summaryBtn = `<button class="action-btn btn-summary" data-id="${item.link}" onclick="showSummary('${escapeHtml(item.link)}', '${escapeHtml(item.title)}', '${escapeHtml(item.desc || '')}')">Summary</button>`;
+      
       return `
-        <div class="article-card">
+        <div class="article-card" data-id="${item.link}">
           <div class="article-header">
             <div class="article-source">
               <span class="source-badge ${badgeClass}">${escapeHtml(item.label)}</span>
@@ -758,6 +813,7 @@
           <div class="article-footer">
             <div class="article-tags">${tagsHtml}</div>
             <div class="article-actions">
+              ${summaryBtn}
               ${archiveBtn}
               <a href="${escapeHtml(primaryLink)}" class="action-btn ${primaryBtnClass}" target="_blank" rel="noopener" title="${isPaywalled && hasArchive ? 'Read archived version (no paywall)' : 'Read original article'}">
                 ${primaryBtnText}
@@ -766,6 +822,34 @@
           </div>
         </div>
       `;
+    }
+
+    // Show summary modal
+    function showSummary(link, title, description) {
+      // For now, use description as summary
+      // In production, this would call an AI API
+      const summary = description || 'No summary available. Click "Read" to view full article.';
+      
+      const modal = document.createElement('div');
+      modal.className = 'summary-modal';
+      modal.innerHTML = `
+        <div class="summary-content">
+          <div class="summary-title">${escapeHtml(title)}</div>
+          <div class="summary-text">${escapeHtml(summary)}</div>
+          <div style="text-align: center;">
+            <button class="summary-close" onclick="this.closest('.summary-modal').remove()">Close</button>
+          </div>
+        </div>
+      `;
+      
+      document.body.appendChild(modal);
+      
+      // Close on background click
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+          modal.remove();
+        }
+      });
     }
 
     // Escape HTML
