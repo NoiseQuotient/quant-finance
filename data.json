@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T02:59:01.605Z",
+  "updated": "2026-03-23T03:59:18.748Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -359,19 +359,6 @@
       "relevance": 7
     },
     {
-      "title": "Retirees, brace yourselves: Global crises might rattle the markets, but they don&#x2019;t have to ruin your retirement",
-      "link": "https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories",
-      "desc": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement",
-      "date": "2026-03-22T15:27:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ],
-      "archive_url": null,
-      "relevance": 7
-    },
-    {
       "title": "Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies",
       "link": "http://arxiv.org/abs/2603.19414v1",
       "desc": "We study a problem of optimal allocation in a discrete-time multi-period pure-exchange economy, where agents have preferences over stochastic endowment processes that are represented by strongly time-consistent dynamic risk measures. We introduce the notion of dynamic Pareto-optimal allocation proce",
@@ -514,6 +501,19 @@
       ],
       "archive_url": null,
       "relevance": 7
+    },
+    {
+      "title": "Retirees, brace yourselves: Global crises might rattle the markets, but they don&#x2019;t have to ruin your retirement",
+      "link": "https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories",
+      "desc": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement",
+      "date": "2026-03-22T15:27:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ],
+      "archive_url": null,
+      "relevance": 6
     },
     {
       "title": "Mapping the Midweek Mountain: The New Geography of Hybrid Work",
