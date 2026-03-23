@@ -1,18 +1,162 @@
 {
-  "updated": "2026-03-23T14:07:50.090Z",
+  "updated": "2026-03-23T14:37:06.024Z",
   "count": 249,
-  "failed": [],
+  "failed": [
+    "Bloomberg Odd Lots",
+    "Bloomberg Business"
+  ],
   "items": [
     {
-      "title": "&apos;This is insane.&apos; Long lines plague U.S. airports as TSA officers face second missed paycheck in shutdown",
+      "title": "Caledonia Mining Corporation Plc 2025 Q4 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4884993-caledonia-mining-corporation-plc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:32:19.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "WeRide Inc. 2025 Q4 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4884992-weride-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:31:30.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Trican Well Service: Strong Execution Leads To Strong Cash Flows",
+      "link": "https://seekingalpha.com/article/4884864-trican-well-service-stock-strong-execution-leads-strong-cash-flows?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:30:25.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Markets rebound after Donald Trump postpones attack on Iranian energy",
+      "link": "https://www.ft.com/content/95d42d92-cedf-4849-a669-a53d2179b257",
+      "desc": "Stocks reverse losses and oil tumbles after US President says there have been ‘constructive’ talks with Tehran",
+      "date": "2026-03-23T14:29:59.000Z",
+      "type": "news",
+      "label": "Financial Times",
+      "tags": [
+        "FT",
+        "markets"
+      ]
+    },
+    {
+      "title": "Clearwater Analytics: 17% Annualized Return On A Smooth Go-Private Transaction",
+      "link": "https://seekingalpha.com/article/4884965-clearwater-analytics-17-percent-annualized-return-on-a-smooth-go-private-transaction?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:26:46.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "ICE deployed to some U.S. airports as long security lines persist during partial shutdown",
       "link": "https://www.cnbc.com/2026/03/23/airport-lines-government-shutdown-tsa.html",
       "desc": "The Trump administration said it plans to send ICE officers to help ease airport congestion amid TSA officer absences as they face second missed full paycheck.",
-      "date": "2026-03-23T14:07:01.000Z",
+      "date": "2026-03-23T14:25:07.000Z",
       "type": "news",
       "label": "CNBC Finance",
       "tags": [
         "CNBC",
         "finance"
+      ]
+    },
+    {
+      "title": "Golar LNG: One Of The Biggest Winners From The Iran War",
+      "link": "https://seekingalpha.com/article/4884964-golar-lng-one-of-the-biggest-winners-from-the-iran-war?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:25:04.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "GDS Holdings: Bullish On EBITDA Beat And Client Price Hike",
+      "link": "https://seekingalpha.com/article/4884962-gds-holdings-bullish-on-ebitda-beat-and-client-price-hike?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:19:54.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
+      "link": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
+      "desc": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
+      "date": "2026-03-23T14:19:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "VIG Vs. VYM: Best Time In ~10 Years To Buy Dividend Growth",
+      "link": "https://seekingalpha.com/article/4884961-vig-vs-vym-best-time-in-10-years-to-buy-dividend-growth?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:17:34.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "&#x2018;My careful planning was derailed&#x2019;: I can&#x2019;t rollover my $800,000 401(k) from my prior employer. What did I do wrong?",
+      "link": "https://www.marketwatch.com/story/this-is-a-first-world-problem-im-72-my-company-wont-accept-my-800-000-401-k-rollover-what-now-93c5eb20?mod=mw_rss_topstories",
+      "desc": "&#x201c;While I recognize this is a first-world problem &#x2014; a high earner, still working at 73, fretting over less than $10,000 in taxes &#x2014; I am frustrated.&#x201d;",
+      "date": "2026-03-23T14:15:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "Why gold&#x2019;s plunge into a bear market is a good signal for stocks, according to Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35?mod=mw_rss_topstories",
+      "desc": "Bullion&#x2019;s rise in previous months shows investors were wary of geopolitics, suggests Morgan Stanley strategist Mike Wilson.",
+      "date": "2026-03-23T14:08:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "Tencent Music: Down Over 30%, But Not A Buy For Me",
+      "link": "https://seekingalpha.com/article/4884956-tencent-music-down-over-30-percent-but-not-a-buy-for-me?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:07:54.000Z",
+      "type": "news",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
       ]
     },
     {
@@ -257,18 +401,6 @@
       ]
     },
     {
-      "title": "Markets rebound after Donald Trump postpones attack on Iranian energy",
-      "link": "https://www.ft.com/content/95d42d92-cedf-4849-a669-a53d2179b257",
-      "desc": "Stocks reverse losses and oil tumbles after US President says there have been ‘constructive’ talks with Tehran",
-      "date": "2026-03-23T13:31:11.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets"
-      ]
-    },
-    {
       "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
       "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
       "desc": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses.",
@@ -341,102 +473,6 @@
       ]
     },
     {
-      "title": "Covered Call ETFs: The Promise, The Reality And My Top Picks",
-      "link": "https://seekingalpha.com/article/4884807-covered-call-etfs-the-promise-the-reality-and-my-top-picks?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:15:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Chart Of The Day: Treasuries Trashed As Inflation Fears Mount",
-      "link": "https://seekingalpha.com/article/4884955-chart-of-day-treasuries-trashed-as-inflation-fears-mount?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:15:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Veolia Environnement SA (VEOEY) Discusses Integration of ESG as a Value Driver in Financial and Operational Strategy Transcript",
-      "link": "https://seekingalpha.com/article/4884920-veolia-environnement-sa-veoey-discusses-integration-of-esg-as-a-value-driver-in-financial-and?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:13:39.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests",
-      "link": "https://seekingalpha.com/article/4884938-anthropic-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:08:48.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Super Micro: The Market's Faith Is Now Severely Eroded (Downgrade)",
-      "link": "https://seekingalpha.com/article/4884937-super-micro-the-markets-faith-is-now-severely-eroded-downgrade?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:06:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "S&P 500 Falls As Potential 2026 Rate Cuts Taken Away By Fed",
-      "link": "https://seekingalpha.com/article/4884951-sp-500-falls-potential-2026-rate-cuts-taken-away-by-fed?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:05:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "General Mills: Slowly Accumulating Shares On The Dip",
-      "link": "https://seekingalpha.com/article/4884936-general-mills-slowly-accumulating-shares-on-the-dip?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:02:06.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Focus On What He Does And Not What He Says",
-      "link": "https://seekingalpha.com/article/4884934-focus-on-what-he-does-and-not-what-he-says?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:01:09.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "Stocks are teetering on the edge of correction territory. Why the &#x2018;TACO trade&#x2019; could flop.",
       "link": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
       "desc": "The once-reliable trade on Wall Street, that President Trump &#x201c;always chickens out,&#x201d; could be torpedoed by the Iran conflict.",
@@ -482,17 +518,6 @@
       ]
     },
     {
-      "title": "Why gold&#x2019;s plunge into a bear market is a good signal for stocks, according to Morgan Stanley",
-      "link": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35?mod=mw_rss_topstories",
-      "desc": "Bullion&#x2019;s rise in previous months shows investors were wary of geopolitics, suggests Morgan Stanley strategist Mike Wilson.",
-      "date": "2026-03-23T11:28:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
       "title": "Trump looking at inviting Belarus’s Lukashenko to White House",
       "link": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
       "desc": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin",
@@ -520,28 +545,6 @@
       "link": "https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories",
       "desc": "&#x201c;It probably makes little sense, given our lifestyle, to obsess over retirement accounts.&#x201d;",
       "date": "2026-03-23T09:45:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Gold flirts with bear-market territory as Iran war takes its toll",
-      "link": "https://www.marketwatch.com/story/gold-flirts-with-bear-market-territory-as-iran-war-takes-its-toll-d3312aad?mod=mw_rss_topstories",
-      "desc": "Higher interest rates, forced liquidation of positions for margin calls and the possibility of central banks having to tap their reserves are conspiring to send gold lower, despite the economic uncertainty from which it&#x2019;s meant to benefit.",
-      "date": "2026-03-23T09:35:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "&#x2018;This is a first-world problem&#x2019;: I&#x2019;m 72. My company won&#x2019;t accept my $800,000 401(k) rollover. What now?",
-      "link": "https://www.marketwatch.com/story/this-is-a-first-world-problem-im-72-my-company-wont-accept-my-800-000-401-k-rollover-what-now-93c5eb20?mod=mw_rss_topstories",
-      "desc": "&#x201c;I am frustrated. My careful planning was derailed by my company&#x2019;s unexpected bankruptcy and plan transition.&#x201d;",
-      "date": "2026-03-23T09:15:00.000Z",
       "type": "news",
       "label": "MarketWatch",
       "tags": [
