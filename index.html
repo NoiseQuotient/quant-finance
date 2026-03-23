@@ -3,29 +3,26 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>QuantFrontier — Intelligence Terminal</title>
+  <title>QuantFrontier — Financial Intelligence Terminal</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg:       #09090f;
-      --bg2:      #0f0f18;
-      --bg3:      #14141f;
-      --bg4:      #1a1a28;
-      --border:   rgba(255,255,255,0.07);
-      --border2:  rgba(255,255,255,0.04);
-      --amber:    #f59e0b;
-      --amber2:   #fbbf24;
-      --cyan:     #22d3ee;
-      --green:    #4ade80;
-      --red:      #f87171;
-      --violet:   #a78bfa;
-      --text:     #e2e2f0;
-      --text2:    #9898b8;
-      --text3:    #55556a;
-      --mono:     'JetBrains Mono', monospace;
-      --sans:     'Inter', sans-serif;
-      --sidebar:  240px;
+      --bg: #0a0a0f;
+      --bg2: #111118;
+      --bg3: #1a1a24;
+      --border: rgba(255,255,255,0.08);
+      --border2: rgba(255,255,255,0.04);
+      --primary: #3b82f6;
+      --primary-light: #60a5fa;
+      --secondary: #8b5cf6;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --text: #f1f5f9;
+      --text2: #94a3b8;
+      --text3: #475569;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'Inter', sans-serif;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -33,649 +30,773 @@
       background: var(--bg);
       color: var(--text);
       font-family: var(--sans);
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
+      line-height: 1.6;
+      min-height: 100vh;
     }
 
-    /* ── TICKER ─────────────────────────────── */
-    .ticker-bar {
-      background: var(--amber);
-      color: #000;
-      font-family: var(--mono);
-      font-size: 0.72rem;
-      font-weight: 600;
-      padding: 0.3rem 0;
-      overflow: hidden;
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-    .ticker-inner {
-      display: inline-block;
-      animation: ticker 40s linear infinite;
-    }
-    .ticker-inner span { margin: 0 2.5rem; }
-    @keyframes ticker { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
-
-    /* ── TOP BAR ────────────────────────────── */
-    .topbar {
+    /* ── HEADER ─────────────────────────────── */
+    .header {
       background: var(--bg2);
       border-bottom: 1px solid var(--border);
+      padding: 1rem 2rem;
       display: flex;
       align-items: center;
-      height: 52px;
-      padding: 0 1.25rem;
-      gap: 1rem;
-      flex-shrink: 0;
-      z-index: 50;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
     }
+
     .logo {
-      display: flex; align-items: center; gap: 0.5rem;
-      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
     }
-    .logo-mark {
-      width: 28px; height: 28px; border-radius: 6px;
-      background: linear-gradient(135deg, var(--amber), #d97706);
-      display: flex; align-items: center; justify-content: center;
-      font-size: 0.8rem; font-weight: 800; color: #000;
+    .logo-icon {
+      width: 32px;
+      height: 32px;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      color: white;
+      font-size: 0.9rem;
     }
     .logo-text {
-      font-size: 0.95rem; font-weight: 800; letter-spacing: -0.5px;
+      font-size: 1.1rem;
+      font-weight: 700;
       color: var(--text);
     }
-    .logo-text span { color: var(--amber); }
-
-    .topbar-divider { width: 1px; height: 24px; background: var(--border); flex-shrink: 0; }
-
-    .search-wrap {
-      flex: 1; position: relative; max-width: 480px;
+    .logo-sub {
+      font-size: 0.75rem;
+      color: var(--text2);
+      font-family: var(--mono);
+      margin-top: 0.1rem;
     }
-    .search-icon { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text3); font-size: 0.85rem; pointer-events: none; }
+
+    .nav {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+    }
+    .nav-link {
+      color: var(--text2);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: color 0.2s;
+      padding: 0.5rem 0;
+      position: relative;
+    }
+    .nav-link:hover {
+      color: var(--text);
+    }
+    .nav-link.active {
+      color: var(--primary);
+    }
+    .nav-link.active::after {
+      content: '';
+      position: absolute;
+      bottom: -1px;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: var(--primary);
+      border-radius: 1px;
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+    .search-box {
+      position: relative;
+      width: 300px;
+    }
+    .search-icon {
+      position: absolute;
+      left: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text3);
+      font-size: 0.9rem;
+    }
     .search-input {
       width: 100%;
       background: var(--bg3);
       border: 1px solid var(--border);
-      border-radius: 8px;
+      border-radius: 6px;
+      padding: 0.6rem 0.75rem 0.6rem 2.5rem;
       color: var(--text);
       font-family: var(--sans);
-      font-size: 0.85rem;
-      padding: 0.45rem 0.75rem 0.45rem 2.2rem;
+      font-size: 0.9rem;
       outline: none;
       transition: border-color 0.2s;
     }
-    .search-input:focus { border-color: rgba(245,158,11,0.4); }
-    .search-input::placeholder { color: var(--text3); }
-
-    .topbar-right {
-      margin-left: auto;
-      display: flex; align-items: center; gap: 0.75rem; flex-shrink: 0;
+    .search-input:focus {
+      border-color: var(--primary);
     }
-    .live-pill {
-      display: flex; align-items: center; gap: 0.4rem;
-      background: rgba(74,222,128,0.08);
-      border: 1px solid rgba(74,222,128,0.2);
-      border-radius: 999px;
-      padding: 0.2rem 0.65rem;
-      font-size: 0.7rem; font-weight: 600; color: var(--green);
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
       font-family: var(--mono);
+      font-size: 0.8rem;
+      color: var(--text2);
     }
-    .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: blink 1.4s infinite; }
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
-    .last-update { font-family: var(--mono); font-size: 0.68rem; color: var(--text3); }
-    .refresh-btn {
-      background: var(--bg3); border: 1px solid var(--border);
-      border-radius: 7px; color: var(--text2); cursor: pointer;
-      font-size: 0.78rem; padding: 0.35rem 0.7rem;
-      transition: all 0.2s; display: flex; align-items: center; gap: 0.3rem;
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--success);
+      animation: pulse 2s infinite;
     }
-    .refresh-btn:hover { border-color: var(--amber); color: var(--amber); }
-
-    /* ── BODY LAYOUT ────────────────────────── */
-    .app-body {
-      display: flex;
-      flex: 1;
-      overflow: hidden;
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
     }
-
-    /* ── SIDEBAR ────────────────────────────── */
-    .sidebar {
-      width: var(--sidebar);
-      background: var(--bg2);
-      border-right: 1px solid var(--border);
-      display: flex;
-      flex-direction: column;
-      flex-shrink: 0;
-      overflow-y: auto;
-      padding: 1rem 0;
-    }
-    .sidebar::-webkit-scrollbar { width: 4px; }
-    .sidebar::-webkit-scrollbar-track { background: transparent; }
-    .sidebar::-webkit-scrollbar-thumb { background: var(--bg4); border-radius: 2px; }
-
-    .sidebar-section { padding: 0 0.75rem; margin-bottom: 1.5rem; }
-    .sidebar-label {
-      font-size: 0.62rem; font-weight: 700; letter-spacing: 0.12em;
-      text-transform: uppercase; color: var(--text3); font-family: var(--mono);
-      padding: 0 0.5rem; margin-bottom: 0.4rem;
-    }
-    .nav-item {
-      display: flex; align-items: center; gap: 0.6rem;
-      padding: 0.45rem 0.5rem; border-radius: 7px;
-      cursor: pointer; transition: all 0.15s;
-      font-size: 0.82rem; color: var(--text2);
-      border: 1px solid transparent;
-    }
-    .nav-item:hover { background: var(--bg3); color: var(--text); }
-    .nav-item.active {
-      background: rgba(245,158,11,0.1);
-      border-color: rgba(245,158,11,0.2);
-      color: var(--amber);
-    }
-    .nav-item .nav-icon { width: 16px; text-align: center; font-size: 0.85rem; flex-shrink: 0; }
-    .nav-count {
-      margin-left: auto;
-      font-family: var(--mono); font-size: 0.65rem;
-      color: var(--text3);
-      background: var(--bg4);
-      padding: 0.1rem 0.4rem; border-radius: 4px;
-    }
-
-    .sidebar-divider { height: 1px; background: var(--border); margin: 0.25rem 0.75rem 1.25rem; }
-
-    .stats-box {
-      margin: 0 0.75rem;
-      background: var(--bg3);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 0.75rem;
-    }
-    .stat-row { display: flex; justify-content: space-between; align-items: center; padding: 0.25rem 0; }
-    .stat-key { font-size: 0.72rem; color: var(--text3); }
-    .stat-val { font-family: var(--mono); font-size: 0.72rem; color: var(--amber2); font-weight: 600; }
 
     /* ── MAIN CONTENT ───────────────────────── */
-    .main {
-      flex: 1;
-      overflow-y: auto;
-      display: flex;
-      flex-direction: column;
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
     }
-    .main::-webkit-scrollbar { width: 6px; }
-    .main::-webkit-scrollbar-track { background: transparent; }
-    .main::-webkit-scrollbar-thumb { background: var(--bg4); border-radius: 3px; }
 
-    /* ── VIEW CONTROLS ──────────────────────── */
-    .view-bar {
+    .filters {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+    }
+    .filter-btn {
+      padding: 0.5rem 1.25rem;
       background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text2);
+      font-family: var(--sans);
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .filter-btn:hover {
+      border-color: var(--primary);
+      color: var(--text);
+    }
+    .filter-btn.active {
+      background: rgba(59, 130, 246, 0.1);
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+    }
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--text2);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-family: var(--mono);
+      margin-bottom: 0.5rem;
+    }
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .stat-sub {
+      font-size: 0.8rem;
+      color: var(--text2);
+      margin-top: 0.25rem;
+    }
+
+    /* ── ARTICLES GRID ──────────────────────── */
+    .section-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin: 2rem 0 1rem;
+      padding-bottom: 0.5rem;
       border-bottom: 1px solid var(--border);
-      padding: 0.6rem 1.25rem;
+    }
+
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 3rem;
+    }
+
+    .article-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .article-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--primary);
+    }
+
+    .article-header {
+      padding: 1.25rem 1.25rem 0.75rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    .article-source {
       display: flex;
       align-items: center;
       gap: 0.5rem;
-      flex-shrink: 0;
+    }
+    .source-badge {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.25rem 0.75rem;
+      border-radius: 4px;
+      font-family: var(--mono);
+    }
+    .badge-research {
+      background: rgba(139, 92, 246, 0.1);
+      color: var(--secondary);
+      border: 1px solid rgba(139, 92, 246, 0.2);
+    }
+    .badge-news {
+      background: rgba(59, 130, 246, 0.1);
+      color: var(--primary);
+      border: 1px solid rgba(59, 130, 246, 0.2);
+    }
+    .badge-analysis {
+      background: rgba(16, 185, 129, 0.1);
+      color: var(--success);
+      border: 1px solid rgba(16, 185, 129, 0.2);
+    }
+    .article-time {
+      font-size: 0.75rem;
+      color: var(--text3);
+      font-family: var(--mono);
+    }
+
+    .article-content {
+      padding: 0 1.25rem 1rem;
+    }
+    .article-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.4;
+      margin-bottom: 0.75rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .article-desc {
+      font-size: 0.875rem;
+      color: var(--text2);
+      line-height: 1.5;
+      margin-bottom: 1rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-footer {
+      padding: 0.75rem 1.25rem;
+      background: var(--bg3);
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .article-tags {
+      display: flex;
+      gap: 0.5rem;
       flex-wrap: wrap;
     }
-    .view-label { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); margin-right: 0.25rem; font-family: var(--mono); }
-    .chip {
-      padding: 0.25rem 0.7rem; border-radius: 999px; font-size: 0.75rem; font-weight: 500;
-      cursor: pointer; border: 1px solid var(--border);
-      background: transparent; color: var(--text2);
-      transition: all 0.15s;
-    }
-    .chip:hover { border-color: rgba(245,158,11,0.3); color: var(--text); }
-    .chip.active { background: rgba(245,158,11,0.12); border-color: rgba(245,158,11,0.35); color: var(--amber); }
-    .view-right { margin-left: auto; display: flex; align-items: center; gap: 0.5rem; }
-    .sort-select {
-      background: var(--bg3); border: 1px solid var(--border);
-      border-radius: 6px; color: var(--text2); font-size: 0.75rem;
-      padding: 0.25rem 0.5rem; cursor: pointer; outline: none;
-      font-family: var(--sans);
-    }
-
-    /* ── FEED ───────────────────────────────── */
-    .feed-wrap { padding: 1.25rem; }
-
-    /* Section header */
-    .feed-section-title {
-      display: flex; align-items: center; gap: 0.75rem;
-      margin: 0.5rem 0 0.9rem;
-      font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em;
-      text-transform: uppercase; color: var(--text3);
-      font-family: var(--mono);
-    }
-    .feed-section-title::after { content: ''; flex: 1; height: 1px; background: var(--border); }
-    .feed-section-count {
-      background: var(--bg4); border: 1px solid var(--border);
-      border-radius: 4px; padding: 0.1rem 0.45rem;
-      font-size: 0.65rem; color: var(--text3);
-    }
-
-    /* Grid */
-    .feed-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-      gap: 0.875rem;
-      margin-bottom: 2rem;
-    }
-
-    /* Card */
-    .card {
-      background: var(--bg2);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 1.1rem;
-      display: flex; flex-direction: column; gap: 0.55rem;
-      text-decoration: none; color: inherit;
-      transition: background 0.15s, border-color 0.15s, transform 0.15s;
-      position: relative; overflow: hidden;
-    }
-    .card::before {
-      content: ''; position: absolute; left: 0; top: 0; bottom: 0;
-      width: 2px; opacity: 0; transition: opacity 0.15s;
-    }
-    .card:hover { background: var(--bg3); border-color: rgba(245,158,11,0.2); transform: translateY(-1px); }
-    .card:hover::before { opacity: 1; }
-
-    /* Per-source left border colors */
-    .card.src-arxiv::before   { background: var(--violet); }
-    .card.src-blog::before    { background: var(--cyan); }
-    .card.src-reddit::before  { background: #fb923c; }
-    .card.src-news::before    { background: var(--amber); }
-
-    .card-top { display: flex; align-items: center; justify-content: space-between; }
-    .source-badge {
-      font-family: var(--mono); font-size: 0.64rem; font-weight: 600;
-      letter-spacing: 0.06em; text-transform: uppercase;
-      padding: 0.15rem 0.5rem; border-radius: 4px;
-    }
-    .b-arxiv  { background: rgba(167,139,250,0.12); color: var(--violet); border: 1px solid rgba(167,139,250,0.2); }
-    .b-blog   { background: rgba(34,211,238,0.1);   color: var(--cyan);   border: 1px solid rgba(34,211,238,0.2); }
-    .b-reddit { background: rgba(251,146,60,0.1);   color: #fb923c;       border: 1px solid rgba(251,146,60,0.2); }
-    .b-news   { background: rgba(245,158,11,0.1);   color: var(--amber);  border: 1px solid rgba(245,158,11,0.2); }
-
-    .card-time {
-      font-family: var(--mono); font-size: 0.65rem; color: var(--text3);
-      display: flex; align-items: center; gap: 0.3rem;
-    }
-    .card-time::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--text3); }
-
-    .card h3 {
-      font-size: 0.875rem; font-weight: 600; line-height: 1.45;
-      color: var(--text); letter-spacing: -0.2px;
-    }
-    .card p {
-      font-size: 0.78rem; color: var(--text2); line-height: 1.6;
-      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-    }
-    .card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 0.2rem; }
-    .card-tags { display: flex; gap: 0.3rem; flex-wrap: wrap; }
     .tag {
-      font-size: 0.64rem; padding: 0.1rem 0.42rem; border-radius: 3px;
-      background: var(--bg4); color: var(--text3);
-      border: 1px solid var(--border2);
+      font-size: 0.7rem;
+      padding: 0.2rem 0.5rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text2);
       font-family: var(--mono);
     }
-    .card-arrow { font-size: 0.75rem; color: var(--text3); transition: color 0.15s, transform 0.15s; }
-    .card:hover .card-arrow { color: var(--amber); transform: translateX(2px); }
+    .article-actions {
+      display: flex;
+      gap: 0.5rem;
+    }
+    .action-btn {
+      padding: 0.4rem 0.75rem;
+      font-size: 0.8rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-family: var(--mono);
+      transition: all 0.2s;
+      border: 1px solid transparent;
+    }
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    .btn-primary:hover {
+      background: var(--primary-light);
+    }
+    .btn-archive {
+      background: rgba(139, 92, 246, 0.1);
+      color: var(--secondary);
+      border-color: rgba(139, 92, 246, 0.2);
+    }
+    .btn-archive:hover {
+      background: rgba(139, 92, 246, 0.2);
+      border-color: rgba(139, 92, 246, 0.4);
+    }
+    .btn-archive.disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
 
-    /* ── LOADER ─────────────────────────────── */
-    .loader {
-      display: flex; flex-direction: column; align-items: center; justify-content: center;
-      gap: 1.2rem; padding: 5rem 2rem; flex: 1;
+    /* ── LOADING & EMPTY STATES ────────────── */
+    .loading {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text2);
     }
-    .loader-grid {
-      display: grid; grid-template-columns: repeat(3,1fr); gap: 5px;
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      margin: 0 auto 1rem;
+      animation: spin 1s linear infinite;
     }
-    .loader-cell {
-      width: 10px; height: 10px; border-radius: 2px;
-      background: var(--bg4);
-      animation: load-pulse 1.2s ease-in-out infinite;
+    @keyframes spin {
+      to { transform: rotate(360deg); }
     }
-    .loader-cell:nth-child(1) { animation-delay: 0s; }
-    .loader-cell:nth-child(2) { animation-delay: 0.1s; }
-    .loader-cell:nth-child(3) { animation-delay: 0.2s; }
-    .loader-cell:nth-child(4) { animation-delay: 0.3s; }
-    .loader-cell:nth-child(5) { animation-delay: 0.2s; }
-    .loader-cell:nth-child(6) { animation-delay: 0.1s; }
-    .loader-cell:nth-child(7) { animation-delay: 0.2s; }
-    .loader-cell:nth-child(8) { animation-delay: 0.3s; }
-    .loader-cell:nth-child(9) { animation-delay: 0.4s; }
-    @keyframes load-pulse {
-      0%,100% { background: var(--bg4); }
-      50% { background: var(--amber); }
-    }
-    .loader-text { font-family: var(--mono); font-size: 0.8rem; color: var(--text3); }
-    .loader-sub { font-size: 0.72rem; color: var(--text3); opacity: 0.6; margin-top: -0.6rem; }
 
     .empty-state {
-      display: flex; flex-direction: column; align-items: center; gap: 0.75rem;
-      padding: 4rem 2rem; color: var(--text3);
-      font-family: var(--mono); font-size: 0.8rem;
-    }
-    .empty-icon { font-size: 2rem; opacity: 0.3; }
-
-    /* ── ERROR CARD ─────────────────────────── */
-    .feed-error {
-      background: rgba(248,113,113,0.05);
-      border: 1px solid rgba(248,113,113,0.15);
-      border-radius: 8px; padding: 0.75rem 1rem;
-      font-size: 0.78rem; color: var(--red);
-      font-family: var(--mono); margin-bottom: 1rem;
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text2);
     }
 
-    /* ── MOBILE ─────────────────────────────── */
+    /* ── FOOTER ────────────────────────────── */
+    .footer {
+      background: var(--bg2);
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      margin-top: 3rem;
+      text-align: center;
+      color: var(--text2);
+      font-size: 0.875rem;
+    }
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .footer-link {
+      color: var(--text2);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .footer-link:hover {
+      color: var(--text);
+    }
+
+    /* ── RESPONSIVE ────────────────────────── */
+    @media (max-width: 1024px) {
+      .articles-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      }
+    }
     @media (max-width: 768px) {
-      .sidebar { display: none; }
-      body { overflow: auto; }
-      .app-body { overflow: auto; }
-      .main { overflow: visible; }
-      .feed-grid { grid-template-columns: 1fr; }
-      .topbar { padding: 0 1rem; }
-      .last-update { display: none; }
+      .header {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1rem;
+      }
+      .nav {
+        gap: 1rem;
+      }
+      .search-box {
+        width: 100%;
+      }
+      .container {
+        padding: 1rem;
+      }
+      .articles-grid {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
 <body>
-
-<!-- TICKER -->
-<div class="ticker-bar">
-  <div class="ticker-inner">
-    <span>arXiv q-fin</span>
-    <span>▸</span>
-    <span>QUANTITATIVE FINANCE INTELLIGENCE TERMINAL</span>
-    <span>▸</span>
-    <span>ML · RISK · DERIVATIVES · PORTFOLIO · ALT DATA · HFT · FACTOR INVESTING</span>
-    <span>▸</span>
-    <span>Live research feeds · Auto-refreshing every 10 min</span>
-    <span>▸</span>
-    <span>arXiv · Quantocracy · Robot Wealth · Alpha Architect · r/quant · r/algotrading</span>
-    <span>▸</span>
-  </div>
-</div>
-
-<!-- TOP BAR -->
-<div class="topbar">
-  <div class="logo">
-    <div class="logo-mark">Q</div>
-    <div class="logo-text">Quant<span>Frontier</span></div>
-  </div>
-  <div class="topbar-divider"></div>
-  <div class="search-wrap">
-    <span class="search-icon">⌕</span>
-    <input class="search-input" type="text" placeholder="Search papers, strategies, models…" id="searchInput" oninput="renderAll()" />
-  </div>
-  <div class="topbar-right">
-    <div class="live-pill"><div class="live-dot"></div>LIVE</div>
-    <span class="last-update" id="lastUpdate">—</span>
-    <button class="refresh-btn" onclick="loadAll()">↻ Refresh</button>
-  </div>
-</div>
-
-<!-- APP BODY -->
-<div class="app-body">
-
-  <!-- SIDEBAR -->
-  <aside class="sidebar">
-    <div class="sidebar-section">
-      <div class="sidebar-label">Sources</div>
-      <div class="nav-item active" onclick="setFilter('all', this)" data-filter="all">
-        <span class="nav-icon">◈</span> All Sources
-        <span class="nav-count" id="count-all">—</span>
+  <!-- HEADER -->
+  <header class="header">
+    <a href="#" class="logo">
+      <div class="logo-icon">QF</div>
+      <div>
+        <div class="logo-text">QuantFrontier</div>
+        <div class="logo-sub">FINANCIAL INTELLIGENCE TERMINAL</div>
       </div>
-      <div class="nav-item" onclick="setFilter('arxiv', this)" data-filter="arxiv">
-        <span class="nav-icon" style="color:var(--violet)">📄</span> arXiv Papers
-        <span class="nav-count" id="count-arxiv">—</span>
+    </a>
+    
+    <nav class="nav">
+      <a href="#" class="nav-link active" data-filter="all">All</a>
+      <a href="#" class="nav-link" data-filter="research">Research</a>
+      <a href="#" class="nav-link" data-filter="news">News</a>
+      <a href="#" class="nav-link" data-filter="analysis">Analysis</a>
+    </nav>
+    
+    <div class="header-actions">
+      <div class="search-box">
+        <span class="search-icon">⌕</span>
+        <input type="text" class="search-input" placeholder="Search articles..." id="searchInput">
       </div>
-      <div class="nav-item" onclick="setFilter('blog', this)" data-filter="blog">
-        <span class="nav-icon" style="color:var(--cyan)">✍</span> Quant Blogs
-        <span class="nav-count" id="count-blog">—</span>
+      <div class="status">
+        <span class="status-dot"></span>
+        <span id="lastUpdate">Loading...</span>
       </div>
-      <div class="nav-item" onclick="setFilter('reddit', this)" data-filter="reddit">
-        <span class="nav-icon" style="color:#fb923c">💬</span> Community
-        <span class="nav-count" id="count-reddit">—</span>
+    </div>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main class="container">
+    <!-- STATS -->
+    <div class="stats">
+      <div class="stat-card">
+        <div class="stat-label">Total Articles</div>
+        <div class="stat-value" id="stat-total">0</div>
+        <div class="stat-sub" id="stat-updated">Updated: --:--</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Research Papers</div>
+        <div class="stat-value" id="stat-research">0</div>
+        <div class="stat-sub">arXiv, BIS, Fed, CEPR</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Financial News</div>
+        <div class="stat-value" id="stat-news">0</div>
+        <div class="stat-sub">FT, WSJ, Bloomberg, Economist</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Market Analysis</div>
+        <div class="stat-value" id="stat-analysis">0</div>
+        <div class="stat-sub">Seeking Alpha, CNBC, MarketWatch</div>
       </div>
     </div>
 
-    <div class="sidebar-divider"></div>
-
-    <div class="sidebar-section">
-      <div class="sidebar-label">Topics</div>
-      <div class="nav-item" onclick="setTopic('ml')">
-        <span class="nav-icon">🧠</span> ML &amp; AI
-      </div>
-      <div class="nav-item" onclick="setTopic('risk')">
-        <span class="nav-icon">🛡</span> Risk
-      </div>
-      <div class="nav-item" onclick="setTopic('portfolio')">
-        <span class="nav-icon">⚖</span> Portfolio
-      </div>
-      <div class="nav-item" onclick="setTopic('hft')">
-        <span class="nav-icon">⚡</span> HFT / Micro
-      </div>
-      <div class="nav-item" onclick="setTopic('derivatives')">
-        <span class="nav-icon">📐</span> Derivatives
-      </div>
-      <div class="nav-item" onclick="setTopic('altdata')">
-        <span class="nav-icon">🛰</span> Alt Data
-      </div>
+    <!-- FILTERS -->
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">All Content</button>
+      <button class="filter-btn" data-filter="premium">Premium Sources</button>
+      <button class="filter-btn" data-filter="quant">Quant Finance</button>
+      <button class="filter-btn" data-filter="macro">Macro Economics</button>
+      <button class="filter-btn" data-filter="ml">ML/AI</button>
     </div>
 
-    <div class="sidebar-divider"></div>
-
-    <div class="stats-box">
-      <div class="sidebar-label" style="padding:0;margin-bottom:0.5rem">Feed Stats</div>
-      <div class="stat-row"><span class="stat-key">Articles</span><span class="stat-val" id="stat-total">—</span></div>
-      <div class="stat-row"><span class="stat-key">Sources</span><span class="stat-val" id="stat-sources">—</span></div>
-      <div class="stat-row"><span class="stat-key">Updated</span><span class="stat-val" id="stat-time">—</span></div>
-    </div>
-  </aside>
-
-  <!-- MAIN -->
-  <main class="main">
-    <div class="view-bar">
-      <span class="view-label">Filter</span>
-      <button class="chip active" onclick="setChip('all',this)">All</button>
-      <button class="chip" onclick="setChip('arxiv',this)">Papers</button>
-      <button class="chip" onclick="setChip('blog',this)">Blogs</button>
-      <button class="chip" onclick="setChip('reddit',this)">Community</button>
-      <div class="view-right">
-        <select class="sort-select" onchange="setSort(this.value)">
-          <option value="date">Sort: Latest</option>
-          <option value="source">Sort: Source</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="feed-wrap">
-      <div id="feed-container">
-        <div class="loader">
-          <div class="loader-grid">
-            <div class="loader-cell"></div><div class="loader-cell"></div><div class="loader-cell"></div>
-            <div class="loader-cell"></div><div class="loader-cell"></div><div class="loader-cell"></div>
-            <div class="loader-cell"></div><div class="loader-cell"></div><div class="loader-cell"></div>
-          </div>
-          <div class="loader-text">Connecting to feeds…</div>
-          <div class="loader-sub">arXiv · Quantocracy · Reddit · Alpha Architect</div>
-        </div>
+    <!-- ARTICLES -->
+    <div id="articles-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <div>Loading financial intelligence data...</div>
       </div>
     </div>
   </main>
 
-</div>
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="https://github.com/NoiseQuotient/quant-finance" class="footer-link">GitHub</a>
+      <a href="https://arxiv.org" class="footer-link">arXiv</a>
+      <a href="https://archive.today" class="footer-link">Archive</a>
+      <a href="https://docs.openclaw.ai" class="footer-link">OpenClaw</a>
+    </div>
+    <div>QuantFrontier — Financial Intelligence Terminal</div>
+    <div style="margin-top: 0.5rem; font-size: 0.75rem; color: var(--text3);">
+      Auto-updated every 30 minutes • Archive links for paywalled content
+    </div>
+  </footer>
 
-<script>
-// ─────────────────────────────────────────────────────
-//  CONFIG
-// ─────────────────────────────────────────────────────
-const TOPIC_KEYWORDS = {
-  ml:          ['machine learning','neural','deep learning','llm','transformer','reinforcement','lstm','gpt','model'],
-  risk:        ['risk','var','volatility','stress test','tail','drawdown','hedge','covariance'],
-  portfolio:   ['portfolio','allocation','factor','momentum','mean variance','sharpe','optimization'],
-  hft:         ['high frequency','microstructure','order book','latency','market making','execution','bid-ask'],
-  derivatives: ['option','derivative','pricing','stochastic','volatility surface','svi','sabr','black-scholes'],
-  altdata:     ['alternative data','satellite','nlp','sentiment','credit card','earnings','text','news'],
-};
+  <script>
+    // State
+    let allItems = [];
+    let activeFilter = 'all';
+    let activeCategory = 'all';
+    let searchQuery = '';
 
-// ─────────────────────────────────────────────────────
-//  STATE
-// ─────────────────────────────────────────────────────
-let allItems   = [];
-let activeFilter = 'all';
-let activeTopic  = null;
-let sortMode     = 'date';
-let failedFeeds  = [];
+    // DOM Elements
+    const articlesContainer = document.getElementById('articles-container');
+    const searchInput = document.getElementById('searchInput');
+    const lastUpdateEl = document.getElementById('lastUpdate');
+    const statTotal = document.getElementById('stat-total');
+    const statResearch = document.getElementById('stat-research');
+    const statNews = document.getElementById('stat-news');
+    const statAnalysis = document.getElementById('stat-analysis');
+    const statUpdated = document.getElementById('stat-updated');
 
-// ─────────────────────────────────────────────────────
-//  LOAD ALL — reads from data.json (built by GitHub Actions)
-// ─────────────────────────────────────────────────────
-async function loadAll() {
-  document.getElementById('feed-container').innerHTML = `
-    <div class="loader">
-      <div class="loader-grid">
-        ${Array(9).fill('<div class="loader-cell"></div>').join('')}
-      </div>
-      <div class="loader-text">Loading feed data…</div>
-      <div class="loader-sub">Fetching latest from arXiv · blogs · Reddit…</div>
-    </div>`;
+    // Load data
+    async function loadData() {
+      try {
+        const response = await fetch('./data.json?t=' + Date.now());
+        if (!response.ok) throw new Error('Failed to load data');
+        const data = await response.json();
+        
+        allItems = data.items || [];
+        
+        // Update stats
+        const researchCount = allItems.filter(i => i.type === 'research').length;
+        const newsCount = allItems.filter(i => i.type === 'news').length;
+        const analysisCount = allItems.filter(i => i.type === 'analysis').length;
+        
+        statTotal.textContent = allItems.length;
+        statResearch.textContent = researchCount;
+        statNews.textContent = newsCount;
+        statAnalysis.textContent = analysisCount;
+        
+        // Update timestamps
+        const updated = data.updated ? new Date(data.updated) : new Date();
+        lastUpdateEl.textContent = `Updated: ${formatTime(updated)}`;
+        statUpdated.textContent = `Updated: ${formatTime(updated)}`;
+        
+        renderArticles();
+      } catch (error) {
+        articlesContainer.innerHTML = `
+          <div class="empty-state">
+            <div style="font-size: 2rem; margin-bottom: 1rem;">⚠️</div>
+            <div>Failed to load data</div>
+            <div style="margin-top: 0.5rem; font-size: 0.875rem;">${error.message}</div>
+          </div>
+        `;
+        console.error('Error loading data:', error);
+      }
+    }
 
-  try {
-    const res = await fetch('./data.json?t=' + Date.now());
-    if (!res.ok) throw new Error('data.json not found');
-    const data = await res.json();
+    // Format time
+    function formatTime(date) {
+      return date.toLocaleTimeString('en-US', { 
+        hour: '2-digit', 
+        minute: '2-digit',
+        hour12: false 
+      });
+    }
 
-    failedFeeds = data.failed || [];
-    allItems = (data.items || []).map(i => ({ ...i, date: new Date(i.date) }));
+    // Format relative time
+    function formatRelativeTime(date) {
+      const now = new Date();
+      const diffMs = now - date;
+      const diffMins = Math.floor(diffMs / (1000 * 60));
+      const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+      const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+      
+      if (diffMins < 60) return `${diffMins}m ago`;
+      if (diffHours < 24) return `${diffHours}h ago`;
+      if (diffDays < 7) return `${diffDays}d ago`;
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
 
-    const updated = data.updated ? new Date(data.updated) : new Date();
-    document.getElementById('lastUpdate').textContent = updated.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-    document.getElementById('stat-total').textContent   = allItems.length;
-    document.getElementById('stat-sources').textContent = new Set(allItems.map(i=>i.label)).size;
-    document.getElementById('stat-time').textContent    = updated.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+    // Render articles
+    function renderArticles() {
+      let filteredItems = [...allItems];
+      
+      // Apply category filter
+      if (activeCategory !== 'all') {
+        filteredItems = filteredItems.filter(item => item.type === activeCategory);
+      }
+      
+      // Apply tag filter
+      if (activeFilter !== 'all') {
+        filteredItems = filteredItems.filter(item => {
+          if (activeFilter === 'premium') {
+            return item.tags?.includes('premium');
+          }
+          if (activeFilter === 'quant') {
+            return item.tags?.some(tag => ['quant', 'research', 'paper'].includes(tag));
+          }
+          if (activeFilter === 'macro') {
+            return item.tags?.some(tag => ['macro', 'economics', 'policy'].includes(tag));
+          }
+          if (activeFilter === 'ml') {
+            return item.tags?.some(tag => ['ML', 'AI', 'machine learning'].includes(tag));
+          }
+          return true;
+        });
+      }
+      
+      // Apply search
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        filteredItems = filteredItems.filter(item => 
+          item.title.toLowerCase().includes(query) || 
+          item.desc.toLowerCase().includes(query) ||
+          item.label.toLowerCase().includes(query) ||
+          item.tags?.some(tag => tag.toLowerCase().includes(query))
+        );
+      }
+      
+      // Sort by date (newest first)
+      filteredItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+      
+      if (filteredItems.length === 0) {
+        articlesContainer.innerHTML = `
+          <div class="empty-state">
+            <div style="font-size: 2rem; margin-bottom: 1rem;">📄</div>
+            <div>No articles found</div>
+            <div style="margin-top: 0.5rem; font-size: 0.875rem;">Try changing filters or search terms</div>
+          </div>
+        `;
+        return;
+      }
+      
+      // Group by type for section headers
+      const grouped = {
+        research: filteredItems.filter(i => i.type === 'research'),
+        news: filteredItems.filter(i => i.type === 'news'),
+        analysis: filteredItems.filter(i => i.type === 'analysis')
+      };
+      
+      let html = '';
+      
+      // Research section
+      if (grouped.research.length > 0 && (activeCategory === 'all' || activeCategory === 'research')) {
+        html += `<div class="section-title">Research Papers (${grouped.research.length})</div>`;
+        html += '<div class="articles-grid">';
+        grouped.research.forEach(item => html += renderArticle(item));
+        html += '</div>';
+      }
+      
+      // News section
+      if (grouped.news.length > 0 && (activeCategory === 'all' || activeCategory === 'news')) {
+        html += `<div class="section-title">Financial News (${grouped.news.length})</div>`;
+        html += '<div class="articles-grid">';
+        grouped.news.forEach(item => html += renderArticle(item));
+        html += '</div>';
+      }
+      
+      // Analysis section
+      if (grouped.analysis.length > 0 && (activeCategory === 'all' || activeCategory === 'analysis')) {
+        html += `<div class="section-title">Market Analysis (${grouped.analysis.length})</div>`;
+        html += '<div class="articles-grid">';
+        grouped.analysis.forEach(item => html += renderArticle(item));
+        html += '</div>';
+      }
+      
+      articlesContainer.innerHTML = html;
+    }
 
-    ['all','arxiv','blog','reddit'].forEach(t => {
-      const n = t === 'all' ? allItems.length : allItems.filter(i=>i.type===t).length;
-      const el = document.getElementById('count-'+t);
-      if (el) el.textContent = n || '—';
+    // Render single article
+    function renderArticle(item) {
+      const date = new Date(item.date);
+      const isPaywalled = item.tags?.includes('premium');
+      const hasArchive = item.archiveLink;
+      
+      let badgeClass = 'badge-news';
+      if (item.type === 'research') badgeClass = 'badge-research';
+      if (item.type === 'analysis') badgeClass = 'badge-analysis';
+      
+      const tagsHtml = item.tags?.map(tag => 
+        `<span class="tag">${escapeHtml(tag)}</span>`
+      ).join('') || '';
+      
+      let archiveBtn = '';
+      if (hasArchive) {
+        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener">Archive</a>`;
+      } else if (isPaywalled) {
+        archiveBtn = `<span class="action-btn btn-archive disabled">Archive</span>`;
+      }
+      
+      return `
+        <div class="article-card">
+          <div class="article-header">
+            <div class="article-source">
+              <span class="source-badge ${badgeClass}">${escapeHtml(item.label)}</span>
+            </div>
+            <div class="article-time">${formatRelativeTime(date)}</div>
+          </div>
+          <div class="article-content">
+            <div class="article-title">${escapeHtml(item.title)}</div>
+            ${item.desc ? `<div class="article-desc">${escapeHtml(item.desc)}</div>` : ''}
+          </div>
+          <div class="article-footer">
+            <div class="article-tags">${tagsHtml}</div>
+            <div class="article-actions">
+              ${archiveBtn}
+              <a href="${escapeHtml(item.link)}" class="action-btn btn-primary" target="_blank" rel="noopener">Read</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // Escape HTML
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Event listeners
+    function setupEventListeners() {
+      // Category filters
+      document.querySelectorAll('.nav-link').forEach(link => {
+        link.addEventListener('click', (e) => {
+          e.preventDefault();
+          document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+          link.classList.add('active');
+          activeCategory = link.dataset.filter;
+          renderArticles();
+        });
+      });
+      
+      // Tag filters
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeFilter = btn.dataset.filter;
+          renderArticles();
+        });
+      });
+      
+      // Search
+      searchInput.addEventListener('input', () => {
+        searchQuery = searchInput.value.trim();
+        renderArticles();
+      });
+      
+      // Auto-refresh every 10 minutes
+      setInterval(loadData, 10 * 60 * 1000);
+    }
+
+    // Initialize
+    document.addEventListener('DOMContentLoaded', () => {
+      setupEventListeners();
+      loadData();
     });
-
-    renderAll();
-
-  } catch(e) {
-    document.getElementById('feed-container').innerHTML = `
-      <div class="loader">
-        <div class="loader-text" style="color:var(--red)">⚠ Feed data not ready yet</div>
-        <div class="loader-sub">The GitHub Action is building data.json for the first time.<br>Check back in ~2 minutes or trigger the workflow manually.</div>
-      </div>`;
-  }
-}
-
-// ─────────────────────────────────────────────────────
-//  RENDER
-// ─────────────────────────────────────────────────────
-function renderAll() {
-  const q = document.getElementById('searchInput').value.toLowerCase();
-  let items = [...allItems];
-
-  if (activeFilter !== 'all') items = items.filter(i => i.type === activeFilter);
-  if (activeTopic) {
-    const kws = TOPIC_KEYWORDS[activeTopic] || [];
-    items = items.filter(i => kws.some(k => i.title.toLowerCase().includes(k) || i.desc.toLowerCase().includes(k)));
-  }
-  if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || i.desc.toLowerCase().includes(q));
-  if (sortMode === 'source') items.sort((a,b) => a.label.localeCompare(b.label));
-
-  if (items.length === 0) {
-    document.getElementById('feed-container').innerHTML =
-      `<div class="empty-state"><div class="empty-icon">◌</div><div>No results found</div></div>`;
-    return;
-  }
-
-  const groups = { arxiv:[], blog:[], reddit:[], news:[] };
-  items.forEach(i => { if(groups[i.type]) groups[i.type].push(i); });
-
-  const labels  = { arxiv:'Research Papers', blog:'Quant Blogs & Analysis', reddit:'Community Discussion', news:'News' };
-  const order   = activeFilter === 'all' ? ['arxiv','blog','reddit'] : [activeFilter];
-
-  let html = '';
-  if (failedFeeds.length > 0) {
-    html += `<div class="feed-error">⚠ Some feeds failed to load: ${failedFeeds.join(', ')}</div>`;
-  }
-
-  order.forEach(type => {
-    if (!groups[type]?.length) return;
-    html += `<div class="feed-section-title">${labels[type]}<span class="feed-section-count">${groups[type].length}</span></div>`;
-    html += '<div class="feed-grid">';
-    groups[type].forEach(item => { html += card(item); });
-    html += '</div>';
-  });
-
-  document.getElementById('feed-container').innerHTML = html;
-}
-
-function card(item) {
-  const badge = { arxiv:'b-arxiv', blog:'b-blog', reddit:'b-reddit', news:'b-news' };
-  const tagsHtml = item.tags.map(t => `<span class="tag">${t}</span>`).join('');
-  return `
-    <a class="card src-${item.type}" href="${esc(item.link)}" target="_blank" rel="noopener">
-      <div class="card-top">
-        <span class="source-badge ${badge[item.type]||'b-news'}">${esc(item.label)}</span>
-        <span class="card-time">${relTime(item.date)}</span>
-      </div>
-      <h3>${esc(item.title)}</h3>
-      ${item.desc ? `<p>${esc(item.desc)}</p>` : ''}
-      <div class="card-footer">
-        <div class="card-tags">${tagsHtml}</div>
-        <span class="card-arrow">→</span>
-      </div>
-    </a>`;
-}
-
-// ─────────────────────────────────────────────────────
-//  CONTROLS
-// ─────────────────────────────────────────────────────
-function setFilter(f, el) {
-  activeFilter = f; activeTopic = null;
-  document.querySelectorAll('[data-filter]').forEach(e => e.classList.remove('active'));
-  if (el) el.classList.add('active');
-  renderAll();
-}
-function setChip(f, el) {
-  activeFilter = f; activeTopic = null;
-  document.querySelectorAll('.chip').forEach(e => e.classList.remove('active'));
-  el.classList.add('active');
-  renderAll();
-}
-function setTopic(t) {
-  activeTopic = activeTopic === t ? null : t;
-  activeFilter = 'all';
-  document.querySelectorAll('.nav-item[data-filter]').forEach(e=>e.classList.remove('active'));
-  document.querySelectorAll('.chip').forEach(e=>e.classList.remove('active'));
-  document.querySelector('.chip')?.classList.add('active');
-  renderAll();
-}
-function setSort(v) { sortMode = v; renderAll(); }
-
-// ─────────────────────────────────────────────────────
-//  UTILS
-// ─────────────────────────────────────────────────────
-function esc(s) {
-  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-function relTime(d) {
-  const s = (Date.now() - d.getTime()) / 1000;
-  if (s < 60)    return `${Math.floor(s)}s`;
-  if (s < 3600)  return `${Math.floor(s/60)}m`;
-  if (s < 86400) return `${Math.floor(s/3600)}h`;
-  if (s < 604800)return `${Math.floor(s/86400)}d`;
-  return d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
-}
-
-// ─────────────────────────────────────────────────────
-//  INIT
-// ─────────────────────────────────────────────────────
-loadAll();
-setInterval(loadAll, 10 * 60 * 1000);
-</script>
+  </script>
 </body>
 </html>
