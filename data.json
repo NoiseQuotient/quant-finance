@@ -1,17 +1,235 @@
 {
-  "updated": "2026-03-23T14:37:06.024Z",
-  "count": 249,
-  "failed": [
-    "Bloomberg Odd Lots",
-    "Bloomberg Business"
-  ],
+  "updated": "2026-03-23T15:06:20.618Z",
+  "count": 297,
+  "failed": [],
   "items": [
+    {
+      "title": "Microsoft: Beneath The Selloff",
+      "link": "https://seekingalpha.com/article/4884981-microsoft-beneath-selloff?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:59:25.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "John Hancock Multimanager 2060 Lifetime Portfolio Q4 2025 Commentary",
+      "link": "https://seekingalpha.com/article/4884980-john-hancock-multimanager-2060-lifetime-portfolio-q4-2025-commentary?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:58:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Palantir: Anthropic Risk Is Overblown",
+      "link": "https://seekingalpha.com/article/4884979-palantir-anthropic-risk-overblown?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:55:28.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Sartorius Aktiengesellschaft (SOAGY) Analyst/Investor Day Transcript",
+      "link": "https://seekingalpha.com/article/4884924-sartorius-aktiengesellschaft-soagy-analyst-investor-day-transcript?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:53:40.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Important That Europe Gets Involved in Hormuz, US Amb. Puzder Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/us-amb-puzder-important-europe-gets-involved-in-hormuz-video",
+      "desc": "US Ambassador to the European Union Andrew Puzder discusses potential talks between the US and Iran on ending the Middle East conflict, the need for Europe’s involvement in the Strait of Hormuz, and US-European trade. (Source: Bloomberg)",
+      "date": "2026-03-23T14:51:10.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Virtus Seix Total Return Bond Fund Q4 2025 Commentary",
+      "link": "https://seekingalpha.com/article/4884977-virtus-seix-total-return-bond-fund-q4-2025-commentary?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:50:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "JPMorgan Kicks Off $8 Billion Junk-Bond Sale for EA Buyout",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-kicks-off-8-billion-junk-bond-sale-for-ea-buyout",
+      "desc": "Wall Street banks led by JPMorgan Chase & Co. have kicked off the sale of $8 billion in junk bonds to fund the record leveraged buyout of video game maker Electronic Arts Inc.",
+      "date": "2026-03-23T14:49:25.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "PayPal: The Great Algorithmic Mistake And The Valuation Paradox With A P/E Of 8",
+      "link": "https://seekingalpha.com/article/4884976-paypal-great-algorithmic-mistake-valuation-paradox-with-pe-of-8?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:48:04.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Polymarket Implements New Insider Trading Rules After Scrutiny",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny",
+      "desc": "Polymarket has moved to squash some types of insider trading after the prediction markets platform came under scrutiny for suspected manipulation.",
+      "date": "2026-03-23T14:46:42.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Palisade Bio: Undervalued Biotech With Blockbuster Potential, Initiating With A Speculative Buy Rating",
+      "link": "https://seekingalpha.com/article/4884974-palisade-bio-undervalued-with-blockbuster-potential-speculative-buy-rating?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:46:37.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump to Order National Guard to Airports If ICE Not Enough",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-might-order-national-guard-to-airports-video",
+      "desc": "President Donald Trump says he did not want Immigration and Customs Enforcement agents to wear masks as they assist with security screenings at airports. (Source: Bloomberg)",
+      "date": "2026-03-23T14:46:06.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "W. P. Carey: Trading At A Deep Discount While The Pivot Delivers",
+      "link": "https://seekingalpha.com/article/4884886-wp-carey-stock-trading-deep-discount-while-pivot-delivers?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:45:11.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "The Case For NUGT As Gold Searches For A Bottom",
+      "link": "https://seekingalpha.com/article/4884972-the-case-for-nugt-as-gold-searches-for-bottom?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:43:54.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "BioLineRx Ltd. (BLRX) Q4 2025 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4884969-biolinerx-ltd-blrx-q4-2025-earnings-call-transcript?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:43:39.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Allspring Diversified Capital Builder Fund Q4 2025 Commentary",
+      "link": "https://seekingalpha.com/article/4884968-allspring-diversified-capital-builder-fund-q4-2025-commentary?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:40:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump Backs Off Iran Energy Strike Threat as Markets Reel",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-s-market-driven-reversal-buys-time-but-skepticism-abounds",
+      "desc": "Just before US markets opened on Monday, President Donald Trump backed down from his threat to destroy Iran’s power infrastructure if it didn’t reopen the Strait of Hormuz within 48 hours &mdash; pushed by the surge in energy prices and global market rout unleashed by the US-Israeli war on Tehran an",
+      "date": "2026-03-23T14:39:55.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Hensoldt: Why This Defense Selloff Could Be A Big Mistake",
+      "link": "https://seekingalpha.com/article/4884967-hensoldt-defense-selloff-could-be-big-mistake?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:39:07.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "AleAnna: Italy's Gas Opportunity Meets A Tiny Float",
+      "link": "https://seekingalpha.com/article/4884966-aleanna-italys-gas-opportunity-meets-a-tiny-float?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T14:38:08.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
     {
       "title": "Caledonia Mining Corporation Plc 2025 Q4 - Results - Earnings Call Presentation",
       "link": "https://seekingalpha.com/article/4884993-caledonia-mining-corporation-plc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:32:19.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -23,7 +241,7 @@
       "link": "https://seekingalpha.com/article/4884992-weride-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:31:30.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -35,7 +253,7 @@
       "link": "https://seekingalpha.com/article/4884864-trican-well-service-stock-strong-execution-leads-strong-cash-flows?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:30:25.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -51,7 +269,21 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Oil From US Reserves Started Flowing Friday, Says Energy Secretary Wright",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/oil-from-us-reserves-started-flowing-friday-wright-says-video",
+      "desc": "US Energy Secretary Chris Wright says oil from the US strategic reserve started flowing on Friday afternoon. \"Prices have not risen high enough yet to drive meaningful demand destruction,” Wright said during a discussion at CERA Week in Houston. (Source: Bloomberg)",
+      "date": "2026-03-23T14:29:55.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -59,7 +291,7 @@
       "link": "https://seekingalpha.com/article/4884965-clearwater-analytics-17-percent-annualized-return-on-a-smooth-go-private-transaction?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:26:46.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -83,7 +315,7 @@
       "link": "https://seekingalpha.com/article/4884964-golar-lng-one-of-the-biggest-winners-from-the-iran-war?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:25:04.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -91,11 +323,24 @@
       ]
     },
     {
+      "title": "Trump Says US 'Very Willing' to Make a Deal With Iran",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-says-us-very-willing-to-make-a-deal-with-iran-video",
+      "desc": "President Donald Trump says the US is speaking with a “top person” in Iran, but not the Supreme Leader. (Source: Bloomberg)",
+      "date": "2026-03-23T14:24:59.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
       "title": "GDS Holdings: Bullish On EBITDA Beat And Client Price Hike",
       "link": "https://seekingalpha.com/article/4884962-gds-holdings-bullish-on-ebitda-beat-and-client-price-hike?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:19:54.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -118,7 +363,7 @@
       "link": "https://seekingalpha.com/article/4884961-vig-vs-vym-best-time-in-10-years-to-buy-dividend-growth?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:17:34.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -137,6 +382,58 @@
       ]
     },
     {
+      "title": "Meloni Faces Defeat in Italian Referendum on the Judiciary",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/italian-exit-polls-show-meloni-facing-narrow-referendum-defeat",
+      "desc": "Prime Minister Giorgia Meloni is on track to narrowly lose a national referendum to overhaul Italy’s judicial system, which has become a vote on the leader herself.",
+      "date": "2026-03-23T14:14:34.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Blackstone Weighs First-Ever Sports Investment With Cricket Bet",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/blackstone-weighs-first-ever-sports-investment-with-cricket-bet",
+      "desc": "Blackstone Inc. is considering whether to buy a stake in the world’s most lucrative professional cricket league through its fund for wealthy individuals, in what would be the first sports investment for the world’s biggest alternative asset manager.",
+      "date": "2026-03-23T14:11:45.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "US warns EU to pass trade deal or risk losing ‘favourable’ access to LNG",
+      "link": "https://www.ft.com/content/6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
+      "desc": "European parliament set to vote this week on whether to ratify Turnberry agreement signed last year",
+      "date": "2026-03-23T14:09:08.000Z",
+      "type": "news",
+      "label": "Financial Times",
+      "tags": [
+        "FT",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "White House Reviewing SEC’s Crypto, Hedge Fund Disclosure Plans",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/white-house-reviewing-sec-s-crypto-hedge-fund-disclosure-plans",
+      "desc": "The Securities and Exchange Commission sent two new proposed rules, one on digital assets and another on hedge fund and private equity firm disclosures, to the White House for review.",
+      "date": "2026-03-23T14:08:15.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
       "title": "Why gold&#x2019;s plunge into a bear market is a good signal for stocks, according to Morgan Stanley",
       "link": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35?mod=mw_rss_topstories",
       "desc": "Bullion&#x2019;s rise in previous months shows investors were wary of geopolitics, suggests Morgan Stanley strategist Mike Wilson.",
@@ -152,7 +449,7 @@
       "link": "https://seekingalpha.com/article/4884956-tencent-music-down-over-30-percent-but-not-a-buy-for-me?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:07:54.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -164,7 +461,7 @@
       "link": "https://seekingalpha.com/article/4884954-jeronimo-martins-time-to-reset-margin-expectations?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:06:30.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -176,7 +473,7 @@
       "link": "https://seekingalpha.com/article/4884657-picpay-holdings-pics-q4-2025-earnings-call-transcript?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:03:40.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -188,7 +485,7 @@
       "link": "https://seekingalpha.com/article/4884953-thomson-reuters-the-case-for-a-mispriced-moat?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:02:18.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -200,7 +497,7 @@
       "link": "https://seekingalpha.com/article/4884841-equilibrium-and-dentist-in-poughkeepsie?source=feed_all_articles",
       "desc": "",
       "date": "2026-03-23T14:00:00.000Z",
-      "type": "news",
+      "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
@@ -219,30 +516,6 @@
       ]
     },
     {
-      "title": "Rubrik: Ignore The Headlines; Focus On This Exploding Free Cash Flow",
-      "link": "https://seekingalpha.com/article/4884950-rubrik-ignore-the-headlines-focus-on-this-exploding-free-cash-flow?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:56:19.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Stock Market Searches For A Bottom As War Continues",
-      "link": "https://seekingalpha.com/article/4884975-stock-market-searches-for-bottom-as-war-continues?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:50:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "OnlyFans owner Leonid Radvinsky dies at 43",
       "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
       "desc": "Ukrainian-American billionaire bought majority stake in controversial porn streaming platform in 2018",
@@ -251,7 +524,8 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -266,76 +540,17 @@
       ]
     },
     {
-      "title": "PGIM Muni High Income Fund Q4 2025 Commentary",
-      "link": "https://seekingalpha.com/article/4884949-pgim-muni-high-income-fund-q4-2025-commentary?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:45:00.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Pony AI: Heading Into Earnings With A Scalable Edge",
-      "link": "https://seekingalpha.com/article/4884948-pony-ai-heading-into-earnings-with-a-scalable-edge?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:44:15.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Satellogic Inc. 2025 Q4 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4884973-satellogic-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:44:05.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Main Street Capital: Hunted By Ghosts Of The SaaSpocalypse",
-      "link": "https://seekingalpha.com/article/4884946-main-street-capital-hunted-by-ghosts-of-the-saaspocalypse?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:42:36.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "KLA Corporation: Stock Price Surge Unjustified",
-      "link": "https://seekingalpha.com/article/4884945-kla-corporation-stock-price-surge-unjustified?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:41:20.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "FEDS Paper: AI and Coder Employment: Compiling the Evidence",
       "link": "https://www.federalreserve.gov/econres/feds/ai-and-coder-employment-compiling-the-evidence.htm",
       "desc": "Leland D. Crane and Paul E. Soto We evaluate whether LLMs have had any discernible impact on the aggregate labor market so far. We focus on occupations that are computer programming-intensive, motivated by data showing that coding is one of the most LLM-exposed tasks. Linking O*NET to CPS we find th",
       "date": "2026-03-23T13:37:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -359,7 +574,8 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -367,12 +583,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/queuing-service-time-and-price-dynamics-in-residential-mortgage-lending.htm",
       "desc": "Akos Horvath and Benjamin S. Kay Building on queuing theory, we develop and empirically validate a novel theoretical model of residential mortgage supply. Our model gives insight into how the stochastic arrival and sequential servicing of loan applications affect mortgage origination. The model prov",
       "date": "2026-03-23T13:36:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -380,24 +597,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/model-uncertainty-and-the-pricing-of-hurricane-risk-in-florida.htm",
       "desc": "Erik Heitfield This paper examines how model uncertainty affects the price of catastrophe risk insurance. We use unique data on expected loss rate projections from seven hurricane risk models approved by regulators for use in Florida property insurance rate setting to quantify model uncertainty. By ",
       "date": "2026-03-23T13:35:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
-      ]
-    },
-    {
-      "title": "Delivery Hero SE (DELHY) M&A Call Transcript",
-      "link": "https://seekingalpha.com/article/4884960-delivery-hero-se-delhy-m-and-a-call-transcript?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:33:38.000Z",
-      "type": "news",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -413,63 +619,185 @@
       ]
     },
     {
-      "title": "Neuronetics: Highly Speculative, But Revenue Growth Could Drive The Stock Higher",
-      "link": "https://seekingalpha.com/article/4884944-neuronetics-highly-speculative-but-revenue-growth-could-drive-the-stock-higher?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:30:06.000Z",
+      "title": "Fed's Miran Says Policy Can't Be Made on Short-Term Headlines",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/miran-says-policy-can-t-be-made-on-short-term-headlines-video",
+      "desc": "Federal Reserve Governor Stephen Miran says the central bank should not be looking at recent oil shocks to set monetary policy. “We should wait for all the information to come in before really changing our outlook,\" he said Monday morning on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "date": "2026-03-23T13:27:50.000Z",
       "type": "news",
-      "label": "Seeking Alpha",
+      "label": "Bloomberg Markets",
       "tags": [
-        "analysis",
-        "equities"
+        "Bloomberg",
+        "markets",
+        "premium"
       ]
     },
     {
-      "title": "United Health Services: Talkspace Acquisition Shows The New Normal For Hybrid Healthcare",
-      "link": "https://seekingalpha.com/article/4884922-united-health-services-talkspace-acquisition-new-normal-hybrid-healthcare?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:30:00.000Z",
+      "title": "Trump Administration Asks Supreme Court to Halt DOGE Inquiry",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-administration-asks-supreme-court-to-halt-doge-inquiry",
+      "desc": "The Trump administration asked the US Supreme Court to block a government watchdog group from questioning a senior official and obtaining internal records about the Department of Government Efficiency project once led by Elon Musk.",
+      "date": "2026-03-23T13:25:04.000Z",
       "type": "news",
-      "label": "Seeking Alpha",
+      "label": "Bloomberg Politics",
       "tags": [
-        "analysis",
-        "equities"
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
-      "title": "Ares Management: High-Yield Growth Story With Elevated Risks",
-      "link": "https://seekingalpha.com/article/4884963-ares-management-high-yield-growth-story-with-elevated-risks?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:30:00.000Z",
+      "title": "Too Soon to Draw Conclusions on Oil, Fed Governor Miran Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/too-soon-to-draw-conclusions-on-oil-miran-says-video",
+      "desc": "Federal Reserve Governor Stephen Miran says it's too soon to tell how higher oil prices will impact other prices. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "date": "2026-03-23T13:15:23.000Z",
       "type": "news",
-      "label": "Seeking Alpha",
+      "label": "Bloomberg Markets",
       "tags": [
-        "analysis",
-        "equities"
+        "Bloomberg",
+        "markets",
+        "premium"
       ]
     },
     {
-      "title": "Walmart: All-Weather Status Ironically Creates Risk For Investors",
-      "link": "https://seekingalpha.com/article/4884942-walmart-all-weather-status-ironically-creates-risk-for-investors?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:16:52.000Z",
+      "title": "Trump Says ICE Agents Shouldn’t Wear Masks on Airport Duty",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-ice-agents-shouldn-t-wear-masks-while-on-airport-duty",
+      "desc": "President Donald Trump said he did not want Immigration and Customs Enforcement agents detailed to airports to wear masks as they assist with security screenings &mdash; even as he continued to support officers using face coverings during deportation operations.",
+      "date": "2026-03-23T13:14:05.000Z",
       "type": "news",
-      "label": "Seeking Alpha",
+      "label": "Bloomberg Politics",
       "tags": [
-        "analysis",
-        "equities"
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
-      "title": "Buy The Dip: These 9-13% Yields Are Way Too Cheap",
-      "link": "https://seekingalpha.com/article/4884892-buy-the-dip-these-9-13-percent-yields-way-too-cheap?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T13:15:22.000Z",
+      "title": "China and Brazil Agree to Ease Soybean Sanitary Requirements",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/china-and-brazil-agree-to-ease-soybean-sanitary-requirements",
+      "desc": "Chinese and Brazilian authorities came to an agreement that will likely bring relief to the trade of soybeans between both countries, after a number of cargoes failed to pass sanitary inspections, according to a document by Brazil’s Agriculture Ministry.",
+      "date": "2026-03-23T13:06:02.000Z",
       "type": "news",
-      "label": "Seeking Alpha",
+      "label": "Bloomberg Markets",
       "tags": [
-        "analysis",
-        "equities"
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Saudi Unicorn Ninja Said to Gauge IPO Appetite Despite Iran War",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/saudi-unicorn-ninja-said-to-gauge-ipo-appetite-despite-iran-war",
+      "desc": "Saudi Arabian quick-delivery firm Ninja has been gauging investor appetite for a potential listing in Riyadh, despite volatility from a regional conflict that’s now in its fourth week.",
+      "date": "2026-03-23T13:04:38.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Country Garden Sees Return to Profit on Debt Revamp Gain",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/country-garden-sees-return-to-profit-on-debt-revamp-gain",
+      "desc": "Country Garden Holdings Co. is expected to return to profit in its 2025 results, driven by a non-cash gain from the completion of its debt restructuring.",
+      "date": "2026-03-23T13:00:55.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Brazil’s CSN Secures $1.2 Billion Loan Deal With Banks",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/brazil-s-csn-secures-1-2-billion-loan-deal-with-group-of-banks",
+      "desc": "Brazilian conglomerate CSN said a group of banks agreed to extend the company a $1.2 billion loan, easing concerns about its ability to meet near-term debt payments.",
+      "date": "2026-03-23T12:59:45.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "US Natural Gas Extends Losses on Warmer Outlook, Oil Price Drop",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/us-natural-gas-extends-losses-on-warmer-outlook-oil-price-drop",
+      "desc": "US natural gas futures fell for a second day as weather forecasts shifted milder, indicating lower demand for the heating and power-plant fuel, and as falling oil prices caused financial outflows from baskets of energy futures contracts.",
+      "date": "2026-03-23T12:58:32.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Coffee Empire Neumann Confronts New Era of Turbulent Prices",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/coffee-trader-neumann-kaffee-gruppe-pulls-back-after-turbulent-year",
+      "desc": "Few coffee drinkers recognize the name Neumann Kaffee Gruppe. Yet the Hamburg-based trader handles about one in every eight beans consumed worldwide &mdash; from jars in supermarket aisles to espresso bars in New York, Shanghai and Rome.",
+      "date": "2026-03-23T12:52:17.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Russian Steel Is Kremlin’s New Headache as Top Group Idles Units",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/russian-steel-is-kremlin-s-new-headache-as-top-group-idles-units",
+      "desc": "Russia’s steel industry is emerging as a new pain point for the Kremlin, with major producers beginning to shut capacity in the face of slowing domestic demand and limited export options.",
+      "date": "2026-03-23T12:42:27.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "JPMorgan Shifts EA Buyout Debt Mix, Boosts Loan to $5 Billion",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-shifts-ea-buyout-debt-mix-boosts-loan-to-5-billion",
+      "desc": "Wall Street banks led by JPMorgan Chase & Co. have amended the debt package for the buyout of video game maker Electronic Arts Inc., increasing the size of a US dollar loan offering to $5 billion.",
+      "date": "2026-03-23T12:38:07.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "‘Peak Pessimism’ Toward Consumer Stocks Flashes a Buy Signal",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/-peak-pessimism-toward-consumer-stocks-flashes-a-buy-signal",
+      "desc": "Recent market performance for US consumer-discretionary stocks has been so ugly that it may be a great time to buy.",
+      "date": "2026-03-23T12:35:23.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Xi Urges New Flagship City to Lead Tech, Finance Policy Trials",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/xi-urges-new-flagship-city-to-lead-tech-finance-policy-trials",
+      "desc": "President Xi Jinping called for Xiong’an New Area to play a leading role in advancing innovative policies in sectors like technology and finance, reaffirming his commitment to develop a high-tech hub near Beijing.",
+      "date": "2026-03-23T12:26:48.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -481,6 +809,32 @@
       "label": "MarketWatch",
       "tags": [
         "markets"
+      ]
+    },
+    {
+      "title": "What Are Team Iran's Options at a US-Hosted World Cup?",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/iran-at-the-world-cup-2026-can-fifa-move-team-s-games-out-of-us",
+      "desc": "Iran’s national football team has said it won’t be attending the World Cup that kicks off in the US in June after President Donald Trump said the squad’s safety could not be assured.",
+      "date": "2026-03-23T12:16:25.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "China to Issue New Quotas for Investing Overseas, Official Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/china-to-issue-new-quotas-for-investing-overseas-official-says",
+      "desc": "China plans to increase the amount of money that approved investors can channel into overseas assets as Beijing loosens its control over capital outflows.",
+      "date": "2026-03-23T11:49:53.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -503,7 +857,21 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Sweden Proposes to Cut Fuel Tax and Reduce Iran War Price Impact",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/sweden-proposes-to-cut-fuel-tax-and-reduce-iran-war-price-impact",
+      "desc": "Sweden’s government said it will temporarily cut the duty on vehicle fuels to reduce the inflationary impact of the Iran war on voters six months ahead of a general election.",
+      "date": "2026-03-23T11:32:04.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -518,6 +886,71 @@
       ]
     },
     {
+      "title": "Trump Backs Off From Iran Threat, Citing Talks to End War",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-backs-off-from-iran-threat-as-ceasefire-talks-get-underway",
+      "desc": "US President Donald Trump postponed threatened strikes against Iranian energy infrastructure and power plants for five days, pending the outcome of what he said were talks with Iran to end the 24-day war.",
+      "date": "2026-03-23T11:23:55.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Treasuries Whipsawed by Conflicting Claims About US-Iran Talks",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/treasuries-soar-after-trump-postpones-iran-power-strikes",
+      "desc": "Treasuries rose after swinging sharply with oil prices after Iran disputed statements by US President Trump regarding talks to end hostilities.",
+      "date": "2026-03-23T11:22:57.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Trump Postpones Strikes Against Iran Power For Five Days",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-he-will-postpone-strikes-against-iran-for-five-days",
+      "desc": "President Donald Trump put his threat to destroy Iranian power plants on hold for five days after what he described as “productive” talks with that country, sending oil down sharply and stocks soaring.",
+      "date": "2026-03-23T11:20:49.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Trump’s Populist Approach Is Increasingly Out of Touch",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/donald-trump-s-iran-war-isn-t-popular-with-americans",
+      "desc": "The focus on war over affordability is threatening the administration’s control over Washington",
+      "date": "2026-03-23T11:09:23.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "EU and Australia Bind Together in Global Storm",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/eu-and-australia-bind-together-in-global-storm",
+      "desc": "After more than eight years of talks, Canberra and Brussels could finally agree on a trade deal.",
+      "date": "2026-03-23T11:00:57.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
       "title": "Trump looking at inviting Belarus’s Lukashenko to White House",
       "link": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
       "desc": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin",
@@ -526,7 +959,47 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "The Trump Administration Turns a Blind Eye to White-Collar Crime",
+      "link": "https://www.bloomberg.com/news/features/2026-03-23/trump-administration-fails-to-punish-white-collar-criminals",
+      "desc": "The failure to prosecute elite wrongdoing is a bipartisan trend that’s hastening under Trump.",
+      "date": "2026-03-23T11:00:07.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Pfizer’s Long-Awaited Lyme Vaccine Fails to Impress in Study",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/pfizer-says-long-awaited-lyme-vaccine-was-effective-in-study",
+      "desc": "Pfizer Inc. said its experimental Lyme disease vaccine was 73% effective against the tick-borne illness, a lackluster result as fewer-than-expected infections in the pivotal study made its potency hard to evaluate.",
+      "date": "2026-03-23T10:45:00.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Orban Rallies Far-Right Allies Amid Russian Meddling Claims",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/orban-rallies-far-right-allies-amid-claims-of-russian-meddling",
+      "desc": "Hungarian Prime Minister Viktor Orban is looking to mobilize support from European Union far-right leaders as his government battles allegations of Russian attempts to tilt the country’s pivotal elections in favor of the nationalist incumbent.",
+      "date": "2026-03-23T10:42:37.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -541,6 +1014,32 @@
       ]
     },
     {
+      "title": "HPE Gets Day in Court as State AGs Challenge $14 Billion Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/hpe-gets-day-in-court-as-state-ags-challenge-14-billion-deal",
+      "desc": "Hewlett Packard Enterprise Inc. faces a crucial hurdle Monday to reaping the benefits of its $14 billion takeover of wireless networking rival Juniper Networks Inc., as a federal judge considers whether the Trump administration improperly approved an antitrust settlement that a group of states claim",
+      "date": "2026-03-23T10:03:10.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Modi Seeks to Calm India as Iran War Causes Gas Shortage",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/modi-seeks-to-calm-india-as-iran-war-causes-acute-gas-shortage",
+      "desc": "India’s Prime Minister Narendra Modi said the country has sufficient energy supplies to meet domestic demand, even as he warned the Iran conflict creates unprecedented challenges for the world’s fastest growing large economy.",
+      "date": "2026-03-23T10:02:22.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
       "title": "&#x2018;We&#x2019;re living the simple life&#x2019;: I was a fisherman and my wife was a nurse. We retired with $6 million. Here&#x2019;s how we did it.",
       "link": "https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories",
       "desc": "&#x201c;It probably makes little sense, given our lifestyle, to obsess over retirement accounts.&#x201d;",
@@ -552,6 +1051,19 @@
       ]
     },
     {
+      "title": "Merz’s Win in SPD Stronghold Is a Blow for German Coalition",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/merz-s-win-in-spd-stronghold-means-trouble-for-german-coalition",
+      "desc": "Chancellor Friedrich Merz’s effort to reboot Germany’s economy ran into a fresh challenge after his Social Democratic coalition partners suffered a stinging election defeat in a party stronghold.",
+      "date": "2026-03-23T09:39:26.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
       "title": "Berkshire Hathaway to take $1.8bn stake in Tokio Marine",
       "link": "https://www.ft.com/content/0ef092c4-01bf-4331-8fbe-99bd15ed5f27",
       "desc": "Investment in non-life insurer marks new Japan venture for Warren Buffett’s conglomerate",
@@ -560,7 +1072,34 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "European Stocks Swing as Investors Gauge Iran War De-Escalation",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/european-stocks-sink-into-correction-on-trump-s-iran-escalation",
+      "desc": "European stocks erased sharp declines to trade higher in one of the biggest swings in years after US President Donald Trump said he was postponing military strikes on Iran’s energy infrastructure following “very good” talks with Tehran.",
+      "date": "2026-03-23T08:22:40.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Trump Rebuffs Iran Talks Denial, Says Envoys Spoke Last Night",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-03-23/iran-war-latest-oil-markets-bonds-hormuz",
+      "desc": "",
+      "date": "2026-03-23T07:43:46.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
       ]
     },
     {
@@ -572,7 +1111,8 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -584,7 +1124,8 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -596,7 +1137,8 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -608,7 +1150,34 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Russian Oil Port Primorsk Pauses Loadings After Drone Attack",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/russia-s-primorsk-oil-port-hit-by-drones-with-fuel-tank-on-fire",
+      "desc": "The Russian oil port of Primorsk, a key facility for the nation’s exports of crude and fuels, suspended tanker loadings after an overnight drone strike caused a fire.",
+      "date": "2026-03-23T04:14:41.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Emerging Market Assets Rebound as Trump Cites Talks With Iran",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/emerging-market-assets-slip-after-trump-s-ultimatum-to-iran",
+      "desc": "Emerging-market currencies jumped and equities pared earlier losses after US President Donald Trump said the US had held talks with Iran and postponed any further strikes for five days, sending oil prices tumbling.",
+      "date": "2026-03-23T02:50:56.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
       ]
     },
     {
@@ -620,7 +1189,73 @@
       "label": "Financial Times",
       "tags": [
         "FT",
-        "markets"
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Gold Pares Dramatic Losses as Trump Backs Off From Iran Threat",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/gold-wavers-after-worst-week-in-four-decades-as-war-risks-mount",
+      "desc": "Gold pared dramatic losses as US President Donald Trump postponed military strikes against Iranian energy infrastructure for a five-day period after what he described as productive talks toward ending hostilities.",
+      "date": "2026-03-22T22:24:19.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Aramco CEO Withdraws From Houston Event to Deal With War",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/aramco-ceo-withdraws-from-houston-event-to-deal-with-iran-war",
+      "desc": "Saudi Aramco Chief Executive Officer Amin Nasser has withdrawn from a major energy conference in Houston, which gets underway Monday, as the situation in the Middle East remains volatile.",
+      "date": "2026-03-22T21:46:19.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Premier Edges Out Trump Ally in Slovenia’s Closest Ever Vote",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/slovene-premier-on-path-to-beat-nationalist-jansa-in-close-vote",
+      "desc": "Slovenian Prime Minister Robert Golob won a slim victory over nationalist leader Janez Jansa in the country’s closest election in history, setting the stage for lengthy coalition negotiations.",
+      "date": "2026-03-22T21:27:21.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Stocks Rise, Oil Falls as Trump Eases Iran Threats: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
+      "desc": "A possible de-escalation in the Middle East conflict rippled through markets, with oil falling and stocks rising as President Donald Trump said he’d postpone strikes on Iranian energy infrastructure after what he described as productive talks toward ending hostilities.",
+      "date": "2026-03-22T19:30:00.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Fannie, Freddie Placing Large Bids for Mortgage-Backed Bonds",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/fannie-freddie-place-large-bids-for-mortgage-backed-securities",
+      "desc": "Fannie Mae and Freddie Mac have begun placing sizable orders to purchase mortgage-backed securities, stepping into a market roiled by widening bond spreads and a surge in volatility, according to a person with direct knowledge of the matter.",
+      "date": "2026-03-22T15:00:00.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
       ]
     },
     {
@@ -644,7 +1279,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -656,7 +1292,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -712,11 +1349,12 @@
       "link": "http://arxiv.org/abs/2602.21125v3",
       "desc": "We generalize the seminal framework of Kyle (1985) to a many-asset setting, bridging the gap between informed-trading theory and modern trading practices. Specifically, we formulate an infinite-dimensional Bayesian trading game in which the informed trader's private information may concern arbitrary",
       "date": "2026-03-20T17:33:10.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -748,12 +1386,13 @@
       "link": "https://www.bis.org/publ/work1338.htm",
       "desc": "by Lorenz Emter, Laura Kuitunen, Arnaud Mehl, Peter McQuade, Swapan-Kumar Pradhan, Goetz von Peter<br />This paper examines asymmetries in the effects of geopolitical events on international bank credit, contrasting adverse events, such as the 2022 invasion of Ukraine, with positive events like the ",
       "date": "2026-03-20T14:53:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -773,11 +1412,12 @@
       "link": "http://arxiv.org/abs/2603.19984v1",
       "desc": "Model risk arises from the misspecification of probabilistic models used for pricing and hedging derivatives. While model risk for European-style claims has been widely studied, much less attention has been given to American-style derivatives and the associated optimal stopping problems. This paper ",
       "date": "2026-03-20T14:31:34.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -785,11 +1425,12 @@
       "link": "http://arxiv.org/abs/2603.19944v1",
       "desc": "This paper investigates whether large language models (LLMs) can generate reliable stock market predictions. We evaluate four state-of-the-art models - ChatGPT, Gemini, DeepSeek, and Perplexity - across three prompting strategies: a naive query, a structured approach, and chain-of-thought reasoning.",
       "date": "2026-03-20T13:47:13.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -797,11 +1438,12 @@
       "link": "http://arxiv.org/abs/2603.19716v1",
       "desc": "We study the problem of optimally hedging the price exposure of liquidity positions in constant-product automated market makers (AMMs) when the hedge is funded by collateralized borrowing. A liquidity provider (LP) who borrows tokens to construct a delta-neutral position faces a trade-off: higher he",
       "date": "2026-03-20T07:47:03.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -809,11 +1451,12 @@
       "link": "http://arxiv.org/abs/2510.05710v2",
       "desc": "Large language models (LLMs) are increasingly being used to extract structured knowledge from unstructured financial text. Although prior studies have explored various extraction methods, there is no universal benchmark or unified evaluation framework for the construction of financial knowledge grap",
       "date": "2026-03-19T20:05:36.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -833,11 +1476,12 @@
       "link": "http://arxiv.org/abs/2603.19414v1",
       "desc": "We study a problem of optimal allocation in a discrete-time multi-period pure-exchange economy, where agents have preferences over stochastic endowment processes that are represented by strongly time-consistent dynamic risk measures. We introduce the notion of dynamic Pareto-optimal allocation proce",
       "date": "2026-03-19T19:14:46.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -845,11 +1489,12 @@
       "link": "http://arxiv.org/abs/2406.20063v4",
       "desc": "This paper studies a loss-averse version of the multiplicative habit formation preference and the corresponding optimal investment and consumption strategies over an infinite horizon. The agent's consumption preference is depicted by a general S-shaped utility function of her consumption-to-habit ra",
       "date": "2026-03-19T19:11:26.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -857,12 +1502,13 @@
       "link": "http://arxiv.org/abs/2603.19396v1",
       "desc": "Scenario optimization and conformal prediction share a common goal, that is, turning finite samples into safety margins. Yet, different terminology often obscures the connection between their respective guarantees. This paper revisits that connection directly from a systems-and-control viewpoint. Bu",
       "date": "2026-03-19T18:37:58.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -870,11 +1516,12 @@
       "link": "http://arxiv.org/abs/2603.19225v1",
       "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
       "date": "2026-03-19T17:59:41.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -906,11 +1553,12 @@
       "link": "http://arxiv.org/abs/2603.12422v3",
       "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
       "date": "2026-03-19T16:12:09.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -942,11 +1590,12 @@
       "link": "http://arxiv.org/abs/2603.18969v1",
       "desc": "As insurers increasingly behave like financial intermediaries and actively participate in capital markets, understanding the dependence structure between insurance and financial risks becomes crucial for insurers' operations. This paper studies dynamic equilibrium insurance pricing when insurers fac",
       "date": "2026-03-19T14:35:31.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -954,11 +1603,12 @@
       "link": "http://arxiv.org/abs/2603.18962v1",
       "desc": "This paper develops a dynamic equilibrium model of the insurance market that jointly characterizes insurers' underwriting, investment, recapitalization, and dividend policies under model uncertainty and financial frictions. Competitive insurers maximize shareholder value under a subjective worst-cas",
       "date": "2026-03-19T14:27:54.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -978,11 +1628,12 @@
       "link": "http://arxiv.org/abs/2603.10857v2",
       "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
       "date": "2026-03-19T13:50:39.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1018,7 +1669,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1030,7 +1682,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1042,7 +1695,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1050,11 +1704,12 @@
       "link": "http://arxiv.org/abs/2410.04867v2",
       "desc": "We investigate the well-posedness in the Hadamard sense and the absence of price manipulation in the optimal execution problem within the Almgren-Chriss framework, where the temporary and permanent impact parameters vary deterministically over time. We present sufficient conditions for the existence",
       "date": "2026-03-19T08:19:43.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1062,12 +1717,13 @@
       "link": "http://arxiv.org/abs/2601.21690v2",
       "desc": "Model merging efficiently aggregates capabilities from multiple fine-tuned models into a single one, operating purely in parameter space without original data or expensive re-computation. Despite empirical successes, a unified theory for its effectiveness under heterogeneous finetuning hyperparamete",
       "date": "2026-03-19T06:54:16.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1075,11 +1731,12 @@
       "link": "http://arxiv.org/abs/2603.18440v1",
       "desc": "This paper provides a behavioral analysis of the post-pandemic transformation of work, using a dataset of approximately 41 billion mobile geolocation records from 73.5 million individuals in the five largest U.S. metropolitan areas from the pre- to post- pandemic periods. By tracking movements betwe",
       "date": "2026-03-19T02:58:54.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1087,12 +1744,13 @@
       "link": "http://arxiv.org/abs/2603.18396v1",
       "desc": "Bus holding control is challenging due to stochastic traffic and passenger demand. While deep reinforcement learning (DRL) shows promise, standard actor-critic algorithms suffer from Q-value instability in volatile environments. A key source of this instability is the conflation of two distinct unce",
       "date": "2026-03-19T01:37:45.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1104,7 +1762,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1112,11 +1771,12 @@
       "link": "http://arxiv.org/abs/2603.12140v2",
       "desc": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis ",
       "date": "2026-03-18T20:40:18.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1136,11 +1796,12 @@
       "link": "http://arxiv.org/abs/2507.08193v3",
       "desc": "The lack of high-quality public cyber incident data limits empirical research and predictive modeling for cyber risk assessment. This challenge persists due to the reluctance of companies to disclose incidents that could damage their reputation or investor confidence. Therefore, from an actuarial pe",
       "date": "2026-03-18T18:51:58.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1160,11 +1821,12 @@
       "link": "http://arxiv.org/abs/2603.17954v1",
       "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
       "date": "2026-03-18T17:28:26.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1184,11 +1846,12 @@
       "link": "http://arxiv.org/abs/2603.17792v1",
       "desc": "The purpose of this paper is to describe and extend the use of the newly-introduced measure, residual estimation risk. Following the seminal work of Bignozzi and Tsanakas, the quantification of residual estimation risk is proposed in a multivariate framework. Our aim is to provide a succinct and pra",
       "date": "2026-03-18T14:51:59.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1196,12 +1859,13 @@
       "link": "http://arxiv.org/abs/2603.18114v1",
       "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
       "date": "2026-03-18T14:48:04.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1221,11 +1885,12 @@
       "link": "http://arxiv.org/abs/2603.17692v1",
       "desc": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not",
       "date": "2026-03-18T13:09:11.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1233,12 +1898,13 @@
       "link": "http://arxiv.org/abs/2603.17687v1",
       "desc": "We present a practical, reproducible framework for identifying undervalued football players grounded in objective mispricing. Instead of relying on subjective expert labels, we estimate an expected market value from structured data (historical market dynamics, biographical and contract features, tra",
       "date": "2026-03-18T13:03:23.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1246,12 +1912,13 @@
       "link": "http://arxiv.org/abs/2603.18107v1",
       "desc": "Deep learning models in quantitative finance often operate as black boxes, lacking interpretability and failing to incorporate fundamental economic principles such as no-arbitrage constraints. This paper introduces ARTEMIS (Arbitrage-free Representation Through Economic Models and Interpretable Symb",
       "date": "2026-03-18T13:00:28.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1259,11 +1926,12 @@
       "link": "http://arxiv.org/abs/2603.06238v2",
       "desc": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleten",
       "date": "2026-03-18T12:05:46.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1295,11 +1963,12 @@
       "link": "http://arxiv.org/abs/2603.17463v1",
       "desc": "We assess the advantage of combining univariate and multivariate portfolio risk forecasts with the aid of forecast reconciliation techniques. In our analyzes, we assume knowledge of portfolio weights, a standard for portfolio risk management applications. With an extensive simulation experiment, we ",
       "date": "2026-03-18T08:10:41.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1307,11 +1976,12 @@
       "link": "http://arxiv.org/abs/2504.04113v3",
       "desc": "In this paper we derive a novel characterization result for time-consistent stochastic control problems with higher-order moments, originally formulated by Wang et al. [SIAM J. Control. Optim., 63 (2025), 1560--1589], and newly explore many solvable instances including a mean-variance-excess kurtosi",
       "date": "2026-03-18T06:25:46.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1319,11 +1989,12 @@
       "link": "http://arxiv.org/abs/2603.16108v2",
       "desc": "We develop a continuous-time general equilibrium framework for economies with a heterogeneous population -- modeled as a continuum -- that repeatedly optimizes over short horizons under relative-income (Duesenberry-type) criteria. The cross-section evolves through a Brownian flow on a type space, tr",
       "date": "2026-03-18T02:15:42.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1331,11 +2002,12 @@
       "link": "http://arxiv.org/abs/2603.17151v1",
       "desc": "Option prices encode the market's collective outlook through implied density and implied volatility. An explicit link between implied density and implied volatility translates the risk-neutrality of the former into conditions on the latter to rule out static arbitrage. Despite earlier recognition of",
       "date": "2026-03-17T21:29:17.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1371,7 +2043,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1383,7 +2056,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1403,11 +2077,12 @@
       "link": "http://arxiv.org/abs/2505.18448v3",
       "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
       "date": "2026-03-17T18:09:23.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv q-fin",
       "tags": [
         "paper",
-        "research"
+        "research",
+        "quant"
       ]
     },
     {
@@ -1415,12 +2090,13 @@
       "link": "http://arxiv.org/abs/2603.16697v1",
       "desc": "Outlier detection identifies data points that deviate significantly from expected patterns, revealing anomalies that may require special attention. Incorporating online learning further improves accuracy by continuously updating the model to reflect the most recent data. When employing the Christoff",
       "date": "2026-03-17T15:51:18.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1428,12 +2104,13 @@
       "link": "http://arxiv.org/abs/2603.13354v2",
       "desc": "Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations often focus on single architectural families or lab-generated datasets. This work presents a systematic empirical comparison of three model paradigms for fine-gra",
       "date": "2026-03-17T10:54:10.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1441,12 +2118,13 @@
       "link": "http://arxiv.org/abs/2603.15059v2",
       "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
       "date": "2026-03-17T04:14:28.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1458,7 +2136,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1478,12 +2157,13 @@
       "link": "http://arxiv.org/abs/2603.15814v1",
       "desc": "Breast cancer remains a leading cause of cancer-related mortality worldwide. Longitudinal mammography risk prediction models improve multi-year breast cancer risk prediction based on prior screening exams. However, in real-world clinical practice, longitudinal histories are often incomplete, irregul",
       "date": "2026-03-16T18:45:19.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1503,12 +2183,13 @@
       "link": "https://www.bis.org/publ/work1337.htm",
       "desc": "by Batuhan Koyuncu, Byeungchun Kwon, Marco Jacopo Lombardi, Fernando Perez-Cruz, Hyun Song Shin<br />This article introduces the BIS Time-series Regression Oracle (BISTRO), a general purpose time series model for macroeconomic forecasting. Its edge over traditional econometric approaches lies in its",
       "date": "2026-03-16T13:57:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -1516,12 +2197,13 @@
       "link": "http://arxiv.org/abs/2510.16021v3",
       "desc": "Sequential intraday electricity trading allows photovoltaic (PV) operators to reduce imbalance settlement costs as forecasts improve throughout the day. Yet deployable trading policies must jointly handle forecast uncertainty, intraday prices, liquidity, and the asymmetric economics of PV imbalance ",
       "date": "2026-03-16T11:29:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1529,12 +2211,13 @@
       "link": "http://arxiv.org/abs/2404.12598v2",
       "desc": "This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach",
       "date": "2026-03-15T13:09:41.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1542,12 +2225,13 @@
       "link": "http://arxiv.org/abs/2603.15681v1",
       "desc": "Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 2023 monsoon season alone. Existing risk maps treat every pixel independently, ignoring the basic fact that flooding upstream raises risk downstream. We",
       "date": "2026-03-15T02:54:24.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1555,12 +2239,13 @@
       "link": "http://arxiv.org/abs/2603.14072v1",
       "desc": "We address the attribution problem for apparent slow collective dynamics: is the observed persistence intrinsic, or inherited from a persistent driver? For the leading eigenvalue fraction $ψ_1=λ_{\\max}/N$ of S\\&P 500 60-day rolling correlation matrices ($237$ stocks, 2004--2023), a VIX-coupled Ornst",
       "date": "2026-03-14T18:37:40.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1568,12 +2253,13 @@
       "link": "http://arxiv.org/abs/2603.13830v1",
       "desc": "The high-frequency issuance and short-cycle speculation of meme tokens in decentralized finance (DeFi) have significantly amplified rug-pull risk. Existing approaches still struggle to provide stable early warning under scarce anomalies, incomplete labels, and limited interpretability. To address th",
       "date": "2026-03-14T08:25:42.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1581,12 +2267,13 @@
       "link": "http://arxiv.org/abs/2506.04632v4",
       "desc": "From software development to robot control, modern agentic systems decompose complex objectives into a sequence of subtasks and choose a set of specialized AI agents to complete them. We formalize agentic workflows as directed acyclic graphs, called agent graphs, where edges represent AI agents and ",
       "date": "2026-03-14T03:19:41.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1594,12 +2281,13 @@
       "link": "http://arxiv.org/abs/2603.13059v1",
       "desc": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se",
       "date": "2026-03-13T15:07:53.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1607,12 +2295,13 @@
       "link": "http://arxiv.org/abs/2603.12507v1",
       "desc": "Minimising a spectral risk objective, defined as a convex combination of expected cost and Conditional Value-at-Risk (CVaR), is challenging when the uncertainty distribution is decision-dependent, making both surrogate modelling and simulation-based ranking sensitive to tail estimation error. We pro",
       "date": "2026-03-12T22:53:24.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
-        "research"
+        "research",
+        "AI"
       ]
     },
     {
@@ -1648,7 +2337,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1656,12 +2346,13 @@
       "link": "https://www.bis.org/publ/work1336.htm",
       "desc": "by Matthieu Chavaz, David Elliott, Win Monroe<br />We exploit the surprise announcement and subsequent amendment of a central bank funding scheme to test how public liquidity provision affects credit market outcomes. Contrary to the notion that public liquidity is primarily a substitute for private ",
       "date": "2026-03-12T07:47:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -1685,7 +2376,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1709,7 +2401,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1721,7 +2414,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1729,12 +2423,13 @@
       "link": "https://www.bis.org/publ/work1335.htm",
       "desc": "by Hyun Song Shin<br />Money is a coordination device underpinned by strong network effects: the more others accept a form of money, the more I wish to adopt it too. The decentralisation agenda of public permissionless blockchains undercuts these network effects and leads to fragmentation of the mon",
       "date": "2026-03-10T14:22:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -1806,7 +2501,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1814,12 +2510,13 @@
       "link": "https://www.bis.org/publ/work1334.htm",
       "desc": "by Costanza Bosone, Leonardo Gambacorta, Paolo Giudici, Enisse Kharroubi, Ulf Lewrick<br />We study how robot adoption and investment in information and communication technologies (ICT) jointly shape sectoral employment across 20 European Union (EU) countries over the period 1995-2020. Using a cross",
       "date": "2026-03-09T09:27:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -1831,7 +2528,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1843,7 +2541,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1863,12 +2562,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/income-mobility-of-the-top-one-percent.htm",
       "desc": "David Splinter and Jeff Larrimore Circulation into and out of the top one percent is pronounced in the U.S. One third exit after a year and two-thirds exit after a decade. This mobility lowers top income shares when shifting from annual to multi-year income measures. Intragenerational mobility over ",
       "date": "2026-03-06T20:10:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -1876,12 +2576,13 @@
       "link": "https://www.bis.org/publ/work1333.htm",
       "desc": "by Koji Takahashi, Joon Suk Park<br />This study uses ChatGPT to simulate survey responses about payment apps, focusing on privacy and perceived benefits. By designing prompts that mirror real user characteristics, the generated responses align with findings from a Dutch survey, especially when grou",
       "date": "2026-03-06T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -1953,7 +2654,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1965,7 +2667,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1977,7 +2680,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -1989,7 +2693,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2021,12 +2726,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/the-practice-of-us-monetary-policy-independence-from-martin-to-greenspan.htm",
       "desc": "Edward Nelson Central bank independence is a major area of study, but the economic literature has been characterized by numerous misstatements regarding how U.S. monetary policy independence has operated over time. Against this backdrop, this paper lays out major elements of the practice of central ",
       "date": "2026-03-03T21:27:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2038,7 +2744,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2050,7 +2757,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2058,12 +2766,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/debt-flexibility.htm",
       "desc": "Rhys Bidder, Nicolas Crouzet, Margaret M. Jacobson , and  Michael Siemer How flexible are corporate loans after origination? Theory predicts coordination problems should make syndicated loans harder to modify than single-bank loans. We show the opposite. Using comprehensive regulatory data, we docum",
       "date": "2026-03-02T20:45:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2075,7 +2784,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2083,12 +2793,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/disruptions-to-foreign-trade-and-us-banks-returns.htm",
       "desc": "Michele Modugno , Dino Palazzo , Carlos A. Ram&iacute;rez , and Thiago R.T. Ferreira We develop a market-based measure of firms' and industries' exposure to foreign trade disruptions. Combining this approach with detailed supervisory data, we quantify large U.S. banks' exposure to such disruptions a",
       "date": "2026-02-27T16:40:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2096,12 +2807,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/enforcing-fair-lending-evidence-from-mortgage-market-litigation.htm",
       "desc": "Matthew Maury, Michael Suher , and Jeffery Y. Zhang Does fair lending litigation impact mortgage lender decisions? Using a novel dataset of all fair lending legal actions from 1991 to 2023, we find that it does. In the wake of legal settlements for discrimination against Black borrowers, lenders sig",
       "date": "2026-02-27T16:37:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2113,7 +2825,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2125,7 +2838,8 @@
       "label": "The Economist",
       "tags": [
         "macro",
-        "economics"
+        "economics",
+        "premium"
       ]
     },
     {
@@ -2133,12 +2847,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/contrasting-ledgers-considerations-for-us-dollar-interbank-payment-systems.htm",
       "desc": "Melissa Leistra This paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.",
       "date": "2026-02-25T22:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2146,12 +2861,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/decomposing-gender-differences-in-bankcard-credit-limits.htm",
       "desc": "Nathan Blascak and Anna Tranfaglia Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total credit card limits for sole mortgage applicants. We estimate that male borrowers have approximately $1,300 ",
       "date": "2026-02-23T15:18:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2159,12 +2875,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/kalshi-and-the-rise-of-macro-markets.htm",
       "desc": "Anthony M. Diercks , Jared Dean Katz, and Jonathan H. Wright Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overs",
       "date": "2026-02-18T20:30:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2172,12 +2889,13 @@
       "link": "https://www.bis.org/publ/work1332.htm",
       "desc": "by Torsten Ehlers, Mathias Hoffmann, Alexander Raabe<br />House prices co-move considerably across countries. We show how non-US global banks and their exposure to US dollar funding conditions help explain this comovement. ..",
       "date": "2026-02-16T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2185,12 +2903,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/initial-margin-for-crypto-currencies-risks-in-uncleared-markets.htm",
       "desc": "Anna Amirdjanova , David Lynch , and Anni Zheng We examine prospective classification of crypto currencies risks within the ISDA Standardized Initial Margin Model (SIMM) framework for calculation of initial margin on trades sensitive to cryptocurrencies’ risk factors in the uncleared market. Consist",
       "date": "2026-02-12T16:40:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2198,12 +2917,13 @@
       "link": "https://www.bis.org/publ/work1331.htm",
       "desc": "by Jieun Lee, Ilhyock Shim<br />Using a large quarterly consumer credit panel dataset from Korea covering 2017–2023, we present four key findings on the characteristics, lending sources, and macroeconomic consequences of vulnerable borrowers-namely, delinquent borrowers whose debt repayment is overd",
       "date": "2026-02-12T09:54:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2211,12 +2931,13 @@
       "link": "https://www.bis.org/publ/work1330.htm",
       "desc": "by Konrad Adler, Sebastian Doerr, Sonya Zhu<br />",
       "date": "2026-02-10T10:23:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2224,12 +2945,13 @@
       "link": "https://www.bis.org/publ/work1329.htm",
       "desc": "by Arturo Andia, José Aurazo, Marcelo Paliza<br />Digital wallets like Yape and Plin have gained widespread popularity in Peru, allowing users to make instant payments through quick response (QR) codes or mobile phone numbers. This paper examines the drivers of their adoption and their impact on eve",
       "date": "2026-02-09T15:23:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2237,12 +2959,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/monetary-policy-exposure-of-banks-and-loan-contracting.htm",
       "desc": "Ahmet Degerli , Jing Wang We provide evidence that banks use loan covenants to prepare for future monetary policy tightening, thereby facilitating the bank lending channel of monetary policy transmission. Specifically, banks with greater monetary policy exposure—those whose lending capacity contract",
       "date": "2026-02-02T19:40:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2250,12 +2973,13 @@
       "link": "https://www.bis.org/publ/work1328.htm",
       "desc": "by Hanno Kase, Leonardo Melosi, Sebastian Rast, Matthias Rottner<br />When public debt is elevated, the fiscal cost of fighting inflation rises sharply, as interest rate hikes increase government interest expenditures. We formalize this mechanism in a nonlinear New Keynesian model with a state-depen",
       "date": "2026-02-02T14:13:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2263,12 +2987,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/inequality-in-comprehensive-wealth.htm",
       "desc": "Hannah Landel, David Love, and Paul A. Smith We create an annualized measure of comprehensive household wealth using the 1998–2022 waves of the Health and Retirement Study and examine heterogeneity in retirement resources across households, cohorts, and time. We augment traditional net worth with th",
       "date": "2026-01-30T14:15:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2276,12 +3001,13 @@
       "link": "https://www.federalreserve.gov/econres/feds/what-do-llms-want.htm",
       "desc": "Thomas R. Cook, Sophia Kazinnik, Zach Modig , and Nathan M. Palmer Large language models (LLMs) are now used for economic reasoning, but their implicit \"preferences\" are poorly understood. We study these preferences by analyzing revealed choices in canonical allocation games and a sequential job-sea",
       "date": "2026-01-30T14:10:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "Federal Reserve",
       "tags": [
         "paper",
         "policy",
-        "macro"
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -2289,12 +3015,13 @@
       "link": "https://www.bis.org/publ/work1327.htm",
       "desc": "by Ko Munakata<br />This paper extends the menu cost model of Gertler and Leahy (2008) by introducing a drift in the aggregate markup. Assuming that the drift is always negative and not large, consistent with moderate and positive trend inflation, the paper analytically characterizes firms' value fu",
       "date": "2026-01-27T08:13:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2302,12 +3029,13 @@
       "link": "https://www.bis.org/publ/work1326.htm",
       "desc": "by Fernando Avalos, Boris Hofmann, José María Serena Garralda<br />Private equity funds play an increasingly important role in financial systems. Yet, the impact of monetary policy on their activity has been little explored so far. In this paper, we analyse the transmission of monetary policy throug",
       "date": "2026-01-26T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2315,12 +3043,13 @@
       "link": "https://www.bis.org/publ/work1325.htm",
       "desc": "by Iñaki Aldasoro, Leonardo Gambacorta, Rozalia Pal, Debora Revoltella, Christoph Weiss, Marcin Wolski<br />This paper provides new evidence on how the adoption of artificial intelligence (AI) affects productivity and employment in Europe...",
       "date": "2026-01-23T09:49:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2328,12 +3057,13 @@
       "link": "https://www.bis.org/publ/work1324.htm",
       "desc": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
       "date": "2026-01-21T07:14:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2341,12 +3071,13 @@
       "link": "https://www.bis.org/publ/work1323.htm",
       "desc": "Working Paper 1323, \"Banks and capital requirements: evidence from countercyclical buffers,\" has been withdrawn at the request of the authors.",
       "date": "2026-01-20T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2354,12 +3085,13 @@
       "link": "https://www.bis.org/publ/work1322.htm",
       "desc": "by David Loschiavo, Olivier Armantier, Antonio Dalla Zuanna, Leonardo Gambacorta, Mirko Moscatelli, Ilaria Supino<br />This paper explores the household adoption of Generative Artificial Intelligence (GenAI) in the United States and Italy, leveraging survey data to compare usage patterns, demographi",
       "date": "2026-01-14T13:19:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2367,12 +3099,13 @@
       "link": "https://www.bis.org/publ/work1321.htm",
       "desc": "by Leonardo Gambacorta, Enisse Kharroubi, Aaron Mehrotra, Tommaso Oliviero<br />This paper investigates whether the positive effects of generative artificial intelligence (gen AI) on growth rate of value added differ across countries in the short run.",
       "date": "2025-12-19T09:34:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2380,12 +3113,13 @@
       "link": "https://www.bis.org/publ/work1320.htm",
       "desc": "by Andreas Schrimpf, Markus Sihvonen<br />We investigate the relationship between inflation and excess returns in bond and foreign exchange (FX) markets, specifically addressing the \"spanning puzzle\".",
       "date": "2025-12-18T14:14:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2393,12 +3127,13 @@
       "link": "https://www.bis.org/publ/work1319.htm",
       "desc": "by Benoit Mojon, Han Qiu, Fang Wang, Michael Weber<br />We estimate the effects of changes in house prices on consumption using unique data of Alipay transactions from Chinese households, spanning from January 2017 to March 2023. We find significant housing wealth effects: changes in house prices ar",
       "date": "2025-12-17T12:57:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2406,12 +3141,13 @@
       "link": "https://www.bis.org/publ/work1318.htm",
       "desc": "by Caner Ates, Morten Linnemann Bech, Rodney Garratt, Marko Nanut Petri <br />This paper introduces a novel liquidity-saving mechanism (LSM) for real-time gross settlement (RTGS) systems based on an auction framework. Unlike conventional queue-based LSMs that optimise payment netting given pre-commi",
       "date": "2025-12-16T12:57:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2419,12 +3155,13 @@
       "link": "https://www.bis.org/publ/work1317.htm",
       "desc": "by Emanuel Nussli, Rachel Arulraj-Cordonier, Flurina Strasser, Marko Nanut Petri , Morten Linnemann Bech, Antonio Pipino<br />Rents are the largest component of the Consumer Price Index (CPI) in many countries, making accurate and timely measurements of rental price developments essential for inflat",
       "date": "2025-12-12T10:14:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2432,12 +3169,13 @@
       "link": "https://www.bis.org/publ/work1316.htm",
       "desc": "by Hongyan Zhao<br />This paper develops a multi-country, multi-sector trade model with input-output linkages to analyze the global macroeconomic effects of the United States'(US) 2025 tariff policies. The model incorporates endogenous labor supply and captures the transmission of tariff-induced sho",
       "date": "2025-12-11T12:53:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2445,12 +3183,13 @@
       "link": "https://www.bis.org/publ/work1315.htm",
       "desc": "by Ricardo Correa, Andrea Fabiani, Matias Ossandon Busch, Miguel Sarmiento<br />We study the role that cross-border firm-to-firm credit plays in financing exporters. Exploiting the exogenous shock of US tariffs on Chinese goods in 2018–2019, we examine the response of Colombian firms – bystanders no",
       "date": "2025-12-10T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2458,12 +3197,13 @@
       "link": "https://www.bis.org/publ/work1314.htm",
       "desc": "by Jon Frost, Carlos Madeira, Serafín Martínez-Jaramillo<br />In many countries around the world, water scarcity could become a macroeconomically relevant concern. As a key input into production processes (agriculture, power generation and industrial use) and a common good, water resources risk bein",
       "date": "2025-12-09T13:00:00.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "BIS Working Papers",
       "tags": [
         "paper",
         "macro",
-        "policy"
+        "policy",
+        "central bank"
       ]
     },
     {
@@ -2472,10 +3212,11 @@
       "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
       "date": "2025-01-27T19:26:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2484,10 +3225,11 @@
       "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
       "date": "2025-01-27T19:01:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2496,10 +3238,11 @@
       "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
       "date": "2025-01-27T18:12:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2508,10 +3251,11 @@
       "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
       "date": "2025-01-27T17:27:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2520,10 +3264,11 @@
       "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
       "date": "2025-01-27T17:20:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2532,10 +3277,11 @@
       "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
       "date": "2025-01-27T14:55:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2544,10 +3290,11 @@
       "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
       "date": "2025-01-27T14:05:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2556,10 +3303,11 @@
       "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
       "date": "2025-01-27T13:28:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2568,10 +3316,11 @@
       "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
       "date": "2025-01-27T11:57:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2580,10 +3329,11 @@
       "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
       "date": "2025-01-27T10:30:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2592,10 +3342,11 @@
       "desc": "Companies with good payouts are now the hottest bet in China markets.",
       "date": "2025-01-27T10:30:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2604,10 +3355,11 @@
       "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
       "date": "2025-01-27T10:02:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2616,10 +3368,11 @@
       "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
       "date": "2025-01-27T09:46:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2628,10 +3381,11 @@
       "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
       "date": "2025-01-27T06:05:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2640,10 +3394,11 @@
       "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
       "date": "2025-01-27T03:33:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2652,10 +3407,11 @@
       "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
       "date": "2025-01-26T11:00:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2664,10 +3420,11 @@
       "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
       "date": "2025-01-26T10:30:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2676,10 +3433,11 @@
       "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
       "date": "2025-01-26T05:01:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2688,10 +3446,11 @@
       "desc": "The story of home affordability in the U.S. told from a single front porch.",
       "date": "2025-01-26T02:00:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2700,10 +3459,11 @@
       "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
       "date": "2025-01-25T10:30:00.000Z",
       "type": "news",
-      "label": "WSJ Markets",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "markets"
+        "markets",
+        "premium"
       ]
     },
     {
@@ -2712,10 +3472,11 @@
       "desc": "Banks are hoping to sell the X debt at around 90 to 95 cents on the dollar.",
       "date": "2025-01-24T20:37:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2724,10 +3485,11 @@
       "desc": "The Canadian government said it would provide extraordinary financing to Canada Post to avoid insolvency at the state-owned mail service.",
       "date": "2025-01-24T20:13:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2736,10 +3498,11 @@
       "desc": "Amazon.com said it is open to talks with officials from the Canadian and Quebec governments about the decision to shut down operations in the country’s French-speaking province, which would lead to 1,700 people losing their jobs.",
       "date": "2025-01-24T19:15:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2748,10 +3511,11 @@
       "desc": "Once a stalwart supporter of Black and LGBTQ rights, the retailer joined corporate America’s retreat from DEI initiatives.",
       "date": "2025-01-24T18:51:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2760,10 +3524,11 @@
       "desc": "Find insight on Cnooc, YTL Power International, Ampol, and more in the latest Market Talks covering energy and utilities.",
       "date": "2025-01-24T17:29:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2772,10 +3537,11 @@
       "desc": "Find insight on CSX, Givaudan, Rio Tinto and more in the latest Market Talks covering basic materials.",
       "date": "2025-01-24T17:28:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2784,10 +3550,11 @@
       "desc": "Read about CSX, Magna International, Alaska Air and more in the latest Market Talks covering the auto and transport sector.",
       "date": "2025-01-24T17:28:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2796,10 +3563,11 @@
       "desc": "Novo Nordisk shares rose sharply after the Danish pharmaceutical giant said an experimental weight-loss shot helped patients lose 22% of their body weight in a clinical trial.",
       "date": "2025-01-24T16:52:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2808,10 +3576,11 @@
       "desc": "The European Commission said that the parties’ offer to sell five of International Paper’s plants in Europe fully addresses its competition concerns over the deal.",
       "date": "2025-01-24T15:55:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2820,10 +3589,11 @@
       "desc": "The search giant has offered to start punishing British businesses that boost their star ratings with fake reviews and the people that post them, ending the U.K. competition watchdog’s investigation into online reviews.",
       "date": "2025-01-24T15:40:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2832,10 +3602,11 @@
       "desc": "The company’s shares fell to the bottom of the Stoxx Europe 600 index as higher operating costs and weakness in some of its business units dented earnings.",
       "date": "2025-01-24T14:07:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2844,10 +3615,11 @@
       "desc": "The New York telecommunications giant’s quarterly earnings beat Wall Street forecasts as higher prices helped to boost revenue.",
       "date": "2025-01-24T14:05:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2856,10 +3628,11 @@
       "desc": "Driving an electric car in a wildfire emergency has its own unique challenges and benefits.",
       "date": "2025-01-24T13:00:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2868,10 +3641,11 @@
       "desc": "Growth through acquisitions isn’t part of CaixaBank’s latest three-year plan, it should be for other banks in Europe, Caixa’s finance chief Javier Pano said in an interview.",
       "date": "2025-01-24T11:11:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2880,10 +3654,11 @@
       "desc": "Tesla China plans to fix 1.2 million China-made and imported vehicles with software issues.",
       "date": "2025-01-24T10:56:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2892,10 +3667,11 @@
       "desc": "Korea Zinc’s shares rose sharply a day after the world’s leading zinc smelter decided to adopt new rules that management said would bolster minority shareholders’ rights.",
       "date": "2025-01-24T09:56:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2904,10 +3680,11 @@
       "desc": "The company upgraded its earnings outlook as sales returned to growth in the Americas, saying efforts to revamp its brand showed positive signs over the key holiday period.",
       "date": "2025-01-24T09:31:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2916,10 +3693,11 @@
       "desc": "Rolls-Royce will manufacture nuclear reactors to power new U.K. submarines under a contract valued approximately at $11.1 billion.",
       "date": "2025-01-24T09:27:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2928,10 +3706,11 @@
       "desc": "The Chinese autonomous-driving company is aiming to make more inroads overseas this year, betting that robotaxis and related services will be in high demand in coming years.",
       "date": "2025-01-24T08:30:00.000Z",
       "type": "news",
-      "label": "WSJ Business",
+      "label": "Wall Street Journal",
       "tags": [
         "WSJ",
-        "business"
+        "business",
+        "premium"
       ]
     },
     {
@@ -2939,7 +3718,7 @@
       "link": "https://cepr.org/research/programme-areas/climate-change-and-environment",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Climate Change and the Environment</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (n",
       "date": "2024-04-18T08:40:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -2952,7 +3731,7 @@
       "link": "https://cepr.org/research/programme-areas/public-policy",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Public Policy</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span></",
       "date": "2022-12-08T13:40:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -2965,7 +3744,7 @@
       "link": "https://cepr.org/research/programme-areas/human-resources",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Human Resources</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span>",
       "date": "2022-11-08T15:30:59.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -2978,7 +3757,7 @@
       "link": "https://cepr.org/research/programme-areas/transition-economics",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Transition Economics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</",
       "date": "2022-11-03T13:40:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -2991,7 +3770,7 @@
       "link": "https://cepr.org/research/programme-areas/institutions-and-economic-performance",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Institutions and Economic Performance</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous",
       "date": "2022-11-03T13:40:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -3004,7 +3783,7 @@
       "link": "https://cepr.org/research/programme-areas/applied-macroeconomics",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Applied Macroeconomics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)",
       "date": "2022-11-03T12:43:17.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -3017,7 +3796,7 @@
       "link": "https://cepr.org/research/programme-areas/banking-and-corporate-finance",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Banking and Corporate Finance</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not ve",
       "date": "2022-09-06T13:00:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -3030,7 +3809,7 @@
       "link": "https://cepr.org/research/programme-areas/asset-pricing",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">Asset Pricing</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not verified)</span></",
       "date": "2022-09-06T13:00:01.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
@@ -3043,7 +3822,7 @@
       "link": "https://cepr.org/research/programme-areas/international-macroeconomics",
       "desc": "<span class=\"field field--name-title field--type-string field--label-hidden\">International Macroeconomics</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Anonymous (not ver",
       "date": "2022-08-09T16:13:04.000Z",
-      "type": "arxiv",
+      "type": "research",
       "label": "CEPR",
       "tags": [
         "paper",
