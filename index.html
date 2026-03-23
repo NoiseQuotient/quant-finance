@@ -77,45 +77,10 @@
       margin-top: 0.1rem;
     }
 
-    .nav {
-      display: flex;
-      gap: 2rem;
-      align-items: center;
-    }
-    .nav-link {
-      color: var(--text2);
-      text-decoration: none;
-      font-size: 0.9rem;
-      font-weight: 500;
-      transition: color 0.2s;
-      padding: 0.5rem 0;
-      position: relative;
-    }
-    .nav-link:hover {
-      color: var(--text);
-    }
-    .nav-link.active {
-      color: var(--primary);
-    }
-    .nav-link.active::after {
-      content: '';
-      position: absolute;
-      bottom: -1px;
-      left: 0;
-      right: 0;
-      height: 2px;
-      background: var(--primary);
-      border-radius: 1px;
-    }
-
     .header-actions {
       display: flex;
       gap: 1rem;
       align-items: center;
-    }
-    .search-box {
-      position: relative;
-      width: 300px;
     }
     .search-icon {
       position: absolute;
@@ -168,17 +133,30 @@
       padding: 2rem;
     }
 
-    .filters {
+    /* ── CATEGORY NAVIGATION ───────────────── */
+    .category-nav {
       display: flex;
-      gap: 1rem;
+      justify-content: space-between;
+      align-items: center;
       margin-bottom: 2rem;
       flex-wrap: wrap;
+      gap: 1.5rem;
     }
-    .filter-btn {
-      padding: 0.5rem 1.25rem;
+    
+    .category-filters {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    
+    .category-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
       background: var(--bg2);
       border: 1px solid var(--border);
-      border-radius: 6px;
+      border-radius: 8px;
       color: var(--text2);
       font-family: var(--sans);
       font-size: 0.9rem;
@@ -186,45 +164,57 @@
       cursor: pointer;
       transition: all 0.2s;
     }
-    .filter-btn:hover {
+    
+    .category-btn:hover {
       border-color: var(--primary);
       color: var(--text);
+      transform: translateY(-1px);
     }
-    .filter-btn.active {
+    
+    .category-btn.active {
       background: rgba(59, 130, 246, 0.1);
       border-color: var(--primary);
       color: var(--primary);
+      box-shadow: 0 2px 8px rgba(59, 130, 246, 0.2);
     }
-
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1rem;
-      margin-bottom: 2rem;
+    
+    .category-icon {
+      font-size: 1.1rem;
     }
-    .stat-card {
-      background: var(--bg2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 1.25rem;
+    
+    .category-text {
+      white-space: nowrap;
     }
-    .stat-label {
-      font-size: 0.8rem;
-      color: var(--text2);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      font-family: var(--mono);
-      margin-bottom: 0.5rem;
+    
+    .search-container {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
     }
-    .stat-value {
-      font-size: 1.5rem;
-      font-weight: 700;
-      color: var(--text);
+    
+    .search-box {
+      position: relative;
+      width: 300px;
     }
-    .stat-sub {
-      font-size: 0.8rem;
-      color: var(--text2);
-      margin-top: 0.25rem;
+    
+    @media (max-width: 768px) {
+      .category-nav {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      
+      .category-filters {
+        justify-content: center;
+      }
+      
+      .search-container {
+        width: 100%;
+        justify-content: center;
+      }
+      
+      .search-box {
+        width: 100%;
+      }
     }
 
     /* ── ARTICLES GRID ──────────────────────── */
@@ -522,65 +512,54 @@
       </div>
     </a>
     
-    <nav class="nav">
-      <a href="#" class="nav-link active" data-filter="all">All</a>
-      <a href="#" class="nav-link" data-filter="research">Research</a>
-      <a href="#" class="nav-link" data-filter="news">News</a>
-      <a href="#" class="nav-link" data-filter="analysis">Analysis</a>
-    </nav>
-    
     <div class="header-actions">
-      <div class="search-box">
-        <span class="search-icon">⌕</span>
-        <input type="text" class="search-input" placeholder="Search articles..." id="searchInput">
-      </div>
       <div class="status">
         <span class="status-dot"></span>
-        <span id="lastUpdate">Loading...</span>
+        <span>Quant Finance Terminal</span>
       </div>
     </div>
   </header>
 
   <!-- MAIN CONTENT -->
   <main class="container">
-    <!-- STATS -->
-    <div class="stats">
-      <div class="stat-card">
-        <div class="stat-label">Total Articles</div>
-        <div class="stat-value" id="stat-total">0</div>
-        <div class="stat-sub" id="stat-updated">Updated: --:--</div>
+    <!-- CATEGORY NAVIGATION -->
+    <div class="category-nav">
+      <div class="category-filters">
+        <button class="category-btn active" data-category="all">
+          <span class="category-icon">📊</span>
+          <span class="category-text">All Articles</span>
+        </button>
+        <button class="category-btn" data-category="research">
+          <span class="category-icon">📚</span>
+          <span class="category-text">Research Papers</span>
+        </button>
+        <button class="category-btn" data-category="news">
+          <span class="category-icon">📰</span>
+          <span class="category-text">Financial News</span>
+        </button>
+        <button class="category-btn" data-category="analysis">
+          <span class="category-icon">📈</span>
+          <span class="category-text">Market Analysis</span>
+        </button>
       </div>
-      <div class="stat-card">
-        <div class="stat-label">Research Papers</div>
-        <div class="stat-value" id="stat-research">0</div>
-        <div class="stat-sub">arXiv, BIS, Fed, CEPR</div>
+      
+      <div class="search-container">
+        <div class="search-box">
+          <span class="search-icon">⌕</span>
+          <input type="text" class="search-input" placeholder="Search quant finance articles..." id="searchInput">
+        </div>
+        <div class="status">
+          <span class="status-dot"></span>
+          <span id="lastUpdate">Just now</span>
+        </div>
       </div>
-      <div class="stat-card">
-        <div class="stat-label">Financial News</div>
-        <div class="stat-value" id="stat-news">0</div>
-        <div class="stat-sub">FT, WSJ, Bloomberg, Economist</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">Market Analysis</div>
-        <div class="stat-value" id="stat-analysis">0</div>
-        <div class="stat-sub">Seeking Alpha, CNBC, MarketWatch</div>
-      </div>
-    </div>
-
-    <!-- FILTERS -->
-    <div class="filters">
-      <button class="filter-btn active" data-filter="all">All Content</button>
-      <button class="filter-btn" data-filter="premium">Premium Sources</button>
-      <button class="filter-btn" data-filter="quant">Quant Finance</button>
-      <button class="filter-btn" data-filter="macro">Macro Economics</button>
-      <button class="filter-btn" data-filter="ml">ML/AI</button>
     </div>
 
     <!-- ARTICLES -->
     <div id="articles-container">
       <div class="loading">
         <div class="spinner"></div>
-        <div>Loading financial intelligence data...</div>
+        <div>Loading quant finance intelligence...</div>
       </div>
     </div>
   </main>
@@ -602,7 +581,6 @@
   <script>
     // State
     let allItems = [];
-    let activeFilter = 'all';
     let activeCategory = 'all';
     let searchQuery = '';
 
@@ -610,11 +588,6 @@
     const articlesContainer = document.getElementById('articles-container');
     const searchInput = document.getElementById('searchInput');
     const lastUpdateEl = document.getElementById('lastUpdate');
-    const statTotal = document.getElementById('stat-total');
-    const statResearch = document.getElementById('stat-research');
-    const statNews = document.getElementById('stat-news');
-    const statAnalysis = document.getElementById('stat-analysis');
-    const statUpdated = document.getElementById('stat-updated');
 
     // Load data
     async function loadData() {
@@ -625,20 +598,9 @@
         
         allItems = data.items || [];
         
-        // Update stats
-        const researchCount = allItems.filter(i => i.type === 'research').length;
-        const newsCount = allItems.filter(i => i.type === 'news').length;
-        const analysisCount = allItems.filter(i => i.type === 'analysis').length;
-        
-        statTotal.textContent = allItems.length;
-        statResearch.textContent = researchCount;
-        statNews.textContent = newsCount;
-        statAnalysis.textContent = analysisCount;
-        
-        // Update timestamps
+        // Update timestamp
         const updated = data.updated ? new Date(data.updated) : new Date();
-        lastUpdateEl.textContent = `Updated: ${formatTime(updated)}`;
-        statUpdated.textContent = `Updated: ${formatTime(updated)}`;
+        lastUpdateEl.textContent = `Updated ${formatRelativeTime(updated)}`;
         
         renderArticles();
       } catch (error) {
@@ -685,25 +647,6 @@
         filteredItems = filteredItems.filter(item => item.type === activeCategory);
       }
       
-      // Apply tag filter
-      if (activeFilter !== 'all') {
-        filteredItems = filteredItems.filter(item => {
-          if (activeFilter === 'premium') {
-            return item.tags?.includes('premium');
-          }
-          if (activeFilter === 'quant') {
-            return item.tags?.some(tag => ['quant', 'research', 'paper'].includes(tag));
-          }
-          if (activeFilter === 'macro') {
-            return item.tags?.some(tag => ['macro', 'economics', 'policy'].includes(tag));
-          }
-          if (activeFilter === 'ml') {
-            return item.tags?.some(tag => ['ML', 'AI', 'machine learning'].includes(tag));
-          }
-          return true;
-        });
-      }
-      
       // Apply search
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
@@ -723,44 +666,16 @@
           <div class="empty-state">
             <div style="font-size: 2rem; margin-bottom: 1rem;">📄</div>
             <div>No articles found</div>
-            <div style="margin-top: 0.5rem; font-size: 0.875rem;">Try changing filters or search terms</div>
+            <div style="margin-top: 0.5rem; font-size: 0.875rem;">Try changing category or search terms</div>
           </div>
         `;
         return;
       }
       
-      // Group by type for section headers
-      const grouped = {
-        research: filteredItems.filter(i => i.type === 'research'),
-        news: filteredItems.filter(i => i.type === 'news'),
-        analysis: filteredItems.filter(i => i.type === 'analysis')
-      };
-      
-      let html = '';
-      
-      // Research section
-      if (grouped.research.length > 0 && (activeCategory === 'all' || activeCategory === 'research')) {
-        html += `<div class="section-title">Research Papers (${grouped.research.length})</div>`;
-        html += '<div class="articles-grid">';
-        grouped.research.forEach(item => html += renderArticle(item));
-        html += '</div>';
-      }
-      
-      // News section
-      if (grouped.news.length > 0 && (activeCategory === 'all' || activeCategory === 'news')) {
-        html += `<div class="section-title">Financial News (${grouped.news.length})</div>`;
-        html += '<div class="articles-grid">';
-        grouped.news.forEach(item => html += renderArticle(item));
-        html += '</div>';
-      }
-      
-      // Analysis section
-      if (grouped.analysis.length > 0 && (activeCategory === 'all' || activeCategory === 'analysis')) {
-        html += `<div class="section-title">Market Analysis (${grouped.analysis.length})</div>`;
-        html += '<div class="articles-grid">';
-        grouped.analysis.forEach(item => html += renderArticle(item));
-        html += '</div>';
-      }
+      // Show all articles in one grid (no section headers)
+      let html = '<div class="articles-grid">';
+      filteredItems.forEach(item => html += renderArticle(item));
+      html += '</div>';
       
       articlesContainer.innerHTML = html;
     }
@@ -861,23 +776,12 @@
 
     // Event listeners
     function setupEventListeners() {
-      // Category filters
-      document.querySelectorAll('.nav-link').forEach(link => {
-        link.addEventListener('click', (e) => {
-          e.preventDefault();
-          document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
-          link.classList.add('active');
-          activeCategory = link.dataset.filter;
-          renderArticles();
-        });
-      });
-      
-      // Tag filters
-      document.querySelectorAll('.filter-btn').forEach(btn => {
+      // Category buttons
+      document.querySelectorAll('.category-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
-          activeFilter = btn.dataset.filter;
+          activeCategory = btn.dataset.category;
           renderArticles();
         });
       });
