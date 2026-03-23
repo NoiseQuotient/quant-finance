@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T04:59:29.507Z",
+  "updated": "2026-03-23T05:59:52.101Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -75,6 +75,20 @@
       "relevance": 11
     },
     {
+      "title": "Iran war is a risk to the flow of Gulf funds around the globe",
+      "link": "https://www.ft.com/content/bdc2ad8c-d22f-44b5-aec4-14740f810a66",
+      "desc": "World has come to depend on capital from the region more deeply than many realise",
+      "date": "2026-03-23T05:00:25.000Z",
+      "type": "news",
+      "label": "Financial Times",
+      "tags": [
+        "FT",
+        "markets"
+      ],
+      "archive_url": "https://web.archive.org/web/https://www.ft.com/content/bdc2ad8c-d22f-44b5-aec4-14740f810a66",
+      "relevance": 10
+    },
+    {
       "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "link": "http://arxiv.org/abs/2603.19225v1",
       "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
@@ -115,20 +129,6 @@
       ],
       "archive_url": null,
       "relevance": 10
-    },
-    {
-      "title": "Iran war fallout set to filter into economic data",
-      "link": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
-      "desc": "Telling PMI, consumer confidence and inflation updates, plus Denmark goes to the polls, Anglicans anoint first female leader",
-      "date": "2026-03-22T18:15:01.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets"
-      ],
-      "archive_url": "https://web.archive.org/web/https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
-      "relevance": 9
     },
     {
       "title": "Large Language Models and Stock Investing: Is the Human Factor Required?",
