@@ -1,42 +1,19 @@
 {
-  "updated": "2026-03-23T15:36:21.384Z",
-  "count": 298,
+  "updated": "2026-03-23T16:00:15.660Z",
+  "count": 123,
   "failed": [],
   "items": [
     {
-      "title": "Ecolab Inc. (ECL) CoolIT Systems, Inc., - M&A Call - Slideshow",
-      "link": "https://seekingalpha.com/article/4885013-ecolab-inc-ecl-coolit-systems-inc-m-and-a-call-slideshow?source=feed_all_articles",
+      "title": "$1 Million Dollar Near 7% Yield 60/40 Portfolio",
+      "link": "https://seekingalpha.com/article/4884999-1-million-dollar-near-7-percent-yield-6040-portfolio?source=feed_all_articles",
       "desc": "",
-      "date": "2026-03-23T15:31:15.000Z",
+      "date": "2026-03-23T15:39:44.000Z",
       "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Tesla: Promises Of Future Growth That Never Come True (Rating Downgrade)",
-      "link": "https://seekingalpha.com/article/4884991-tesla-promises-of-future-growth-that-never-come-true-rating-downgrade?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:31:08.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Fortinet: Strong Fundamentals And AI-Driven Expansion Underpin Valuation Upside",
-      "link": "https://seekingalpha.com/article/4884990-fortinet-stock-strong-fundamentals-and-ai-driven-expansion-underpin-valuation-upside?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:30:05.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
+        "equities",
+        "quant"
       ]
     },
     {
@@ -48,239 +25,21 @@
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
-        "equities"
+        "equities",
+        "quant"
       ]
     },
     {
-      "title": "Trump Touts Fresh Iran Talks, Delays Attacks on Energy Sites",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-touts-fresh-iran-talks-delays-attacks-on-energy-sites",
-      "desc": "President Donald Trump said the US would postpone strikes against Iran’s energy infrastructure after what he called “productive conversations” with the country, in comments that spurred confusion over the participants in the talks and parameters of a deal.",
-      "date": "2026-03-23T15:29:10.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Amazon hasn&#x2019;t been this cheap since 2008. Here&#x2019;s how the stock could rally 46% from here.",
-      "link": "https://www.marketwatch.com/story/amazon-hasnt-been-this-cheap-since-2008-heres-how-the-stock-could-rally-46-from-here-78daf054?mod=mw_rss_topstories",
-      "desc": "Amazon&#x2019;s $200 billion AI spending plans have weighed on the stock, overshadowing robust cloud and retail growth, Jefferies argues.",
-      "date": "2026-03-23T15:27:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Drivers paying nearly $4 a gallon for gas see hope in oil prices&#x2019; fall",
-      "link": "https://www.marketwatch.com/story/drivers-paying-nearly-4-a-gallon-for-gas-see-hope-in-oil-prices-fall-9f06b196?mod=mw_rss_topstories",
-      "desc": "Gasoline prices were close to $1 a gallon higher than a month ago.",
-      "date": "2026-03-23T15:27:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Companies Set To Win As States Vie To Host Nuclear Campuses",
-      "link": "https://seekingalpha.com/article/4885011-companies-set-to-win-as-states-vie-to-host-nuclear-campuses?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:25:00.000Z",
+      "title": "Increases CAPE Ratio Predictability with a Simple Adjustment",
+      "link": "https://alphaarchitect.com/cape-ratios/",
+      "desc": "CAPE has long been a cornerstone of long-horizon return forecasting. Critics argue that its predictive power has faded in recent decades. This paper pushes back. Increases CAPE Ratio Predictability with a Simple Adjustment was originally published at Alpha Architect . Please read the Alpha Architect",
+      "date": "2026-03-23T15:23:00.000Z",
       "type": "analysis",
-      "label": "Seeking Alpha",
+      "label": "Alpha Architect",
       "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Oracle: Anthropic Surge Creates New Problems",
-      "link": "https://seekingalpha.com/article/4884989-oracle-anthropic-surge-creates-new-problems?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:22:44.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump Says Strait of Hormuz Could Be Open Very Soon",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-says-strait-of-hormuz-could-be-open-very-soon-video",
-      "desc": "President Donald Trump says the Strait of Hormuz may be open \"very soon\" and will be jointly controlled. (Source: Bloomberg)",
-      "date": "2026-03-23T15:20:46.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "EQT CEO Toby Rice on Energy Prices, LNG and Data Centers at CERAWeek",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/eqtceo-toby-rice-on-energy-prices-lng-and-data-centers-video",
-      "desc": "EQT CEO Toby Rice discusses energy prices, LNG and the growing role of data centers in shaping energy demand with Bloomberg’s Julie Fine at CERAWeek in Houston. (Source: Bloomberg)",
-      "date": "2026-03-23T15:19:15.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Viking Therapeutics: An Equally Important Catalyst Ahead",
-      "link": "https://seekingalpha.com/article/4884988-viking-therapeutics-equally-important-catalyst-ahead?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:17:55.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "The Chokepoint to End All Chokepoints",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/the-chokepoint-to-end-all-chokepoints",
-      "desc": "What matters is relative flows.",
-      "date": "2026-03-23T15:17:24.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Did Trump just pull a &#x2018;TACO&#x2019; on Iran? Why markets will remain volatile, even if investors see some relief from the selling this week.",
-      "link": "https://www.marketwatch.com/story/did-trump-just-pull-a-taco-on-iran-why-markets-will-remain-volatile-even-if-investors-see-some-relief-from-the-selling-this-week-50312b6f?mod=mw_rss_topstories",
-      "desc": "The Dow was up about 1,000 points, or 2.2%, early Monday after President Trump gave markets a reason to hope for a de-escalation of the Iran conflict.",
-      "date": "2026-03-23T15:17:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Colin Coleman on 'Devastating' Effects Iran War is Having on African Economies",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/colin-coleman-on-iran-war-effects-to-african-economies-video",
-      "desc": "Atlantic Council Non-Resident Senior Fellow and South Africa Youth Employment Service Co-Chairman Colin Coleman discusses the numerous effects the war in the Middle East is having on African economies, notably the 'devastating' short term impacts on African markets and the residual inflation shock. ",
-      "date": "2026-03-23T15:16:46.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "The HBM Shortage May Make Micron A $1 Trillion Giant",
-      "link": "https://seekingalpha.com/article/4884987-the-hbm-shortage-may-make-micron-a-1-trillion-giant?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:15:17.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "PayPal: Mr. Market Is Ignoring Just How Cheap It Is",
-      "link": "https://seekingalpha.com/article/4884986-paypal-mr-market-is-ignoring-just-how-cheap-it-is?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:14:04.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Mayr-Melnhof Karton AG (MNHFF) Q4 2025 Earnings Call Prepared Remarks Transcript",
-      "link": "https://seekingalpha.com/article/4884941-mayr-melnhof-karton-ag-mnhff-q4-2025-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:13:41.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Women, Next Generation Want Investments to be 'Purpose Driven,' Says Kathleen Paylor",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/women-next-generation-want-investments-to-be-purpose-driven-says-kathleen-paylor",
-      "desc": "Kathleen Paylor, RSF VP of impact investing and philanthropy, said that investors are asking about then implications of their investments for 'people and the plant' as they allocate their money. (Source: Bloomberg)",
-      "date": "2026-03-23T15:11:10.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "DBO: Understanding The Structure And Suitability Of This Commodity ETF",
-      "link": "https://seekingalpha.com/article/4884983-dbo-understanding-the-structure-and-suitability-of-this-commodity-etf?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:11:04.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Microsoft: Agentic AI May Be The 2-In-1 Recovery Catalyst",
-      "link": "https://seekingalpha.com/article/4884982-microsoft-agentic-ai-may-be-the-2-in-1-recovery-catalyst?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:08:49.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "UK Studies Wider Ways to Help Economy on Iran, Starmer Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/uk-studies-wider-ways-to-help-economy-on-iran-starmer-says",
-      "desc": "Keir Starmer said he is looking at wider measures to support Britain’s economy through the Iran crisis as he prepares to chair an emergency meeting on the economic impact of the conflict.",
-      "date": "2026-03-23T15:04:21.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Microsoft: Beneath The Selloff",
-      "link": "https://seekingalpha.com/article/4884981-microsoft-beneath-selloff?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:59:25.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
+        "quant",
+        "research",
+        "investment"
       ]
     },
     {
@@ -292,7 +51,8 @@
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
-        "equities"
+        "equities",
+        "quant"
       ]
     },
     {
@@ -304,57 +64,8 @@
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Sartorius Aktiengesellschaft (SOAGY) Analyst/Investor Day Transcript",
-      "link": "https://seekingalpha.com/article/4884924-sartorius-aktiengesellschaft-soagy-analyst-investor-day-transcript?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:53:40.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Important That Europe Gets Involved in Hormuz, US Amb. Puzder Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/us-amb-puzder-important-europe-gets-involved-in-hormuz-video",
-      "desc": "US Ambassador to the European Union Andrew Puzder discusses potential talks between the US and Iran on ending the Middle East conflict, the need for Europe’s involvement in the Strait of Hormuz, and US-European trade. (Source: Bloomberg)",
-      "date": "2026-03-23T14:51:10.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Virtus Seix Total Return Bond Fund Q4 2025 Commentary",
-      "link": "https://seekingalpha.com/article/4884977-virtus-seix-total-return-bond-fund-q4-2025-commentary?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:50:00.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "JPMorgan Kicks Off $8 Billion Junk-Bond Sale for EA Buyout",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-kicks-off-8-billion-junk-bond-sale-for-ea-buyout",
-      "desc": "Wall Street banks led by JPMorgan Chase & Co. have kicked off the sale of $8 billion in junk bonds to fund the record leveraged buyout of video game maker Electronic Arts Inc.",
-      "date": "2026-03-23T14:49:25.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
+        "equities",
+        "quant"
       ]
     },
     {
@@ -366,7 +77,8 @@
       "label": "Seeking Alpha",
       "tags": [
         "analysis",
-        "equities"
+        "equities",
+        "quant"
       ]
     },
     {
@@ -379,217 +91,12 @@
       "tags": [
         "Bloomberg",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Palisade Bio: Undervalued Biotech With Blockbuster Potential, Initiating With A Speculative Buy Rating",
-      "link": "https://seekingalpha.com/article/4884974-palisade-bio-undervalued-with-blockbuster-potential-speculative-buy-rating?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:46:37.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump to Order National Guard to Airports If ICE Not Enough",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-might-order-national-guard-to-airports-video",
-      "desc": "President Donald Trump says he did not want Immigration and Customs Enforcement agents to wear masks as they assist with security screenings at airports. (Source: Bloomberg)",
-      "date": "2026-03-23T14:46:06.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "W. P. Carey: Trading At A Deep Discount While The Pivot Delivers",
-      "link": "https://seekingalpha.com/article/4884886-wp-carey-stock-trading-deep-discount-while-pivot-delivers?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:45:11.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "The Case For NUGT As Gold Searches For A Bottom",
-      "link": "https://seekingalpha.com/article/4884972-the-case-for-nugt-as-gold-searches-for-bottom?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:43:54.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "BioLineRx Ltd. (BLRX) Q4 2025 Earnings Call Transcript",
-      "link": "https://seekingalpha.com/article/4884969-biolinerx-ltd-blrx-q4-2025-earnings-call-transcript?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:43:39.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Allspring Diversified Capital Builder Fund Q4 2025 Commentary",
-      "link": "https://seekingalpha.com/article/4884968-allspring-diversified-capital-builder-fund-q4-2025-commentary?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:40:00.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump Backs Off Iran Energy Strike Threat as Markets Reel",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-s-market-driven-reversal-buys-time-but-skepticism-abounds",
-      "desc": "Just before US markets opened on Monday, President Donald Trump backed down from his threat to destroy Iran’s power infrastructure if it didn’t reopen the Strait of Hormuz within 48 hours &mdash; pushed by the surge in energy prices and global market rout unleashed by the US-Israeli war on Tehran an",
-      "date": "2026-03-23T14:39:55.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Hensoldt: Why This Defense Selloff Could Be A Big Mistake",
-      "link": "https://seekingalpha.com/article/4884967-hensoldt-defense-selloff-could-be-big-mistake?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:39:07.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "AleAnna: Italy's Gas Opportunity Meets A Tiny Float",
-      "link": "https://seekingalpha.com/article/4884966-aleanna-italys-gas-opportunity-meets-a-tiny-float?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:38:08.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Markets rebound after Donald Trump postpones attack on Iranian energy",
-      "link": "https://www.ft.com/content/95d42d92-cedf-4849-a669-a53d2179b257",
-      "desc": "Stocks reverse losses and oil tumbles after US President says there have been ‘constructive’ talks with Tehran",
-      "date": "2026-03-23T14:29:59.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Oil From US Reserves Started Flowing Friday, Says Energy Secretary Wright",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/oil-from-us-reserves-started-flowing-friday-wright-says-video",
-      "desc": "US Energy Secretary Chris Wright says oil from the US strategic reserve started flowing on Friday afternoon. \"Prices have not risen high enough yet to drive meaningful demand destruction,” Wright said during a discussion at CERA Week in Houston. (Source: Bloomberg)",
-      "date": "2026-03-23T14:29:55.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "ICE deployed to some U.S. airports as long security lines persist during partial shutdown",
-      "link": "https://www.cnbc.com/2026/03/23/airport-lines-government-shutdown-tsa.html",
-      "desc": "The Trump administration said it plans to send ICE officers to help ease airport congestion amid TSA officer absences as they face second missed full paycheck.",
-      "date": "2026-03-23T14:25:07.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Trump Says US 'Very Willing' to Make a Deal With Iran",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-says-us-very-willing-to-make-a-deal-with-iran-video",
-      "desc": "President Donald Trump says the US is speaking with a “top person” in Iran, but not the Supreme Leader. (Source: Bloomberg)",
-      "date": "2026-03-23T14:24:59.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
-      "link": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
-      "desc": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
-      "date": "2026-03-23T14:19:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "&#x2018;My careful planning was derailed&#x2019;: I can&#x2019;t rollover my $800,000 401(k) from my prior employer. What did I do wrong?",
-      "link": "https://www.marketwatch.com/story/this-is-a-first-world-problem-im-72-my-company-wont-accept-my-800-000-401-k-rollover-what-now-93c5eb20?mod=mw_rss_topstories",
-      "desc": "&#x201c;While I recognize this is a first-world problem &#x2014; a high earner, still working at 73, fretting over less than $10,000 in taxes &#x2014; I am frustrated.&#x201d;",
-      "date": "2026-03-23T14:15:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Meloni Faces Defeat in Italian Referendum on the Judiciary",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/italian-exit-polls-show-meloni-facing-narrow-referendum-defeat",
-      "desc": "Prime Minister Giorgia Meloni is on track to narrowly lose a national referendum to overhaul Italy’s judicial system, which has become a vote on the leader herself.",
-      "date": "2026-03-23T14:14:34.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Blackstone Weighs First-Ever Sports Investment With Cricket Bet",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/blackstone-weighs-first-ever-sports-investment-with-cricket-bet",
-      "desc": "Blackstone Inc. is considering whether to buy a stake in the world’s most lucrative professional cricket league through its fund for wealthy individuals, in what would be the first sports investment for the world’s biggest alternative asset manager.",
-      "date": "2026-03-23T14:11:45.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny"
     },
     {
       "title": "US warns EU to pass trade deal or risk losing ‘favourable’ access to LNG",
@@ -601,67 +108,12 @@
       "tags": [
         "FT",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "White House Reviewing SEC’s Crypto, Hedge Fund Disclosure Plans",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/white-house-reviewing-sec-s-crypto-hedge-fund-disclosure-plans",
-      "desc": "The Securities and Exchange Commission sent two new proposed rules, one on digital assets and another on hedge fund and private equity firm disclosures, to the White House for review.",
-      "date": "2026-03-23T14:08:15.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Why gold&#x2019;s plunge into a bear market is a good signal for stocks, according to Morgan Stanley",
-      "link": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35?mod=mw_rss_topstories",
-      "desc": "Bullion&#x2019;s rise in previous months shows investors were wary of geopolitics, suggests Morgan Stanley strategist Mike Wilson.",
-      "date": "2026-03-23T14:08:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Global oil prices fall 10% to $100 a barrel after Trump says he&#x2019;s postponing attacks on Iran power plants following &#x2018;productive conversations&#x2019; with Tehran to end the war",
-      "link": "https://www.marketwatch.com/story/oil-climbs-after-trump-issues-iran-48-hour-ultimatum-e1e0f002?mod=mw_rss_topstories",
-      "desc": "Oil prices fell sharply on Monday after President Donald Trump said the U.S. and Iran had &#x201c;very good and productive conversations&#x201d; in the past two days.",
-      "date": "2026-03-23T13:58:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
-      "desc": "Ukrainian-American billionaire bought majority stake in controversial porn streaming platform in 2018",
-      "date": "2026-03-23T13:47:07.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Pfizer and French partner to seek approval for Lyme disease vaccine after late-stage trial",
-      "link": "https://www.marketwatch.com/story/pfizer-and-french-partner-to-seek-approval-for-lyme-disease-vaccine-after-late-stage-trial-c05adf3f?mod=mw_rss_topstories",
-      "desc": "Pharmaceutical giant Pfizer and French partner Valneva on Monday said they planned to seek regulatory approval for a Lyme disease vaccine after a late-stage trial.",
-      "date": "2026-03-23T13:45:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef"
     },
     {
       "title": "FEDS Paper: AI and Coder Employment: Compiling the Evidence",
@@ -675,31 +127,6 @@
         "policy",
         "macro",
         "central bank"
-      ]
-    },
-    {
-      "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss",
-      "link": "https://www.cnbc.com/2026/03/23/pfizer-lyme-disease-vaccine-trial-fda-approval.html",
-      "desc": "Lyme disease is an illness caused by bacteria most commonly spread to humans from ticks. It can cause arthritis, muscle weakness and pain.",
-      "date": "2026-03-23T13:36:42.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
-      "link": "https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38",
-      "desc": "Passenger jet flying from Montreal collided with ground vehicle",
-      "date": "2026-03-23T13:36:33.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
       ]
     },
     {
@@ -731,222 +158,6 @@
       ]
     },
     {
-      "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
-      "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
-      "desc": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses.",
-      "date": "2026-03-23T13:31:07.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Fed's Miran Says Policy Can't Be Made on Short-Term Headlines",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/miran-says-policy-can-t-be-made-on-short-term-headlines-video",
-      "desc": "Federal Reserve Governor Stephen Miran says the central bank should not be looking at recent oil shocks to set monetary policy. “We should wait for all the information to come in before really changing our outlook,\" he said Monday morning on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "date": "2026-03-23T13:27:50.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Administration Asks Supreme Court to Halt DOGE Inquiry",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-administration-asks-supreme-court-to-halt-doge-inquiry",
-      "desc": "The Trump administration asked the US Supreme Court to block a government watchdog group from questioning a senior official and obtaining internal records about the Department of Government Efficiency project once led by Elon Musk.",
-      "date": "2026-03-23T13:25:04.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Too Soon to Draw Conclusions on Oil, Fed Governor Miran Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-23/too-soon-to-draw-conclusions-on-oil-miran-says-video",
-      "desc": "Federal Reserve Governor Stephen Miran says it's too soon to tell how higher oil prices will impact other prices. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "date": "2026-03-23T13:15:23.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Says ICE Agents Shouldn’t Wear Masks on Airport Duty",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-ice-agents-shouldn-t-wear-masks-while-on-airport-duty",
-      "desc": "President Donald Trump said he did not want Immigration and Customs Enforcement agents detailed to airports to wear masks as they assist with security screenings &mdash; even as he continued to support officers using face coverings during deportation operations.",
-      "date": "2026-03-23T13:14:05.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "China and Brazil Agree to Ease Soybean Sanitary Requirements",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/china-and-brazil-agree-to-ease-soybean-sanitary-requirements",
-      "desc": "Chinese and Brazilian authorities came to an agreement that will likely bring relief to the trade of soybeans between both countries, after a number of cargoes failed to pass sanitary inspections, according to a document by Brazil’s Agriculture Ministry.",
-      "date": "2026-03-23T13:06:02.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Brazil’s CSN Secures $1.2 Billion Loan Deal With Banks",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/brazil-s-csn-secures-1-2-billion-loan-deal-with-group-of-banks",
-      "desc": "Brazilian conglomerate CSN said a group of banks agreed to extend the company a $1.2 billion loan, easing concerns about its ability to meet near-term debt payments.",
-      "date": "2026-03-23T12:59:45.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Russian Steel Is Kremlin’s New Headache as Top Group Idles Units",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/russian-steel-is-kremlin-s-new-headache-as-top-group-idles-units",
-      "desc": "Russia’s steel industry is emerging as a new pain point for the Kremlin, with major producers beginning to shut capacity in the face of slowing domestic demand and limited export options.",
-      "date": "2026-03-23T12:42:27.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "‘Peak Pessimism’ Toward Consumer Stocks Flashes a Buy Signal",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/-peak-pessimism-toward-consumer-stocks-flashes-a-buy-signal",
-      "desc": "Recent market performance for US consumer-discretionary stocks has been so ugly that it may be a great time to buy.",
-      "date": "2026-03-23T12:35:23.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Xi Urges New Flagship City to Lead Tech, Finance Policy Trials",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/xi-urges-new-flagship-city-to-lead-tech-finance-policy-trials",
-      "desc": "President Xi Jinping called for Xiong’an New Area to play a leading role in advancing innovative policies in sectors like technology and finance, reaffirming his commitment to develop a high-tech hub near Beijing.",
-      "date": "2026-03-23T12:26:48.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Stocks are teetering on the edge of correction territory. Why the &#x2018;TACO trade&#x2019; could flop.",
-      "link": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
-      "desc": "The once-reliable trade on Wall Street, that President Trump &#x201c;always chickens out,&#x201d; could be torpedoed by the Iran conflict.",
-      "date": "2026-03-23T12:25:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "What Are Team Iran's Options at a US-Hosted World Cup?",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/iran-at-the-world-cup-2026-can-fifa-move-team-s-games-out-of-us",
-      "desc": "Iran’s national football team has said it won’t be attending the World Cup that kicks off in the US in June after President Donald Trump said the squad’s safety could not be assured.",
-      "date": "2026-03-23T12:16:25.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "China to Issue New Quotas for Investing Overseas, Official Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/china-to-issue-new-quotas-for-investing-overseas-official-says",
-      "desc": "China plans to increase the amount of money that approved investors can channel into overseas assets as Beijing loosens its control over capital outflows.",
-      "date": "2026-03-23T11:49:53.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Why oil had been nearing peak even before Trump statement on Iran, according to top economists",
-      "link": "https://www.marketwatch.com/story/why-oil-had-been-nearing-peak-even-before-trump-statement-on-iran-according-to-top-economists-abfb11ff?mod=mw_rss_topstories",
-      "desc": "Well-respected economists Krugman and Brooks believe we are near to the peak in oil prices because demand destruction takes place if it goes much higher",
-      "date": "2026-03-23T11:44:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
-      "title": "Netanyahu is gambling with Israel’s future",
-      "link": "https://www.ft.com/content/4e35167f-a7c2-4d4e-b2e4-cc9d863eec2d",
-      "desc": "Perpetual war and fading American popular support is a formula for disaster",
-      "date": "2026-03-23T11:34:06.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Sweden Proposes to Cut Fuel Tax and Reduce Iran War Price Impact",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/sweden-proposes-to-cut-fuel-tax-and-reduce-iran-war-price-impact",
-      "desc": "Sweden’s government said it will temporarily cut the duty on vehicle fuels to reduce the inflationary impact of the Iran war on voters six months ahead of a general election.",
-      "date": "2026-03-23T11:32:04.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Backs Off From Iran Threat, Citing Talks to End War",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-backs-off-from-iran-threat-as-ceasefire-talks-get-underway",
-      "desc": "US President Donald Trump postponed threatened strikes against Iranian energy infrastructure and power plants for five days, pending the outcome of what he said were talks with Iran to end the 24-day war.",
-      "date": "2026-03-23T11:23:55.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
       "title": "US Bonds Rise as Trump Eases Iran Threats, Spurring Fed-Cut Bets",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/treasuries-soar-after-trump-postpones-iran-power-strikes",
       "desc": "Treasuries rose in volatile trading after President Donald Trump eased his threats against Iran, driving oil prices lower.",
@@ -956,112 +167,12 @@
       "tags": [
         "Bloomberg",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Postpones Strikes Against Iran Power For Five Days",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-he-will-postpone-strikes-against-iran-for-five-days",
-      "desc": "President Donald Trump put his threat to destroy Iranian power plants on hold for five days after what he described as “productive” talks with that country, sending oil down sharply and stocks soaring.",
-      "date": "2026-03-23T11:20:49.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump’s Populist Approach Is Increasingly Out of Touch",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/donald-trump-s-iran-war-isn-t-popular-with-americans",
-      "desc": "The focus on war over affordability is threatening the administration’s control over Washington",
-      "date": "2026-03-23T11:09:23.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump looking at inviting Belarus’s Lukashenko to White House",
-      "link": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
-      "desc": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin",
-      "date": "2026-03-23T11:00:09.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Pfizer’s Long-Awaited Lyme Vaccine Fails to Impress in Study",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/pfizer-says-long-awaited-lyme-vaccine-was-effective-in-study",
-      "desc": "Pfizer Inc. said its experimental Lyme disease vaccine was 73% effective against the tick-borne illness, a lackluster result as fewer-than-expected infections in the pivotal study made its potency hard to evaluate.",
-      "date": "2026-03-23T10:45:00.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Orban Rallies Far-Right Allies Amid Russian Meddling Claims",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/orban-rallies-far-right-allies-amid-claims-of-russian-meddling",
-      "desc": "Hungarian Prime Minister Viktor Orban is looking to mobilize support from European Union far-right leaders as his government battles allegations of Russian attempts to tilt the country’s pivotal elections in favor of the nationalist incumbent.",
-      "date": "2026-03-23T10:42:37.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "HPE Gets Day in Court as State AGs Challenge $14 Billion Deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/hpe-gets-day-in-court-as-state-ags-challenge-14-billion-deal",
-      "desc": "Hewlett Packard Enterprise Inc. faces a crucial hurdle Monday to reaping the benefits of its $14 billion takeover of wireless networking rival Juniper Networks Inc., as a federal judge considers whether the Trump administration improperly approved an antitrust settlement that a group of states claim",
-      "date": "2026-03-23T10:03:10.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Modi Seeks to Calm India as Iran War Causes Gas Shortage",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/modi-seeks-to-calm-india-as-iran-war-causes-acute-gas-shortage",
-      "desc": "India’s Prime Minister Narendra Modi said the country has sufficient energy supplies to meet domestic demand, even as he warned the Iran conflict creates unprecedented challenges for the world’s fastest growing large economy.",
-      "date": "2026-03-23T10:02:22.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Merz’s Win in SPD Stronghold Is a Blow for German Coalition",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/merz-s-win-in-spd-stronghold-means-trouble-for-german-coalition",
-      "desc": "Chancellor Friedrich Merz’s effort to reboot Germany’s economy ran into a fresh challenge after his Social Democratic coalition partners suffered a stinging election defeat in a party stronghold.",
-      "date": "2026-03-23T09:39:26.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes"
     },
     {
       "title": "Berkshire Hathaway to take $1.8bn stake in Tokio Marine",
@@ -1073,189 +184,39 @@
       "tags": [
         "FT",
         "markets",
-        "premium"
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.ft.com%2Fcontent%2F0ef092c4-01bf-4331-8fbe-99bd15ed5f27",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F0ef092c4-01bf-4331-8fbe-99bd15ed5f27",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F0ef092c4-01bf-4331-8fbe-99bd15ed5f27"
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/22/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03222026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Friday Gold Trade: A Conditional Edge [Beyond Passive] Gold drifts higher on Fridays. The effect is statistically significant, it has persi",
+      "date": "2026-03-23T05:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "European Stocks Swing as Investors Gauge Iran War De-Escalation",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/european-stocks-sink-into-correction-on-trump-s-iran-escalation",
-      "desc": "European stocks erased sharp declines to trade higher in one of the biggest swings in years after US President Donald Trump said he was postponing military strikes on Iran’s energy infrastructure following “very good” talks with Tehran.",
-      "date": "2026-03-23T08:22:40.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
+      "title": "AI Will Create Millions of Quants",
+      "link": "https://robotwealth.com/ai-will-create-millions-of-quants/",
+      "desc": "(Most of Them Will Lose Money) AI makes it easier than ever to build trading strategies. Prompt a model, run a backtest, optimise some parameters, and suddenly you’ve got a beautiful equity curve staring back at you. It feels like progress. It feels like research. I wrote recently about how AI codin",
+      "date": "2026-03-23T04:24:54.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Says US Is Speaking With a ‘Top Person’ in Iran",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-03-23/iran-war-latest-oil-markets-bonds-hormuz",
-      "desc": "",
-      "date": "2026-03-23T07:43:46.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Qatar Airways parks long-haul jets in storage in Spain",
-      "link": "https://www.ft.com/content/7c3365bf-f4b2-4fca-80b5-e331534acd40",
-      "desc": "Transfer of planes to Teruel airport signals airline is preparing for ongoing Gulf conflict",
-      "date": "2026-03-23T05:00:35.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump’s Iran playbook was written in the 1980s",
-      "link": "https://www.ft.com/content/ee756503-5100-49d2-8b34-8a4a08ac3c9f",
-      "desc": "From oil threats to ultimatums, the US president has a decades-old view of how to confront Tehran",
-      "date": "2026-03-23T05:00:34.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "America keeps bailing out Trump",
-      "link": "https://www.ft.com/content/a6d0083d-ef46-4940-965e-2dfaeecd5bc4",
-      "desc": "The country’s underlying strengths are absorbing his erratic choices, including the war on Iran",
-      "date": "2026-03-23T05:00:25.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "The regime ‘caravans’ keeping control of Iran’s streets",
-      "link": "https://www.ft.com/content/03dea9fe-12f7-447b-a1af-3746f15e34ae",
-      "desc": "As troops fight US and Israel, government supporters and armed volunteers patrol cities and man security checkpoints",
-      "date": "2026-03-23T05:00:15.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Russian Oil Port Primorsk Pauses Loadings After Drone Attack",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/russia-s-primorsk-oil-port-hit-by-drones-with-fuel-tank-on-fire",
-      "desc": "The Russian oil port of Primorsk, a key facility for the nation’s exports of crude and fuels, suspended tanker loadings after an overnight drone strike caused a fire.",
-      "date": "2026-03-23T04:14:41.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Emerging Market Assets Rebound as Trump Cites Talks With Iran",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/emerging-market-assets-slip-after-trump-s-ultimatum-to-iran",
-      "desc": "Emerging-market currencies jumped and equities pared earlier losses after US President Donald Trump said the US had held talks with Iran and postponed any further strikes for five days, sending oil prices tumbling.",
-      "date": "2026-03-23T02:50:56.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump hails ‘productive’ talks with Iran on ending war",
-      "link": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
-      "desc": "US president postpones possible attacks on Iranian energy infrastructure for five days",
-      "date": "2026-03-23T02:50:17.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Elliott Said to Take Multibillion-Dollar Stake in Synopsys",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-22/elliott-is-said-to-take-multibillion-dollar-stake-in-synopsys",
-      "desc": "Activist investor Elliott Investment Management has made a multibillion-dollar investment in Synopsys Inc. and plans to push for changes at the chip-design software maker, according to people familiar with the matter who asked not to be identified because the discussions are private.",
-      "date": "2026-03-22T23:22:35.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Gold Pares Dramatic Losses as Trump Backs Off From Iran Threat",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-22/gold-wavers-after-worst-week-in-four-decades-as-war-risks-mount",
-      "desc": "Gold pared dramatic losses as US President Donald Trump postponed military strikes against Iranian energy infrastructure for a five-day period after what he described as productive talks toward ending hostilities.",
-      "date": "2026-03-22T22:24:19.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Aramco CEO Withdraws From Houston Event to Deal With War",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-22/aramco-ceo-withdraws-from-houston-event-to-deal-with-iran-war",
-      "desc": "Saudi Aramco Chief Executive Officer Amin Nasser has withdrawn from a major energy conference in Houston, which gets underway Monday, as the situation in the Middle East remains volatile.",
-      "date": "2026-03-22T21:46:19.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Premier Edges Out Trump Ally in Slovenia’s Closest Ever Vote",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-22/slovene-premier-on-path-to-beat-nationalist-jansa-in-close-vote",
-      "desc": "Slovenian Prime Minister Robert Golob won a slim victory over nationalist leader Janez Jansa in the country’s closest election in history, setting the stage for lengthy coalition negotiations.",
-      "date": "2026-03-22T21:27:21.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Stocks Rise, Oil Falls as Trump Eases Iran Threats: Markets Wrap",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
-      "desc": "A possible de-escalation in the Middle East conflict rippled through markets, with oil falling and stocks rising as President Donald Trump said he’d postpone strikes on Iranian energy infrastructure after what he described as productive talks toward ending hostilities.",
-      "date": "2026-03-22T19:30:00.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -1268,33 +229,12 @@
       "tags": [
         "Bloomberg",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "The price of menstrual products is skyrocketing from inflation, tariffs",
-      "link": "https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html",
-      "desc": "With rising inflation and changing tariff policies, menstrual products have seen a drastic rise in price over the past few years.",
-      "date": "2026-03-22T12:00:01.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Westerners are fleeing their countries in record numbers",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers",
-      "desc": "This will have economic consequences for the places they leave and their destinations",
-      "date": "2026-03-22T10:41:41.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities"
     },
     {
       "title": "Even the best-case scenario for energy markets is disastrous",
@@ -1306,56 +246,12 @@
       "tags": [
         "macro",
         "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Nissan’s new hybrid is a U.S.-first that mixes EV driving with a gas engine",
-      "link": "https://www.cnbc.com/2026/03/21/nissan-series-hybrid-rogue-suv.html",
-      "desc": "Nissan plans to introduce a new type of hybrid for the U.S. market that drives like an all-electric vehicle but is powered by a traditional gas-powered engine.",
-      "date": "2026-03-21T13:00:02.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "The spring housing market is on, but mortgage rates just shot higher. Here&apos;s what to know.",
-      "link": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
-      "desc": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
-      "date": "2026-03-20T19:03:56.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "David Zaslav’s WBD-Paramount deal payout highlights new &apos;golden parachutes&apos; for CEOs",
-      "link": "https://www.cnbc.com/2026/03/20/wbd-david-zaslav-pay-paramount.html",
-      "desc": "WBD CEO David Zaslav could see a payout of more than $800 million after the Paramount Skydance deal.",
-      "date": "2026-03-20T19:00:48.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Salesforce issues $25 billion in debt to buy back stock. Should we be concerned?",
-      "link": "https://www.cnbc.com/2026/03/20/salesforce-issues-25-billion-in-debt-to-buy-back-stock-should-we-be-concerned.html",
-      "desc": "Raising debt to repurchase shares is a move that deserves scrutiny.",
-      "date": "2026-03-20T17:53:01.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F22%2Feven-the-best-case-scenario-for-energy-markets-is-disastrous",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F22%2Feven-the-best-case-scenario-for-energy-markets-is-disastrous",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F22%2Feven-the-best-case-scenario-for-energy-markets-is-disastrous"
     },
     {
       "title": "An Infinite-Dimensional Insider Trading Game",
@@ -1371,27 +267,16 @@
       ]
     },
     {
-      "title": "&apos;Marriage penalty&apos; in Washington state&apos;s new millionaire tax stirs debate",
-      "link": "https://www.cnbc.com/2026/03/20/washington-millionaire-tax-marriage.html",
-      "desc": "Washington state's first-ever income tax would impose a 9.9% tax on income of more than $1 million a year.",
-      "date": "2026-03-20T15:36:08.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
+      "title": "The Return of the King: Trend Following Is Back – But Will It Last?",
+      "link": "https://alphaarchitect.com/the-return-of-the-king-trend-following-is-back-but-will-it-last/",
+      "desc": "Trend following is finally moving while U.S. stocks are flat. And so—like with most assets or strategies that post strong returns—investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return of the King: Trend ",
+      "date": "2026-03-20T15:21:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
       "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
-      "link": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
-      "desc": "FedEx posted strong fiscal third quarter results on Thursday and raised its guidance following a strong performance.",
-      "date": "2026-03-20T14:56:47.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
+        "quant",
+        "research",
+        "investment"
       ]
     },
     {
@@ -1406,18 +291,6 @@
         "macro",
         "policy",
         "central bank"
-      ]
-    },
-    {
-      "title": "Nexstar, Tegna merger closes after winning regulatory approval",
-      "link": "https://www.cnbc.com/2026/03/20/nexstar-tegna-merger-closes-after-winning-regulatory-approval-.html",
-      "desc": "Nexstar has closed its $6.2 billion acquisition of Tegna after winning approval from the Federal Communications Commission and Department of Justice.",
-      "date": "2026-03-20T14:51:52.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
       ]
     },
     {
@@ -1460,6 +333,20 @@
       ]
     },
     {
+      "title": "Recent Quant Links from Quantocracy as of 03/19/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03192026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/19/2026. To see our most recent links, visit the Quant Mashup. Read on readers! More of the Disease, Faster (What happens when you ask an LLM to find you an edge) [Robot Wealth] This week I discovered the vibe quant movem",
+      "date": "2026-03-20T05:15:05.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
       "title": "FinReflectKG -- EvalBench: Benchmarking Financial KG with Multi-Dimensional Evaluation",
       "link": "http://arxiv.org/abs/2510.05710v2",
       "desc": "Large language models (LLMs) are increasingly being used to extract structured knowledge from unstructured financial text. Although prior studies have explored various extraction methods, there is no universal benchmark or unified evaluation framework for the construction of financial knowledge grap",
@@ -1470,18 +357,6 @@
         "paper",
         "research",
         "quant"
-      ]
-    },
-    {
-      "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
-      "link": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
-      "desc": "Uber plans to invest up to $1.25 billion in Rivian as part of a deal to deploy up to 50,000 robotaxis in several countries through 2031.",
-      "date": "2026-03-19T20:01:16.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
       ]
     },
     {
@@ -1538,30 +413,6 @@
       ]
     },
     {
-      "title": "FDA approves higher dose version of weight loss drug Wegovy as Novo Nordisk tries to win back market share",
-      "link": "https://www.cnbc.com/2026/03/19/fda-approves-high-dose-version-of-novo-nordisks-obesity-drug-wegovy.html",
-      "desc": "The high-dose Wegovy helped patients with obesity lose an average 20.7% of their weight after 72 weeks in a phase three trial.",
-      "date": "2026-03-19T17:48:22.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "January new home sales plunge to the lowest pace since 2022",
-      "link": "https://www.cnbc.com/2026/03/19/january-new-home-sales.html",
-      "desc": "New home sales fell to the lowest level in four years, despite lower interest rates and builder incentives.",
-      "date": "2026-03-19T16:26:13.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
       "title": "Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models",
       "link": "http://arxiv.org/abs/2603.12422v3",
       "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
@@ -1572,30 +423,6 @@
         "paper",
         "research",
         "quant"
-      ]
-    },
-    {
-      "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
-      "link": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
-      "desc": "Micron's stock has soared this year while its tech peers have struggled, as the impact of rising memory costs ripples across the industry.",
-      "date": "2026-03-19T14:59:50.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Major League Baseball names Polymarket exclusive prediction market partner",
-      "link": "https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html",
-      "desc": "Major League Baseball is partnering with Polymarket to offer exclusive rights and data.",
-      "date": "2026-03-19T14:47:11.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
       ]
     },
     {
@@ -1625,18 +452,6 @@
       ]
     },
     {
-      "title": "JPMorgan Chase taps A&apos;ja Wilson, Tom Brady for new athlete wealth management push",
-      "link": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
-      "desc": "JPMorgan's move reflects growing competition among banks and wealth managers to serve athletes, who are increasingly becoming entrepreneurs and investors.",
-      "date": "2026-03-19T14:20:28.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
       "title": "SPX-VIX Risk Computations Via Perturbed Optimal Transport",
       "link": "http://arxiv.org/abs/2603.10857v2",
       "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
@@ -1647,69 +462,6 @@
         "paper",
         "research",
         "quant"
-      ]
-    },
-    {
-      "title": "Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
-      "link": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
-      "desc": "Lilly is betting big on retatrutide as the next pillar of its obesity portfolio after its weight loss injection Zepbound and its upcoming pill, orforglipron.",
-      "date": "2026-03-19T12:06:14.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
-      "link": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
-      "desc": "The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.",
-      "date": "2026-03-19T11:52:17.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "America may be a petrostate. But the energy shock still hurts",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/19/america-may-be-a-petrostate-but-the-energy-shock-still-hurts",
-      "desc": "And further angers economically frustrated citizens",
-      "date": "2026-03-19T11:21:03.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Which country is the biggest loser from the energy shock?",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/19/which-country-is-the-biggest-loser-from-the-energy-shock",
-      "desc": "We rank the poor world’s exposure and buffers",
-      "date": "2026-03-19T11:18:58.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "The new economics of sex work",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/19/the-new-economics-of-sex-work",
-      "desc": "As the sex economy grows, it deserves serious analysis",
-      "date": "2026-03-19T11:16:43.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
       ]
     },
     {
@@ -1740,6 +492,20 @@
       ]
     },
     {
+      "title": "More of the Disease, Faster (What happens when you ask an LLM to find you an edge)",
+      "link": "https://robotwealth.com/more-of-the-disease-faster-what-happens-when-you-ask-an-llm-to-find-you-an-edge/",
+      "desc": "This week I discovered the “vibe quant” movement (or rather, it discovered me). People using LLMs to find trading strategies, validate them, and put them into production. The pitch is seductive: the LLM reads the literature, implements the ideas, backtests them, and you just supervise. I think this ",
+      "date": "2026-03-19T04:16:00.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
       "title": "Mapping the Midweek Mountain: The New Geography of Hybrid Work",
       "link": "http://arxiv.org/abs/2603.18440v1",
       "desc": "This paper provides a behavioral analysis of the post-pandemic transformation of work, using a dataset of approximately 41 billion mobile geolocation records from 73.5 million individuals in the five largest U.S. metropolitan areas from the pre- to post- pandemic periods. By tracking movements betwe",
@@ -1767,19 +533,6 @@
       ]
     },
     {
-      "title": "What if Donald Trump decided to ban oil exports?",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports",
-      "desc": "Trying to keep prices low that way could backfire spectacularly",
-      "date": "2026-03-18T20:54:20.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
       "title": "Forecasting and Manipulating the Forecasts of Others",
       "link": "http://arxiv.org/abs/2603.12140v2",
       "desc": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis ",
@@ -1793,78 +546,17 @@
       ]
     },
     {
-      "title": "Macy&apos;s store revamp shows progress, but company expects sales to fall this year",
-      "link": "https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html",
-      "desc": "Macy's posted solid fourth-quarter results as it tries to revamp some stores and close others.",
-      "date": "2026-03-18T20:06:13.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
       "title": "Entity-Specific Cyber Risk Assessment using InsurTech Empowered Risk Factors",
       "link": "http://arxiv.org/abs/2507.08193v3",
       "desc": "The lack of high-quality public cyber incident data limits empirical research and predictive modeling for cyber risk assessment. This challenge persists due to the reluctance of companies to disclose incidents that could damage their reputation or investor confidence. Therefore, from an actuarial pe",
       "date": "2026-03-18T18:51:58.000Z",
       "type": "research",
-      "label": "arXiv q-fin",
+      "label": "arXiv ML×Finance",
       "tags": [
+        "ML",
         "paper",
         "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Disney embarks on new chapter as Josh D&apos;Amaro takes over as CEO",
-      "link": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
-      "desc": "Bob Iger is stepping aside as Josh D'Amaro, who previously served as chairman of Disney's experiences division, takes over as CEO.",
-      "date": "2026-03-18T18:29:04.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Robust quasi-convex risk measures and applications",
-      "link": "http://arxiv.org/abs/2603.17954v1",
-      "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
-      "date": "2026-03-18T17:28:26.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "FDA approves psoriasis pill from J&J that rivals shots Tremfya, Skyrizi",
-      "link": "https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html",
-      "desc": "Johnson & Johnson said the U.S. Food and Drug Administration approved its once-daily psoriasis pill, the first oral option to rival best-selling shots.",
-      "date": "2026-03-18T17:17:34.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Multivariate Residual Estimation Risk",
-      "link": "http://arxiv.org/abs/2603.17792v1",
-      "desc": "The purpose of this paper is to describe and extend the use of the newly-introduced measure, residual estimation risk. Following the seminal work of Bignozzi and Tsanakas, the quantification of residual estimation risk is proposed in a multivariate framework. Our aim is to provide a succinct and pra",
-      "date": "2026-03-18T14:51:59.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
+        "AI"
       ]
     },
     {
@@ -1882,28 +574,17 @@
       ]
     },
     {
-      "title": "Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers",
-      "link": "https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html",
-      "desc": "As generative AI models get more sophisticated, companies need more memory and faster memory, Micron CEO Sanjay Mehrotra said in January.",
-      "date": "2026-03-18T13:37:07.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
       "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
       "link": "http://arxiv.org/abs/2603.17692v1",
       "desc": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not",
       "date": "2026-03-18T13:09:11.000Z",
       "type": "research",
-      "label": "arXiv q-fin",
+      "label": "arXiv ML×Finance",
       "tags": [
+        "ML",
         "paper",
         "research",
-        "quant"
+        "AI"
       ]
     },
     {
@@ -1935,119 +616,6 @@
       ]
     },
     {
-      "title": "General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework",
-      "link": "http://arxiv.org/abs/2603.06238v2",
-      "desc": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleten",
-      "date": "2026-03-18T12:05:46.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Lululemon reports weak guidance as proxy battle, tariffs weigh on bottom line",
-      "link": "https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html",
-      "desc": "Lululemon topped fourth-quarter estimates but gave weaker-than-expected sales and earnings forecasts for 2026.",
-      "date": "2026-03-18T11:38:07.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Tencent&apos;s 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
-      "link": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
-      "desc": "The tech giant said its core business provided it with the resources to fund increasing investments in AI.",
-      "date": "2026-03-18T10:35:42.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective",
-      "link": "http://arxiv.org/abs/2603.17463v1",
-      "desc": "We assess the advantage of combining univariate and multivariate portfolio risk forecasts with the aid of forecast reconciliation techniques. In our analyzes, we assume knowledge of portfolio weights, a standard for portfolio risk management applications. With an extensive simulation experiment, we ",
-      "date": "2026-03-18T08:10:41.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Equilibrium strategies for stochastic control problems with higher-order moments and applications to portfolio selection",
-      "link": "http://arxiv.org/abs/2504.04113v3",
-      "desc": "In this paper we derive a novel characterization result for time-consistent stochastic control problems with higher-order moments, originally formulated by Wang et al. [SIAM J. Control. Optim., 63 (2025), 1560--1589], and newly explore many solvable instances including a mean-variance-excess kurtosi",
-      "date": "2026-03-18T06:25:46.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Short-horizon Duesenberry Equilibrium",
-      "link": "http://arxiv.org/abs/2603.16108v2",
-      "desc": "We develop a continuous-time general equilibrium framework for economies with a heterogeneous population -- modeled as a continuum -- that repeatedly optimizes over short horizons under relative-income (Duesenberry-type) criteria. The cross-section evolves through a Brownian flow on a type space, tr",
-      "date": "2026-03-18T02:15:42.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Shallow Representation of Option Implied Information",
-      "link": "http://arxiv.org/abs/2603.17151v1",
-      "desc": "Option prices encode the market's collective outlook through implied density and implied volatility. An explicit link between implied density and implied volatility translates the risk-neutrality of the former into conditions on the latter to rule out static arbitrage. Despite earlier recognition of",
-      "date": "2026-03-17T21:29:17.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
-        "quant"
-      ]
-    },
-    {
-      "title": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
-      "link": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
-      "desc": "CEO Ed Bastian told CNBC's Phil LeBeau that Delta had taken a $400 million fuel hit in the quarter, but that demand has been \"really, really great.\"",
-      "date": "2026-03-17T20:00:39.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Arizona charges Kalshi with criminal misdemeanors, alleging it&apos;s an illegal gambling operation",
-      "link": "https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html",
-      "desc": "The Arizona charges are the first criminal charges to have been filed against Kalshi, though the company is embroiled in multiple lawsuits over its predictions platform.",
-      "date": "2026-03-17T19:40:14.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
       "title": "Will South Korea’s epic bull market survive the energy shock?",
       "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
       "desc": "Probably, but investors should brace for more volatility",
@@ -2057,46 +625,12 @@
       "tags": [
         "macro",
         "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "China cannot escape the energy shock",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock",
-      "desc": "Despite renewables and reserves, it will suffer",
-      "date": "2026-03-17T18:58:22.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Nissan joins Toyota, Honda in plans to export U.S. cars to Japan",
-      "link": "https://www.cnbc.com/2026/03/17/nissan-toyota-honda-export-japan.html",
-      "desc": "Nissan will export the Murano SUV built in Smyrna, Tennessee, beginning early next year. It marks the first American-made Nissan sold in Japan since the 1990s.",
-      "date": "2026-03-17T18:44:50.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
-      "title": "Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs",
-      "link": "http://arxiv.org/abs/2505.18448v3",
-      "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
-      "date": "2026-03-17T18:09:23.000Z",
-      "type": "research",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research",
+        "premium",
         "quant"
-      ]
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock"
     },
     {
       "title": "Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection",
@@ -2127,6 +661,20 @@
       ]
     },
     {
+      "title": "Recent Quant Links from Quantocracy as of 03/16/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03162026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/16/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Landing Your First Role – Breaking Into Quant Finance [Quantt] Why Breaking In Feels So Hard (and Why It Is Still Achievable) If you are trying",
+      "date": "2026-03-17T05:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
       "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
       "link": "http://arxiv.org/abs/2603.15059v2",
       "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
@@ -2141,31 +689,6 @@
       ]
     },
     {
-      "title": "The Iran war is roiling commodities far beyond oil",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil",
-      "desc": "Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals",
-      "date": "2026-03-16T22:34:40.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Nvidia adds Hyundai, BYD and other automakers to self-driving tech business",
-      "link": "https://www.cnbc.com/2026/03/16/nvidia-hyundai-byd-nissan-self-driving-tech.html",
-      "desc": "AVs are important to Nvidia as self-driving cars remain one of the primary areas where the company can show growth outside of artificial intelligence.",
-      "date": "2026-03-16T22:06:38.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ]
-    },
-    {
       "title": "Longitudinal Risk Prediction in Mammography with Privileged History Distillation",
       "link": "http://arxiv.org/abs/2603.15814v1",
       "desc": "Breast cancer remains a leading cause of cancer-related mortality worldwide. Longitudinal mammography risk prediction models improve multi-year breast cancer risk prediction based on prior screening exams. However, in real-world clinical practice, longitudinal histories are often incomplete, irregul",
@@ -2177,18 +700,6 @@
         "paper",
         "research",
         "AI"
-      ]
-    },
-    {
-      "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
-      "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
-      "desc": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
-      "date": "2026-03-16T17:17:36.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
       ]
     },
     {
@@ -2220,6 +731,20 @@
       ]
     },
     {
+      "title": "Recent Quant Links from Quantocracy as of 03/15/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03152026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Calendar Ensemble: Building an Event-Driven Alpha Overlay [Beyond Passive] In the previous article, we established that the Sharpe ratio is",
+      "date": "2026-03-16T05:15:05.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
       "title": "Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty",
       "link": "http://arxiv.org/abs/2404.12598v2",
       "desc": "This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach",
@@ -2248,97 +773,30 @@
       ]
     },
     {
-      "title": "Conditioning on a Volatility Proxy Compresses the Apparent Timescale of Collective Market Correlation",
-      "link": "http://arxiv.org/abs/2603.14072v1",
-      "desc": "We address the attribution problem for apparent slow collective dynamics: is the observed persistence intrinsic, or inherited from a persistent driver? For the leading eigenvalue fraction $ψ_1=λ_{\\max}/N$ of S\\&P 500 60-day rolling correlation matrices ($237$ stocks, 2004--2023), a VIX-coupled Ornst",
-      "date": "2026-03-14T18:37:40.000Z",
-      "type": "research",
-      "label": "arXiv ML×Finance",
+      "title": "Unlocking Hidden Value: How Corporate Language Reveals the Future of Intangible Investment",
+      "link": "https://alphaarchitect.com/intangible-investment/",
+      "desc": "Intangible assets—things like brand reputation, proprietary knowledge, and organizational capabilities—have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital. However, measuring ",
+      "date": "2026-03-13T15:38:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
       "tags": [
-        "ML",
-        "paper",
+        "quant",
         "research",
-        "AI"
+        "investment"
       ]
     },
     {
-      "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
-      "link": "http://arxiv.org/abs/2603.13830v1",
-      "desc": "The high-frequency issuance and short-cycle speculation of meme tokens in decentralized finance (DeFi) have significantly amplified rug-pull risk. Existing approaches still struggle to provide stable early warning under scarce anomalies, incomplete labels, and limited interpretability. To address th",
-      "date": "2026-03-14T08:25:42.000Z",
-      "type": "research",
-      "label": "arXiv ML×Finance",
+      "title": "Recent Quant Links from Quantocracy as of 03/12/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03122026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Quant’s Guide to Cross-Section Maxxing, Code Included [Quant Galore] Quantitative trading is about many things; buying low and selling high",
+      "date": "2026-03-13T05:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
       "tags": [
-        "ML",
-        "paper",
-        "research",
-        "AI"
-      ]
-    },
-    {
-      "title": "Risk-Sensitive Agent Compositions",
-      "link": "http://arxiv.org/abs/2506.04632v4",
-      "desc": "From software development to robot control, modern agentic systems decompose complex objectives into a sequence of subtasks and choose a set of specialized AI agents to complete them. We formalize agentic workflows as directed acyclic graphs, called agent graphs, where edges represent AI agents and ",
-      "date": "2026-03-14T03:19:41.000Z",
-      "type": "research",
-      "label": "arXiv ML×Finance",
-      "tags": [
-        "ML",
-        "paper",
-        "research",
-        "AI"
-      ]
-    },
-    {
-      "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
-      "link": "http://arxiv.org/abs/2603.13059v1",
-      "desc": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se",
-      "date": "2026-03-13T15:07:53.000Z",
-      "type": "research",
-      "label": "arXiv ML×Finance",
-      "tags": [
-        "ML",
-        "paper",
-        "research",
-        "AI"
-      ]
-    },
-    {
-      "title": "Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty",
-      "link": "http://arxiv.org/abs/2603.12507v1",
-      "desc": "Minimising a spectral risk objective, defined as a convex combination of expected cost and Conditional Value-at-Risk (CVaR), is challenging when the uncertainty distribution is decision-dependent, making both surrogate modelling and simulation-based ranking sensitive to tail estimation error. We pro",
-      "date": "2026-03-12T22:53:24.000Z",
-      "type": "research",
-      "label": "arXiv ML×Finance",
-      "tags": [
-        "ML",
-        "paper",
-        "research",
-        "AI"
-      ]
-    },
-    {
-      "title": "Ulta Beauty stock drops as company reports mixed earnings, gives 2026 guidance",
-      "link": "https://www.cnbc.com/2026/03/12/ulta-beauty-ulta-q4-earnings-2025.html",
-      "desc": "Ulta Beauty reported fiscal fourth-quarter earnings Thursday that beat Wall Street revenue expectations but missed on earnings per share.",
-      "date": "2026-03-12T22:42:32.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Dick&apos;s Sporting Goods issues weak profit guidance as Foot Locker merger weighs on bottom line",
-      "link": "https://www.cnbc.com/2026/03/12/dicks-sporting-goods-dks-earnings-q4-2025.html",
-      "desc": "Dick's Sporting Goods' merger with Foot Locker led to a 60% increase in sales but a substantial decline in companywide profits.",
-      "date": "2026-03-12T18:18:13.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2351,8 +809,12 @@
       "tags": [
         "macro",
         "economics",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while"
     },
     {
       "title": "A public-private partnership? Central bank funding and credit supply",
@@ -2366,69 +828,6 @@
         "macro",
         "policy",
         "central bank"
-      ]
-    },
-    {
-      "title": "Rheinmetall sees sales growth of up to 45% in 2026, says it&apos;s in &apos;prime position&apos; to arm the U.S. amid war in Iran",
-      "link": "https://www.cnbc.com/2026/03/11/rheinmetall-rhm-fy-earnings-stock-2025.html",
-      "desc": "Arms maker Rheinmetall reported full-year sales that grew 29% year-over-year and said revenue would grow by even more this year.",
-      "date": "2026-03-11T12:16:23.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Liquefied natural gas: the overlooked economic chokepoint",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/11/liquefied-natural-gas-the-overlooked-economic-chokepoint",
-      "desc": "Alternatives to Gulf supplies are scarce",
-      "date": "2026-03-11T12:06:58.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%",
-      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
-      "desc": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
-      "date": "2026-03-11T12:01:57.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Donald Trump’s options to cool oil prices are sorely limited",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited",
-      "desc": "He says he has a plan. It would need to be very cunning",
-      "date": "2026-03-10T21:55:49.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Time to buy the most rubbish stocks you can find",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/10/time-to-buy-the-most-rubbish-stocks-you-can-find",
-      "desc": "The dash for trash",
-      "date": "2026-03-10T21:46:38.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
       ]
     },
     {
@@ -2446,66 +845,6 @@
       ]
     },
     {
-      "title": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
-      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
-      "desc": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.",
-      "date": "2026-03-10T13:01:52.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Olaplex stock has plunged since its IPO. Here’s how the hair care brand is trying to turn itself around",
-      "link": "https://www.cnbc.com/2026/03/10/olaplex-stock-ipo-business-turnaround.html",
-      "desc": "Olaplex, a prestige hair care brand, has seen its sales and stock price plummet after a lawsuit. Now, the company is trying to turn its business around.",
-      "date": "2026-03-10T13:01:11.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Lego keeps beating the toy industry. Its secret weapon is not what you&apos;d expect",
-      "link": "https://www.cnbc.com/2026/03/10/lego-2025-earnings-toy-industry.html",
-      "desc": "Lego on Tuesday reported a 12% jump in revenue for fiscal year 2025 and reported consumer sales that far outpace the broader toy industry.",
-      "date": "2026-03-10T11:58:07.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Volkswagen flags a tough year ahead as 2025 profit halves on tariffs, China competition",
-      "link": "https://www.cnbc.com/2026/03/10/volkswagen-earnings-full-year-2025.html",
-      "desc": "Volkswagen reported a more than 50% drop in annual operating profit, citing the impact of U.S. tariffs, currency effects and a strategic shift at Porsche.",
-      "date": "2026-03-10T10:01:05.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Iran war threatens catastrophic consequences for the oil market, Aramco CEO says",
-      "link": "https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html",
-      "desc": "Saudi Aramco beats profit estimates and keeps $85 billion payouts as oil prices surge again.",
-      "date": "2026-03-10T08:19:38.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
       "title": "The Iran energy shock reverberates across financial markets",
       "link": "https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets",
       "desc": "For investors, the war is like the invasion of Ukraine all over again",
@@ -2515,7 +854,24 @@
       "tags": [
         "macro",
         "economics",
-        "premium"
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets"
+    },
+    {
+      "title": "The Best Defensive Strategies: Two Centuries of Evidence",
+      "link": "https://alphaarchitect.com/defensive-investment-strategies/",
+      "desc": "Which defensive strategies have actually worked, and do the conclusions survive when we evaluate them over multiple centuries rather than a few decades? The Best Defensive Strategies: Two Centuries of Evidence was originally published at Alpha Architect . Please read the Alpha Architect disclosures ",
+      "date": "2026-03-09T15:30:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
+      "tags": [
+        "quant",
+        "research",
+        "investment"
       ]
     },
     {
@@ -2533,41 +889,31 @@
       ]
     },
     {
-      "title": "The Iran war puts Asia in an energy panic",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic",
-      "desc": "Stranded Gulf supplies are choking off the region’s economies",
-      "date": "2026-03-08T17:48:39.000Z",
-      "type": "news",
-      "label": "The Economist",
+      "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03082026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal portfolio allocation h",
+      "date": "2026-03-09T05:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
       "tags": [
-        "macro",
-        "economics",
-        "premium"
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "Would America be in recession without the super-rich?",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
-      "desc": "American anxieties are K-shaped. The economy is more like a slash-mark",
-      "date": "2026-03-08T12:36:30.000Z",
-      "type": "news",
-      "label": "The Economist",
+      "title": "Everything Everywhere All at Once",
+      "link": "https://robotwealth.com/everything-everywhere-all-at-once/",
+      "desc": "The four hats of the solo trader At a trading firm or fund, the researcher doesn’t run the execution desk. The portfolio manager doesn’t build the tech and infrastructure. These are different jobs, done by different people, with different skill sets. When you’re trading solo, you’re all of those peo",
+      "date": "2026-03-08T05:26:42.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Marvell stock surges 18% as CEO points to continuing AI demand: &apos;Do you see me blinking?&apos;",
-      "link": "https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html",
-      "desc": "Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.",
-      "date": "2026-03-06T21:05:24.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2599,139 +945,17 @@
       ]
     },
     {
-      "title": "Historic winter storms weigh on Gap, Old Navy performance after 800 temporary store closures",
-      "link": "https://www.cnbc.com/2026/03/05/gap-gap-q4-2025-earnings.html",
-      "desc": "Gap has been on a steady upswing of growth but saw worse than expected results during its holiday quarter after historic winter storms led to store closures.",
-      "date": "2026-03-06T10:50:35.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
+      "title": "Recent Quant Links from Quantocracy as of 03/05/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03052026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! New Contributor: Scaling Python Financial Models on AWS [Quantt] How to take a Python financial model from running 150 scenarios in a Lambda ",
+      "date": "2026-03-06T06:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
       "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "We&apos;re raising our Costco price target after a good but not great quarter. Here&apos;s why",
-      "link": "https://www.cnbc.com/2026/03/05/were-raising-our-costco-price-target-after-a-good-but-not-great-quarter-heres-why.html",
-      "desc": "Costco's quarterly results Thursday checked only some of the most important boxes.",
-      "date": "2026-03-06T00:27:20.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
-      "link": "https://www.cnbc.com/2026/03/05/broadcom-stock-rally-ai-chip-growth.html",
-      "desc": "Broadcom's AI revenue forecast surpassed many bullish expectations from Wall Street analysts.",
-      "date": "2026-03-05T21:00:26.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Victoria’s Secret posts longest sales growth streak in four years as shoppers return to Pink brand",
-      "link": "https://www.cnbc.com/2026/03/05/victorias-secret-vsco-earnings-q4-2025.html",
-      "desc": "Victoria's Secret has been working to regain relevancy and win back shoppers under CEO Hillary Super.",
-      "date": "2026-03-05T16:56:33.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "German defense firm Renk CEO says Iran war could drive &apos;increasing demand&apos; in the Middle East",
-      "link": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
-      "desc": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call.",
-      "date": "2026-03-05T14:17:53.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "To understand why countries grow, look at their firms",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms",
-      "desc": "The third way in development economics",
-      "date": "2026-03-05T10:36:23.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "India’s economy is not as big as economists thought",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought",
-      "desc": "But it is growing faster",
-      "date": "2026-03-05T10:33:42.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Americans’ electricity bills are up. Don’t blame AI",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai",
-      "desc": "Were it not for data centres, prices might be even higher",
-      "date": "2026-03-05T10:31:41.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "European pensions are a $30trn missed opportunity",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity",
-      "desc": "If only more countries went Dutch",
-      "date": "2026-03-04T22:58:03.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
-      "link": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
-      "desc": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.",
-      "date": "2026-03-04T22:53:45.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
-      ]
-    },
-    {
-      "title": "Okta beats fourth-quarter estimates, but issues weak guidance",
-      "link": "https://www.cnbc.com/2026/03/04/okta-okta-q4-2026-earnings.html",
-      "desc": "Okta's stock has dropped this year as investors fret over AI replacing cybersecurity",
-      "date": "2026-03-04T21:40:57.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2749,19 +973,6 @@
       ]
     },
     {
-      "title": "Why war isn’t always good for defence stocks",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks",
-      "desc": "They win only if governments want just enough weapons—but not too many",
-      "date": "2026-03-03T20:19:26.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
       "title": "The nightmare war scenario is becoming reality in energy markets",
       "link": "https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets",
       "desc": "The longer the war in the Gulf, the harsher the global economic fallout",
@@ -2771,7 +982,25 @@
       "tags": [
         "macro",
         "economics",
-        "premium"
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F03%2Fthe-nightmare-war-scenario-is-becoming-reality-in-energy-markets",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F03%2Fthe-nightmare-war-scenario-is-becoming-reality-in-energy-markets",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F03%2Fthe-nightmare-war-scenario-is-becoming-reality-in-energy-markets"
+    },
+    {
+      "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03022026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we built up a conceptual un",
+      "date": "2026-03-03T06:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2789,16 +1018,30 @@
       ]
     },
     {
-      "title": "War in Iran could cause the biggest oil shock in years",
-      "link": "https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years",
-      "desc": "Prices have surged—and may stay high for a while",
-      "date": "2026-03-01T12:28:02.000Z",
-      "type": "news",
-      "label": "The Economist",
+      "title": "Fund Selection When Borrowing Is Restricted",
+      "link": "https://alphaarchitect.com/fund-selection-when-borrowing-is-restricted/",
+      "desc": "Once borrowing is realistically restricted, the Sharpe ratio can stop lining up with what investors actually care about: utility. This paper argues that in this constrained world, the geometric mean is a better compass. Fund Selection When Borrowing Is Restricted was originally published at Alpha Ar",
+      "date": "2026-03-02T16:09:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
       "tags": [
-        "macro",
-        "economics",
-        "premium"
+        "quant",
+        "research",
+        "investment"
+      ]
+    },
+    {
+      "title": "The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations",
+      "link": "https://robotwealth.com/the-winter-of-our-pairs-trading-discontent-problems-limitations-frustrations/",
+      "desc": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care about directly, rat",
+      "date": "2026-03-02T02:13:39.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2830,29 +1073,17 @@
       ]
     },
     {
-      "title": "America’s trade chaos is just beginning",
-      "link": "https://www.economist.com/finance-and-economics/2026/02/26/americas-trade-chaos-is-just-beginning",
-      "desc": "Tariff wrangling will stretch through the rest of Donald Trump’s term, and beyond",
-      "date": "2026-02-26T10:37:01.000Z",
-      "type": "news",
-      "label": "The Economist",
+      "title": "Recent Quant Links from Quantocracy as of 02/26/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02262026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Thursday, 02/26/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Systematic Allocation in International Equity Regimes [Quantpedia] This research examines the critical quantitative investment problem of sys",
+      "date": "2026-02-27T06:15:05.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
       "tags": [
-        "macro",
-        "economics",
-        "premium"
-      ]
-    },
-    {
-      "title": "Protectionists dislike trade and migration. And capital flows?",
-      "link": "https://www.economist.com/finance-and-economics/2026/02/26/protectionists-dislike-trade-and-migration-and-capital-flows",
-      "desc": "The amount of money crossing borders has flattened off—but not because of capital controls",
-      "date": "2026-02-26T10:36:29.000Z",
-      "type": "news",
-      "label": "The Economist",
-      "tags": [
-        "macro",
-        "economics",
-        "premium"
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -2870,6 +1101,20 @@
       ]
     },
     {
+      "title": "Recent Quant Links from Quantocracy as of 02/23/2026",
+      "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02232026/",
+      "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 02/23/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Evaluating Reversal Potential in Niche Alternative ETFs [Quantpedia] Alternative ETFs sit at an unusual intersection of public-market accessibi",
+      "date": "2026-02-24T06:15:04.000Z",
+      "type": "analysis",
+      "label": "Quantocracy",
+      "tags": [
+        "quant",
+        "blog",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
       "title": "FEDS Paper: Decomposing Gender Differences in Bankcard Credit Limits: Evidence from Sole Mortgage Applicants(Revised)",
       "link": "https://www.federalreserve.gov/econres/feds/decomposing-gender-differences-in-bankcard-credit-limits.htm",
       "desc": "Nathan Blascak and Anna Tranfaglia Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total credit card limits for sole mortgage applicants. We estimate that male borrowers have approximately $1,300 ",
@@ -2882,6 +1127,68 @@
         "macro",
         "central bank"
       ]
+    },
+    {
+      "title": "Markets are churning furiously beneath the surface",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface",
+      "desc": "AI is prompting investors to reassess every business model under the sun",
+      "date": "2026-02-22T12:29:01.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface"
+    },
+    {
+      "title": "Moneyball: Finding Undervalued Pairs Using Unconventional Metrics",
+      "link": "https://robotwealth.com/moneyball-finding-undervalued-pairs-using-unconventional-metrics/",
+      "desc": "Previously: ​A Tale of Two Prices (the core idea of stat arb)​ Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Remember the forced flo",
+      "date": "2026-02-20T07:23:51.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
+      "title": "A Tale of Two Prices",
+      "link": "https://robotwealth.com/a-tale-of-two-prices/",
+      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness  I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn’t particularly u",
+      "date": "2026-02-20T07:13:24.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
+      ]
+    },
+    {
+      "title": "Prediction markets are rife with insider betting",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting",
+      "desc": "That does not mean regulators should stamp it out",
+      "date": "2026-02-19T10:33:12.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting"
     },
     {
       "title": "FEDS Paper: Kalshi and the Rise of Macro Markets",
@@ -2968,6 +1275,23 @@
       ]
     },
     {
+      "title": "Can emerging markets’ stellar run continue?",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue",
+      "desc": "There is a lot more going for them than “sell America”",
+      "date": "2026-02-04T18:41:56.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F04%2Fcan-emerging-markets-stellar-run-continue",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F04%2Fcan-emerging-markets-stellar-run-continue",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F04%2Fcan-emerging-markets-stellar-run-continue"
+    },
+    {
       "title": "FEDS Paper: Monetary Policy Exposure of Banks and Loan Contracting",
       "link": "https://www.federalreserve.gov/econres/feds/monetary-policy-exposure-of-banks-and-loan-contracting.htm",
       "desc": "Ahmet Degerli , Jing Wang We provide evidence that banks use loan covenants to prepare for future monetary policy tightening, thereby facilitating the bank lending channel of monetary policy transmission. Specifically, banks with greater monetary policy exposure—those whose lending capacity contract",
@@ -3024,6 +1348,23 @@
       ]
     },
     {
+      "title": "The fate of Japan’s $6trn foreign portfolio rattles global markets",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
+      "desc": "The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching",
+      "date": "2026-01-29T10:00:58.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets"
+    },
+    {
       "title": "A tractable menu cost model with an aggregate markup drift",
       "link": "https://www.bis.org/publ/work1327.htm",
       "desc": "by Ko Munakata<br />This paper extends the menu cost model of Gertler and Leahy (2008) by introducing a drift in the aggregate markup. Assuming that the drift is always negative and not large, consistent with moderate and positive trend inflation, the paper analytically characterizes firms' value fu",
@@ -3066,6 +1407,23 @@
       ]
     },
     {
+      "title": "American decay versus American dynamism",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/21/american-decay-versus-american-dynamism",
+      "desc": "Only a decline in corporate America’s vigour will dent the country’s dominance of financial markets",
+      "date": "2026-01-21T20:20:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F21%2Famerican-decay-versus-american-dynamism",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F21%2Famerican-decay-versus-american-dynamism",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F21%2Famerican-decay-versus-american-dynamism"
+    },
+    {
       "title": "The macro-financial impact of economic policy uncertainty in Latin America",
       "link": "https://www.bis.org/publ/work1324.htm",
       "desc": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
@@ -3080,273 +1438,172 @@
       ]
     },
     {
-      "title": "Banks and capital requirements: evidence from countercyclical buffers",
-      "link": "https://www.bis.org/publ/work1323.htm",
-      "desc": "Working Paper 1323, \"Banks and capital requirements: evidence from countercyclical buffers,\" has been withdrawn at the request of the authors.",
-      "date": "2026-01-20T13:00:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Embracing gen AI: a comparison of Italian and US households",
-      "link": "https://www.bis.org/publ/work1322.htm",
-      "desc": "by David Loschiavo, Olivier Armantier, Antonio Dalla Zuanna, Leonardo Gambacorta, Mirko Moscatelli, Ilaria Supino<br />This paper explores the household adoption of Generative Artificial Intelligence (GenAI) in the United States and Italy, leveraging survey data to compare usage patterns, demographi",
-      "date": "2026-01-14T13:19:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Artificial intelligence and growth in advanced and emerging economies: short-run impact",
-      "link": "https://www.bis.org/publ/work1321.htm",
-      "desc": "by Leonardo Gambacorta, Enisse Kharroubi, Aaron Mehrotra, Tommaso Oliviero<br />This paper investigates whether the positive effects of generative artificial intelligence (gen AI) on growth rate of value added differ across countries in the short run.",
-      "date": "2025-12-19T09:34:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Inflation and the joint bond-FX spanning puzzle",
-      "link": "https://www.bis.org/publ/work1320.htm",
-      "desc": "by Andreas Schrimpf, Markus Sihvonen<br />We investigate the relationship between inflation and excess returns in bond and foreign exchange (FX) markets, specifically addressing the \"spanning puzzle\".",
-      "date": "2025-12-18T14:14:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Housing wealth effects in China",
-      "link": "https://www.bis.org/publ/work1319.htm",
-      "desc": "by Benoit Mojon, Han Qiu, Fang Wang, Michael Weber<br />We estimate the effects of changes in house prices on consumption using unique data of Alipay transactions from Chinese households, spanning from January 2017 to March 2023. We find significant housing wealth effects: changes in house prices ar",
-      "date": "2025-12-17T12:57:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Auction-based liquidity saving mechanisms",
-      "link": "https://www.bis.org/publ/work1318.htm",
-      "desc": "by Caner Ates, Morten Linnemann Bech, Rodney Garratt, Marko Nanut Petri <br />This paper introduces a novel liquidity-saving mechanism (LSM) for real-time gross settlement (RTGS) systems based on an auction framework. Unlike conventional queue-based LSMs that optimise payment netting given pre-commi",
-      "date": "2025-12-16T12:57:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "From listings to all-tenant rents: a probabilistic model",
-      "link": "https://www.bis.org/publ/work1317.htm",
-      "desc": "by Emanuel Nussli, Rachel Arulraj-Cordonier, Flurina Strasser, Marko Nanut Petri , Morten Linnemann Bech, Antonio Pipino<br />Rents are the largest component of the Consumer Price Index (CPI) in many countries, making accurate and timely measurements of rental price developments essential for inflat",
-      "date": "2025-12-12T10:14:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Assessing the macroeconomic impacts of the 2025 US tariffs",
-      "link": "https://www.bis.org/publ/work1316.htm",
-      "desc": "by Hongyan Zhao<br />This paper develops a multi-country, multi-sector trade model with input-output linkages to analyze the global macroeconomic effects of the United States'(US) 2025 tariff policies. The model incorporates endogenous labor supply and captures the transmission of tariff-induced sho",
-      "date": "2025-12-11T12:53:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "The ripple effect: supply chain reconfigurations and cross-border credit dynamics",
-      "link": "https://www.bis.org/publ/work1315.htm",
-      "desc": "by Ricardo Correa, Andrea Fabiani, Matias Ossandon Busch, Miguel Sarmiento<br />We study the role that cross-border firm-to-firm credit plays in financing exporters. Exploiting the exogenous shock of US tariffs on Chinese goods in 2018–2019, we examine the response of Colombian firms – bystanders no",
-      "date": "2025-12-10T13:00:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "The economics of water scarcity",
-      "link": "https://www.bis.org/publ/work1314.htm",
-      "desc": "by Jon Frost, Carlos Madeira, Serafín Martínez-Jaramillo<br />In many countries around the world, water scarcity could become a macroeconomically relevant concern. As a key input into production processes (agriculture, power generation and industrial use) and a common good, water resources risk bein",
-      "date": "2025-12-09T13:00:00.000Z",
-      "type": "research",
-      "label": "BIS Working Papers",
-      "tags": [
-        "paper",
-        "macro",
-        "policy",
-        "central bank"
-      ]
-    },
-    {
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-      "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-      "date": "2025-01-27T19:26:00.000Z",
+      "title": "China hits its GDP target—in a weird way",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
+      "desc": "Strong exports make up for weak investment",
+      "date": "2026-01-19T15:02:41.000Z",
       "type": "news",
-      "label": "Wall Street Journal",
+      "label": "The Economist",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F19%2Fchina-hits-its-gdp-target-in-a-weird-way",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F19%2Fchina-hits-its-gdp-target-in-a-weird-way",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F19%2Fchina-hits-its-gdp-target-in-a-weird-way"
+    },
+    {
+      "title": "Is passive investment inflating a stockmarket bubble?",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble",
+      "desc": "A widely circulated working paper suggests so",
+      "date": "2026-01-14T21:02:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F14%2Fis-passive-investment-inflating-a-stockmarket-bubble",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F14%2Fis-passive-investment-inflating-a-stockmarket-bubble",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F14%2Fis-passive-investment-inflating-a-stockmarket-bubble"
+    },
+    {
+      "title": "Much Ado About Variance",
+      "link": "https://robotwealth.com/much-ado-about-variance/",
+      "desc": "What’s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there’s a big diff",
+      "date": "2026-01-11T10:15:28.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "Comex Gold, Silver Settle Lower",
-      "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-      "desc": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-      "date": "2025-01-27T19:01:00.000Z",
+      "title": "How to short the bubbliest firms",
+      "link": "https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms",
+      "desc": "Private markets present fearsome challenges",
+      "date": "2025-11-26T21:30:35.000Z",
       "type": "news",
-      "label": "Wall Street Journal",
+      "label": "The Economist",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F26%2Fhow-to-short-the-bubbliest-firms",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F26%2Fhow-to-short-the-bubbliest-firms",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F26%2Fhow-to-short-the-bubbliest-firms"
+    },
+    {
+      "title": "Crypto got everything it wanted. Now it’s sinking",
+      "link": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
+      "desc": "The slump could spread across financial markets",
+      "date": "2025-11-18T21:57:29.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking"
+    },
+    {
+      "title": "In defence of personal finance",
+      "link": "https://www.economist.com/finance-and-economics/2025/11/12/in-defence-of-personal-finance",
+      "desc": "It may widen inequality. But it has many advantages",
+      "date": "2025-11-12T20:38:33.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance"
+    },
+    {
+      "title": "Why You Can’t Tell if Your Strategy “Stopped Working” (Statistically Speaking)",
+      "link": "https://robotwealth.com/why-you-cant-tell-if-your-strategy-stopped-working-statistically-speaking/",
+      "desc": "Traders love the illusion of precision. A few bad weeks go by, and you think, “Let’s run a t-test and see if the strategy stopped working.” It sounds rigorous. It isn’t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility – roughly the S P’s long-term profile. We’ll simulate fi",
+      "date": "2025-10-10T07:01:44.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
+      "tags": [
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "DeepSeek Won't Sink U.S. AI Titans",
-      "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-      "desc": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-      "date": "2025-01-27T18:12:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
+      "title": "Trading Without Edge? That’s expensive gambling, I said…",
+      "link": "https://robotwealth.com/trading-without-edge-thats-expensive-gambling-i-said/",
+      "desc": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one – focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools – cointeg",
+      "date": "2025-09-23T04:08:42.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-      "desc": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-      "date": "2025-01-27T17:27:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
+      "title": "Finding Edges",
+      "link": "https://robotwealth.com/finding-edges/",
+      "desc": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn’t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won’t let you sell naked options. You ... Read more",
+      "date": "2025-08-31T05:06:22.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-      "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-      "desc": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
-      "date": "2025-01-27T17:20:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
+      "title": "Trading Signals in High Definition",
+      "link": "https://robotwealth.com/trading-signals-in-high-definition/",
+      "desc": "We’ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You’ve seen them everywhere. “If price is above ",
+      "date": "2025-08-15T12:57:38.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
-      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-      "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-      "desc": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
-      "date": "2025-01-27T14:55:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
+      "title": "Understanding “why” beats statistical significance",
+      "link": "https://robotwealth.com/understanding-why-beats-statistical-significance/",
+      "desc": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is “real” or just random noise. And in many fields, that’s ",
+      "date": "2025-08-11T04:02:28.000Z",
+      "type": "analysis",
+      "label": "Robot Wealth",
       "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Natural Gas Falls on Shifting Weather Forecasts",
-      "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
-      "desc": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
-      "date": "2025-01-27T14:05:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-      "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
-      "desc": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
-      "date": "2025-01-27T13:28:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
-      "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
-      "desc": "Maverick Natural Resources has operations in Texas and Oklahoma.",
-      "date": "2025-01-27T11:57:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "What's New This Tax Season That Can Save You Money",
-      "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
-      "desc": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
-      "date": "2025-01-27T10:30:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
+        "quant",
+        "ML",
+        "trading",
+        "algorithms"
       ]
     },
     {
@@ -3359,8 +1616,12 @@
       "tags": [
         "WSJ",
         "markets",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main"
     },
     {
       "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
@@ -3372,359 +1633,12 @@
       "tags": [
         "WSJ",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-      "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-      "desc": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-      "date": "2025-01-27T09:46:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-      "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-      "desc": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-      "date": "2025-01-27T06:05:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Heard on the Street's Stock-Picking Series",
-      "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-      "desc": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-      "date": "2025-01-27T03:33:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-      "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-      "desc": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-      "date": "2025-01-26T11:00:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-      "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-      "desc": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-      "date": "2025-01-26T10:30:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-      "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-      "desc": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-      "date": "2025-01-26T05:01:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
-      "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-      "desc": "The story of home affordability in the U.S. told from a single front porch.",
-      "date": "2025-01-26T02:00:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
-      "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
-      "desc": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
-      "date": "2025-01-25T10:30:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
-      "link": "https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f",
-      "desc": "Banks are hoping to sell the X debt at around 90 to 95 cents on the dollar.",
-      "date": "2025-01-24T20:37:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service",
-      "link": "https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f",
-      "desc": "The Canadian government said it would provide extraordinary financing to Canada Post to avoid insolvency at the state-owned mail service.",
-      "date": "2025-01-24T20:13:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Amazon Willing to Discuss Quebec Shutdown With Canadian Officials",
-      "link": "https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f",
-      "desc": "Amazon.com said it is open to talks with officials from the Canadian and Quebec governments about the decision to shut down operations in the country’s French-speaking province, which would lead to 1,700 people losing their jobs.",
-      "date": "2025-01-24T19:15:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Target Drops DEI Goals and Ends Program to Boost Black Suppliers",
-      "link": "https://www.wsj.com/articles/target-drops-dei-goals-and-ends-program-to-boost-black-suppliers-77cb4c75?mod=pls_whats_news_us_business_f",
-      "desc": "Once a stalwart supporter of Black and LGBTQ rights, the retailer joined corporate America’s retreat from DEI initiatives.",
-      "date": "2025-01-24T18:51:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-08708375?mod=pls_whats_news_us_business_f",
-      "desc": "Find insight on Cnooc, YTL Power International, Ampol, and more in the latest Market Talks covering energy and utilities.",
-      "date": "2025-01-24T17:29:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-f817645e?mod=pls_whats_news_us_business_f",
-      "desc": "Find insight on CSX, Givaudan, Rio Tinto and more in the latest Market Talks covering basic materials.",
-      "date": "2025-01-24T17:28:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-f1469058?mod=pls_whats_news_us_business_f",
-      "desc": "Read about CSX, Magna International, Alaska Air and more in the latest Market Talks covering the auto and transport sector.",
-      "date": "2025-01-24T17:28:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Novo Nordisk Shares Surge on New Obesity Drug Results",
-      "link": "https://www.wsj.com/articles/novo-nordisk-shares-surge-on-new-obesity-drug-results-416670ee?mod=pls_whats_news_us_business_f",
-      "desc": "Novo Nordisk shares rose sharply after the Danish pharmaceutical giant said an experimental weight-loss shot helped patients lose 22% of their body weight in a clinical trial.",
-      "date": "2025-01-24T16:52:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "EU Conditionally Approves International Paper's $7.16 Billion DS Smith Buy",
-      "link": "https://www.wsj.com/articles/eu-conditionally-approves-international-papers-7-16-billion-ds-smith-buy-c1ce87f1?mod=pls_whats_news_us_business_f",
-      "desc": "The European Commission said that the parties’ offer to sell five of International Paper’s plants in Europe fully addresses its competition concerns over the deal.",
-      "date": "2025-01-24T15:55:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Google to Put Warnings on U.K. Businesses Using Fake Online Reviews",
-      "link": "https://www.wsj.com/articles/google-to-put-warnings-on-u-k-businesses-using-fake-online-reviews-eb75c038?mod=pls_whats_news_us_business_f",
-      "desc": "The search giant has offered to start punishing British businesses that boost their star ratings with fake reviews and the people that post them, ending the U.K. competition watchdog’s investigation into online reviews.",
-      "date": "2025-01-24T15:40:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Ericsson Shares Slump as Earnings Hit by Weakness Outside of Core Networks Business",
-      "link": "https://www.wsj.com/articles/ericsson-sees-further-signs-of-market-stabilization-as-north-america-sales-rise-19ac5238?mod=pls_whats_news_us_business_f",
-      "desc": "The company’s shares fell to the bottom of the Stoxx Europe 600 index as higher operating costs and weakness in some of its business units dented earnings.",
-      "date": "2025-01-24T14:07:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Verizon Results Boosted by Higher Prices, Gain in Wireless Customers",
-      "link": "https://www.wsj.com/articles/verizon-results-boosted-by-higher-prices-gain-in-wireless-customers-5f0ff6e9?mod=pls_whats_news_us_business_f",
-      "desc": "The New York telecommunications giant’s quarterly earnings beat Wall Street forecasts as higher prices helped to boost revenue.",
-      "date": "2025-01-24T14:05:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "If You Need to Escape a Wildfire in an EV, Here Is What to Know",
-      "link": "https://www.wsj.com/articles/if-you-need-to-escape-a-wildfire-in-an-ev-here-is-what-to-know-0fa41f51?mod=pls_whats_news_us_business_f",
-      "desc": "Driving an electric car in a wildfire emergency has its own unique challenges and benefits.",
-      "date": "2025-01-24T13:00:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "CaixaBank's CFO Sees Case for Dealmaking Among Europe's Banks",
-      "link": "https://www.wsj.com/articles/caixabanks-cfo-sees-case-for-dealmaking-among-europes-banks-0b47910b?mod=pls_whats_news_us_business_f",
-      "desc": "Growth through acquisitions isn’t part of CaixaBank’s latest three-year plan, it should be for other banks in Europe, Caixa’s finance chief Javier Pano said in an interview.",
-      "date": "2025-01-24T11:11:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Tesla to Recall Cars in China on Safety Concerns",
-      "link": "https://www.wsj.com/articles/tesla-to-recall-1-2-million-cars-in-china-on-safety-concerns-06ff757a?mod=pls_whats_news_us_business_f",
-      "desc": "Tesla China plans to fix 1.2 million China-made and imported vehicles with software issues.",
-      "date": "2025-01-24T10:56:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Korea Zinc Shares Rally After Adopting New Investor Protection Rules",
-      "link": "https://www.wsj.com/articles/korea-zinc-shares-rally-after-rules-for-better-minority-investors-protection-8874c125?mod=pls_whats_news_us_business_f",
-      "desc": "Korea Zinc’s shares rose sharply a day after the world’s leading zinc smelter decided to adopt new rules that management said would bolster minority shareholders’ rights.",
-      "date": "2025-01-24T09:56:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Burberry Sees Positive Signs as Turnaround Plan Continues",
-      "link": "https://www.wsj.com/articles/burberry-sees-positive-signs-as-turnaround-plan-continues-d3713aff?mod=pls_whats_news_us_business_f",
-      "desc": "The company upgraded its earnings outlook as sales returned to growth in the Americas, saying efforts to revamp its brand showed positive signs over the key holiday period.",
-      "date": "2025-01-24T09:31:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "Rolls-Royce Strikes Contract to Supply Nuclear Reactors for U.K. Submarines",
-      "link": "https://www.wsj.com/articles/rolls-royce-gets-9-37-bln-contract-to-supply-nuclear-reactors-for-u-k-submarines-4ad2961c?mod=pls_whats_news_us_business_f",
-      "desc": "Rolls-Royce will manufacture nuclear reactors to power new U.K. submarines under a contract valued approximately at $11.1 billion.",
-      "date": "2025-01-24T09:27:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
-    },
-    {
-      "title": "China's WeRide Wants to Build Global Robotaxi Empire",
-      "link": "https://www.wsj.com/articles/chinas-weride-wants-to-build-global-robotaxi-empire-6804cc80?mod=pls_whats_news_us_business_f",
-      "desc": "The Chinese autonomous-driving company is aiming to make more inroads overseas this year, betting that robotaxis and related services will be in high demand in coming years.",
-      "date": "2025-01-24T08:30:00.000Z",
-      "type": "news",
-      "label": "Wall Street Journal",
-      "tags": [
-        "WSJ",
-        "business",
-        "premium"
-      ]
+        "premium",
+        "quant"
+      ],
+      "archiveCheck": "https://archive.today/https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
+      "archiveSubmit": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
+      "archiveLink": "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main"
     },
     {
       "title": "Climate Change and the Environment",
