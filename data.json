@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T01:58:34.855Z",
+  "updated": "2026-03-23T02:59:01.605Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -75,20 +75,6 @@
       "relevance": 11
     },
     {
-      "title": "Iran war fallout set to filter into economic data",
-      "link": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
-      "desc": "Telling PMI, consumer confidence and inflation updates, plus Denmark goes to the polls, Anglicans anoint first female leader",
-      "date": "2026-03-22T18:15:01.000Z",
-      "type": "news",
-      "label": "Financial Times",
-      "tags": [
-        "FT",
-        "markets"
-      ],
-      "archive_url": "https://web.archive.org/web/https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
-      "relevance": 10
-    },
-    {
       "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "link": "http://arxiv.org/abs/2603.19225v1",
       "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
@@ -129,6 +115,20 @@
       ],
       "archive_url": null,
       "relevance": 10
+    },
+    {
+      "title": "Iran war fallout set to filter into economic data",
+      "link": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
+      "desc": "Telling PMI, consumer confidence and inflation updates, plus Denmark goes to the polls, Anglicans anoint first female leader",
+      "date": "2026-03-22T18:15:01.000Z",
+      "type": "news",
+      "label": "Financial Times",
+      "tags": [
+        "FT",
+        "markets"
+      ],
+      "archive_url": "https://web.archive.org/web/https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
+      "relevance": 9
     },
     {
       "title": "Large Language Models and Stock Investing: Is the Human Factor Required?",
@@ -215,20 +215,6 @@
       "relevance": 9
     },
     {
-      "title": "Real-world models for multiple term structures: a unifying HJM semimartingale framework",
-      "link": "http://arxiv.org/abs/2411.01983v3",
-      "desc": "We develop a unified framework for modeling multiple term structures arising in financial, insurance, and energy markets, adopting an extended Heath-Jarrow-Morton (HJM) approach under the real-world probability. We study market viability and characterize the set of local martingale deflators. We con",
-      "date": "2026-03-17T12:53:48.000Z",
-      "type": "arxiv",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research"
-      ],
-      "archive_url": null,
-      "relevance": 9
-    },
-    {
       "title": "RE-SAC: Disentangling aleatoric and epistemic risks in bus fleet control: A stable and robust ensemble DRL approach",
       "link": "http://arxiv.org/abs/2603.18396v1",
       "desc": "Bus holding control is challenging due to stochastic traffic and passenger demand. While deep reinforcement learning (DRL) shows promise, standard actor-critic algorithms suffer from Q-value instability in volatile environments. A key source of this instability is the conflation of two distinct unce",
@@ -257,6 +243,20 @@
       ],
       "archive_url": null,
       "relevance": 9
+    },
+    {
+      "title": "An Infinite-Dimensional Insider Trading Game",
+      "link": "http://arxiv.org/abs/2602.21125v3",
+      "desc": "We generalize the seminal framework of Kyle (1985) to a many-asset setting, bridging the gap between informed-trading theory and modern trading practices. Specifically, we formulate an infinite-dimensional Bayesian trading game in which the informed trader's private information may concern arbitrary",
+      "date": "2026-03-20T17:33:10.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
     },
     {
       "title": "Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective",
@@ -516,20 +516,6 @@
       "relevance": 7
     },
     {
-      "title": "The price of menstrual products is skyrocketing from inflation, tariffs",
-      "link": "https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html",
-      "desc": "With rising inflation and changing tariff policies, menstrual products have seen a drastic rise in price over the past few years.",
-      "date": "2026-03-22T12:00:01.000Z",
-      "type": "news",
-      "label": "CNBC Finance",
-      "tags": [
-        "CNBC",
-        "finance"
-      ],
-      "archive_url": null,
-      "relevance": 6
-    },
-    {
       "title": "Mapping the Midweek Mountain: The New Geography of Hybrid Work",
       "link": "http://arxiv.org/abs/2603.18440v1",
       "desc": "This paper provides a behavioral analysis of the post-pandemic transformation of work, using a dataset of approximately 41 billion mobile geolocation records from 73.5 million individuals in the five largest U.S. metropolitan areas from the pre- to post- pandemic periods. By tracking movements betwe",
@@ -700,6 +686,20 @@
         "markets"
       ],
       "archive_url": "https://web.archive.org/web/https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "relevance": 5
+    },
+    {
+      "title": "The price of menstrual products is skyrocketing from inflation, tariffs",
+      "link": "https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html",
+      "desc": "With rising inflation and changing tariff policies, menstrual products have seen a drastic rise in price over the past few years.",
+      "date": "2026-03-22T12:00:01.000Z",
+      "type": "news",
+      "label": "CNBC Finance",
+      "tags": [
+        "CNBC",
+        "finance"
+      ],
+      "archive_url": null,
       "relevance": 5
     },
     {
