@@ -11,23 +11,33 @@ import { writeFileSync } from 'fs';
 // ─────────────────────────────────────────────────────────────
 const FEEDS = [
 
-  // ── FINANCIAL NEWS ──────────────────────────────────────────
+  // ── FINANCIAL NEWS (Tier 1) ────────────────────────────────
   {
     url:   'https://www.ft.com/rss/home',
-    type:  'news', label: 'Financial Times', tags: ['FT','markets'],
+    type:  'news', label: 'Financial Times', tags: ['FT','markets','premium'],
   },
   {
     url:   'https://www.economist.com/finance-and-economics/rss.xml',
-    type:  'news', label: 'The Economist', tags: ['macro','economics'],
+    type:  'news', label: 'The Economist', tags: ['macro','economics','premium'],
   },
   {
     url:   'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
-    type:  'news', label: 'WSJ Markets', tags: ['WSJ','markets'],
+    type:  'news', label: 'Wall Street Journal', tags: ['WSJ','markets','premium'],
   },
   {
     url:   'https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml',
-    type:  'news', label: 'WSJ Business', tags: ['WSJ','business'],
+    type:  'news', label: 'Wall Street Journal', tags: ['WSJ','business','premium'],
   },
+  {
+    url:   'https://feeds.bloomberg.com/markets/news.rss',
+    type:  'news', label: 'Bloomberg Markets', tags: ['Bloomberg','markets','premium'],
+  },
+  {
+    url:   'https://feeds.bloomberg.com/politics/news.rss',
+    type:  'news', label: 'Bloomberg Politics', tags: ['Bloomberg','politics','premium'],
+  },
+
+  // ── FINANCIAL NEWS (Tier 2) ────────────────────────────────
   {
     url:   'https://www.cnbc.com/id/10001147/device/rss/rss.html',
     type:  'news', label: 'CNBC Finance', tags: ['CNBC','finance'],
@@ -42,33 +52,33 @@ const FEEDS = [
   },
   {
     url:   'https://seekingalpha.com/feed.xml',
-    type:  'news', label: 'Seeking Alpha', tags: ['analysis','equities'],
+    type:  'analysis', label: 'Seeking Alpha', tags: ['analysis','equities'],
   },
 
   // ── RESEARCH PAPERS ─────────────────────────────────────────
   {
     // arXiv search API — returns recent q-fin papers any day of the week
     url:   'https://export.arxiv.org/api/query?search_query=cat:q-fin.PM+OR+cat:q-fin.TR+OR+cat:q-fin.RM+OR+cat:q-fin.CP+OR+cat:q-fin.MF&start=0&max_results=30&sortBy=lastUpdatedDate&sortOrder=descending',
-    type:  'arxiv', label: 'arXiv q-fin', tags: ['paper','research'], atom: true,
+    type:  'research', label: 'arXiv q-fin', tags: ['paper','research','quant'], atom: true,
   },
   {
     url:   'https://export.arxiv.org/api/query?search_query=cat:cs.LG+AND+%28ti:portfolio+OR+ti:trading+OR+ti:finance+OR+ti:risk+OR+ti:market%29&start=0&max_results=20&sortBy=lastUpdatedDate&sortOrder=descending',
-    type:  'arxiv', label: 'arXiv ML×Finance', tags: ['ML','paper','research'], atom: true,
+    type:  'research', label: 'arXiv ML×Finance', tags: ['ML','paper','research','AI'], atom: true,
   },
   {
     // BIS Working Papers (Bank for International Settlements) — uses RDF/RSS 1.0
     url:   'https://www.bis.org/doclist/wppubls.rss',
-    type:  'arxiv', label: 'BIS Working Papers', tags: ['paper','macro','policy'], rdf: true,
+    type:  'research', label: 'BIS Working Papers', tags: ['paper','macro','policy','central bank'], rdf: true,
   },
   {
     // Federal Reserve FEDS Notes & Working Papers
     url:   'https://www.federalreserve.gov/feeds/feds.xml',
-    type:  'arxiv', label: 'Federal Reserve', tags: ['paper','policy','macro'],
+    type:  'research', label: 'Federal Reserve', tags: ['paper','policy','macro','central bank'],
   },
   {
     // CEPR — Centre for Economic Policy Research
     url:   'https://cepr.org/rss.xml',
-    type:  'arxiv', label: 'CEPR', tags: ['paper','economics','policy'],
+    type:  'research', label: 'CEPR', tags: ['paper','economics','policy'],
   },
 ];
 
