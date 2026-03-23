@@ -1,8 +1,35 @@
 {
-  "updated": "2026-03-23T16:06:11.432Z",
-  "count": 106,
+  "updated": "2026-03-23T16:36:10.452Z",
+  "count": 123,
   "failed": [],
   "items": [
+    {
+      "title": "Focus Fundamentals, Alternate No Longer Optional: Sundar",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/focus-fundamentals-alternate-no-longer-optional-sundar-video",
+      "desc": "Sitara Sundar, Head of Alternative Investment Strategy at JPMorgan Private Bank, says alternatives are no longer optional given market volatility. She recommends leaning into inflation-resilient income and real assets like real estate and infrastructure. She speaks to Bloomberg's Matt Miller and Dan",
+      "date": "2026-03-23T16:20:15.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium",
+        "quant"
+      ]
+    },
+    {
+      "title": "Calamos Hedged Equity Strategy Q4 2025 Commentary",
+      "link": "https://seekingalpha.com/article/4885033-calamos-hedged-equity-strategy-q4-2025-commentary?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T16:15:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities",
+        "quant"
+      ]
+    },
     {
       "title": "Baidu's Deep Value And The Risks The Market Is Ignoring",
       "link": "https://seekingalpha.com/article/4884959-baidu-deep-value-and-the-risks-the-market-is-ignoring?source=feed_all_articles",
@@ -17,23 +44,24 @@
       ]
     },
     {
-      "title": "$1 Million Dollar Near 7% Yield 60/40 Portfolio",
-      "link": "https://seekingalpha.com/article/4884999-1-million-dollar-near-7-percent-yield-6040-portfolio?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T15:39:44.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
+      "title": "German Two-Year Bond Futures Trading Halted Amid Volatility",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/german-two-year-bond-futures-trading-halted-amid-volatility",
+      "desc": "Trading in two-year German bond futures was halted twice on Monday, leaving traders struggling to keep up with swings triggered by US President Donald Trump’s decision to back down from strikes on Iran’s energy infrastructure.",
+      "date": "2026-03-23T15:56:29.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
       "tags": [
-        "analysis",
-        "equities",
+        "Bloomberg",
+        "markets",
+        "premium",
         "quant"
       ]
     },
     {
-      "title": "Palantir: Why I Stay Bullish Despite The Risks",
-      "link": "https://seekingalpha.com/article/4884952-palantir-why-i-stay-bullish-despite-the-risks?source=feed_all_articles",
+      "title": "$1 Million Dollar Near 7% Yield 60/40 Portfolio",
+      "link": "https://seekingalpha.com/article/4884999-1-million-dollar-near-7-percent-yield-6040-portfolio?source=feed_all_articles",
       "desc": "",
-      "date": "2026-03-23T15:30:00.000Z",
+      "date": "2026-03-23T15:39:44.000Z",
       "type": "analysis",
       "label": "Seeking Alpha",
       "tags": [
@@ -56,20 +84,7 @@
       ]
     },
     {
-      "title": "John Hancock Multimanager 2060 Lifetime Portfolio Q4 2025 Commentary",
-      "link": "https://seekingalpha.com/article/4884980-john-hancock-multimanager-2060-lifetime-portfolio-q4-2025-commentary?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:58:00.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities",
-        "quant"
-      ]
-    },
-    {
-      "title": "Polymarket Implements New Insider Trading Rules After Scrutiny",
+      "title": "Polymarket Unveils New Insider Trading Rules After Scrutiny",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny",
       "desc": "Polymarket has moved to squash some types of insider trading after the prediction markets platform came under scrutiny for suspected manipulation.",
       "date": "2026-03-23T14:46:42.000Z",
@@ -80,18 +95,7 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny",
-          "https://web.archive.org/save/https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Fpolymarket-implements-new-insider-trading-rules-after-scrutiny",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "US warns EU to pass trade deal or risk losing ‘favourable’ access to LNG",
@@ -105,18 +109,7 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
-          "https://web.archive.org/save/https://www.ft.com/content/6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F6bf153e4-11af-44d5-9d1c-48b5c7ad26ef",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "FEDS Paper: AI and Coder Employment: Compiling the Evidence",
@@ -172,18 +165,21 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes",
-          "https://web.archive.org/save/https://www.bloomberg.com/news/articles/2026-03-23/treasuries-soar-after-trump-postpones-iran-power-strikes",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-23%2Ftreasuries-soar-after-trump-postpones-iran-power-strikes",
-      "isPaywalled": true
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway to take $1.8bn stake in Tokio Marine",
+      "link": "https://www.ft.com/content/0ef092c4-01bf-4331-8fbe-99bd15ed5f27",
+      "desc": "Investment in non-life insurer marks new Japan venture for Warren Buffett’s conglomerate",
+      "date": "2026-03-23T09:10:04.000Z",
+      "type": "news",
+      "label": "Financial Times",
+      "tags": [
+        "FT",
+        "markets",
+        "premium",
+        "quant"
+      ]
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/22/2026",
@@ -225,18 +221,21 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities",
-          "https://web.archive.org/save/https://www.bloomberg.com/news/articles/2026-03-22/fannie-freddie-place-large-bids-for-mortgage-backed-securities",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-03-22%2Ffannie-freddie-place-large-bids-for-mortgage-backed-securities",
-      "isPaywalled": true
+      ]
+    },
+    {
+      "title": "Even the best-case scenario for energy markets is disastrous",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous",
+      "desc": "Whatever happens, high prices will outlive the Iran war",
+      "date": "2026-03-22T10:15:15.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ]
     },
     {
       "title": "An Infinite-Dimensional Insider Trading Game",
@@ -249,6 +248,19 @@
         "paper",
         "research",
         "quant"
+      ]
+    },
+    {
+      "title": "The Return of the King: Trend Following Is Back – But Will It Last?",
+      "link": "https://alphaarchitect.com/the-return-of-the-king-trend-following-is-back-but-will-it-last/",
+      "desc": "Trend following is finally moving while U.S. stocks are flat. And so—like with most assets or strategies that post strong returns—investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return of the King: Trend ",
+      "date": "2026-03-20T15:21:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
+      "tags": [
+        "quant",
+        "research",
+        "investment"
       ]
     },
     {
@@ -336,6 +348,19 @@
       "link": "http://arxiv.org/abs/2603.19414v1",
       "desc": "We study a problem of optimal allocation in a discrete-time multi-period pure-exchange economy, where agents have preferences over stochastic endowment processes that are represented by strongly time-consistent dynamic risk measures. We introduce the notion of dynamic Pareto-optimal allocation proce",
       "date": "2026-03-19T19:14:46.000Z",
+      "type": "research",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research",
+        "quant"
+      ]
+    },
+    {
+      "title": "Optimal consumption under loss-averse multiplicative habit-formation preferences",
+      "link": "http://arxiv.org/abs/2406.20063v4",
+      "desc": "This paper studies a loss-averse version of the multiplicative habit formation preference and the corresponding optimal investment and consumption strategies over an infinite horizon. The agent's consumption preference is depicted by a general S-shaped utility function of her consumption-to-habit ra",
+      "date": "2026-03-19T19:11:26.000Z",
       "type": "research",
       "label": "arXiv q-fin",
       "tags": [
@@ -586,18 +611,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection",
@@ -778,18 +792,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F12%2Fwhy-investors-wont-know-what-to-make-of-ai-for-a-while",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "A public-private partnership? Central bank funding and credit supply",
@@ -831,18 +834,20 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F09%2Fthe-iran-energy-shock-reverberates-across-financial-markets",
-      "isPaywalled": true
+      ]
+    },
+    {
+      "title": "The Best Defensive Strategies: Two Centuries of Evidence",
+      "link": "https://alphaarchitect.com/defensive-investment-strategies/",
+      "desc": "Which defensive strategies have actually worked, and do the conclusions survive when we evaluate them over multiple centuries rather than a few decades? The Best Defensive Strategies: Two Centuries of Evidence was originally published at Alpha Architect . Please read the Alpha Architect disclosures ",
+      "date": "2026-03-09T15:30:00.000Z",
+      "type": "analysis",
+      "label": "Alpha Architect",
+      "tags": [
+        "quant",
+        "research",
+        "investment"
+      ]
     },
     {
       "title": "Robots, ICT and employment: evidence from advanced and emerging EU countries",
@@ -884,6 +889,20 @@
         "ML",
         "trading",
         "algorithms"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Income Mobility of the Top One Percent",
+      "link": "https://www.federalreserve.gov/econres/feds/income-mobility-of-the-top-one-percent.htm",
+      "desc": "David Splinter and Jeff Larrimore Circulation into and out of the top one percent is pronounced in the U.S. One third exit after a year and two-thirds exit after a decade. This mobility lowers top income shares when shifting from annual to multi-year income measures. Intragenerational mobility over ",
+      "date": "2026-03-06T20:10:00.000Z",
+      "type": "research",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -929,6 +948,20 @@
       ]
     },
     {
+      "title": "The nightmare war scenario is becoming reality in energy markets",
+      "link": "https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets",
+      "desc": "The longer the war in the Gulf, the harsher the global economic fallout",
+      "date": "2026-03-03T20:15:57.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ]
+    },
+    {
       "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
       "link": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03022026/",
       "desc": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we built up a conceptual un",
@@ -940,6 +973,20 @@
         "blog",
         "trading",
         "algorithms"
+      ]
+    },
+    {
+      "title": "FEDS Paper: Debt Flexibility(Revised)",
+      "link": "https://www.federalreserve.gov/econres/feds/debt-flexibility.htm",
+      "desc": "Rhys Bidder, Nicolas Crouzet, Margaret M. Jacobson , and  Michael Siemer How flexible are corporate loans after origination? Theory predicts coordination problems should make syndicated loans harder to modify than single-bank loans. We show the opposite. Using comprehensive regulatory data, we docum",
+      "date": "2026-03-02T20:45:00.000Z",
+      "type": "research",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro",
+        "central bank"
       ]
     },
     {
@@ -1040,6 +1087,20 @@
       ]
     },
     {
+      "title": "FEDS Paper: Decomposing Gender Differences in Bankcard Credit Limits: Evidence from Sole Mortgage Applicants(Revised)",
+      "link": "https://www.federalreserve.gov/econres/feds/decomposing-gender-differences-in-bankcard-credit-limits.htm",
+      "desc": "Nathan Blascak and Anna Tranfaglia Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total credit card limits for sole mortgage applicants. We estimate that male borrowers have approximately $1,300 ",
+      "date": "2026-02-23T15:18:00.000Z",
+      "type": "research",
+      "label": "Federal Reserve",
+      "tags": [
+        "paper",
+        "policy",
+        "macro",
+        "central bank"
+      ]
+    },
+    {
       "title": "Markets are churning furiously beneath the surface",
       "link": "https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface",
       "desc": "AI is prompting investors to reassess every business model under the sun",
@@ -1051,18 +1112,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F22%2Fmarkets-are-churning-furiously-beneath-the-surface",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "Moneyball: Finding Undervalued Pairs Using Unconventional Metrics",
@@ -1104,18 +1154,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F19%2Fprediction-markets-are-rife-with-insider-betting",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "FEDS Paper: Kalshi and the Rise of Macro Markets",
@@ -1160,6 +1199,20 @@
       ]
     },
     {
+      "title": "Lending to vulnerable households and consumption: evidence from Korea",
+      "link": "https://www.bis.org/publ/work1331.htm",
+      "desc": "by Jieun Lee, Ilhyock Shim<br />Using a large quarterly consumer credit panel dataset from Korea covering 2017–2023, we present four key findings on the characteristics, lending sources, and macroeconomic consequences of vulnerable borrowers-namely, delinquent borrowers whose debt repayment is overd",
+      "date": "2026-02-12T09:54:00.000Z",
+      "type": "research",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy",
+        "central bank"
+      ]
+    },
+    {
       "title": "Passive investors and loan spreads",
       "link": "https://www.bis.org/publ/work1330.htm",
       "desc": "by Konrad Adler, Sebastian Doerr, Sonya Zhu<br />",
@@ -1185,6 +1238,20 @@
         "macro",
         "policy",
         "central bank"
+      ]
+    },
+    {
+      "title": "Can emerging markets’ stellar run continue?",
+      "link": "https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue",
+      "desc": "There is a lot more going for them than “sell America”",
+      "date": "2026-02-04T18:41:56.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
       ]
     },
     {
@@ -1255,24 +1322,27 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "A tractable menu cost model with an aggregate markup drift",
       "link": "https://www.bis.org/publ/work1327.htm",
       "desc": "by Ko Munakata<br />This paper extends the menu cost model of Gertler and Leahy (2008) by introducing a drift in the aggregate markup. Assuming that the drift is always negative and not large, consistent with moderate and positive trend inflation, the paper analytically characterizes firms' value fu",
       "date": "2026-01-27T08:13:00.000Z",
+      "type": "research",
+      "label": "BIS Working Papers",
+      "tags": [
+        "paper",
+        "macro",
+        "policy",
+        "central bank"
+      ]
+    },
+    {
+      "title": "Monetary policy and private equity acquisitions: tracing the links",
+      "link": "https://www.bis.org/publ/work1326.htm",
+      "desc": "by Fernando Avalos, Boris Hofmann, José María Serena Garralda<br />Private equity funds play an increasingly important role in financial systems. Yet, the impact of monetary policy on their activity has been little explored so far. In this paper, we analyse the transmission of monetary policy throug",
+      "date": "2026-01-26T13:00:00.000Z",
       "type": "research",
       "label": "BIS Working Papers",
       "tags": [
@@ -1297,6 +1367,20 @@
       ]
     },
     {
+      "title": "American decay versus American dynamism",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/21/american-decay-versus-american-dynamism",
+      "desc": "Only a decline in corporate America’s vigour will dent the country’s dominance of financial markets",
+      "date": "2026-01-21T20:20:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ]
+    },
+    {
       "title": "The macro-financial impact of economic policy uncertainty in Latin America",
       "link": "https://www.bis.org/publ/work1324.htm",
       "desc": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
@@ -1308,6 +1392,34 @@
         "macro",
         "policy",
         "central bank"
+      ]
+    },
+    {
+      "title": "China hits its GDP target—in a weird way",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
+      "desc": "Strong exports make up for weak investment",
+      "date": "2026-01-19T15:02:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ]
+    },
+    {
+      "title": "Is passive investment inflating a stockmarket bubble?",
+      "link": "https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble",
+      "desc": "A widely circulated working paper suggests so",
+      "date": "2026-01-14T21:02:41.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
       ]
     },
     {
@@ -1325,6 +1437,20 @@
       ]
     },
     {
+      "title": "How to short the bubbliest firms",
+      "link": "https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms",
+      "desc": "Private markets present fearsome challenges",
+      "date": "2025-11-26T21:30:35.000Z",
+      "type": "news",
+      "label": "The Economist",
+      "tags": [
+        "macro",
+        "economics",
+        "premium",
+        "quant"
+      ]
+    },
+    {
       "title": "Crypto got everything it wanted. Now it’s sinking",
       "link": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
       "desc": "The slump could spread across financial markets",
@@ -1336,18 +1462,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F18%2Fcrypto-got-everything-it-wanted-now-its-sinking",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "In defence of personal finance",
@@ -1361,18 +1476,7 @@
         "economics",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance",
-          "https://web.archive.org/save/https://www.economist.com/finance-and-economics/2025/11/12/in-defence-of-personal-finance",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F12%2Fin-defence-of-personal-finance",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "Why You Can’t Tell if Your Strategy “Stopped Working” (Statistically Speaking)",
@@ -1456,18 +1560,7 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
-          "https://web.archive.org/save/https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
@@ -1481,18 +1574,7 @@
         "markets",
         "premium",
         "quant"
-      ],
-      "archiveLinks": {
-        "primary": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
-        "alternatives": [
-          "https://archive.today/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
-          "https://web.archive.org/save/https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-          "https://ghostarchive.org/?url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main"
-        ],
-        "check": "https://archive.ph/https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main"
-      },
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
-      "isPaywalled": true
+      ]
     },
     {
       "title": "Climate Change and the Environment",
@@ -1611,6 +1693,5 @@
         "policy"
       ]
     }
-  ],
-  "filtered": 16
+  ]
 }
