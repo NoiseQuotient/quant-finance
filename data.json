@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T03:59:18.748Z",
+  "updated": "2026-03-23T04:59:29.507Z",
   "count": 123,
   "failed": [],
   "items": [
@@ -387,20 +387,6 @@
       "relevance": 7
     },
     {
-      "title": "Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models",
-      "link": "http://arxiv.org/abs/2603.12422v3",
-      "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
-      "date": "2026-03-19T16:12:09.000Z",
-      "type": "arxiv",
-      "label": "arXiv q-fin",
-      "tags": [
-        "paper",
-        "research"
-      ],
-      "archive_url": null,
-      "relevance": 7
-    },
-    {
       "title": "Forecasting and Manipulating the Forecasts of Others",
       "link": "http://arxiv.org/abs/2603.12140v2",
       "desc": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis ",
@@ -458,21 +444,6 @@
       "relevance": 7
     },
     {
-      "title": "Transfer Learning for Contextual Joint Assortment-Pricing under Cross-Market Heterogeneity",
-      "link": "http://arxiv.org/abs/2603.18114v1",
-      "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
-      "date": "2026-03-18T14:48:04.000Z",
-      "type": "arxiv",
-      "label": "arXiv ML×Finance",
-      "tags": [
-        "ML",
-        "paper",
-        "research"
-      ],
-      "archive_url": null,
-      "relevance": 7
-    },
-    {
       "title": "Objective Mispricing Detection for Shortlisting Undervalued Football Players via Market Dynamics and News Signals",
       "link": "http://arxiv.org/abs/2603.17687v1",
       "desc": "We present a practical, reproducible framework for identifying undervalued football players grounded in objective mispricing. Instead of relying on subjective expert labels, we estimate an expected market value from structured data (historical market dynamics, biographical and contract features, tra",
@@ -511,6 +482,20 @@
       "label": "MarketWatch",
       "tags": [
         "markets"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models",
+      "link": "http://arxiv.org/abs/2603.12422v3",
+      "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
+      "date": "2026-03-19T16:12:09.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
       ],
       "archive_url": null,
       "relevance": 6
@@ -576,6 +561,21 @@
       "link": "http://arxiv.org/abs/2601.21690v2",
       "desc": "Model merging efficiently aggregates capabilities from multiple fine-tuned models into a single one, operating purely in parameter space without original data or expensive re-computation. Despite empirical successes, a unified theory for its effectiveness under heterogeneous finetuning hyperparamete",
       "date": "2026-03-19T06:54:16.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Transfer Learning for Contextual Joint Assortment-Pricing under Cross-Market Heterogeneity",
+      "link": "http://arxiv.org/abs/2603.18114v1",
+      "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
+      "date": "2026-03-18T14:48:04.000Z",
       "type": "arxiv",
       "label": "arXiv ML×Finance",
       "tags": [
@@ -1092,20 +1092,6 @@
       "tags": [
         "CNBC",
         "finance"
-      ],
-      "archive_url": null,
-      "relevance": 4
-    },
-    {
-      "title": "Tencent&apos;s 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
-      "link": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
-      "desc": "The tech giant said its core business provided it with the resources to fund increasing investments in AI.",
-      "date": "2026-03-18T10:35:42.000Z",
-      "type": "news",
-      "label": "CNBC Markets",
-      "tags": [
-        "CNBC",
-        "markets"
       ],
       "archive_url": null,
       "relevance": 4
@@ -1637,6 +1623,20 @@
       "tags": [
         "CNBC",
         "finance"
+      ],
+      "archive_url": null,
+      "relevance": 3
+    },
+    {
+      "title": "Tencent&apos;s 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
+      "link": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
+      "desc": "The tech giant said its core business provided it with the resources to fund increasing investments in AI.",
+      "date": "2026-03-18T10:35:42.000Z",
+      "type": "news",
+      "label": "CNBC Markets",
+      "tags": [
+        "CNBC",
+        "markets"
       ],
       "archive_url": null,
       "relevance": 3
