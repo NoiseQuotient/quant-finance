@@ -1,9 +1,7 @@
 {
-  "updated": "2026-03-23T07:01:09.968Z",
-  "count": 106,
-  "failed": [
-    "arXiv ML×Finance"
-  ],
+  "updated": "2026-03-23T08:01:27.315Z",
+  "count": 124,
+  "failed": [],
   "items": [
     {
       "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
@@ -55,6 +53,21 @@
       "type": "arxiv",
       "label": "arXiv q-fin",
       "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 11
+    },
+    {
+      "title": "ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics",
+      "link": "http://arxiv.org/abs/2603.18107v1",
+      "desc": "Deep learning models in quantitative finance often operate as black boxes, lacking interpretability and failing to incorporate fundamental economic principles such as no-arbitrage constraints. This paper introduces ARTEMIS (Arbitrage-free Representation Through Economic Models and Interpretable Symb",
+      "date": "2026-03-18T13:00:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
         "paper",
         "research"
       ],
@@ -216,6 +229,21 @@
       "relevance": 9
     },
     {
+      "title": "Conditioning on a Volatility Proxy Compresses the Apparent Timescale of Collective Market Correlation",
+      "link": "http://arxiv.org/abs/2603.14072v1",
+      "desc": "We address the attribution problem for apparent slow collective dynamics: is the observed persistence intrinsic, or inherited from a persistent driver? For the leading eigenvalue fraction $ψ_1=λ_{\\max}/N$ of S\\&P 500 60-day rolling correlation matrices ($237$ stocks, 2004--2023), a VIX-coupled Ornst",
+      "date": "2026-03-14T18:37:40.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
       "title": "An Infinite-Dimensional Insider Trading Game",
       "link": "http://arxiv.org/abs/2602.21125v3",
       "desc": "We generalize the seminal framework of Kyle (1985) to a many-asset setting, bridging the gap between informed-trading theory and modern trading practices. Specifically, we formulate an infinite-dimensional Bayesian trading game in which the informed trader's private information may concern arbitrary",
@@ -237,6 +265,51 @@
       "type": "arxiv",
       "label": "arXiv q-fin",
       "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
+    },
+    {
+      "title": "RE-SAC: Disentangling aleatoric and epistemic risks in bus fleet control: A stable and robust ensemble DRL approach",
+      "link": "http://arxiv.org/abs/2603.18396v1",
+      "desc": "Bus holding control is challenging due to stochastic traffic and passenger demand. While deep reinforcement learning (DRL) shows promise, standard actor-critic algorithms suffer from Q-value instability in volatile environments. A key source of this instability is the conflation of two distinct unce",
+      "date": "2026-03-19T01:37:45.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
+    },
+    {
+      "title": "Feature-driven reinforcement learning for photovoltaic in continuous intraday trading",
+      "link": "http://arxiv.org/abs/2510.16021v3",
+      "desc": "Sequential intraday electricity trading allows photovoltaic (PV) operators to reduce imbalance settlement costs as forecasts improve throughout the day. Yet deployable trading policies must jointly handle forecast uncertainty, intraday prices, liquidity, and the asymmetric economics of PV imbalance ",
+      "date": "2026-03-16T11:29:00.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
+    },
+    {
+      "title": "Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty",
+      "link": "http://arxiv.org/abs/2404.12598v2",
+      "desc": "This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach",
+      "date": "2026-03-15T13:09:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
         "paper",
         "research"
       ],
@@ -356,13 +429,29 @@
       "relevance": 7
     },
     {
-      "title": "Robust quasi-convex risk measures and applications",
-      "link": "http://arxiv.org/abs/2603.17954v1",
-      "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
-      "date": "2026-03-18T17:28:26.000Z",
+      "title": "Objective Mispricing Detection for Shortlisting Undervalued Football Players via Market Dynamics and News Signals",
+      "link": "http://arxiv.org/abs/2603.17687v1",
+      "desc": "We present a practical, reproducible framework for identifying undervalued football players grounded in objective mispricing. Instead of relying on subjective expert labels, we estimate an expected market value from structured data (historical market dynamics, biographical and contract features, tra",
+      "date": "2026-03-18T13:03:23.000Z",
       "type": "arxiv",
-      "label": "arXiv q-fin",
+      "label": "arXiv ML×Finance",
       "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
+      "link": "http://arxiv.org/abs/2603.15681v1",
+      "desc": "Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 2023 monsoon season alone. Existing risk maps treat every pixel independently, ignoring the basic fact that flooding upstream raises risk downstream. We",
+      "date": "2026-03-15T02:54:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
         "paper",
         "research"
       ],
@@ -411,6 +500,20 @@
       "relevance": 6
     },
     {
+      "title": "Robust quasi-convex risk measures and applications",
+      "link": "http://arxiv.org/abs/2603.17954v1",
+      "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
+      "date": "2026-03-18T17:28:26.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
       "title": "General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework",
       "link": "http://arxiv.org/abs/2603.06238v2",
       "desc": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleten",
@@ -439,13 +542,74 @@
       "relevance": 6
     },
     {
-      "title": "Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs",
-      "link": "http://arxiv.org/abs/2505.18448v3",
-      "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
-      "date": "2026-03-17T18:09:23.000Z",
+      "title": "Bridging Conformal Prediction and Scenario Optimization: Discarded Constraints and Modular Risk Allocation",
+      "link": "http://arxiv.org/abs/2603.19396v1",
+      "desc": "Scenario optimization and conformal prediction share a common goal, that is, turning finite samples into safety margins. Yet, different terminology often obscures the connection between their respective guarantees. This paper revisits that connection directly from a systems-and-control viewpoint. Bu",
+      "date": "2026-03-19T18:37:58.000Z",
       "type": "arxiv",
-      "label": "arXiv q-fin",
+      "label": "arXiv ML×Finance",
       "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "A Unified Generalization Framework for Model Merging: Trade-offs, Non-Linearity, and Scaling Laws",
+      "link": "http://arxiv.org/abs/2601.21690v2",
+      "desc": "Model merging efficiently aggregates capabilities from multiple fine-tuned models into a single one, operating purely in parameter space without original data or expensive re-computation. Despite empirical successes, a unified theory for its effectiveness under heterogeneous finetuning hyperparamete",
+      "date": "2026-03-19T06:54:16.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Transfer Learning for Contextual Joint Assortment-Pricing under Cross-Market Heterogeneity",
+      "link": "http://arxiv.org/abs/2603.18114v1",
+      "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
+      "date": "2026-03-18T14:48:04.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification",
+      "link": "http://arxiv.org/abs/2603.13354v2",
+      "desc": "Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations often focus on single architectural families or lab-generated datasets. This work presents a systematic empirical comparison of three model paradigms for fine-gra",
+      "date": "2026-03-17T10:54:10.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
+      "link": "http://arxiv.org/abs/2603.15059v2",
+      "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
+      "date": "2026-03-17T04:14:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
         "paper",
         "research"
       ],
@@ -534,6 +698,110 @@
       "tags": [
         "CNBC",
         "finance"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs",
+      "link": "http://arxiv.org/abs/2505.18448v3",
+      "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
+      "date": "2026-03-17T18:09:23.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection",
+      "link": "http://arxiv.org/abs/2603.16697v1",
+      "desc": "Outlier detection identifies data points that deviate significantly from expected patterns, revealing anomalies that may require special attention. Incorporating online learning further improves accuracy by continuously updating the model to reflect the most recent data. When employing the Christoff",
+      "date": "2026-03-17T15:51:18.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Longitudinal Risk Prediction in Mammography with Privileged History Distillation",
+      "link": "http://arxiv.org/abs/2603.15814v1",
+      "desc": "Breast cancer remains a leading cause of cancer-related mortality worldwide. Longitudinal mammography risk prediction models improve multi-year breast cancer risk prediction based on prior screening exams. However, in real-world clinical practice, longitudinal histories are often incomplete, irregul",
+      "date": "2026-03-16T18:45:19.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
+      "link": "http://arxiv.org/abs/2603.13830v1",
+      "desc": "The high-frequency issuance and short-cycle speculation of meme tokens in decentralized finance (DeFi) have significantly amplified rug-pull risk. Existing approaches still struggle to provide stable early warning under scarce anomalies, incomplete labels, and limited interpretability. To address th",
+      "date": "2026-03-14T08:25:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Risk-Sensitive Agent Compositions",
+      "link": "http://arxiv.org/abs/2506.04632v4",
+      "desc": "From software development to robot control, modern agentic systems decompose complex objectives into a sequence of subtasks and choose a set of specialized AI agents to complete them. We formalize agentic workflows as directed acyclic graphs, called agent graphs, where edges represent AI agents and ",
+      "date": "2026-03-14T03:19:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
+      "link": "http://arxiv.org/abs/2603.13059v1",
+      "desc": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se",
+      "date": "2026-03-13T15:07:53.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty",
+      "link": "http://arxiv.org/abs/2603.12507v1",
+      "desc": "Minimising a spectral risk objective, defined as a convex combination of expected cost and Conditional Value-at-Risk (CVaR), is challenging when the uncertainty distribution is decision-dependent, making both surrogate modelling and simulation-based ranking sensitive to tail estimation error. We pro",
+      "date": "2026-03-12T22:53:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
       ],
       "archive_url": null,
       "relevance": 5
