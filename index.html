@@ -289,6 +289,11 @@
       color: var(--success);
       border: 1px solid rgba(16, 185, 129, 0.2);
     }
+    .badge-premium {
+      background: rgba(245, 158, 11, 0.1);
+      color: var(--warning);
+      border: 1px solid rgba(245, 158, 11, 0.2);
+    }
     .article-time {
       font-size: 0.75rem;
       color: var(--text3);
@@ -714,6 +719,10 @@
       const isPaywalled = item.tags?.includes('premium');
       const hasArchive = item.archiveLink;
       
+      // For paywalled sites with archive, use archive link as primary
+      const primaryLink = (isPaywalled && hasArchive) ? item.archiveLink : item.link;
+      const showArchiveBtn = (isPaywalled && hasArchive && primaryLink !== item.archiveLink);
+      
       let badgeClass = 'badge-news';
       if (item.type === 'research') badgeClass = 'badge-research';
       if (item.type === 'analysis') badgeClass = 'badge-analysis';
@@ -723,17 +732,22 @@
       ).join('') || '';
       
       let archiveBtn = '';
-      if (hasArchive) {
-        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener">Archive</a>`;
-      } else if (isPaywalled) {
-        archiveBtn = `<span class="action-btn btn-archive disabled">Archive</span>`;
+      if (showArchiveBtn) {
+        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener" title="View archived version">Archive</a>`;
+      } else if (isPaywalled && !hasArchive) {
+        archiveBtn = `<span class="action-btn btn-archive disabled" title="Archive being generated">Archive</span>`;
       }
+      
+      // Button text based on link type
+      const primaryBtnText = (isPaywalled && hasArchive) ? 'Read (Archived)' : 'Read';
+      const primaryBtnClass = (isPaywalled && hasArchive) ? 'btn-archive' : 'btn-primary';
       
       return `
         <div class="article-card">
           <div class="article-header">
             <div class="article-source">
               <span class="source-badge ${badgeClass}">${escapeHtml(item.label)}</span>
+              ${isPaywalled ? '<span class="source-badge badge-premium" style="background:rgba(245,158,11,0.1);color:#f59e0b;border-color:rgba(245,158,11,0.2);font-size:0.7em;padding:0.15rem 0.5rem;">Premium</span>' : ''}
             </div>
             <div class="article-time">${formatRelativeTime(date)}</div>
           </div>
@@ -745,7 +759,9 @@
             <div class="article-tags">${tagsHtml}</div>
             <div class="article-actions">
               ${archiveBtn}
-              <a href="${escapeHtml(item.link)}" class="action-btn btn-primary" target="_blank" rel="noopener">Read</a>
+              <a href="${escapeHtml(primaryLink)}" class="action-btn ${primaryBtnClass}" target="_blank" rel="noopener" title="${isPaywalled && hasArchive ? 'Read archived version (no paywall)' : 'Read original article'}">
+                ${primaryBtnText}
+              </a>
             </div>
           </div>
         </div>
