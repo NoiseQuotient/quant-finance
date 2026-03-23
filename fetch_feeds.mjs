@@ -11,48 +11,46 @@ import { writeFileSync } from 'fs';
 // ─────────────────────────────────────────────────────────────
 const FEEDS = [
 
-  // ── FINANCIAL NEWS (Tier 1) ────────────────────────────────
+  // ── QUANT FINANCE SPECIFIC SOURCES ────────────────────────
+  // Focused on quantitative finance, algorithms, trading, risk
   {
-    url:   'https://www.ft.com/rss/home',
-    type:  'news', label: 'Financial Times', tags: ['FT','markets','premium'],
+    url:   'https://feeds.bloomberg.com/markets/news.rss',
+    type:  'news', label: 'Bloomberg Markets', tags: ['Bloomberg','markets','premium','quant'],
+    filter: ['trading', 'algorithm', 'quant', 'hedge fund', 'high frequency', 'HFT', 'risk', 'volatility', 'derivatives', 'options', 'portfolio']
   },
   {
-    url:   'https://www.economist.com/finance-and-economics/rss.xml',
-    type:  'news', label: 'The Economist', tags: ['macro','economics','premium'],
+    url:   'https://www.ft.com/rss/home',
+    type:  'news', label: 'Financial Times', tags: ['FT','markets','premium','quant'],
+    filter: ['trading', 'algorithm', 'quant', 'hedge fund', 'high frequency', 'HFT', 'risk', 'volatility', 'derivatives', 'options', 'portfolio', 'investment']
   },
   {
     url:   'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
-    type:  'news', label: 'Wall Street Journal', tags: ['WSJ','markets','premium'],
+    type:  'news', label: 'Wall Street Journal', tags: ['WSJ','markets','premium','quant'],
+    filter: ['trading', 'algorithm', 'quant', 'hedge fund', 'high frequency', 'HFT', 'risk', 'volatility', 'derivatives', 'options']
   },
   {
-    url:   'https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml',
-    type:  'news', label: 'Wall Street Journal', tags: ['WSJ','business','premium'],
-  },
-  {
-    url:   'https://feeds.bloomberg.com/markets/news.rss',
-    type:  'news', label: 'Bloomberg Markets', tags: ['Bloomberg','markets','premium'],
-  },
-  {
-    url:   'https://feeds.bloomberg.com/politics/news.rss',
-    type:  'news', label: 'Bloomberg Politics', tags: ['Bloomberg','politics','premium'],
+    url:   'https://www.economist.com/finance-and-economics/rss.xml',
+    type:  'news', label: 'The Economist', tags: ['macro','economics','premium','quant'],
+    filter: ['finance', 'trading', 'markets', 'investment', 'risk', 'volatility']
   },
 
-  // ── FINANCIAL NEWS (Tier 2) ────────────────────────────────
-  {
-    url:   'https://www.cnbc.com/id/10001147/device/rss/rss.html',
-    type:  'news', label: 'CNBC Finance', tags: ['CNBC','finance'],
-  },
-  {
-    url:   'https://www.cnbc.com/id/15839135/device/rss/rss.html',
-    type:  'news', label: 'CNBC Markets', tags: ['CNBC','markets'],
-  },
-  {
-    url:   'https://feeds.marketwatch.com/marketwatch/topstories/',
-    type:  'news', label: 'MarketWatch', tags: ['markets'],
-  },
+  // ── QUANT-FOCUSED BLOGS & ANALYSIS ────────────────────────
   {
     url:   'https://seekingalpha.com/feed.xml',
-    type:  'analysis', label: 'Seeking Alpha', tags: ['analysis','equities'],
+    type:  'analysis', label: 'Seeking Alpha', tags: ['analysis','equities','quant'],
+    filter: ['quant', 'algorithm', 'trading', 'portfolio', 'risk', 'derivatives', 'options', 'hedge']
+  },
+  {
+    url:   'https://feeds.feedburner.com/Quantocracy',
+    type:  'analysis', label: 'Quantocracy', tags: ['quant','blog','trading','algorithms'],
+  },
+  {
+    url:   'https://robotwealth.com/feed/',
+    type:  'analysis', label: 'Robot Wealth', tags: ['quant','ML','trading','algorithms'],
+  },
+  {
+    url:   'https://alphaarchitect.com/feed/',
+    type:  'analysis', label: 'Alpha Architect', tags: ['quant','research','investment'],
   },
 
   // ── RESEARCH PAPERS ─────────────────────────────────────────
@@ -164,9 +162,23 @@ async function fetchFeed(feed) {
     }));
   }
 
-  return items
+  // Apply quant finance filter if specified
+  let filteredItems = items;
+  if (feed.filter) {
+    filteredItems = items.filter(item => {
+      const text = (item.title + ' ' + item.desc).toLowerCase();
+      return feed.filter.some(keyword => text.includes(keyword.toLowerCase()));
+    });
+    
+    // If filtering removes everything, take top 5 unfiltered
+    if (filteredItems.length === 0 && items.length > 0) {
+      filteredItems = items.slice(0, 5);
+    }
+  }
+
+  return filteredItems
     .filter(i => i.title && i.title.length > 6 && i.link)
-    .slice(0, 25)
+    .slice(0, 15)  // Reduced from 25 to get more focused content
     .map(i => ({ ...i, type: feed.type, label: feed.label, tags: feed.tags }));
 }
 
