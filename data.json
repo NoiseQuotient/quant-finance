@@ -1,8 +1,276 @@
 {
-  "updated": "2026-03-23T15:06:20.618Z",
-  "count": 297,
+  "updated": "2026-03-23T15:36:21.384Z",
+  "count": 298,
   "failed": [],
   "items": [
+    {
+      "title": "Ecolab Inc. (ECL) CoolIT Systems, Inc., - M&A Call - Slideshow",
+      "link": "https://seekingalpha.com/article/4885013-ecolab-inc-ecl-coolit-systems-inc-m-and-a-call-slideshow?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:31:15.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Tesla: Promises Of Future Growth That Never Come True (Rating Downgrade)",
+      "link": "https://seekingalpha.com/article/4884991-tesla-promises-of-future-growth-that-never-come-true-rating-downgrade?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:31:08.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Fortinet: Strong Fundamentals And AI-Driven Expansion Underpin Valuation Upside",
+      "link": "https://seekingalpha.com/article/4884990-fortinet-stock-strong-fundamentals-and-ai-driven-expansion-underpin-valuation-upside?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:30:05.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Palantir: Why I Stay Bullish Despite The Risks",
+      "link": "https://seekingalpha.com/article/4884952-palantir-why-i-stay-bullish-despite-the-risks?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:30:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump Touts Fresh Iran Talks, Delays Attacks on Energy Sites",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-touts-fresh-iran-talks-delays-attacks-on-energy-sites",
+      "desc": "President Donald Trump said the US would postpone strikes against Iran’s energy infrastructure after what he called “productive conversations” with the country, in comments that spurred confusion over the participants in the talks and parameters of a deal.",
+      "date": "2026-03-23T15:29:10.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
+    {
+      "title": "Amazon hasn&#x2019;t been this cheap since 2008. Here&#x2019;s how the stock could rally 46% from here.",
+      "link": "https://www.marketwatch.com/story/amazon-hasnt-been-this-cheap-since-2008-heres-how-the-stock-could-rally-46-from-here-78daf054?mod=mw_rss_topstories",
+      "desc": "Amazon&#x2019;s $200 billion AI spending plans have weighed on the stock, overshadowing robust cloud and retail growth, Jefferies argues.",
+      "date": "2026-03-23T15:27:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "Drivers paying nearly $4 a gallon for gas see hope in oil prices&#x2019; fall",
+      "link": "https://www.marketwatch.com/story/drivers-paying-nearly-4-a-gallon-for-gas-see-hope-in-oil-prices-fall-9f06b196?mod=mw_rss_topstories",
+      "desc": "Gasoline prices were close to $1 a gallon higher than a month ago.",
+      "date": "2026-03-23T15:27:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "Companies Set To Win As States Vie To Host Nuclear Campuses",
+      "link": "https://seekingalpha.com/article/4885011-companies-set-to-win-as-states-vie-to-host-nuclear-campuses?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:25:00.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Oracle: Anthropic Surge Creates New Problems",
+      "link": "https://seekingalpha.com/article/4884989-oracle-anthropic-surge-creates-new-problems?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:22:44.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump Says Strait of Hormuz Could Be Open Very Soon",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/trump-says-strait-of-hormuz-could-be-open-very-soon-video",
+      "desc": "President Donald Trump says the Strait of Hormuz may be open \"very soon\" and will be jointly controlled. (Source: Bloomberg)",
+      "date": "2026-03-23T15:20:46.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "EQT CEO Toby Rice on Energy Prices, LNG and Data Centers at CERAWeek",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/eqtceo-toby-rice-on-energy-prices-lng-and-data-centers-video",
+      "desc": "EQT CEO Toby Rice discusses energy prices, LNG and the growing role of data centers in shaping energy demand with Bloomberg’s Julie Fine at CERAWeek in Houston. (Source: Bloomberg)",
+      "date": "2026-03-23T15:19:15.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Viking Therapeutics: An Equally Important Catalyst Ahead",
+      "link": "https://seekingalpha.com/article/4884988-viking-therapeutics-equally-important-catalyst-ahead?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:17:55.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "The Chokepoint to End All Chokepoints",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/the-chokepoint-to-end-all-chokepoints",
+      "desc": "What matters is relative flows.",
+      "date": "2026-03-23T15:17:24.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Did Trump just pull a &#x2018;TACO&#x2019; on Iran? Why markets will remain volatile, even if investors see some relief from the selling this week.",
+      "link": "https://www.marketwatch.com/story/did-trump-just-pull-a-taco-on-iran-why-markets-will-remain-volatile-even-if-investors-see-some-relief-from-the-selling-this-week-50312b6f?mod=mw_rss_topstories",
+      "desc": "The Dow was up about 1,000 points, or 2.2%, early Monday after President Trump gave markets a reason to hope for a de-escalation of the Iran conflict.",
+      "date": "2026-03-23T15:17:00.000Z",
+      "type": "news",
+      "label": "MarketWatch",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "title": "Colin Coleman on 'Devastating' Effects Iran War is Having on African Economies",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/colin-coleman-on-iran-war-effects-to-african-economies-video",
+      "desc": "Atlantic Council Non-Resident Senior Fellow and South Africa Youth Employment Service Co-Chairman Colin Coleman discusses the numerous effects the war in the Middle East is having on African economies, notably the 'devastating' short term impacts on African markets and the residual inflation shock. ",
+      "date": "2026-03-23T15:16:46.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "The HBM Shortage May Make Micron A $1 Trillion Giant",
+      "link": "https://seekingalpha.com/article/4884987-the-hbm-shortage-may-make-micron-a-1-trillion-giant?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:15:17.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "PayPal: Mr. Market Is Ignoring Just How Cheap It Is",
+      "link": "https://seekingalpha.com/article/4884986-paypal-mr-market-is-ignoring-just-how-cheap-it-is?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:14:04.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Mayr-Melnhof Karton AG (MNHFF) Q4 2025 Earnings Call Prepared Remarks Transcript",
+      "link": "https://seekingalpha.com/article/4884941-mayr-melnhof-karton-ag-mnhff-q4-2025-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:13:41.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Women, Next Generation Want Investments to be 'Purpose Driven,' Says Kathleen Paylor",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/women-next-generation-want-investments-to-be-purpose-driven-says-kathleen-paylor",
+      "desc": "Kathleen Paylor, RSF VP of impact investing and philanthropy, said that investors are asking about then implications of their investments for 'people and the plant' as they allocate their money. (Source: Bloomberg)",
+      "date": "2026-03-23T15:11:10.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "DBO: Understanding The Structure And Suitability Of This Commodity ETF",
+      "link": "https://seekingalpha.com/article/4884983-dbo-understanding-the-structure-and-suitability-of-this-commodity-etf?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:11:04.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "Microsoft: Agentic AI May Be The 2-In-1 Recovery Catalyst",
+      "link": "https://seekingalpha.com/article/4884982-microsoft-agentic-ai-may-be-the-2-in-1-recovery-catalyst?source=feed_all_articles",
+      "desc": "",
+      "date": "2026-03-23T15:08:49.000Z",
+      "type": "analysis",
+      "label": "Seeking Alpha",
+      "tags": [
+        "analysis",
+        "equities"
+      ]
+    },
+    {
+      "title": "UK Studies Wider Ways to Help Economy on Iran, Starmer Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/uk-studies-wider-ways-to-help-economy-on-iran-starmer-says",
+      "desc": "Keir Starmer said he is looking at wider measures to support Britain’s economy through the Iran crisis as he prepares to chair an emergency meeting on the economic impact of the conflict.",
+      "date": "2026-03-23T15:04:21.000Z",
+      "type": "news",
+      "label": "Bloomberg Politics",
+      "tags": [
+        "Bloomberg",
+        "politics",
+        "premium"
+      ]
+    },
     {
       "title": "Microsoft: Beneath The Selloff",
       "link": "https://seekingalpha.com/article/4884981-microsoft-beneath-selloff?source=feed_all_articles",
@@ -225,42 +493,6 @@
       ]
     },
     {
-      "title": "Caledonia Mining Corporation Plc 2025 Q4 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4884993-caledonia-mining-corporation-plc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:32:19.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "WeRide Inc. 2025 Q4 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4884992-weride-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:31:30.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Trican Well Service: Strong Execution Leads To Strong Cash Flows",
-      "link": "https://seekingalpha.com/article/4884864-trican-well-service-stock-strong-execution-leads-strong-cash-flows?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:30:25.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "Markets rebound after Donald Trump postpones attack on Iranian energy",
       "link": "https://www.ft.com/content/95d42d92-cedf-4849-a669-a53d2179b257",
       "desc": "Stocks reverse losses and oil tumbles after US President says there have been ‘constructive’ talks with Tehran",
@@ -287,18 +519,6 @@
       ]
     },
     {
-      "title": "Clearwater Analytics: 17% Annualized Return On A Smooth Go-Private Transaction",
-      "link": "https://seekingalpha.com/article/4884965-clearwater-analytics-17-percent-annualized-return-on-a-smooth-go-private-transaction?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:26:46.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "ICE deployed to some U.S. airports as long security lines persist during partial shutdown",
       "link": "https://www.cnbc.com/2026/03/23/airport-lines-government-shutdown-tsa.html",
       "desc": "The Trump administration said it plans to send ICE officers to help ease airport congestion amid TSA officer absences as they face second missed full paycheck.",
@@ -308,18 +528,6 @@
       "tags": [
         "CNBC",
         "finance"
-      ]
-    },
-    {
-      "title": "Golar LNG: One Of The Biggest Winners From The Iran War",
-      "link": "https://seekingalpha.com/article/4884964-golar-lng-one-of-the-biggest-winners-from-the-iran-war?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:25:04.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
       ]
     },
     {
@@ -336,18 +544,6 @@
       ]
     },
     {
-      "title": "GDS Holdings: Bullish On EBITDA Beat And Client Price Hike",
-      "link": "https://seekingalpha.com/article/4884962-gds-holdings-bullish-on-ebitda-beat-and-client-price-hike?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:19:54.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
       "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
       "link": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
       "desc": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
@@ -356,18 +552,6 @@
       "label": "MarketWatch",
       "tags": [
         "markets"
-      ]
-    },
-    {
-      "title": "VIG Vs. VYM: Best Time In ~10 Years To Buy Dividend Growth",
-      "link": "https://seekingalpha.com/article/4884961-vig-vs-vym-best-time-in-10-years-to-buy-dividend-growth?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:17:34.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
       ]
     },
     {
@@ -442,66 +626,6 @@
       "label": "MarketWatch",
       "tags": [
         "markets"
-      ]
-    },
-    {
-      "title": "Tencent Music: Down Over 30%, But Not A Buy For Me",
-      "link": "https://seekingalpha.com/article/4884956-tencent-music-down-over-30-percent-but-not-a-buy-for-me?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:07:54.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Jer&#xF3;nimo Martins: Time To Reset Margin Expectations",
-      "link": "https://seekingalpha.com/article/4884954-jeronimo-martins-time-to-reset-margin-expectations?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:06:30.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "PicPay Holdings (PICS) Q4 2025 Earnings Call Transcript",
-      "link": "https://seekingalpha.com/article/4884657-picpay-holdings-pics-q4-2025-earnings-call-transcript?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:03:40.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Thomson Reuters: The Case For A Mispriced Moat",
-      "link": "https://seekingalpha.com/article/4884953-thomson-reuters-the-case-for-a-mispriced-moat?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:02:18.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
-      ]
-    },
-    {
-      "title": "Equilibrium And The Dentist In Poughkeepsie",
-      "link": "https://seekingalpha.com/article/4884841-equilibrium-and-dentist-in-poughkeepsie?source=feed_all_articles",
-      "desc": "",
-      "date": "2026-03-23T14:00:00.000Z",
-      "type": "analysis",
-      "label": "Seeking Alpha",
-      "tags": [
-        "analysis",
-        "equities"
       ]
     },
     {
@@ -684,62 +808,10 @@
       ]
     },
     {
-      "title": "Saudi Unicorn Ninja Said to Gauge IPO Appetite Despite Iran War",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/saudi-unicorn-ninja-said-to-gauge-ipo-appetite-despite-iran-war",
-      "desc": "Saudi Arabian quick-delivery firm Ninja has been gauging investor appetite for a potential listing in Riyadh, despite volatility from a regional conflict that’s now in its fourth week.",
-      "date": "2026-03-23T13:04:38.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Country Garden Sees Return to Profit on Debt Revamp Gain",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/country-garden-sees-return-to-profit-on-debt-revamp-gain",
-      "desc": "Country Garden Holdings Co. is expected to return to profit in its 2025 results, driven by a non-cash gain from the completion of its debt restructuring.",
-      "date": "2026-03-23T13:00:55.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
       "title": "Brazil’s CSN Secures $1.2 Billion Loan Deal With Banks",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/brazil-s-csn-secures-1-2-billion-loan-deal-with-group-of-banks",
       "desc": "Brazilian conglomerate CSN said a group of banks agreed to extend the company a $1.2 billion loan, easing concerns about its ability to meet near-term debt payments.",
       "date": "2026-03-23T12:59:45.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "US Natural Gas Extends Losses on Warmer Outlook, Oil Price Drop",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/us-natural-gas-extends-losses-on-warmer-outlook-oil-price-drop",
-      "desc": "US natural gas futures fell for a second day as weather forecasts shifted milder, indicating lower demand for the heating and power-plant fuel, and as falling oil prices caused financial outflows from baskets of energy futures contracts.",
-      "date": "2026-03-23T12:58:32.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "Coffee Empire Neumann Confronts New Era of Turbulent Prices",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/coffee-trader-neumann-kaffee-gruppe-pulls-back-after-turbulent-year",
-      "desc": "Few coffee drinkers recognize the name Neumann Kaffee Gruppe. Yet the Hamburg-based trader handles about one in every eight beans consumed worldwide &mdash; from jars in supermarket aisles to espresso bars in New York, Shanghai and Rome.",
-      "date": "2026-03-23T12:52:17.000Z",
       "type": "news",
       "label": "Bloomberg Markets",
       "tags": [
@@ -758,19 +830,6 @@
       "tags": [
         "Bloomberg",
         "politics",
-        "premium"
-      ]
-    },
-    {
-      "title": "JPMorgan Shifts EA Buyout Debt Mix, Boosts Loan to $5 Billion",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-shifts-ea-buyout-debt-mix-boosts-loan-to-5-billion",
-      "desc": "Wall Street banks led by JPMorgan Chase & Co. have amended the debt package for the buyout of video game maker Electronic Arts Inc., increasing the size of a US dollar loan offering to $5 billion.",
-      "date": "2026-03-23T12:38:07.000Z",
-      "type": "news",
-      "label": "Bloomberg Markets",
-      "tags": [
-        "Bloomberg",
-        "markets",
         "premium"
       ]
     },
@@ -875,17 +934,6 @@
       ]
     },
     {
-      "title": "&#x2018;The bank told me I could be liable&#x2019;: I found out why my brother, who has a reverse mortgage, ran out of money",
-      "link": "https://www.marketwatch.com/story/the-bank-told-me-i-could-be-liable-i-found-out-why-my-brother-who-has-a-reverse-mortgage-ran-out-of-money-bd2d2b7a?mod=mw_rss_topstories",
-      "desc": "&#x201c;I&#x2019;m angry, but also sad.&#x201d;",
-      "date": "2026-03-23T11:30:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
       "title": "Trump Backs Off From Iran Threat, Citing Talks to End War",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/trump-backs-off-from-iran-threat-as-ceasefire-talks-get-underway",
       "desc": "US President Donald Trump postponed threatened strikes against Iranian energy infrastructure and power plants for five days, pending the outcome of what he said were talks with Iran to end the 24-day war.",
@@ -899,9 +947,9 @@
       ]
     },
     {
-      "title": "Treasuries Whipsawed by Conflicting Claims About US-Iran Talks",
+      "title": "US Bonds Rise as Trump Eases Iran Threats, Spurring Fed-Cut Bets",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/treasuries-soar-after-trump-postpones-iran-power-strikes",
-      "desc": "Treasuries rose after swinging sharply with oil prices after Iran disputed statements by US President Trump regarding talks to end hostilities.",
+      "desc": "Treasuries rose in volatile trading after President Donald Trump eased his threats against Iran, driving oil prices lower.",
       "date": "2026-03-23T11:22:57.000Z",
       "type": "news",
       "label": "Bloomberg Markets",
@@ -938,19 +986,6 @@
       ]
     },
     {
-      "title": "EU and Australia Bind Together in Global Storm",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-03-23/eu-and-australia-bind-together-in-global-storm",
-      "desc": "After more than eight years of talks, Canberra and Brussels could finally agree on a trade deal.",
-      "date": "2026-03-23T11:00:57.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
-        "premium"
-      ]
-    },
-    {
       "title": "Trump looking at inviting Belarus’s Lukashenko to White House",
       "link": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
       "desc": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin",
@@ -960,19 +995,6 @@
       "tags": [
         "FT",
         "markets",
-        "premium"
-      ]
-    },
-    {
-      "title": "The Trump Administration Turns a Blind Eye to White-Collar Crime",
-      "link": "https://www.bloomberg.com/news/features/2026-03-23/trump-administration-fails-to-punish-white-collar-criminals",
-      "desc": "The failure to prosecute elite wrongdoing is a bipartisan trend that’s hastening under Trump.",
-      "date": "2026-03-23T11:00:07.000Z",
-      "type": "news",
-      "label": "Bloomberg Politics",
-      "tags": [
-        "Bloomberg",
-        "politics",
         "premium"
       ]
     },
@@ -1003,17 +1025,6 @@
       ]
     },
     {
-      "title": "&#x2018;This guy has no manners&#x2019;: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?",
-      "link": "https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories",
-      "desc": "&#x201c;I don&#x2019;t want him to retaliate with a bad review.&#x201d;",
-      "date": "2026-03-23T10:16:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
-      ]
-    },
-    {
       "title": "HPE Gets Day in Court as State AGs Challenge $14 Billion Deal",
       "link": "https://www.bloomberg.com/news/articles/2026-03-23/hpe-gets-day-in-court-as-state-ags-challenge-14-billion-deal",
       "desc": "Hewlett Packard Enterprise Inc. faces a crucial hurdle Monday to reaping the benefits of its $14 billion takeover of wireless networking rival Juniper Networks Inc., as a federal judge considers whether the Trump administration improperly approved an antitrust settlement that a group of states claim",
@@ -1032,22 +1043,11 @@
       "desc": "India’s Prime Minister Narendra Modi said the country has sufficient energy supplies to meet domestic demand, even as he warned the Iran conflict creates unprecedented challenges for the world’s fastest growing large economy.",
       "date": "2026-03-23T10:02:22.000Z",
       "type": "news",
-      "label": "Bloomberg Markets",
+      "label": "Bloomberg Politics",
       "tags": [
         "Bloomberg",
-        "markets",
+        "politics",
         "premium"
-      ]
-    },
-    {
-      "title": "&#x2018;We&#x2019;re living the simple life&#x2019;: I was a fisherman and my wife was a nurse. We retired with $6 million. Here&#x2019;s how we did it.",
-      "link": "https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories",
-      "desc": "&#x201c;It probably makes little sense, given our lifestyle, to obsess over retirement accounts.&#x201d;",
-      "date": "2026-03-23T09:45:00.000Z",
-      "type": "news",
-      "label": "MarketWatch",
-      "tags": [
-        "markets"
       ]
     },
     {
@@ -1090,7 +1090,7 @@
       ]
     },
     {
-      "title": "Trump Rebuffs Iran Talks Denial, Says Envoys Spoke Last Night",
+      "title": "Trump Says US Is Speaking With a ‘Top Person’ in Iran",
       "link": "https://www.bloomberg.com/news/live-blog/2026-03-23/iran-war-latest-oil-markets-bonds-hormuz",
       "desc": "",
       "date": "2026-03-23T07:43:46.000Z",
@@ -1189,6 +1189,19 @@
       "label": "Financial Times",
       "tags": [
         "FT",
+        "markets",
+        "premium"
+      ]
+    },
+    {
+      "title": "Elliott Said to Take Multibillion-Dollar Stake in Synopsys",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/elliott-is-said-to-take-multibillion-dollar-stake-in-synopsys",
+      "desc": "Activist investor Elliott Investment Management has made a multibillion-dollar investment in Synopsys Inc. and plans to push for changes at the chip-design software maker, according to people familiar with the matter who asked not to be identified because the discussions are private.",
+      "date": "2026-03-22T23:22:35.000Z",
+      "type": "news",
+      "label": "Bloomberg Markets",
+      "tags": [
+        "Bloomberg",
         "markets",
         "premium"
       ]
