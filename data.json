@@ -1,11 +1,79 @@
 {
-  "updated": "2026-03-23T00:58:14.879Z",
-  "count": 80,
-  "failed": [
-    "arXiv q-fin",
-    "arXiv ML×Finance"
-  ],
+  "updated": "2026-03-23T01:58:34.855Z",
+  "count": 123,
+  "failed": [],
   "items": [
+    {
+      "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+      "link": "http://arxiv.org/abs/2603.17692v1",
+      "desc": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not",
+      "date": "2026-03-18T13:09:11.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 12
+    },
+    {
+      "title": "If Not Now, Then When? Model Risk in the Optimal Exercise of American Options",
+      "link": "http://arxiv.org/abs/2603.19984v1",
+      "desc": "Model risk arises from the misspecification of probabilistic models used for pricing and hedging derivatives. While model risk for European-style claims has been widely studied, much less attention has been given to American-style derivatives and the associated optimal stopping problems. This paper ",
+      "date": "2026-03-20T14:31:34.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 11
+    },
+    {
+      "title": "Robust Investment-Driven Insurance Pricing under Correlation Ambiguity",
+      "link": "http://arxiv.org/abs/2603.18969v1",
+      "desc": "As insurers increasingly behave like financial intermediaries and actively participate in capital markets, understanding the dependence structure between insurance and financial risks becomes crucial for insurers' operations. This paper studies dynamic equilibrium insurance pricing when insurers fac",
+      "date": "2026-03-19T14:35:31.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 11
+    },
+    {
+      "title": "Shallow Representation of Option Implied Information",
+      "link": "http://arxiv.org/abs/2603.17151v1",
+      "desc": "Option prices encode the market's collective outlook through implied density and implied volatility. An explicit link between implied density and implied volatility translates the risk-neutrality of the former into conditions on the latter to rule out static arbitrage. Despite earlier recognition of",
+      "date": "2026-03-17T21:29:17.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 11
+    },
+    {
+      "title": "ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics",
+      "link": "http://arxiv.org/abs/2603.18107v1",
+      "desc": "Deep learning models in quantitative finance often operate as black boxes, lacking interpretability and failing to incorporate fundamental economic principles such as no-arbitrage constraints. This paper introduces ARTEMIS (Arbitrage-free Representation Through Economic Models and Interpretable Symb",
+      "date": "2026-03-18T13:00:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 11
+    },
     {
       "title": "Iran war fallout set to filter into economic data",
       "link": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
@@ -19,6 +87,220 @@
       ],
       "archive_url": "https://web.archive.org/web/https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
       "relevance": 10
+    },
+    {
+      "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "link": "http://arxiv.org/abs/2603.19225v1",
+      "desc": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial",
+      "date": "2026-03-19T17:59:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 10
+    },
+    {
+      "title": "SPX-VIX Risk Computations Via Perturbed Optimal Transport",
+      "link": "http://arxiv.org/abs/2603.10857v2",
+      "desc": "We propose a model independent framework for generating SPX and VIX risk scenarios based on a joint optimal transport calibration of their market smiles. Starting from the entropic martingale optimal transport formulation of Guyon, we introduce a perturbation methodology that computes sensitivities ",
+      "date": "2026-03-19T13:50:39.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 10
+    },
+    {
+      "title": "Equilibrium strategies for stochastic control problems with higher-order moments and applications to portfolio selection",
+      "link": "http://arxiv.org/abs/2504.04113v3",
+      "desc": "In this paper we derive a novel characterization result for time-consistent stochastic control problems with higher-order moments, originally formulated by Wang et al. [SIAM J. Control. Optim., 63 (2025), 1560--1589], and newly explore many solvable instances including a mean-variance-excess kurtosi",
+      "date": "2026-03-18T06:25:46.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 10
+    },
+    {
+      "title": "Large Language Models and Stock Investing: Is the Human Factor Required?",
+      "link": "http://arxiv.org/abs/2603.19944v1",
+      "desc": "This paper investigates whether large language models (LLMs) can generate reliable stock market predictions. We evaluate four state-of-the-art models - ChatGPT, Gemini, DeepSeek, and Perplexity - across three prompting strategies: a naive query, a structured approach, and chain-of-thought reasoning.",
+      "date": "2026-03-20T13:47:13.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Optimal Hedge Ratio for Delta-Neutral Liquidity Provision under Liquidation Constraints",
+      "link": "http://arxiv.org/abs/2603.19716v1",
+      "desc": "We study the problem of optimally hedging the price exposure of liquidity positions in constant-product automated market makers (AMMs) when the hedge is funded by collateralized borrowing. A liquidity provider (LP) who borrows tokens to construct a delta-neutral position faces a trade-off: higher he",
+      "date": "2026-03-20T07:47:03.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "FinReflectKG -- EvalBench: Benchmarking Financial KG with Multi-Dimensional Evaluation",
+      "link": "http://arxiv.org/abs/2510.05710v2",
+      "desc": "Large language models (LLMs) are increasingly being used to extract structured knowledge from unstructured financial text. Although prior studies have explored various extraction methods, there is no universal benchmark or unified evaluation framework for the construction of financial knowledge grap",
+      "date": "2026-03-19T20:05:36.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Robust Investment-Driven Insurance Pricing and Liquidity Management",
+      "link": "http://arxiv.org/abs/2603.18962v1",
+      "desc": "This paper develops a dynamic equilibrium model of the insurance market that jointly characterizes insurers' underwriting, investment, recapitalization, and dividend policies under model uncertainty and financial frictions. Competitive insurers maximize shareholder value under a subjective worst-cas",
+      "date": "2026-03-19T14:27:54.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Optimal execution with deterministically time varying liquidity: well posedness and price manipulation",
+      "link": "http://arxiv.org/abs/2410.04867v2",
+      "desc": "We investigate the well-posedness in the Hadamard sense and the absence of price manipulation in the optimal execution problem within the Almgren-Chriss framework, where the temporary and permanent impact parameters vary deterministically over time. We present sufficient conditions for the existence",
+      "date": "2026-03-19T08:19:43.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Multivariate Residual Estimation Risk",
+      "link": "http://arxiv.org/abs/2603.17792v1",
+      "desc": "The purpose of this paper is to describe and extend the use of the newly-introduced measure, residual estimation risk. Following the seminal work of Bignozzi and Tsanakas, the quantification of residual estimation risk is proposed in a multivariate framework. Our aim is to provide a succinct and pra",
+      "date": "2026-03-18T14:51:59.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Real-world models for multiple term structures: a unifying HJM semimartingale framework",
+      "link": "http://arxiv.org/abs/2411.01983v3",
+      "desc": "We develop a unified framework for modeling multiple term structures arising in financial, insurance, and energy markets, adopting an extended Heath-Jarrow-Morton (HJM) approach under the real-world probability. We study market viability and characterize the set of local martingale deflators. We con",
+      "date": "2026-03-17T12:53:48.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "RE-SAC: Disentangling aleatoric and epistemic risks in bus fleet control: A stable and robust ensemble DRL approach",
+      "link": "http://arxiv.org/abs/2603.18396v1",
+      "desc": "Bus holding control is challenging due to stochastic traffic and passenger demand. While deep reinforcement learning (DRL) shows promise, standard actor-critic algorithms suffer from Q-value instability in volatile environments. A key source of this instability is the conflation of two distinct unce",
+      "date": "2026-03-19T01:37:45.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Conditioning on a Volatility Proxy Compresses the Apparent Timescale of Collective Market Correlation",
+      "link": "http://arxiv.org/abs/2603.14072v1",
+      "desc": "We address the attribution problem for apparent slow collective dynamics: is the observed persistence intrinsic, or inherited from a persistent driver? For the leading eigenvalue fraction $ψ_1=λ_{\\max}/N$ of S\\&P 500 60-day rolling correlation matrices ($237$ stocks, 2004--2023), a VIX-coupled Ornst",
+      "date": "2026-03-14T18:37:40.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 9
+    },
+    {
+      "title": "Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective",
+      "link": "http://arxiv.org/abs/2603.17463v1",
+      "desc": "We assess the advantage of combining univariate and multivariate portfolio risk forecasts with the aid of forecast reconciliation techniques. In our analyzes, we assume knowledge of portfolio weights, a standard for portfolio risk management applications. With an extensive simulation experiment, we ",
+      "date": "2026-03-18T08:10:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
+    },
+    {
+      "title": "Feature-driven reinforcement learning for photovoltaic in continuous intraday trading",
+      "link": "http://arxiv.org/abs/2510.16021v3",
+      "desc": "Sequential intraday electricity trading allows photovoltaic (PV) operators to reduce imbalance settlement costs as forecasts improve throughout the day. Yet deployable trading policies must jointly handle forecast uncertainty, intraday prices, liquidity, and the asymmetric economics of PV imbalance ",
+      "date": "2026-03-16T11:29:00.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
+    },
+    {
+      "title": "Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty",
+      "link": "http://arxiv.org/abs/2404.12598v2",
+      "desc": "This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach",
+      "date": "2026-03-15T13:09:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 8
     },
     {
       "title": "Global banking and geopolitics through time",
@@ -90,6 +372,150 @@
       "relevance": 7
     },
     {
+      "title": "Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies",
+      "link": "http://arxiv.org/abs/2603.19414v1",
+      "desc": "We study a problem of optimal allocation in a discrete-time multi-period pure-exchange economy, where agents have preferences over stochastic endowment processes that are represented by strongly time-consistent dynamic risk measures. We introduce the notion of dynamic Pareto-optimal allocation proce",
+      "date": "2026-03-19T19:14:46.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Optimal consumption under loss-averse multiplicative habit-formation preferences",
+      "link": "http://arxiv.org/abs/2406.20063v4",
+      "desc": "This paper studies a loss-averse version of the multiplicative habit formation preference and the corresponding optimal investment and consumption strategies over an infinite horizon. The agent's consumption preference is depicted by a general S-shaped utility function of her consumption-to-habit ra",
+      "date": "2026-03-19T19:11:26.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models",
+      "link": "http://arxiv.org/abs/2603.12422v3",
+      "desc": "We study the aggregate hazard rate of a heterogeneous population whose individual event intensities are modeled as Cox (doubly stochastic) processes. In the deterministic hazard setting, the observed pool hazard is the survival weighted mean of the individual hazards, and its time derivative equals ",
+      "date": "2026-03-19T16:12:09.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Forecasting and Manipulating the Forecasts of Others",
+      "link": "http://arxiv.org/abs/2603.12140v2",
+      "desc": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis ",
+      "date": "2026-03-18T20:40:18.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Entity-Specific Cyber Risk Assessment using InsurTech Empowered Risk Factors",
+      "link": "http://arxiv.org/abs/2507.08193v3",
+      "desc": "The lack of high-quality public cyber incident data limits empirical research and predictive modeling for cyber risk assessment. This challenge persists due to the reluctance of companies to disclose incidents that could damage their reputation or investor confidence. Therefore, from an actuarial pe",
+      "date": "2026-03-18T18:51:58.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Robust quasi-convex risk measures and applications",
+      "link": "http://arxiv.org/abs/2603.17954v1",
+      "desc": "This paper develops a unified framework for the robustification of risk measures beyond the classical convex and cash-additive setting. We consider general risk measures on Lp spaces and construct their robust counterparts through families of uncertainty sets that capture ambiguity. Two complementar",
+      "date": "2026-03-18T17:28:26.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Bridging Conformal Prediction and Scenario Optimization: Discarded Constraints and Modular Risk Allocation",
+      "link": "http://arxiv.org/abs/2603.19396v1",
+      "desc": "Scenario optimization and conformal prediction share a common goal, that is, turning finite samples into safety margins. Yet, different terminology often obscures the connection between their respective guarantees. This paper revisits that connection directly from a systems-and-control viewpoint. Bu",
+      "date": "2026-03-19T18:37:58.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Transfer Learning for Contextual Joint Assortment-Pricing under Cross-Market Heterogeneity",
+      "link": "http://arxiv.org/abs/2603.18114v1",
+      "desc": "We study transfer learning for contextual joint assortment-pricing under a multinomial logit choice model with bandit feedback. A seller operates across multiple related markets and observes only posted prices and realized purchases. While data from source markets can accelerate learning in a target",
+      "date": "2026-03-18T14:48:04.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Objective Mispricing Detection for Shortlisting Undervalued Football Players via Market Dynamics and News Signals",
+      "link": "http://arxiv.org/abs/2603.17687v1",
+      "desc": "We present a practical, reproducible framework for identifying undervalued football players grounded in objective mispricing. Instead of relying on subjective expert labels, we estimate an expected market value from structured data (historical market dynamics, biographical and contract features, tra",
+      "date": "2026-03-18T13:03:23.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
+      "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
+      "link": "http://arxiv.org/abs/2603.15681v1",
+      "desc": "Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 2023 monsoon season alone. Existing risk maps treat every pixel independently, ignoring the basic fact that flooding upstream raises risk downstream. We",
+      "date": "2026-03-15T02:54:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 7
+    },
+    {
       "title": "The price of menstrual products is skyrocketing from inflation, tariffs",
       "link": "https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html",
       "desc": "With rising inflation and changing tariff policies, menstrual products have seen a drastic rise in price over the past few years.",
@@ -99,6 +525,107 @@
       "tags": [
         "CNBC",
         "finance"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Mapping the Midweek Mountain: The New Geography of Hybrid Work",
+      "link": "http://arxiv.org/abs/2603.18440v1",
+      "desc": "This paper provides a behavioral analysis of the post-pandemic transformation of work, using a dataset of approximately 41 billion mobile geolocation records from 73.5 million individuals in the five largest U.S. metropolitan areas from the pre- to post- pandemic periods. By tracking movements betwe",
+      "date": "2026-03-19T02:58:54.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework",
+      "link": "http://arxiv.org/abs/2603.06238v2",
+      "desc": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleten",
+      "date": "2026-03-18T12:05:46.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Short-horizon Duesenberry Equilibrium",
+      "link": "http://arxiv.org/abs/2603.16108v2",
+      "desc": "We develop a continuous-time general equilibrium framework for economies with a heterogeneous population -- modeled as a continuum -- that repeatedly optimizes over short horizons under relative-income (Duesenberry-type) criteria. The cross-section evolves through a Brownian flow on a type space, tr",
+      "date": "2026-03-18T02:15:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs",
+      "link": "http://arxiv.org/abs/2505.18448v3",
+      "desc": "We introduce a family of particle systems on sparse graphs where local interactions occur via hitting times, providing a dynamic and tractable model for default cascades in large sparsely-connected financial networks. Building on the framework of Lacker, Ramanan and Wu (2023), we extend convergence ",
+      "date": "2026-03-17T18:09:23.000Z",
+      "type": "arxiv",
+      "label": "arXiv q-fin",
+      "tags": [
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "A Unified Generalization Framework for Model Merging: Trade-offs, Non-Linearity, and Scaling Laws",
+      "link": "http://arxiv.org/abs/2601.21690v2",
+      "desc": "Model merging efficiently aggregates capabilities from multiple fine-tuned models into a single one, operating purely in parameter space without original data or expensive re-computation. Despite empirical successes, a unified theory for its effectiveness under heterogeneous finetuning hyperparamete",
+      "date": "2026-03-19T06:54:16.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification",
+      "link": "http://arxiv.org/abs/2603.13354v2",
+      "desc": "Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations often focus on single architectural families or lab-generated datasets. This work presents a systematic empirical comparison of three model paradigms for fine-gra",
+      "date": "2026-03-17T10:54:10.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 6
+    },
+    {
+      "title": "Muon Converges under Heavy-Tailed Noise: Nonconvex Hölder-Smooth Empirical Risk Minimization",
+      "link": "http://arxiv.org/abs/2603.15059v2",
+      "desc": "Muon is a recently proposed optimizer that enforces orthogonality in parameter updates by projecting gradients onto the Stiefel manifold, leading to stable and efficient training in large-scale deep neural networks. Meanwhile, the previously reported results indicated that stochastic noise in practi",
+      "date": "2026-03-17T04:14:28.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
       ],
       "archive_url": null,
       "relevance": 6
@@ -173,6 +700,96 @@
         "markets"
       ],
       "archive_url": "https://web.archive.org/web/https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "relevance": 5
+    },
+    {
+      "title": "Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection",
+      "link": "http://arxiv.org/abs/2603.16697v1",
+      "desc": "Outlier detection identifies data points that deviate significantly from expected patterns, revealing anomalies that may require special attention. Incorporating online learning further improves accuracy by continuously updating the model to reflect the most recent data. When employing the Christoff",
+      "date": "2026-03-17T15:51:18.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Longitudinal Risk Prediction in Mammography with Privileged History Distillation",
+      "link": "http://arxiv.org/abs/2603.15814v1",
+      "desc": "Breast cancer remains a leading cause of cancer-related mortality worldwide. Longitudinal mammography risk prediction models improve multi-year breast cancer risk prediction based on prior screening exams. However, in real-world clinical practice, longitudinal histories are often incomplete, irregul",
+      "date": "2026-03-16T18:45:19.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
+      "link": "http://arxiv.org/abs/2603.13830v1",
+      "desc": "The high-frequency issuance and short-cycle speculation of meme tokens in decentralized finance (DeFi) have significantly amplified rug-pull risk. Existing approaches still struggle to provide stable early warning under scarce anomalies, incomplete labels, and limited interpretability. To address th",
+      "date": "2026-03-14T08:25:42.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Risk-Sensitive Agent Compositions",
+      "link": "http://arxiv.org/abs/2506.04632v4",
+      "desc": "From software development to robot control, modern agentic systems decompose complex objectives into a sequence of subtasks and choose a set of specialized AI agents to complete them. We formalize agentic workflows as directed acyclic graphs, called agent graphs, where edges represent AI agents and ",
+      "date": "2026-03-14T03:19:41.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
+      "link": "http://arxiv.org/abs/2603.13059v1",
+      "desc": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se",
+      "date": "2026-03-13T15:07:53.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
+      "relevance": 5
+    },
+    {
+      "title": "Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty",
+      "link": "http://arxiv.org/abs/2603.12507v1",
+      "desc": "Minimising a spectral risk objective, defined as a convex combination of expected cost and Conditional Value-at-Risk (CVaR), is challenging when the uncertainty distribution is decision-dependent, making both surrogate modelling and simulation-based ranking sensitive to tail estimation error. We pro",
+      "date": "2026-03-12T22:53:24.000Z",
+      "type": "arxiv",
+      "label": "arXiv ML×Finance",
+      "tags": [
+        "ML",
+        "paper",
+        "research"
+      ],
+      "archive_url": null,
       "relevance": 5
     },
     {
