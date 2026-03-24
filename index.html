@@ -639,6 +639,64 @@
     }
 
     // Render articles
+    function renderArticle(item) {
+      const date = new Date(item.date);
+      const isPaywalled = item.isPaywalled || item.tags?.includes('premium');
+      const hasArchive = item.archiveLink;
+      
+      // Use archive link for paywalled sites if available
+      const primaryLink = hasArchive ? item.archiveLink : item.link;
+      const showArchiveBtn = isPaywalled && hasArchive;
+      
+      let badgeClass = 'badge-news';
+      if (item.type === 'research') badgeClass = 'badge-research';
+      if (item.type === 'analysis') badgeClass = 'badge-analysis';
+      
+      const tagsHtml = item.tags?.map(tag => 
+        '<span class="tag">' + escapeHtml(tag) + '</span>'
+      ).join('') || '';
+      
+      let archiveBtn = '';
+      if (showArchiveBtn) {
+        archiveBtn = '<a href="' + escapeHtml(item.archiveLink) + '" class="action-btn btn-archive" target="_blank" rel="noopener" title="View archived version">Archive</a>';
+      } else if (isPaywalled && !hasArchive) {
+        archiveBtn = '<span class="action-btn btn-archive disabled" title="Archive being generated">Archive</span>';
+      }
+      
+      const primaryBtnText = hasArchive ? 'Read (Archived)' : 'Read';
+      const primaryBtnClass = hasArchive ? 'btn-archive' : 'btn-primary';
+      const primaryBtnTitle = hasArchive ? 'Read archived version' : 'Read original article';
+      
+      // SIMPLE summary button that works
+      const summaryBtn = '<button class="action-btn btn-summary" onclick="showSummary(this)">Summary</button>';
+      
+      return 
+        '<div class="article-card">' +
+          '<div class="article-header">' +
+            '<div class="article-source">' +
+              '<span class="source-badge ' + badgeClass + '">' + escapeHtml(item.label) + '</span>' +
+              (isPaywalled ? '<span class="source-badge badge-premium">Premium</span>' : '') +
+              (item.quant_score ? '<span class="source-badge">Quant: ' + item.quant_score + '</span>' : '') +
+            '</div>' +
+            '<div class="article-time">' + formatRelativeTime(date) + '</div>' +
+          '</div>' +
+          '<div class="article-content">' +
+            '<div class="article-title">' + escapeHtml(item.title) + '</div>' +
+            (item.desc ? '<div class="article-desc">' + escapeHtml(item.desc) + '</div>' : '') +
+          '</div>' +
+          '<div class="article-footer">' +
+            '<div class="article-tags">' + tagsHtml + '</div>' +
+            '<div class="article-actions">' +
+              summaryBtn +
+              archiveBtn +
+              '<a href="' + escapeHtml(primaryLink) + '" class="action-btn ' + primaryBtnClass + '" target="_blank" rel="noopener" title="' + primaryBtnTitle + '">' +
+                primaryBtnText +
+              '</a>' +
+            '</div>' +
+          '</div>' +
+        '</div>';
+    }
+    // Render all articles
     function renderArticles() {
       let filteredItems = [...allItems];
       
@@ -662,90 +720,22 @@
       filteredItems.sort((a, b) => new Date(b.date) - new Date(a.date));
       
       if (filteredItems.length === 0) {
-        articlesContainer.innerHTML = `
-          <div class="empty-state">
-            <div style="font-size: 2rem; margin-bottom: 1rem;">📄</div>
-            <div>No articles found</div>
-            <div style="margin-top: 0.5rem; font-size: 0.875rem;">Try changing category or search terms</div>
-          </div>
-        `;
+        articlesContainer.innerHTML = 
+          '<div class="empty-state">' +
+          '<div style="font-size: 2rem; margin-bottom: 1rem;">📄</div>' +
+          '<div>No articles found</div>' +
+          '<div style="margin-top: 0.5rem; font-size: 0.875rem;">Try changing category or search terms</div>' +
+          '</div>';
         return;
       }
       
-      // Show all articles in one grid (no section headers)
+      // Show all articles
       let html = '<div class="articles-grid">';
       filteredItems.forEach(item => html += renderArticle(item));
       html += '</div>';
       
       articlesContainer.innerHTML = html;
     }
-
-    // Render single article
-    function renderArticle(item) {
-      const date = new Date(item.date);
-      const isPaywalled = item.isPaywalled || item.tags?.includes('premium');
-      const hasArchive = item.archiveLink;
-      
-      // ALWAYS use archive link for paywalled sites if available
-      // If no archive link, use original link but show as disabled
-      const primaryLink = hasArchive ? item.archiveLink : item.link;
-      const showArchiveBtn = isPaywalled && hasArchive;
-      
-      let badgeClass = 'badge-news';
-      if (item.type === 'research') badgeClass = 'badge-research';
-      if (item.type === 'analysis') badgeClass = 'badge-analysis';
-      
-      const tagsHtml = item.tags?.map(tag => 
-        `<span class="tag">${escapeHtml(tag)}</span>`
-      ).join('') || '';
-      
-      let archiveBtn = '';
-      if (showArchiveBtn) {
-        // Show Archive button that goes to archive link
-        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener" title="View archived version (no paywall)">Archive</a>`;
-      } else if (isPaywalled && !hasArchive) {
-        // Paywalled but no archive yet
-        archiveBtn = `<span class="action-btn btn-archive disabled" title="Archive being generated (check back soon)">Archive</span>`;
-      }
-      
-      // Button text and styling
-      const primaryBtnText = hasArchive ? 'Read (Archived)' : 'Read';
-      const primaryBtnClass = hasArchive ? 'btn-archive' : 'btn-primary';
-      const primaryBtnTitle = hasArchive ? 'Read archived version (no paywall)' : (isPaywalled ? 'Read original (may be paywalled)' : 'Read original article');
-      
-      // Summary button
-      const itemJson = escapeHtml(JSON.stringify(item));
-      const summaryBtn = '<button class="action-btn btn-summary" onclick="showSummary(this)">Summary</button>';
-      
-      return `
-        <div class="article-card" data-id="${item.link}">
-          <div class="article-header">
-            <div class="article-source">
-              <span class="source-badge ${badgeClass}">${escapeHtml(item.label)}</span>
-              ${isPaywalled ? '<span class="source-badge badge-premium" style="background:rgba(245,158,11,0.1);color:#f59e0b;border-color:rgba(245,158,11,0.2);font-size:0.7em;padding:0.15rem 0.5rem;">Premium</span>' : ''}
-              ${item.quant_score ? `<span class="source-badge" style="background:rgba(59,130,246,0.1);color:#3b82f6;border-color:rgba(59,130,246,0.2);font-size:0.7em;padding:0.15rem 0.5rem;">Quant: ${item.quant_score}</span>` : ''}
-            </div>
-            <div class="article-time">${formatRelativeTime(date)}</div>
-          </div>
-          <div class="article-content">
-            <div class="article-title">${escapeHtml(item.title)}</div>
-            ${item.desc ? `<div class="article-desc">${escapeHtml(item.desc)}</div>` : ''}
-          </div>
-          <div class="article-footer">
-            <div class="article-tags">${tagsHtml}</div>
-            <div class="article-actions">
-              ${summaryBtn}
-              ${archiveBtn}
-              <a href="${escapeHtml(primaryLink)}" class="action-btn ${primaryBtnClass}" target="_blank" rel="noopener" title="${primaryBtnTitle}">
-                ${primaryBtnText}
-              </a>
-            </div>
-          </div>
-        </div>
-      `;
-    }
-
-    // Show summary modal
     function showSummary(link, title, description, fullItem) {
       // Use the pre-generated summary from data if available
       let summary = description || 'No summary available. Click "Read" to view full article.';
