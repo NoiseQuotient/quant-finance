@@ -715,7 +715,7 @@
       
       // Summary button
       const itemJson = escapeHtml(JSON.stringify(item));
-      const summaryBtn = `<button class="action-btn btn-summary" data-id="${item.link}" onclick="showSummary('${escapeHtml(item.link)}', '${escapeHtml(item.title)}', '${escapeHtml(item.desc || '')}', ${itemJson})">Summary</button>`;
+      const summaryBtn = '<button class="action-btn btn-summary" onclick="showSummary(this)">Summary</button>';
       
       return `
         <div class="article-card" data-id="${item.link}">
@@ -759,26 +759,25 @@
       const formattedSummary = summary
         .replace(/\n/g, '<br>')
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        .replace(/📈|🏦|🛠️|📚|💡|🔬|🎯/g, match => `<span style="font-size: 1.2em;">${match}</span>`);
+        .replace(/📈|🏦|🛠️|📚|💡|🔬|🎯/g, match => '<span style="font-size: 1.2em;">' + match + '</span>');
       
       const modal = document.createElement('div');
       modal.className = 'summary-modal';
-      modal.innerHTML = `
-        <div class="summary-content">
-          <div class="summary-title">${escapeHtml(title)}</div>
-          <div class="summary-text">${formattedSummary}</div>
-          <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border);">
-            <div style="font-size: 0.8rem; color: var(--text3); margin-bottom: 0.5rem;">
-              ${fullItem && fullItem.quant_score ? `🎯 Quant Relevance Score: ${fullItem.quant_score}/100` : ''}
-              ${fullItem && fullItem.quant_categories ? `<br>📊 Categories: ${fullItem.quant_categories.map(c => c.replace('_', ' ')).join(', ')}` : ''}
-              ${fullItem && fullItem.is_premium ? '<br>🔒 Premium Content (Archived)' : ''}
-            </div>
-            <div style="text-align: center;">
-              <button class="summary-close" onclick="this.closest('.summary-modal').remove()">Close Summary</button>
-            </div>
-          </div>
-        </div>
-      `;
+      modal.innerHTML = 
+        '<div class="summary-content">' +
+        '<div class="summary-title">' + escapeHtml(title) + '</div>' +
+        '<div class="summary-text">' + formattedSummary + '</div>' +
+        '<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border);">' +
+        '<div style="font-size: 0.8rem; color: var(--text3); margin-bottom: 0.5rem;">' +
+        (fullItem && fullItem.quant_score ? '🎯 Quant Relevance Score: ' + fullItem.quant_score + '/100' : '') +
+        (fullItem && fullItem.quant_categories ? '<br>📊 Categories: ' + fullItem.quant_categories.map(c => c.replace('_', ' ')).join(', ') : '') +
+        (fullItem && fullItem.is_premium ? '<br>🔒 Premium Content (Archived)' : '') +
+        '</div>' +
+        '<div style="text-align: center;">' +
+        '<button class="summary-close" onclick="this.closest(\'.summary-modal\').remove()">Close Summary</button>' +
+        '</div>' +
+        '</div>' +
+        '</div>';
       
       document.body.appendChild(modal);
       
@@ -796,16 +795,7 @@
           document.removeEventListener('keydown', closeOnEscape);
         }
       });
-    }
-
-    // Escape HTML
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text;
-      return div.innerHTML;
-    }
-
-    // Event listeners
+    }// Event listeners
     function setupEventListeners() {
       // Category buttons
       document.querySelectorAll('.category-btn').forEach(btn => {
@@ -832,6 +822,33 @@
       setupEventListeners();
       loadData();
     });
+  
+    // Simple summary handler
+    window.showSummary = function(button) {
+      const card = button.closest('.article-card');
+      const title = card.querySelector('.article-title').textContent;
+      const desc = card.querySelector('.article-desc')?.textContent || 'No description available.';
+      
+      const modal = document.createElement('div');
+      modal.className = 'summary-modal';
+      modal.innerHTML = 
+        '<div class="summary-content">' +
+        '<div class="summary-title">' + escapeHtml(title) + '</div>' +
+        '<div class="summary-text">' + escapeHtml(desc) + '</div>' +
+        '<div style="text-align: center; margin-top: 1.5rem;">' +
+        '<button class="summary-close" onclick="this.closest(\'.summary-modal\').remove()">Close</button>' +
+        '</div>' +
+        '</div>';
+      
+      document.body.appendChild(modal);
+      
+      // Close on background click
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+          modal.remove();
+        }
+      });
+    };
   </script>
 </body>
 </html>
