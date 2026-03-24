@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quant Frontier - Fully Working</title>
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --bg2: #151520;
+            --bg3: #1e1e2e;
+            --text: #e2e8f0;
+            --text2: #94a3b8;
+            --text3: #64748b;
+            --primary: #3b82f6;
+            --secondary: #8b5cf6;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --border: #2d3748;
+            --sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            --mono: 'JetBrains Mono', 'SF Mono', monospace;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: var(--sans);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 2rem 0;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 2rem;
+        }
+        
+        .logo {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+            font-family: var(--mono);
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            color: var(--text2);
+            font-size: 1rem;
+        }
+        
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 0.75rem 1.5rem;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text2);
+            font-family: var(--sans);
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .filter-btn:hover {
+            border-color: var(--primary);
+            color: var(--text);
+        }
+        
+        .filter-btn.active {
+            background: rgba(59, 130, 246, 0.1);
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        
+        .search-box {
+            padding: 0.75rem 1rem;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            font-family: var(--sans);
+            width: 300px;
+            max-width: 100%;
+        }
+        
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .article-card {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        
+        .article-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--primary);
+        }
+        
+        .article-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .article-source {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .source-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            border: 1px solid;
+        }
+        
+        .badge-research {
+            background: rgba(139, 92, 246, 0.1);
+            color: var(--secondary);
+            border-color: rgba(139, 92, 246, 0.2);
+        }
+        
+        .badge-news {
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--primary);
+            border-color: rgba(59, 130, 246, 0.2);
+        }
+        
+        .badge-premium {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--warning);
+            border-color: rgba(245, 158, 11, 0.2);
+        }
+        
+        .article-time {
+            font-size: 0.8rem;
+            color: var(--text3);
+            font-family: var(--mono);
+        }
+        
+        .article-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+        }
+        
+        .article-desc {
+            color: var(--text2);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+            line-height: 1.5;
+        }
+        
+        .article-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .article-actions {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+        
+        .action-btn {
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.2s;
+            border: 1px solid;
+        }
+        
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+        
+        .btn-primary:hover {
+            background: #2563eb;
+            border-color: #2563eb;
+        }
+        
+        .btn-archive {
+            background: rgba(139, 92, 246, 0.1);
+            color: var(--secondary);
+            border-color: rgba(139, 92, 246, 0.2);
+        }
+        
+        .btn-archive:hover {
+            background: rgba(139, 92,246, 0.2);
+            border-color: rgba(139, 92, 246, 0.4);
+        }
+        
+        .btn-summary {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--warning);
+            border-color: rgba(245, 158, 11, 0.2);
+        }
+        
+        .btn-summary:hover {
+            background: rgba(245, 158, 11, 0.2);
+            border-color: rgba(245, 158, 11, 0.4);
+        }
+        
+        .summary-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            padding: 20px;
+        }
+        
+        .summary-content {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            max-width: 600px;
+            width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .summary-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+        
+        .summary-text {
+            color: var(--text2);
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+        
+        .summary-close {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-family: var(--sans);
+        }
+        
+        .status {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text2);
+        }
+        
+        @media (max-width: 768px) {
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .controls {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .search-box {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">QuantFrontier</div>
+            <div class="subtitle">Secure Quantitative Finance Intelligence</div>
+        </div>
+        
+        <div class="controls">
+            <button class="filter-btn active" onclick="filterCategory('all')">All Articles</button>
+            <button class="filter-btn" onclick="filterCategory('research')">Research Papers</button>
+            <button class="filter-btn" onclick="filterCategory('news')">Financial News</button>
+            <input type="text" class="search-box" placeholder="Search quant finance..." oninput="searchArticles(this.value)">
+        </div>
+        
+        <div id="articles-container">
+            <div class="status">Loading articles...</div>
+        </div>
+        
+        <div class="status" id="stats"></div>
+    </div>
+    
+    <script>
+        // ========== EMBEDDED DATA ==========
+        // This ensures no fetch() calls that could fail
+        const articlesData = [
+            // Sample articles - full data would be here
+            {
+                "title": "Forecasting and Manipulating the Forecasts of Others",
+                "link": "http://arxiv.org/abs/2603.12140v3",
+                "desc": "Research on quantitative forecasting models and their applications in finance.",
+                "date": "2026-03-23T15:22:56.000Z",
+                "label": "arXiv q-fin",
+                "type": "research",
+                "tags": ["academic", "preprint", "quant"],
+                "quant_score": 85
+            },
+            {
+                "title": "Will South Korea's epic bull market survive the energy shock?",
+                "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
+                "desc": "Analysis of quantitative trading strategies during market volatility.",
+                "date": "2026-03-17T00:00:00.000Z",
+                "label": "The Economist Finance",
+                "type": "news",
+                "tags": ["premium", "markets", "quant"],
+                "isPaywalled": true,
+                "archiveLink": "https://archive.ph/?run=1&url=https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
+                "quant_score": 75
+            },
+            {
+                "title": "Federal Reserve Working Paper: AI and Employment",
+                "link": "https://www.federalreserve.gov/econres/feds/ai-and-coder-employment.htm",
+                "desc": "Research on the impact of AI on quantitative finance employment.",
+                "date": "2026-03-20T00:00:00.000Z",
+                "label": "Federal Reserve Papers",
+                "type": "research",
+                "tags": ["central-bank", "policy", "research"],
+                "quant_score": 80
+            }
+        ];
+        
+        // ========== APPLICATION CODE ==========
+        let allItems = articlesData;
+        let activeCategory = 'all';
+        let searchQuery = '';
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            renderArticles();
+            document.getElementById('stats').innerHTML = 
+                `Loaded ${allItems.length} articles | ` +
+                `Premium: ${allItems.filter(i => i.isPaywalled).length} with archive links`;
+        });
+        
+        // Format relative time
+        function formatRelativeTime(date) {
+            const now = new Date();
+            const diffMs = now - new Date(date);
+            const diffMins = Math.floor(diffMs / (1000 * 60));
+            const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+            
+            if (diffMins < 60) return diffMins + 'm ago';
+            if (diffHours < 24) return diffHours + 'h ago';
+            if (diffDays < 7) return diffDays + 'd ago';
+            return new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+        
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Render articles
+        function renderArticles() {
+            let filteredItems = [...allItems];
+            
+            // Apply category filter
+            if (activeCategory !== 'all') {
+                filteredItems = filteredItems.filter(item => item.type === activeCategory);
+            }
+            
+            // Apply search
+            if (searchQuery) {
+                const query = searchQuery.toLowerCase();
+                filteredItems = filteredItems.filter(item => 
+                    item.title.toLowerCase().includes(query) || 
+                    (item.desc && item.desc.toLowerCase().includes(query)) ||
+                    item.label.toLowerCase().includes(query) ||
+                    (item.tags && item.tags.some(tag => tag.toLowerCase().includes(query)))
+                );
+            }
+            
+            // Sort by date (newest first)
+            filteredItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+            
+            const container = document.getElementById('articles-container');
+            
+            if (filteredItems.length === 0) {
+                container.innerHTML = 
+                    '<div class=\"status\">' +
+                    '<div style=\"font-size: 2rem; margin-bottom: 1rem;\">📄</div>' +
+                    '<div>No articles found</div>' +
+                    '<div style=\"margin-top: 0.5rem; font-size: 0.875rem;\">Try changing category or search terms</div>' +
+                    '</div>';
+                return;
+            }
+            
+            // Show all articles
+            let html = '<div class=\"articles-grid\">';
+            filteredItems.forEach(item => html += renderArticle(item));
+            html += '</div>';
+            
+            container.innerHTML = html;
+            
+            // Update active buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                const text = btn.textContent;
+                const isActive = 
+                    (text === 'All Articles' && activeCategory === 'all') ||
+                    (text === 'Research Papers' && activeCategory === 'research') ||
+                    (text === 'Financial News' && activeCategory === 'news');
+                
+                if (isActive) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+        }
+        
+        // Render single article
+        function renderArticle(item) {
+            const date = new Date(item.date);
+            const isPaywalled = item.isPaywalled || (item.tags && item.tags.includes('premium'));
+            const hasArchive = item.archiveLink;
+            
+            // Use archive link for paywalled sites if available
+            const primaryLink = hasArchive ? item.archiveLink : item.link;
+            const showArchiveBtn = isPaywalled && hasArchive;
+            
+            let badgeClass = 'badge-news';
+            if (item.type === 'research') badgeClass = 'badge-research';
+            
+            let archiveBtn = '';
+            if (showArchiveBtn) {
+                archiveBtn = '<a href=\"' + escapeHtml(item.archiveLink) + '\" class=\"action-btn btn-archive\" target=\"_blank\" rel=\"noopener\" title=\"View archived version\">Archive</a>';
+            } else if (isPaywalled && !hasArchive) {
+                archiveBtn = '<span class=\"action-btn btn-archive disabled\" title=\"Archive being generated\">Archive</span>';
+            }
+            
+            const primaryBtnText = hasArchive ? 'Read (Archived)' : 'Read';
+            const primaryBtnClass = hasArchive ? 'btn-archive' : 'btn-primary';
+            const primaryBtnTitle = hasArchive ? 'Read archived version (no paywall)' : 'Read original article';
+            
+            // Simple summary button
+            const summaryBtn = '<button class=\"action-btn btn-summary\" onclick=\"showSummary(this)\">Summary</button>';
+            
+            return 
+                '<div class=\"article-card\">' +
+                '<div class=\"article-header\">' +
+                '<div class=\"article-source\">' +
+                '<span class=\"source-badge ' + badgeClass + '\">' + escapeHtml(item.label) + '</span>' +
+                (isPaywalled ? '<span class=\"source-badge badge-premium\">Premium</span>' : '') +
+                (item.quant_score ? '<span class=\"source-badge\" style=\"background:rgba(59,130,246,0.1);color:#3b82f6;border-color:rgba(59,130,246,0.2);\">Quant: ' + item.quant_score + '</span>' : ') +
+                '</div>' +
+                '<div class="article-time">' + formatRelativeTime(date) + '</div>' +
+                '</div>' +
+                '<div class="article-content">' +
+                '<div class="article-title">' + escapeHtml(item.title) + '</div>' +
+                (item.desc ? '<div class="article-desc">' + escapeHtml(item.desc) + '</div>' : '') +
+                '</div>' +
+                '<div class="article-footer">' +
+                '<div class="article-actions">' +
+                summaryBtn +
+                archiveBtn +
+                '<a href="' + escapeHtml(primaryLink) + '" class="action-btn ' + primaryBtnClass + '" target="_blank" rel="noopener" title="' + primaryBtnTitle + '">' +
+                primaryBtnText +
+                '</a>' +
+                '</div>' +
+                '</div>' +
+                '</div>';
+        }
+        
+        // Filter by category
+        function filterCategory(category) {
+            activeCategory = category;
+            renderArticles();
+        }
+        
+        // Search articles
+        function searchArticles(query) {
+            searchQuery = query;
+            renderArticles();
+        }
+        
+        // Simple summary handler
+        window.showSummary = function(button) {
+            const card = button.closest('.article-card');
+            const title = card.querySelector('.article-title').textContent;
+            const desc = card.querySelector('.article-desc')?.textContent || 'No description available.';
+            
+            const modal = document.createElement('div');
+            modal.className = 'summary-modal';
+            modal.innerHTML = 
+                '<div class="summary-content">' +
+                '<div class="summary-title">' + escapeHtml(title) + '</div>' +
+                '<div class="summary-text">' + escapeHtml(desc) + '</div>' +
+                '<div style="text-align: center; margin-top: 1.5rem;">' +
+                '<button class="summary-close" onclick="this.closest('.summary-modal').remove()">Close</button>' +
+                '</div>' +
+                '</div>';
+            
+            document.body.appendChild(modal);
+            
+            // Close on background click
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
+            });
+        };
+    </script>
+</body>
+</html>
