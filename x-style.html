@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quant Finance - X/Instagram Style</title>
+    <style>
+        /* X/Instagram Style */
+        body {
+            margin: 0;
+            padding: 0;
+            background: #000;
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid #333;
+            padding: 15px 20px;
+            z-index: 100;
+        }
+        
+        .logo {
+            font-size: 20px;
+            font-weight: bold;
+            color: #1d9bf0;
+            text-decoration: none;
+        }
+        
+        .subtitle {
+            color: #71767b;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        
+        /* Main Feed */
+        .feed {
+            max-width: 600px;
+            margin: 100px auto 20px;
+        }
+        
+        /* Article Card - X/Instagram Style */
+        .tweet {
+            background: #000;
+            border-bottom: 1px solid #2f3336;
+            padding: 20px;
+            transition: background 0.2s;
+        }
+        
+        .tweet:hover {
+            background: #080808;
+        }
+        
+        /* Article Header */
+        .tweet-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .source-badge {
+            background: #1d9bf0;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        
+        .source-badge.premium {
+            background: #ffd400;
+            color: #000;
+        }
+        
+        .time {
+            color: #71767b;
+            font-size: 14px;
+        }
+        
+        /* Article Content */
+        .tweet-content {
+            margin-bottom: 15px;
+        }
+        
+        .tweet-title {
+            font-size: 15px;
+            font-weight: bold;
+            line-height: 1.4;
+            margin-bottom: 8px;
+        }
+        
+        .tweet-desc {
+            color: #e7e9ea;
+            font-size: 15px;
+            line-height: 1.5;
+        }
+        
+        /* Tags */
+        .tags {
+            display: flex;
+            gap: 6px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: #1d9bf0;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        
+        /* Actions - X Style */
+        .tweet-actions {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .action-btn {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            color: #71767b;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 500;
+            padding: 8px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+        
+        .action-btn:hover {
+            background: rgba(29, 155, 240, 0.1);
+            color: #1d9bf0;
+        }
+        
+        .action-btn.archive:hover {
+            background: rgba(120, 86, 255, 0.1);
+            color: #7856ff;
+        }
+        
+        .action-btn.original:hover {
+            background: rgba(0, 186, 124, 0.1);
+            color: #00ba7c;
+        }
+        
+        .action-btn.summary:hover {
+            background: rgba(249, 24, 128, 0.1);
+            color: #f91880;
+        }
+        
+        /* Icon styles */
+        .icon {
+            font-size: 18px;
+        }
+        
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #71767b;
+        }
+        
+        /* Responsive */
+        @media (max-width: 650px) {
+            .feed {
+                margin: 100px 10px 20px;
+            }
+            
+            .tweet {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Fixed Header -->
+    <div class="header">
+        <a href="#" class="logo">QuantFeed</a>
+        <div class="subtitle">Quantitative finance intelligence • X/Instagram style</div>
+    </div>
+    
+    <!-- Main Feed -->
+    <div class="feed" id="feed">
+        <!-- Articles will be inserted here -->
+    </div>
+    
+    <script>
+        // ========== DATA - X/INSTAGRAM STYLE ==========
+        const articles = [
+            {
+                id: 1,
+                title: "Machine Learning for High-Frequency Trading Review",
+                desc: "Comprehensive survey of ML techniques in HFT including reinforcement learning and deep neural networks for execution algorithms.",
+                date: "2h ago",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                tags: ["HFT", "Machine Learning", "Survey"],
+                link: "https://arxiv.org/abs/2603.12140",
+                premium: false
+            },
+            {
+                id: 2,
+                title: "Renaissance's Medallion Fund Posts 45% Gain for 2025",
+                desc: "Quantitative hedge fund continues exceptional performance with advanced statistical arbitrage strategies.",
+                date: "1h ago",
+                source: "Bloomberg Markets",
+                type: "news",
+                tags: ["Hedge Fund", "Renaissance", "Performance"],
+                link: "https://www.bloomberg.com/news/articles/2026-03-23/renaissance-medallion-fund-posts-45-gain-for-2025",
+                premium: true
+            },
+            {
+                id: 3,
+                title: "Reinforcement Learning for Optimal Trade Execution",
+                desc: "Novel RL framework for minimizing market impact in large order execution. Achieves 15% better performance.",
+                date: "3h ago",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                tags: ["Reinforcement Learning", "Execution", "RL"],
+                link: "https://arxiv.org/abs/2603.12015",
+                premium: false
+            },
+            {
+                id: 4,
+                title: "Citadel Expands AI Research Team with $500M Investment",
+                desc: "Major quant fund invests heavily in AI research for next-generation systematic trading strategies.",
+                date: "4h ago",
+                source: "Bloomberg Quant",
+                type: "news",
+                tags: ["Citadel", "AI", "Investment"],
+                link: "https://www.bloomberg.com/news/articles/2026-03-22/citadel-expands-ai-research-for-quantitative-trading",
+                premium: true
+            },
+            {
+                id: 5,
+                title: "Quantitative Hedge Funds Dominate Market Making",
+                desc: "Quant funds now control over 60% of US equity market making, fundamentally reshaping market liquidity.",
+                date: "5h ago",
+                source: "Financial Times Markets",
+                type: "news",
+                tags: ["Market Making", "HFT", "Liquidity"],
+                link: "https://www.ft.com/content/abcdef123456",
+                premium: true
+            },
+            {
+                id: 6,
+                title: "AI Arms Race Heats Up Among Quantitative Trading Firms",
+                desc: "Major quant funds investing billions in AI research to gain competitive edge in algorithmic trading.",
+                date: "6h ago",
+                source: "Wall Street Journal",
+                type: "news",
+                tags: ["AI", "Quantitative Trading", "Competition"],
+                link: "https://www.wsj.com/articles/ai-arms-race-heats-up-among-quantitative-trading-firms",
+                premium: true
+            },
+            {
+                id: 7,
+                title: "Quantum Algorithms for Portfolio Optimization",
+                desc: "Applying quantum computing to solve large-scale portfolio optimization problems with 100x speedup.",
+                date: "1d ago",
+                source: "arXiv q-fin.PM",
+                type: "research",
+                tags: ["Quantum Computing", "Portfolio", "Optimization"],
+                link: "https://arxiv.org/abs/2603.11980",
+                premium: false
+            },
+            {
+                id: 8,
+                title: "The Quant Revolution in Finance",
+                desc: "How quantitative methods and data science are transforming traditional finance and investment banking.",
+                date: "1d ago",
+                source: "The Economist Finance",
+                type: "news",
+                tags: ["Quantitative Finance", "Transformation", "Industry"],
+                link: "https://www.economist.com/finance-and-economics/2026/03/21/the-quant-revolution-in-finance",
+                premium: true
+            },
+            {
+                id: 9,
+                title: "Deep Learning for Financial Time Series Forecasting",
+                desc: "Comprehensive study comparing transformer architectures, LSTMs, and CNNs for financial prediction.",
+                date: "2d ago",
+                source: "SSRN Quantitative Finance",
+                type: "research",
+                tags: ["Deep Learning", "Time Series", "Forecasting"],
+                link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1234567",
+                premium: false
+            },
+            {
+                id: 10,
+                title: "Machine Learning Models Face Regulatory Scrutiny",
+                desc: "Global regulators examining black-box ML models used in trading, risk management, and credit decisions.",
+                date: "2d ago",
+                source: "Risk.net",
+                type: "news",
+                tags: ["Regulation", "Machine Learning", "Compliance"],
+                link: "https://www.risk.net/regulation/1234567/machine-learning-models-face-regulatory-scrutiny",
+                premium: true
+            }
+        ];
+        
+        // ========== RENDER ARTICLES ==========
+        function renderArticles() {
+            const feed = document.getElementById('feed');
+            let html = '';
+            
+            articles.forEach(article => {
+                const isPremium = article.premium;
+                const archiveUrl = isPremium ? 
+                    `https://archive.ph/?run=1&url=${encodeURIComponent(article.link)}` : null;
+                
+                html += `
+                    <div class="tweet" id="article-${article.id}">
+                        <div class="tweet-header">
+                            <span class="source-badge ${isPremium ? 'premium' : ''}">
+                                ${article.source}
+                            </span>
+                            <span class="time">${article.date}</span>
+                        </div>
+                        
+                        <div class="tweet-content">
+                            <div class="tweet-title">${article.title}</div>
+                            <div class="tweet-desc">${article.desc}</div>
+                        </div>
+                        
+                        ${article.tags ? `
+                            <div class="tags">
+                                ${article.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                        
+                        <div class="tweet-actions">
+                            <button class="action-btn summary" onclick="showSummary(${article.id})">
+                                <span class="icon">💬</span>
+                                <span>Summary</span>
+                            </button>
+                            
+                            ${archiveUrl ? `
+                                <a href="${archiveUrl}" class="action-btn archive" target="_blank" rel="noopener">
+                                    <span class="icon">📦</span>
+                                    <span>Archive</span>
+                                </a>
+                            ` : ''}
+                            
+                            <a href="${article.link}" class="action-btn original" target="_blank" rel="noopener">
+                                <span class="icon">🔗</span>
+                                <span>${isPremium ? 'Original (Premium)' : 'Read'}</span>
+                            </a>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            feed.innerHTML = html;
+            console.log(`✅ Rendered ${articles.length} articles in X/Instagram style`);
+        }
+        
+        // ========== SHOW SUMMARY ==========
+        function showSummary(articleId) {
+            const article = articles.find(a => a.id === articleId);
+            if (!article) return;
+            
+            // Create modal
+            const modal = document.createElement('div');
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: rgba(0, 0, 0, 0.8);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 1000;
+                padding: 20px;
+            `;
+            
+            modal.innerHTML = `
+                <div style="
+                    background: #000;
+                    border: 1px solid #333;
+                    border-radius: 16px;
+                    padding: 24px;
+                    max-width: 500px;
+                    width: 100%;
+                    color: white;
+                ">
+                    <div style="
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        margin-bottom: 16px;
+                    ">
+                        <div style="font-size: 18px; font-weight: bold;">${article.title}</div>
+                        <button onclick="this.closest('div[style*=\"position: fixed\"]').remove()" style="
+                            background: none;
+                            border: none;
+                            color: #71767b;
+                            font-size: 24px;
+                            cursor: pointer;
+                        ">×</button>
+                    </div>
+                    
+                    <div style="color: #e7e9ea; line-height: 1.5; margin-bottom: 20px;">
+                        ${article.desc}
+                    </div>
+                    
+                    <div style="
+                        display: flex;
+                        gap: 10px;
+                        margin-top: 20px;
+                    ">
+                        <a href="${article.link}" target="_blank" rel="noopener" style="
+                            background: #1d9bf0;
+                            color: white;
+                            padding: 10px 20px;
+                            border-radius: 8px;
+                            text-decoration: none;
+                            font-weight: 500;
+                        ">Read Article</a>
+                        
+                        ${article.premium ? `
+                            <a href="https://archive.ph/?run=1&url=${encodeURIComponent(article.link)}" 
+                               target="_blank" rel="noopener" style="
+                                background: #7856ff;
+                                color: white;
+                                padding: 10px 20px;
+                                border-radius: 8px;
+                                text-decoration: none;
+                                font-weight: 500;
+                            ">View Archive</a>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            
+            // Close on background click
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
+            });
+        }
+        
+        // ========== INITIALIZE ==========
+        (function init() {
+            renderArticles();
+            console.log('✅ X/Instagram style feed loaded');
+        })();
+    </script>
+</body>
+</html>
