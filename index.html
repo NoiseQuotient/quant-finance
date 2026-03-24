@@ -683,12 +683,13 @@
     // Render single article
     function renderArticle(item) {
       const date = new Date(item.date);
-      const isPaywalled = item.isPaywalled || item.tags?.includes('premium');
+      const isPaywalled = item.is_premium || item.tags?.includes('premium');
       const hasArchive = item.archiveLink;
       
-      // Use archive link for paywalled sites if available
-      const primaryLink = (isPaywalled && hasArchive) ? item.archiveLink : item.link;
-      const showArchiveBtn = (isPaywalled && hasArchive && primaryLink !== item.archiveLink);
+      // ALWAYS use archive link for paywalled sites if available
+      // If no archive link, use original link but show as disabled
+      const primaryLink = hasArchive ? item.archiveLink : item.link;
+      const showArchiveBtn = isPaywalled && hasArchive;
       
       let badgeClass = 'badge-news';
       if (item.type === 'research') badgeClass = 'badge-research';
@@ -700,16 +701,19 @@
       
       let archiveBtn = '';
       if (showArchiveBtn) {
-        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener" title="View archived version">Archive</a>`;
+        // Show Archive button that goes to archive link
+        archiveBtn = `<a href="${escapeHtml(item.archiveLink)}" class="action-btn btn-archive" target="_blank" rel="noopener" title="View archived version (no paywall)">Archive</a>`;
       } else if (isPaywalled && !hasArchive) {
-        archiveBtn = `<span class="action-btn btn-archive disabled" title="Archive being generated">Archive</span>`;
+        // Paywalled but no archive yet
+        archiveBtn = `<span class="action-btn btn-archive disabled" title="Archive being generated (check back soon)">Archive</span>`;
       }
       
-      // Button text based on link type
-      const primaryBtnText = (isPaywalled && hasArchive) ? 'Read (Archived)' : 'Read';
-      const primaryBtnClass = (isPaywalled && hasArchive) ? 'btn-archive' : 'btn-primary';
+      // Button text and styling
+      const primaryBtnText = hasArchive ? 'Read (Archived)' : 'Read';
+      const primaryBtnClass = hasArchive ? 'btn-archive' : 'btn-primary';
+      const primaryBtnTitle = hasArchive ? 'Read archived version (no paywall)' : (isPaywalled ? 'Read original (may be paywalled)' : 'Read original article');
       
-      // Summary button (will trigger AI summary)
+      // Summary button
       const itemJson = escapeHtml(JSON.stringify(item));
       const summaryBtn = `<button class="action-btn btn-summary" data-id="${item.link}" onclick="showSummary('${escapeHtml(item.link)}', '${escapeHtml(item.title)}', '${escapeHtml(item.desc || '')}', ${itemJson})">Summary</button>`;
       
@@ -732,7 +736,7 @@
             <div class="article-actions">
               ${summaryBtn}
               ${archiveBtn}
-              <a href="${escapeHtml(primaryLink)}" class="action-btn ${primaryBtnClass}" target="_blank" rel="noopener" title="${isPaywalled && hasArchive ? 'Read archived version (no paywall)' : 'Read original article'}">
+              <a href="${escapeHtml(primaryLink)}" class="action-btn ${primaryBtnClass}" target="_blank" rel="noopener" title="${primaryBtnTitle}">
                 ${primaryBtnText}
               </a>
             </div>
