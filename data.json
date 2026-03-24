@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T12:30:07.868009Z",
+  "updated": "2026-03-24T12:35:17.780Z",
   "count": 92,
   "failed": [],
   "items": [
@@ -15,10 +15,7 @@
         "research",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "CAPE has long been a cornerstone of long-horizon return forecasting. Critics argue that its predictive power has faded in recent decades. This paper pushes back. Increases CAPE Ratio Predictability with a Simple Adjustment was originally published at Alpha Architect . Please read the Alpha Architect disclosures at your convenience.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Forecasting and Manipulating the Forecasts of Others",
@@ -32,12 +29,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "When actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs (Townsend, 1983) that has resisted exact analysis for four decades. We provide the first exact equilibrium characterization of finite-player continuous-time linear-quadratic games with endogenous signals. Estimating primitive shocks rather than the state collapses the be\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Mean Field Equilibrium Asset Pricing Models With Exponential Utility",
@@ -51,12 +43,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "This thesis develops equilibrium asset pricing models in incomplete markets with a large number of heterogeneous agents using mean field game theory. The market equilibrium is characterized by a novel form of mean field backward stochastic differential equations (BSDEs). First, we propose a theoretical model that endogenously derives the equilibrium risk premium. Agents with exponential preference\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Here, there and everywhere: state-dependent time-inconsistent stochastic control",
@@ -70,12 +57,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "This paper addresses the challenge of time-inconsistent stochastic control within a continuous-time framework. Its primary focus lies in uncovering a probabilistic representation, specifically in the shape of a system of backward stochastic differential equations (BSDEs). These equations encapsulate the equilibrium value function essential for resolving cases where the present state affecting the \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: AI and Coder Employment: Compiling the Evidence",
@@ -89,10 +71,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Leland D. Crane and Paul E. Soto We evaluate whether LLMs have had any discernible impact on the aggregate labor market so far. We focus on occupations that are computer programming-intensive, motivated by data showing that coding is one of the most LLM-exposed tasks. Linking O*NET to CPS we find that aggregate employment of coders has decelerated sharply since the introduction of ChatGPT. Using a\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Queuing, Service Time, and Price Dynamics in Residential Mortgage Lending",
@@ -106,10 +85,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Akos Horvath and Benjamin S. Kay Building on queuing theory, we develop and empirically validate a novel theoretical model of residential mortgage supply. Our model gives insight into how the stochastic arrival and sequential servicing of loan applications affect mortgage origination. The model provides closed-form predictions for lenders&#8217; optimal response to changes in the level and price e\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Model Uncertainty and the Pricing of Hurricane Risk in Florida",
@@ -123,12 +99,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Erik Heitfield This paper examines how model uncertainty affects the price of catastrophe risk insurance. We use unique data on expected loss rate projections from seven hurricane risk models approved by regulators for use in Florida property insurance rate setting to quantify model uncertainty. By combining these data with newly published information on local property insurance markets, we are ab\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Discovering parametrizations of implied volatility with symbolic regression",
@@ -142,12 +113,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "We investigate the data-driven discovery of parametric representations for implied volatility slices. Using symbolic regression, we search for simple analytic formulas that approximate the total implied variance as a function of log-moneyness and maturity. Our approach generates candidate parametrizations directly from market data without imposing a predefined functional form. We compare the resul\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Flexible Information Acquisition in the Kyle Model",
@@ -161,13 +127,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies",
-        "research"
-      ],
-      "summary": "We study an information acquisition problem in which an informed trader acquires costly information prior to trading in the Kyle equilibrium. The cost of information acquisition is represented by an entropy cost. Regardless of the prior distribution of the asset payoff, continuous signals are optimal. Moreover, any continuously distributed signal, together with an associated logit type posterior d\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies, research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Consumer Choice and Corporate Bankruptcy",
@@ -181,12 +141,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, EarlyView.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Mislearning of Factor Risk Premia under Structural Breaks: large A Misspecified Bayesian Learning Framework",
@@ -200,12 +155,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "While asset-pricing models increasingly recognize that factor risk premia are subject to structural change, existing literature typically assumes that investors correctly account for such instability. This paper asks what happens when investors instead learn under a misspecified model that underestimates structural breaks. We propose a minimal Bayesian framework in which this misspecification gene\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/22/2026",
@@ -219,17 +169,12 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Friday Gold Trade: A Conditional Edge [Beyond Passive] Gold drifts higher on Fridays. The effect is statistically significant, it has persisted for decades, and most traders who [&#8230;] The post Recent Quant Links from Quantocracy as of \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "AI Will Create Millions of Quants",
       "link": "https://robotwealth.com/ai-will-create-millions-of-quants/",
-      "desc": "(Most of Them Will Lose Money) AI makes it easier than ever to build trading strategies. Prompt a model, run a backtest, optimise some parameters, and suddenly you\u2019ve got a beautiful equity curve staring back at you. It feels like progress. It feels like research. I wrote recently about how AI coding assistants tend to ... Read more The post AI Will Create Millions of Quants appeared first on Robo",
+      "desc": "(Most of Them Will Lose Money) AI makes it easier than ever to build trading strategies. Prompt a model, run a backtest, optimise some parameters, and suddenly you’ve got a beautiful equity curve staring back at you. It feels like progress. It feels like research. I wrote recently about how AI coding assistants tend to ... Read more The post AI Will Create Millions of Quants appeared first on Robo",
       "date": "2026-03-23T04:24:54.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -238,18 +183,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 50,
-      "quant_categories": [
-        "strategies",
-        "tools_tech"
-      ],
-      "summary": "(Most of Them Will Lose Money) AI makes it easier than ever to build trading strategies. Prompt a model, run a backtest, optimise some parameters, and suddenly you\u2019ve got a beautiful equity curve staring back at you. It feels like progress. It feels like research. I wrote recently about how AI coding assistants tend to ... Read more The post AI Will Create Millions of Quants appeared first on Robo\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 50/100\n\ud83c\udfaf **Categories:** strategies, tools tech\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Information geometry of L\u00e9vy processes and financial models",
+      "title": "Information geometry of Lévy processes and financial models",
       "link": "http://arxiv.org/abs/2507.23646v3",
-      "desc": "We develop the information geometry of L\u00e9vy processes. Deriving $\u03b1$-divergences directly in terms of the L\u00e9vy triplets of the L\u00e9vy processes, we identify Fisher information matrix and $\u03b1$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several L\u00e9vy processes, b",
+      "desc": "We develop the information geometry of Lévy processes. Deriving $α$-divergences directly in terms of the Lévy triplets of the Lévy processes, we identify Fisher information matrix and $α$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several Lévy processes, b",
       "date": "2026-03-22T23:49:23.000Z",
       "label": "arXiv q-fin",
       "type": "research",
@@ -258,17 +197,12 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "We develop the information geometry of L\u00e9vy processes. Deriving $\u03b1$-divergences directly in terms of the L\u00e9vy triplets of the L\u00e9vy processes, we identify Fisher information matrix and $\u03b1$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several L\u00e9vy processes, b\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "A Rank-Dependent Theory for Decision under Risk and Ambiguity",
       "link": "http://arxiv.org/abs/2312.05977v4",
-      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $\u0394$ of probabilities, a probability weighting function $\u03c8$, generating the measure $\u03bd_\u03c8$ by transforming an objective probability measure, and a utility function $\u03c6$, ",
+      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $Δ$ of probabilities, a probability weighting function $ψ$, generating the measure $ν_ψ$ by transforming an objective probability measure, and a utility function $φ$, ",
       "date": "2026-03-22T20:16:03.000Z",
       "label": "arXiv q-fin",
       "type": "research",
@@ -277,12 +211,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $\u0394$ of probabilities, a probability weighting function $\u03c8$, generating the measure $\u03bd_\u03c8$ by transforming an objective probability measure, and a utility function $\u03c6$, \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "The Financial Connectome: A Brain-Inspired Framework for Modeling Latent Market Dynamics",
@@ -296,12 +225,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "We propose the Financial Connectome, a new scientific discipline that models financial markets through the lens of brain functional architecture. Inspired by the foundational work of group independent component analysis (groupICA) in neuroscience, we reimagine markets not as collections of assets, but as high-dimensional dynamic systems composed of latent market modules. Treating stocks as functio\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
@@ -315,14 +239,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 80,
-      "quant_categories": [
-        "strategies",
-        "tools_tech",
-        "research"
-      ],
-      "summary": "We present FinRL-X, a modular and deployment-consistent trading architecture that unifies data processing, strategy construction, backtesting, and broker execution under a weight-centric interface. While existing open-source platforms are often backtesting- or model-centric, they rarely provide system-level consistency between research evaluation and live deployment. FinRL-X addresses this gap thr\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 80/100\n\ud83c\udfaf **Categories:** strategies, tools tech, research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Approximate Dynamic Programming for Degradation-aware Market Participation of Battery Energy Storage Systems: Bridging Market and Degradation Timescales",
@@ -336,12 +253,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "We present an approximate dynamic programming framework for designing degradation-aware market participation policies for battery energy storage systems. The approach employs a tailored value function approximation that reduces the state space to state of charge and battery health, while performing dynamic programming along a pseudo-time axis encoded by state of health. This formulation enables an\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Learning to Aggregate Zero-Shot LLM Agents for Corporate Disclosure Classification",
@@ -355,12 +267,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "This paper studies whether a lightweight trained aggregator can combine diverse zero-shot large language model judgments into a stronger downstream signal for corporate disclosure classification. Zero-shot LLMs can read disclosures without task-specific fine-tuning, but their predictions often vary across prompts, reasoning styles, and model families. I address this problem with a multi-agent fram\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Notes on Correlation Stress Tests",
@@ -374,12 +281,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "This note outlines an approach to stress testing of covariance of financial time series, in the context of financial risk management. It discusses how the geodesic distance between covariance matrices implies a notion of plausibility of covariance stress tests. In this approach, correlation stress tests span a submanifold of constant determinant of the Fisher--Rao manifold of covariance matrices. \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Cryptocurrency as an Investable Asset Class: Coming of Age",
@@ -393,12 +295,7 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "We organize existing empirical regularities of cryptocurrencies into seven stylized facts and analyze cryptocurrencies through the lens of empirical asset pricing. We find important similarities with traditional markets--risk-adjusted performance so far is broadly comparable, and the cross-section of returns can be summarized by a small set of factors. However, cryptocurrency also has its own dist\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Generative Diffusion Model for Risk-Neutral Derivative Pricing",
@@ -412,17 +309,12 @@
         "preprint",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 45,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "Denoising diffusion probabilistic models (DDPMs) have emerged as powerful generative models for complex distributions, yet their use in arbitrage-free derivative pricing remains largely unexplored. Financial asset prices are naturally modeled by stochastic differential equations (SDEs), whose forward and reverse density evolution closely parallels the forward noising and reverse denoising structur\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 45/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "The Return of the King: Trend Following Is Back &#8211; But Will It Last?",
       "link": "https://alphaarchitect.com/the-return-of-the-king-trend-following-is-back-but-will-it-last/",
-      "desc": "Trend following is finally moving while U.S. stocks are flat. And so\u2014like with most assets or strategies that post strong returns\u2014investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return of the King: Trend Following Is Back &#8211; But Will It Last? was originally published at Alpha Architect . Please rea",
+      "desc": "Trend following is finally moving while U.S. stocks are flat. And so—like with most assets or strategies that post strong returns—investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return of the King: Trend Following Is Back &#8211; But Will It Last? was originally published at Alpha Architect . Please rea",
       "date": "2026-03-20T15:21:00.000Z",
       "label": "Alpha Architect",
       "type": "analysis",
@@ -431,10 +323,7 @@
         "research",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Trend following is finally moving while U.S. stocks are flat. And so\u2014like with most assets or strategies that post strong returns\u2014investors may be eyeing this particular strategy and asking: Is it time to get in? The answer, while not surprising, is definitely nuanced. The Return of the King: Trend Following Is Back &#8211; But Will It Last? was originally published at Alpha Architect . Please rea\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "IFDP Paper: Risk in a Data-Rich Model",
@@ -448,10 +337,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [],
-      "summary": "Dario Caldara , Harun Mumtaz, Molin Zhong We characterize asymmetric tail risk across over one hundred U.S. macroeconomic and financial variables using a dynamic factor model with stochastic volatility. The model unifies growth-at-risk, inflation-at-risk, and sectoral heterogeneity through common factors whose volatility responds endogenously to shocks, combined with heterogeneous factor loadings.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "IFDP Paper: The Design and Effect of Tariff Retaliation: Evidence from the European Union",
@@ -465,10 +351,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Ece Fisgin, Johannes Fleck , Keith Richards We show that the EU&#8217;s 2018 retaliation against US steel and aluminum tariffs targeted goods with low US import dependence and high substitutability. For the majority of tariffed goods, the US share of EU imports declined notably and remained below pre-2018 levels even after the retaliatory tariffs were lifted, reflecting asymmetric effects of tarif\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "IFDP Paper: Volatile Rates, Fragile Growth: Global Financial Risk and Productivity Dynamics",
@@ -482,10 +365,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 10,
-      "quant_categories": [],
-      "summary": "Nils Gornemann , Eugenio Rojas, Felipe Saffie Does global financial risk affect long-run growth? Using a panel state-space model for emerging and advanced small open economies, we measure the effects of U.S. monetary policy uncertainty shocks. A one-standard-deviation shock lowers the level of the stochastic trend in emerging markets by at least 25 basis points after three years, with little effec\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 10/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/19/2026",
@@ -499,12 +379,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/19/2026. To see our most recent links, visit the Quant Mashup. Read on readers! More of the Disease, Faster (What happens when you ask an LLM to find you an edge) [Robot Wealth] This week I discovered the vibe quant movement (or [&#8230;] The post Recent Quant Links from Quantocracy as of 03/19/2026 appeared first on Qu\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "More of the Disease, Faster (What happens when you ask an LLM to find you an edge)",
@@ -518,16 +393,10 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 50,
-      "quant_categories": [
-        "strategies",
-        "tools_tech"
-      ],
-      "summary": "This week I discovered the &#8220;vibe quant&#8221; movement (or rather, it discovered me). People using LLMs to find trading strategies, validate them, and put them into production. The pitch is seductive: the LLM reads the literature, implements the ideas, backtests them, and you just supervise. I think this approach is going to cost people a ... Read more The post More of the Disease, Faster (W\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 50/100\n\ud83c\udfaf **Categories:** strategies, tools tech\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Will South Korea\u2019s epic bull market survive the energy shock?",
+      "title": "Will South Korea’s epic bull market survive the energy shock?",
       "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
       "desc": "Probably, but investors should brace for more volatility",
       "date": "2026-03-17T19:14:10.000Z",
@@ -539,12 +408,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "Probably, but investors should brace for more volatility\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/16/2026",
@@ -558,15 +422,10 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 03/16/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Landing Your First Role &#8211; Breaking Into Quant Finance [Quantt] Why Breaking In Feels So Hard (and Why It Is Still Achievable) If you are trying to get [&#8230;] The post Recent Quant Links from Quantocracy as of 03/16/2026 appeared first\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Pricing of Climate Risk Insurance: Regulation and Cross\u2010Subsidies",
+      "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70029?af=R",
       "desc": "The Journal of Finance, EarlyView.",
       "date": "2026-03-16T08:46:54.000Z",
@@ -577,12 +436,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, EarlyView.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/15/2026",
@@ -596,17 +450,12 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Calendar Ensemble: Building an Event-Driven Alpha Overlay [Beyond Passive] In the previous article, we established that the Sharpe ratio is the single most important number in portfolio [&#8230;] The post Recent Quant Links from Quantocrac\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Unlocking Hidden Value: How Corporate Language Reveals the Future of Intangible Investment",
       "link": "https://alphaarchitect.com/intangible-investment/",
-      "desc": "Intangible assets\u2014things like brand reputation, proprietary knowledge, and organizational capabilities\u2014have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital. However, measuring these assets remains one of finance's great challenges. Andrea Eisfeldt, Barney Hartman-Glaser, Edwa",
+      "desc": "Intangible assets—things like brand reputation, proprietary knowledge, and organizational capabilities—have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital. However, measuring these assets remains one of finance's great challenges. Andrea Eisfeldt, Barney Hartman-Glaser, Edwa",
       "date": "2026-03-13T15:38:00.000Z",
       "label": "Alpha Architect",
       "type": "analysis",
@@ -615,10 +464,7 @@
         "research",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Intangible assets\u2014things like brand reputation, proprietary knowledge, and organizational capabilities\u2014have become more valuable than physical factories and equipment with many studies estimating that intangibles now account for roughly one third to one half of corporate capital. However, measuring these assets remains one of finance's great challenges. Andrea Eisfeldt, Barney Hartman-Glaser, Edwa\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/12/2026",
@@ -632,12 +478,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Quant&#8217;s Guide to Cross-Section Maxxing, Code Included [Quant Galore] Quantitative trading is about many things; buying low and selling high, chasing momentum, capturing yield, arbitraging price imbalances [&#8230;] The post Recent Qu\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Report of the 2026 Annual Membership Meeting",
@@ -651,15 +492,10 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, EarlyView.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Donald Trump\u2019s options to cool oil prices are sorely limited",
+      "title": "Donald Trump’s options to cool oil prices are sorely limited",
       "link": "https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited",
       "desc": "He says he has a plan. It would need to be very cunning",
       "date": "2026-03-10T21:55:49.000Z",
@@ -671,12 +507,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F10%2Fdonald-trumps-options-to-cool-oil-prices-are-sorely-limited",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "He says he has a plan. It would need to be very cunning\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "The Best Defensive Strategies: Two Centuries of Evidence",
@@ -690,10 +521,7 @@
         "research",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Which defensive strategies have actually worked, and do the conclusions survive when we evaluate them over multiple centuries rather than a few decades? The Best Defensive Strategies: Two Centuries of Evidence was originally published at Alpha Architect . Please read the Alpha Architect disclosures at your convenience.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
@@ -707,12 +535,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal portfolio allocation has occupied quantitative researchers for decades. Markowitz gave us mean-variance optimization [&#82\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Everything Everywhere All at Once",
@@ -726,12 +549,7 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "The four hats of the solo trader At a trading firm or fund, the researcher doesn&#8217;t run the execution desk. The portfolio manager doesn&#8217;t build the tech and infrastructure. These are different jobs, done by different people, with different skill sets. When you&#8217;re trading solo, you&#8217;re all of those people (and more). And the thing ... Read more The post Everything Everywhere A\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Income Mobility of the Top One Percent",
@@ -745,10 +563,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "David Splinter and Jeff Larrimore Circulation into and out of the top one percent is pronounced in the U.S. One third exit after a year and two-thirds exit after a decade. This mobility lowers top income shares when shifting from annual to multi-year income measures. Intragenerational mobility over two decades lowers recent top one percent fiscal income shares by over 10 percent. Two-decade mobili\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "IFDP Paper: Quantifying Deregulation and its Economic Effects: A Large Language Model Approach",
@@ -762,12 +577,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Danilo Cascaldi-Garcia and Matteo Iacoviello We construct a news-based index of deregulation for the United States from 1960 through 2025 using AI to semantically classify newspaper articles. We distinguish articles discussing deregulation from those discussing increased regulation, assigning intensity scores that reflect both the centrality of deregulatory content and whether articles discuss adv\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/05/2026",
@@ -781,12 +591,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! New Contributor: Scaling Python Financial Models on AWS [Quantt] How to take a Python financial model from running 150 scenarios in a Lambda function to processing over a [&#8230;] The post Recent Quant Links from Quantocracy as of 03/05/202\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: The Practice of U.S. Monetary Policy Independence from Martin to Greenspan",
@@ -800,10 +605,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Edward Nelson Central bank independence is a major area of study, but the economic literature has been characterized by numerous misstatements regarding how U.S. monetary policy independence has operated over time. Against this backdrop, this paper lays out major elements of the practice of central bank independence in the United States in the period from 1951 to 2006&#8212;a time span that encomp\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "IFDP Paper: The Effects of the War on Ukraine on Global Corporate Investment",
@@ -817,10 +619,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Dario Caldara , Mike McHenry , Matteo Iacoviello , and Immo Schott We study the investment effects of the Russia&#8211;Ukraine war using a novel, text-based measure of firm-level exposure derived from earnings call transcripts. Combining this measure with financial statement data for over 6,500 firms across 50 countries, we show that exposure to the conflict led to sizable and persistent declines \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
@@ -834,12 +633,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we built up a conceptual understanding of universe selection: how to find [&#8230;] The post Recent Quant Links from Quantocrac\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Debt Flexibility(Revised)",
@@ -853,10 +647,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Rhys Bidder, Nicolas Crouzet, Margaret M. Jacobson , and  Michael Siemer How flexible are corporate loans after origination? Theory predicts coordination problems should make syndicated loans harder to modify than single-bank loans. We show the opposite. Using comprehensive regulatory data, we document that syndicated loans are modified frequently and respond to borrower distress, while single-len\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Fund Selection When Borrowing Is Restricted",
@@ -870,10 +661,7 @@
         "research",
         "quant"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Once borrowing is realistically restricted, the Sharpe ratio can stop lining up with what investors actually care about: utility. This paper argues that in this constrained world, the geometric mean is a better compass. Fund Selection When Borrowing Is Restricted was originally published at Alpha Architect . Please read the Alpha Architect disclosures at your convenience.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations",
@@ -887,12 +675,7 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 25,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care about directly, rather than reaching for statistical tests like ... Read more The post The Winter of our Pairs Trading \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 25/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Disruptions to Foreign Trade and U.S. Banks' Returns",
@@ -906,12 +689,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Michele Modugno , Dino Palazzo , Carlos A. Ram&iacute;rez , and Thiago R.T. Ferreira We develop a market-based measure of firms' and industries' exposure to foreign trade disruptions. Combining this approach with detailed supervisory data, we quantify large U.S. banks' exposure to such disruptions and propose a novel bank-level vulnerability index. We show that banks with greater exposure experien\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Enforcing Fair Lending: Evidence from Mortgage Market Litigation",
@@ -925,10 +703,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Matthew Maury, Michael Suher , and Jeffery Y. Zhang Does fair lending litigation impact mortgage lender decisions? Using a novel dataset of all fair lending legal actions from 1991 to 2023, we find that it does. In the wake of legal settlements for discrimination against Black borrowers, lenders significantly reduced denial rates for Black applicants. The reductions offset pre-litigation racial di\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 02/26/2026",
@@ -942,13 +717,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies",
-        "hedge_funds"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 02/26/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Systematic Allocation in International Equity Regimes [Quantpedia] This research examines the critical quantitative investment problem of systematic tactical allocation to international equity mandatesspecifically Emerging Markets (EM) and E\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies, hedge funds\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Contrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems",
@@ -962,10 +731,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Melissa Leistra This paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 02/23/2026",
@@ -979,12 +745,7 @@
         "strategies",
         "community"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 02/23/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Evaluating Reversal Potential in Niche Alternative ETFs [Quantpedia] Alternative ETFs sit at an unusual intersection of public-market accessibility and hedge-fund-style investment techniques. They package managed futures, merger arbitrage, [&#\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "FEDS Paper: Decomposing Gender Differences in Bankcard Credit Limits: Evidence from Sole Mortgage Applicants(Revised)",
@@ -998,10 +759,7 @@
         "policy",
         "research"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Nathan Blascak and Anna Tranfaglia Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total credit card limits for sole mortgage applicants. We estimate that male borrowers have approximately $1,300 higher total credit card limits than female borrowers. This gap is primarily driven by a large gende\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "The Benefits of Access: Evidence from Private Meetings with Portfolio Firms",
@@ -1015,17 +773,12 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, EarlyView.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Moneyball: Finding Undervalued Pairs Using Unconventional Metrics",
       "link": "https://robotwealth.com/moneyball-finding-undervalued-pairs-using-unconventional-metrics/",
-      "desc": "Previously: \u200bA Tale of Two Prices (the core idea of stat arb)\u200b Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Remember the forced flows example, some fund or whatever having to ... Read more The post Moneyball: Finding Undervalued Pa",
+      "desc": "Previously: ​A Tale of Two Prices (the core idea of stat arb)​ Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Remember the forced flows example, some fund or whatever having to ... Read more The post Moneyball: Finding Undervalued Pa",
       "date": "2026-02-20T07:23:51.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1034,15 +787,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 0,
-      "quant_categories": [],
-      "summary": "Previously: \u200bA Tale of Two Prices (the core idea of stat arb)\u200b Last time we established that stat arb is really about betting on divergence/convergence behaviour continuing. Two things that have historically moved together come apart, and you bet on them coming back together. Remember the forced flows example, some fund or whatever having to ... Read more The post Moneyball: Finding Undervalued Pa\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 0/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "A Tale of Two Prices",
       "link": "https://robotwealth.com/a-tale-of-two-prices/",
-      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness&#8230; I\u2019ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn\u2019t particularly useful for people like me and the ... Read more The post A Tale of Two Prices appeared first on",
+      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness&#8230; I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn’t particularly useful for people like me and the ... Read more The post A Tale of Two Prices appeared first on",
       "date": "2026-02-20T07:13:24.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1051,10 +801,7 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 10,
-      "quant_categories": [],
-      "summary": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness&#8230; I\u2019ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn\u2019t particularly useful for people like me and the ... Read more The post A Tale of Two Prices appeared first on\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 10/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "ANNOUNCEMENTS",
@@ -1068,12 +815,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 551-551, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "AMERICAN FINANCE ASSOCIATION",
@@ -1087,15 +829,10 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 552-553, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Asset Pricing and Risk\u2010Sharing Implications of Alternative Pension Plan Systems",
+      "title": "Asset Pricing and Risk‐Sharing Implications of Alternative Pension Plan Systems",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13507?af=R",
       "desc": "The Journal of Finance, Volume 81, Issue 1, Page 143-188, February 2026.",
       "date": "2026-02-19T07:03:27.000Z",
@@ -1106,12 +843,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 143-188, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Paying Too Much? Borrower Sophistication and Overpayment in the U.S. Mortgage Market",
@@ -1125,12 +857,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 49-90, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Second Chance: Life with Less Student Debt",
@@ -1144,12 +871,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 507-550, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "An Economic View of Corporate Social Impact",
@@ -1163,15 +885,10 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 285-328, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Losing Control? The Two\u2010Decade Decline in Loan Covenant Violations",
+      "title": "Losing Control? The Two‐Decade Decline in Loan Covenant Violations",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70005?af=R",
       "desc": "The Journal of Finance, Volume 81, Issue 1, Page 371-412, February 2026.",
       "date": "2026-02-19T07:03:27.000Z",
@@ -1182,12 +899,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 371-412, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Investment under Upstream and Downstream Uncertainty",
@@ -1201,12 +913,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 413-457, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Going Public and the Internal Organization of the Firm",
@@ -1220,12 +927,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 459-505, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "What Drives Investors' Portfolio Choices? Separating Risk Preferences from Frictions",
@@ -1239,12 +941,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 40,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 5-48, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 40/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Dynamic Trading with Realization Utility",
@@ -1258,13 +955,7 @@
         "peer-reviewed",
         "finance"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies",
-        "research"
-      ],
-      "summary": "The Journal of Finance, Volume 81, Issue 1, Page 189-238, February 2026.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies, research\n\ud83d\udcda **Academic Research** with quant finance applications\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "John Hull: Tributes from the Quant Community",
@@ -1278,13 +969,7 @@
         "technical",
         "quant-community"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies",
-        "industry"
-      ],
-      "summary": "In remembrance of John Hull here we publish tributes from the Quant Community. [...]\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies, industry\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "How to hedge a bubble, AI edition",
@@ -1299,15 +984,10 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F08%2Fhow-to-hedge-a-bubble-ai-edition",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "Protecting your portfolio from a crash looks harder than ever\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
-      "title": "The fate of Japan\u2019s $6trn foreign portfolio rattles global markets",
+      "title": "The fate of Japan’s $6trn foreign portfolio rattles global markets",
       "link": "https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
       "desc": "The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching",
       "date": "2026-01-29T10:00:58.000Z",
@@ -1319,17 +999,12 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Much Ado About Variance",
       "link": "https://robotwealth.com/much-ado-about-variance/",
-      "desc": "What&#8217;s Past is Prologue Let\u2019s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there\u2019s a big difference between \u201cthe ... Read more The post Much Ado About Variance appeared first on Robot Wea",
+      "desc": "What&#8217;s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there’s a big difference between “the ... Read more The post Much Ado About Variance appeared first on Robot Wea",
       "date": "2026-01-11T10:15:28.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1338,17 +1013,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "hedge_funds"
-      ],
-      "summary": "What&#8217;s Past is Prologue Let\u2019s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there\u2019s a big difference between \u201cthe ... Read more The post Much Ado About Variance appeared first on Robot Wea\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** hedge funds\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Venezuela\u2019s astoundingly messy debts are about to get messier",
+      "title": "Venezuela’s astoundingly messy debts are about to get messier",
       "link": "https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier",
-      "desc": "Oil majors, hedge funds, Chinese lenders\u2014all have a stake",
+      "desc": "Oil majors, hedge funds, Chinese lenders—all have a stake",
       "date": "2026-01-07T19:36:40.000Z",
       "label": "The Economist Finance",
       "type": "news",
@@ -1358,17 +1028,10 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F07%2Fvenezuelas-astoundingly-messy-debts-are-about-to-get-messier",
-      "quant_score": 30,
-      "quant_categories": [
-        "hedge_funds"
-      ],
-      "summary": "Oil majors, hedge funds, Chinese lenders\u2014all have a stake\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** hedge funds\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
-      "title": "Investors expect AI use to soar. That\u2019s not happening",
+      "title": "Investors expect AI use to soar. That’s not happening",
       "link": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "desc": "Recent surveys point to flatlining business adoption",
       "date": "2025-11-26T16:30:42.000Z",
@@ -1380,12 +1043,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F26%2Finvestors-expect-ai-use-to-soar-thats-not-happening",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "Recent surveys point to flatlining business adoption\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Cboe Global Markets Plans to Launch Bitcoin and Ether Continuous Futures",
@@ -1399,13 +1057,7 @@
         "technical",
         "quant-community"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies",
-        "industry"
-      ],
-      "summary": "Cboe&#160;Global Markets announced plans to launch Bitcoin and Ether Continuous Futures on December 15, 2025, pending regulatory review. The new products, trading under the tickers PBT and PET on&#160;Cboe&#160;Futures Exchange, represent a significant development in [...]\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies, industry\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Hedge Funds Embrace Crypto as US Regulatory Environment Improves",
@@ -1419,16 +1071,10 @@
         "technical",
         "quant-community"
       ],
-      "isPaywalled": false,
-      "quant_score": 35,
-      "quant_categories": [
-        "hedge_funds",
-        "industry"
-      ],
-      "summary": "More than half of traditional hedge funds now hold digital assets, according to new research from the Alternative Investment Management Association (AIMA) and PwC. The firms&#8217; 7th Annual Global Crypto Hedge Fund Report reveals that [...]\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** hedge funds, industry\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
-      "title": "Why Wall Street won\u2019t see the next crash coming",
+      "title": "Why Wall Street won’t see the next crash coming",
       "link": "https://www.economist.com/finance-and-economics/2025/11/02/why-wall-street-wont-see-the-next-crash-coming",
       "desc": "Even the best traders struggle to predict sudden jumps in volatility",
       "date": "2025-11-02T11:46:08.000Z",
@@ -1440,17 +1086,12 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F02%2Fwhy-wall-street-wont-see-the-next-crash-coming",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "Even the best traders struggle to predict sudden jumps in volatility\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
-      "title": "Why You Can\u2019t Tell if Your Strategy \u201cStopped Working\u201d (Statistically Speaking)",
+      "title": "Why You Can’t Tell if Your Strategy “Stopped Working” (Statistically Speaking)",
       "link": "https://robotwealth.com/why-you-cant-tell-if-your-strategy-stopped-working-statistically-speaking/",
-      "desc": "Traders love the illusion of precision. A few bad weeks go by, and you think, \u201cLet\u2019s run a t-test and see if the strategy stopped working.\u201d It sounds rigorous. It isn\u2019t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility &#8211; roughly the S&#38;P\u2019s long-term profile. We\u2019ll simulate five years of ... Read more The post Why You Can\u2019t Tell if Your Strategy \u201cStopped Working\u201d (",
+      "desc": "Traders love the illusion of precision. A few bad weeks go by, and you think, “Let’s run a t-test and see if the strategy stopped working.” It sounds rigorous. It isn’t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility &#8211; roughly the S&#38;P’s long-term profile. We’ll simulate five years of ... Read more The post Why You Can’t Tell if Your Strategy “Stopped Working” (",
       "date": "2025-10-10T07:01:44.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1459,10 +1100,7 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 20,
-      "quant_categories": [],
-      "summary": "Traders love the illusion of precision. A few bad weeks go by, and you think, \u201cLet\u2019s run a t-test and see if the strategy stopped working.\u201d It sounds rigorous. It isn\u2019t. Imagine a strategy that, in truth, earns 10% per year with 20% volatility &#8211; roughly the S&#38;P\u2019s long-term profile. We\u2019ll simulate five years of ... Read more The post Why You Can\u2019t Tell if Your Strategy \u201cStopped Working\u201d (\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 20/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Credit markets look increasingly dangerous",
@@ -1477,12 +1115,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F10%2F02%2Fcredit-markets-look-increasingly-dangerous",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "A pair of bankruptcies highlight the risks\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "The eccentric investment strategy that beats the rest",
@@ -1497,17 +1130,12 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F10%2F01%2Fthe-eccentric-investment-strategy-that-beats-the-rest",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "Introducing the 25/25/25/25 portfolio\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
-      "title": "Trading Without Edge? That\u2019s expensive gambling, I said\u2026",
+      "title": "Trading Without Edge? That’s expensive gambling, I said…",
       "link": "https://robotwealth.com/trading-without-edge-thats-expensive-gambling-i-said/",
-      "desc": "When I first got interested in trading, \u200bThe Whitlams\u200b were all over Australian radio, and I was making all the beginner mistakes. A big one &#8211; focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools &#8211; cointegration tests, Hurst exponents, Kalman ... Read more The post Trading Without Edge? That\u2019",
+      "desc": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one &#8211; focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools &#8211; cointegration tests, Hurst exponents, Kalman ... Read more The post Trading Without Edge? That’",
       "date": "2025-09-23T04:08:42.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1516,18 +1144,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies",
-        "tools_tech"
-      ],
-      "summary": "When I first got interested in trading, \u200bThe Whitlams\u200b were all over Australian radio, and I was making all the beginner mistakes. A big one &#8211; focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools &#8211; cointegration tests, Hurst exponents, Kalman ... Read more The post Trading Without Edge? That\u2019\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies, tools tech\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Finding Edges",
       "link": "https://robotwealth.com/finding-edges/",
-      "desc": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn\u2019t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won\u2019t let you sell naked options. You ... Read more The post Finding Edges appeared first on Robot Wealth .",
+      "desc": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn’t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won’t let you sell naked options. You ... Read more The post Finding Edges appeared first on Robot Wealth .",
       "date": "2025-08-31T05:06:22.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1536,15 +1158,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 25,
-      "quant_categories": [],
-      "summary": "How do we find edges? First, we must be clear about what constitutes a good idea. It isn\u2019t as simple as it having to make money. The risk profile must also be tolerable. This is a personal preference. Next, we need to be able to trade it. Robinhood won\u2019t let you sell naked options. You ... Read more The post Finding Edges appeared first on Robot Wealth .\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 25/100\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Trading Signals in High Definition",
       "link": "https://robotwealth.com/trading-signals-in-high-definition/",
-      "desc": "We&#8217;ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You\u2019ve seen them everywhere. \u201cIf price is above the 20-day moving average, ... Read more The post Trading Signals in High Definition appeared ",
+      "desc": "We&#8217;ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You’ve seen them everywhere. “If price is above the 20-day moving average, ... Read more The post Trading Signals in High Definition appeared ",
       "date": "2025-08-15T12:57:38.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1553,17 +1172,12 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 15,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "We&#8217;ve all used on/off type trading signals at some point. But you can nearly always extract more insight with a simple adjustment that focuses on using data efficiently. Let me show you how using a crypto trend example. The problem with binary signals You\u2019ve seen them everywhere. \u201cIf price is above the 20-day moving average, ... Read more The post Trading Signals in High Definition appeared \n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 15/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Understanding &#8220;why&#8221; beats statistical significance",
       "link": "https://robotwealth.com/understanding-why-beats-statistical-significance/",
-      "desc": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is \u201creal\u201d or just random noise. And in many fields, that\u2019s exactly right. But trading is different. Statistical tests ... Read more The post Understanding &#82",
+      "desc": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is “real” or just random noise. And in many fields, that’s exactly right. But trading is different. Statistical tests ... Read more The post Understanding &#82",
       "date": "2025-08-11T04:02:28.000Z",
       "label": "Robot Wealth",
       "type": "analysis",
@@ -1572,12 +1186,7 @@
         "trading",
         "strategies"
       ],
-      "isPaywalled": false,
-      "quant_score": 25,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Do you find yourself obsessing over p-values and t-stats when evaluating trading ideas? I get it. If you come from an academic or scientific background, statistical significance feels like the gold standard for determining whether something is \u201creal\u201d or just random noise. And in many fields, that\u2019s exactly right. But trading is different. Statistical tests ... Read more The post Understanding &#82\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 25/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udee0\ufe0f **Practical Insights** for quant practitioners\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": false
     },
     {
       "title": "Want better returns? Forget risk. Focus on fear",
@@ -1592,12 +1201,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F08%2F06%2Fwant-better-returns-forget-risk-focus-on-fear",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "A recent study suggests a new paradigm for asset pricing\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Trump will not let the world move on from tariffs",
@@ -1612,14 +1216,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F08%2F01%2Ftrump-will-not-let-the-world-move-on-from-tariffs",
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Six charts show the damage to America, its trading partners and its consumers\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "A fresh retail-trading frenzy is reshaping financial markets",
@@ -1634,14 +1231,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F07%2F29%2Fa-fresh-retail-trading-frenzy-is-reshaping-financial-markets",
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "Blame apps and DORKs, not stimmies\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Europe averts its Trumpian trade nightmare",
@@ -1656,15 +1246,10 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F07%2F28%2Feurope-averts-its-trumpian-trade-nightmare",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "A deal with America chooses certain tariffs over risky retaliation\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
-      "title": "Crypto\u2019s big bang will revolutionise finance",
+      "title": "Crypto’s big bang will revolutionise finance",
       "link": "https://www.economist.com/finance-and-economics/2025/07/23/cryptos-big-bang-will-revolutionise-finance",
       "desc": "The more useful stablecoins and tokens prove to be, the greater the risk",
       "date": "2025-07-23T19:01:11.000Z",
@@ -1676,12 +1261,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F07%2F23%2Fcryptos-big-bang-will-revolutionise-finance",
-      "quant_score": 30,
-      "quant_categories": [],
-      "summary": "The more useful stablecoins and tokens prove to be, the greater the risk\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Why 24/7 trading is a bad idea",
@@ -1696,14 +1276,7 @@
         "finance",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F07%2F23%2Fwhy-247-trading-is-a-bad-idea",
-      "quant_score": 30,
-      "quant_categories": [
-        "strategies"
-      ],
-      "summary": "There are advantages to the old-fashioned working day\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "Chinese Investors With Few Options Turn to Dividends",
@@ -1718,19 +1291,12 @@
         "quant",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main",
-      "quant_score": 35,
-      "quant_categories": [
-        "research"
-      ],
-      "summary": "Companies with good payouts are now the hottest bet in China markets.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** research\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     },
     {
       "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
       "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-      "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn\u2019t delivered anything to shock markets so far.",
+      "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
       "date": "2025-01-27T10:02:00.000Z",
       "label": "Wall Street Journal Markets",
       "type": "news",
@@ -1740,15 +1306,7 @@
         "quant",
         "premium"
       ],
-      "isPaywalled": true,
-      "is_premium": true,
-      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main",
-      "quant_score": 35,
-      "quant_categories": [
-        "strategies",
-        "research"
-      ],
-      "summary": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn\u2019t delivered anything to shock markets so far.\n\n\ud83d\udd2c **Quant Finance Analysis**\n\ud83d\udcca **Quant Relevance Score:** 35/100\n\ud83c\udfaf **Categories:** strategies, research\n\ud83d\udd12 **Premium Content** (Archived version available)\n\ud83d\udca1 **Market Impact** for quantitative trading strategies\n\n\ud83c\udfaf **For:** Quantitative researchers, algorithmic traders, risk managers, hedge fund analysts."
+      "isPaywalled": true
     }
   ]
 }
