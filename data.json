@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T12:17:18.423007Z",
+  "updated": "2026-03-24T12:21:35.500Z",
   "count": 15,
   "failed": [],
   "items": [
@@ -19,12 +19,12 @@
       "quant_categories": [
         "research"
       ],
-      "summary": "We investigate the data-driven discovery of parametric representations for implied volatility slices. Using symbolic regression, we search for simple analytic formulas that approximate the total implied variance as a function of log-moneyness and maturity. Our approach generates candidate parametriz\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "We investigate the data-driven discovery of parametric representations for implied volatility slices. Using symbolic regression, we search for simple analytic formulas that approximate the total implied variance as a function of log-moneyness and maturity. Our approach generates candidate parametriz\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "A Rank-Dependent Theory for Decision under Risk and Ambiguity",
       "link": "http://arxiv.org/abs/2312.05977v4",
-      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $\u0394$ of probabilities, a probability weighting function $\u03c8$, generat",
+      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $Δ$ of probabilities, a probability weighting function $ψ$, generat",
       "date": "2026-03-22T20:16:03.000Z",
       "type": "research",
       "label": "arXiv q-fin",
@@ -37,7 +37,7 @@
       "quant_categories": [
         "research"
       ],
-      "summary": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $\u0394$ of probabilities, a probability weighting function $\u03c8$, generat\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $Δ$ of probabilities, a probability weighting function $ψ$, generat\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
@@ -57,7 +57,7 @@
         "tools",
         "research"
       ],
-      "summary": "We present FinRL-X, a modular and deployment-consistent trading architecture that unifies data processing, strategy construction, backtesting, and broker execution under a weight-centric interface. While existing open-source platforms are often backtesting- or model-centric, they rarely provide syst\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies, tools, research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** backtesting\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "We present FinRL-X, a modular and deployment-consistent trading architecture that unifies data processing, strategy construction, backtesting, and broker execution under a weight-centric interface. While existing open-source platforms are often backtesting- or model-centric, they rarely provide syst\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies, tools, research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** backtesting\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Learning collision risk proactively from naturalistic driving data at scale",
@@ -65,7 +65,7 @@
       "desc": "Accurately and proactively alerting drivers or automated systems to emerging collisions is crucial for road safety, particularly in highly interactive and complex urban environments. Existing methods either require labour-intensive annotation of sparse risk, struggle to consider varying contextual f",
       "date": "2026-03-22T15:13:31.000Z",
       "type": "research",
-      "label": "arXiv ML\u00d7Finance",
+      "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
@@ -76,7 +76,7 @@
       "quant_categories": [
         "research"
       ],
-      "summary": "Accurately and proactively alerting drivers or automated systems to emerging collisions is crucial for road safety, particularly in highly interactive and complex urban environments. Existing methods either require labour-intensive annotation of sparse risk, struggle to consider varying contextual f\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "Accurately and proactively alerting drivers or automated systems to emerging collisions is crucial for road safety, particularly in highly interactive and complex urban environments. Existing methods either require labour-intensive annotation of sparse risk, struggle to consider varying contextual f\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Learning to Aggregate Zero-Shot LLM Agents for Corporate Disclosure Classification",
@@ -94,7 +94,7 @@
       "quant_categories": [
         "research"
       ],
-      "summary": "This paper studies whether a lightweight trained aggregator can combine diverse zero-shot large language model judgments into a stronger downstream signal for corporate disclosure classification. Zero-shot LLMs can read disclosures without task-specific fine-tuning, but their predictions often vary \n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "This paper studies whether a lightweight trained aggregator can combine diverse zero-shot large language model judgments into a stronger downstream signal for corporate disclosure classification. Zero-shot LLMs can read disclosures without task-specific fine-tuning, but their predictions often vary \n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Notes on Correlation Stress Tests",
@@ -112,7 +112,7 @@
       "quant_categories": [
         "research"
       ],
-      "summary": "This note outlines an approach to stress testing of covariance of financial time series, in the context of financial risk management. It discusses how the geodesic distance between covariance matrices implies a notion of plausibility of covariance stress tests. In this approach, correlation stress t\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** risk management, var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "This note outlines an approach to stress testing of covariance of financial time series, in the context of financial risk management. It discusses how the geodesic distance between covariance matrices implies a notion of plausibility of covariance stress tests. In this approach, correlation stress t\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** risk management, var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
@@ -120,7 +120,7 @@
       "desc": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not",
       "date": "2026-03-18T13:09:11.000Z",
       "type": "research",
-      "label": "arXiv ML\u00d7Finance",
+      "label": "arXiv ML×Finance",
       "tags": [
         "ML",
         "paper",
@@ -132,7 +132,7 @@
         "strategies",
         "research"
       ],
-      "summary": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies, research\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** portfolio optimization\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies, research\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** portfolio optimization\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
@@ -149,7 +149,7 @@
       ],
       "quant_score": 30,
       "quant_categories": [],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal portfolio allocation h\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** portfolio optimization\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal portfolio allocation h\n\n🔬 **Quant Finance Analysis:**\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** portfolio optimization\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
@@ -168,7 +168,7 @@
       "quant_categories": [
         "strategies"
       ],
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we built up a conceptual un\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** pairs trading\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we built up a conceptual un\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** pairs trading\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations",
@@ -187,7 +187,7 @@
       "quant_categories": [
         "strategies"
       ],
-      "summary": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care about directly, rat\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** statistical arbitrage, pairs trading\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "Part 3 of a series on Statistical Arbitrage for Independent Traders Previously: In the last article, we built up a conceptual understanding of universe selection: how to find pairs that diverge and converge in a tradeable way. We talked about measuring the thing you actually care about directly, rat\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** statistical arbitrage, pairs trading\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "FEDS Paper: Contrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems",
@@ -204,12 +204,12 @@
       ],
       "quant_score": 30,
       "quant_categories": [],
-      "summary": "Melissa Leistra This paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "Melissa Leistra This paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.\n\n🔬 **Quant Finance Analysis:**\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "A Tale of Two Prices",
       "link": "https://robotwealth.com/a-tale-of-two-prices/",
-      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness  I\u2019ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn\u2019t particularly u",
+      "desc": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness  I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn’t particularly u",
       "date": "2026-02-20T07:13:24.000Z",
       "type": "analysis",
       "label": "Robot Wealth",
@@ -223,12 +223,12 @@
       "quant_categories": [
         "strategies"
       ],
-      "summary": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness  I\u2019ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn\u2019t particularly u\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** statistical arbitrage\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "Part 1 of a series on Statistical Arbitrage for Independent Traders. It was the age of wisdom, it was the age of foolishness  I’ve seen heaps of stuff published online about stat arb lately. Some genuinely good takes. And some other material that, while academically interesting, isn’t particularly u\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** statistical arbitrage\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "The macro-financial impact of economic policy uncertainty in Latin America",
       "link": "https://www.bis.org/publ/work1324.htm",
-      "desc": "by Ana Aguilar, Rafael Guerra, Carola M\u00fcller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
+      "desc": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an",
       "date": "2026-01-21T07:14:00.000Z",
       "type": "research",
       "label": "BIS Working Papers",
@@ -240,12 +240,12 @@
       ],
       "quant_score": 30,
       "quant_categories": [],
-      "summary": "by Ana Aguilar, Rafael Guerra, Carola M\u00fcller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "by Ana Aguilar, Rafael Guerra, Carola Müller, Alexandre Tombini<br />This paper investigates the impact of domestic economic policy uncertainty (EPU) on macroeconomic and financial variables in emerging market economies, focusing on Latin America. Using a panel dataset for Brazil, Chile, Colombia an\n\n🔬 **Quant Finance Analysis:**\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
       "title": "Much Ado About Variance",
       "link": "https://robotwealth.com/much-ado-about-variance/",
-      "desc": "What\u2019s Past is Prologue Let\u2019s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there\u2019s a big diff",
+      "desc": "What’s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there’s a big diff",
       "date": "2026-01-11T10:15:28.000Z",
       "type": "analysis",
       "label": "Robot Wealth",
@@ -257,12 +257,12 @@
       ],
       "quant_score": 30,
       "quant_categories": [],
-      "summary": "What\u2019s Past is Prologue Let\u2019s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there\u2019s a big diff\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** var\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "What’s Past is Prologue Let’s be honest: 2025 was a pretty good year to be a systematic trader. If you had a diversified portfolio of risk premia, you probably did alright. Claiming we did anything overly special in such a favourable environment would be a tad arrogant. That said, there’s a big diff\n\n🔬 **Quant Finance Analysis:**\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** var\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     },
     {
-      "title": "Trading Without Edge? That\u2019s expensive gambling, I said\u2026",
+      "title": "Trading Without Edge? That’s expensive gambling, I said…",
       "link": "https://robotwealth.com/trading-without-edge-thats-expensive-gambling-i-said/",
-      "desc": "When I first got interested in trading, \u200bThe Whitlams\u200b were all over Australian radio, and I was making all the beginner mistakes. A big one \u2013 focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools \u2013 cointeg",
+      "desc": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one – focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools – cointeg",
       "date": "2025-09-23T04:08:42.000Z",
       "type": "analysis",
       "label": "Robot Wealth",
@@ -277,7 +277,7 @@
         "strategies",
         "tools"
       ],
-      "summary": "When I first got interested in trading, \u200bThe Whitlams\u200b were all over Australian radio, and I was making all the beginner mistakes. A big one \u2013 focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools \u2013 cointeg\n\n\ud83d\udd2c **Quant Finance Analysis:**\n\ud83c\udfaf **Categories:** strategies, tools\n\ud83d\udcca **Quant Relevance Score:** 30/100\n\ud83d\udca1 **Key Quant Topics:** backtesting\n\n\ud83d\udee0\ufe0f **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
+      "summary": "When I first got interested in trading, ​The Whitlams​ were all over Australian radio, and I was making all the beginner mistakes. A big one – focusing on techniques instead of edges. I poured time and energy into building backtesting engines and frameworks for applying all the usual tools – cointeg\n\n🔬 **Quant Finance Analysis:**\n🎯 **Categories:** strategies, tools\n📊 **Quant Relevance Score:** 30/100\n💡 **Key Quant Topics:** backtesting\n\n🛠️ **For Quant Professionals:** Algorithmic traders, quantitative researchers, risk managers, hedge fund analysts."
     }
   ],
   "filtered": 112
