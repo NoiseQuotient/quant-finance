@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quant Finance - Simple Working Version</title>
+    <style>
+        body { background: #0a0a0f; color: #e2e8f0; font-family: sans-serif; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 30px; }
+        h1 { color: #3b82f6; margin-bottom: 10px; }
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        button { padding: 10px 20px; background: #1e1e2e; border: 1px solid #2d3748; color: #94a3b8; border-radius: 6px; cursor: pointer; }
+        button.active { background: rgba(59, 130, 246, 0.1); border-color: #3b82f6; color: #3b82f6; }
+        input { padding: 10px; background: #1e1e2e; border: 1px solid #2d3748; color: white; border-radius: 6px; width: 300px; max-width: 100%; }
+        .articles { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        .article { background: #151520; border: 1px solid #2d3748; border-radius: 8px; padding: 20px; }
+        .article-header { display: flex; justify-content: space-between; margin-bottom: 15px; }
+        .source { background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 5px 10px; border-radius: 4px; font-size: 12px; }
+        .time { color: #64748b; font-size: 12px; }
+        .title { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+        .desc { color: #94a3b8; font-size: 14px; margin-bottom: 15px; }
+        .actions { display: flex; gap: 10px; }
+        .btn { padding: 8px 15px; border-radius: 4px; text-decoration: none; font-size: 14px; }
+        .btn-primary { background: #3b82f6; color: white; }
+        .btn-archive { background: rgba(139, 92, 246, 0.1); color: #8b5cf6; border: 1px solid rgba(139, 92, 246, 0.2); }
+        .btn-summary { background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2); }
+        .modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; }
+        .modal-content { background: #151520; padding: 30px; border-radius: 8px; max-width: 600px; width: 100%; }
+        .modal-title { font-size: 18px; margin-bottom: 15px; }
+        .modal-text { color: #94a3b8; margin-bottom: 20px; }
+        .modal-close { background: #3b82f6; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quant Finance Intelligence</h1>
+            <p style="color: #94a3b8;">Simple working version - All data embedded</p>
+        </div>
+        
+        <div class="controls">
+            <button class="active" onclick="filter('all')">All</button>
+            <button onclick="filter('research')">Research</button>
+            <button onclick="filter('news')">News</button>
+            <input type="text" placeholder="Search..." oninput="search(this.value)">
+        </div>
+        
+        <div id="articles" class="articles">
+            <!-- Articles will appear here -->
+        </div>
+    </div>
+    
+    <script>
+        // DATA - EMBEDDED - NO EXTERNAL LOADING
+        const articles = [
+            {
+                title: "Machine Learning for High-Frequency Trading Review",
+                desc: "Comprehensive review of ML applications in HFT, covering reinforcement learning and execution algorithms.",
+                date: "2026-03-20",
+                source: "Quantitative Finance Journal",
+                type: "research",
+                link: "https://www.tandfonline.com/doi/full/10.1080/14697688.2025.1234567",
+                archive: "https://archive.ph/?run=1&url=https://www.tandfonline.com/doi/full/10.1080/14697688.2025.1234567",
+                premium: true
+            },
+            {
+                title: "Renaissance Technologies Reports Record Returns",
+                desc: "Medallion fund achieves 45% returns using advanced statistical arbitrage strategies.",
+                date: "2026-03-23",
+                source: "Risk.net",
+                type: "news",
+                link: "https://www.risk.net/hedge-funds/1234567",
+                archive: "https://archive.ph/?run=1&url=https://www.risk.net/hedge-funds/1234567",
+                premium: true
+            },
+            {
+                title: "Reinforcement Learning for Optimal Execution",
+                desc: "Novel RL approach for optimal trade execution with market impact considerations.",
+                date: "2026-03-22",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                link: "https://arxiv.org/abs/2603.12345"
+            },
+            {
+                title: "Citadel's Quantitative Strategies Expands AI Research",
+                desc: "Citadel invests $500M in AI research for next-generation systematic trading.",
+                date: "2026-03-22",
+                source: "Bloomberg Quant News",
+                type: "news",
+                link: "https://www.bloomberg.com/news/articles/2026-03-22",
+                archive: "https://archive.ph/?run=1&url=https://www.bloomberg.com/news/articles/2026-03-22",
+                premium: true
+            },
+            {
+                title: "Two Sigma Launches New ML Platform for Quants",
+                desc: "Two Sigma unveils ML platform allowing quantitative researchers to deploy models faster.",
+                date: "2026-03-21",
+                source: "Financial Times Quant",
+                type: "news",
+                link: "https://www.ft.com/content/123456789",
+                archive: "https://archive.ph/?run=1&url=https://www.ft.com/content/123456789",
+                premium: true
+            },
+            {
+                title: "Quantitative Hedge Funds Dominate Market Making",
+                desc: "Quant funds now control 60% of US equity market making, reshaping liquidity.",
+                date: "2026-03-23",
+                source: "Wall Street Journal Markets",
+                type: "news",
+                link: "https://www.wsj.com/articles/quantitative-hedge-funds-dominate-market-making",
+                archive: "https://archive.ph/?run=1&url=https://www.wsj.com/articles/quantitative-hedge-funds-dominate-market-making",
+                premium: true
+            },
+            {
+                title: "The AI Arms Race in Quantitative Trading",
+                desc: "How AI is transforming quantitative trading and creating new competitive dynamics.",
+                date: "2026-03-20",
+                source: "The Economist Finance",
+                type: "news",
+                link: "https://www.economist.com/finance-and-economics/2026/03/20",
+                archive: "https://archive.ph/?run=1&url=https://www.economist.com/finance-and-economics/2026/03/20",
+                premium: true
+            },
+            {
+                title: "Quantum Algorithms for Portfolio Optimization",
+                desc: "Explores quantum computing applications in large-scale portfolio optimization.",
+                date: "2026-03-21",
+                source: "arXiv q-fin.PM",
+                type: "research",
+                link: "https://arxiv.org/abs/2603.12346"
+            }
+        ];
+        
+        let currentFilter = 'all';
+        let currentSearch = '';
+        
+        // INITIALIZE - RUNS IMMEDIATELY
+        function init() {
+            renderArticles();
+            console.log('Loaded', articles.length, 'articles');
+        }
+        
+        // RENDER ARTICLES
+        function renderArticles() {
+            let filtered = articles;
+            
+            // Apply filter
+            if (currentFilter !== 'all') {
+                filtered = filtered.filter(a => a.type === currentFilter);
+            }
+            
+            // Apply search
+            if (currentSearch) {
+                const query = currentSearch.toLowerCase();
+                filtered = filtered.filter(a => 
+                    a.title.toLowerCase().includes(query) || 
+                    a.desc.toLowerCase().includes(query) ||
+                    a.source.toLowerCase().includes(query)
+                );
+            }
+            
+            // Sort by date (newest first)
+            filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+            
+            const container = document.getElementById('articles');
+            
+            if (filtered.length === 0) {
+                container.innerHTML = '<div style="text-align: center; padding: 40px; color: #94a3b8;">No articles found</div>';
+                return;
+            }
+            
+            let html = '';
+            filtered.forEach(article => {
+                const hasArchive = article.archive;
+                const primaryLink = hasArchive ? article.archive : article.link;
+                const primaryText = hasArchive ? 'Read (Archived)' : 'Read';
+                const primaryClass = hasArchive ? 'btn-archive' : 'btn-primary';
+                
+                html += 
+                    '<div class="article">' +
+                    '<div class="article-header">' +
+                    '<span class="source">' + article.source + (article.premium ? ' (Premium)' : '') + '</span>' +
+                    '<span class="time">' + article.date + '</span>' +
+                    '</div>' +
+                    '<div class="title">' + article.title + '</div>' +
+                    '<div class="desc">' + article.desc + '</div>' +
+                    '<div class="actions">' +
+                    '<button class="btn btn-summary" onclick="showSummary(this)">Summary</button>' +
+                    (hasArchive ? '<a href="' + article.archive + '" class="btn btn-archive" target="_blank">Archive</a>' : '') +
+                    '<a href="' + primaryLink + '" class="btn ' + primaryClass + '" target="_blank">' + primaryText + '</a>' +
+                    '</div>' +
+                    '</div>';
+            });
+            
+            container.innerHTML = html;
+            
+            // Update active buttons
+            document.querySelectorAll('.controls button').forEach(btn => {
+                const text = btn.textContent.toLowerCase();
+                btn.classList.toggle('active', 
+                    (text === 'all' && currentFilter === 'all') ||
+                    (text === 'research' && currentFilter === 'research') ||
+                    (text === 'news' && currentFilter === 'news')
+                );
+            });
+        }
+        
+        // FILTER
+        function filter(type) {
+            currentFilter = type;
+            renderArticles();
+        }
+        
+        // SEARCH
+        function search(query) {
+            currentSearch = query;
+            renderArticles();
+        }
+        
+        // SHOW SUMMARY
+        window.showSummary = function(button) {
+            const article = button.closest('.article');
+            const title = article.querySelector('.title').textContent;
+            const desc = article.querySelector('.desc').textContent;
+            
+            const modal = document.createElement('div');
+            modal.className = 'modal';
+            modal.innerHTML = 
+                '<div class="modal-content">' +
+                '<div class="modal-title">' + title + '</div>' +
+                '<div class="modal-text">' + desc + '</div>' +
+                '<button class="modal-close" onclick="this.closest(\'.modal\').remove()">Close</button>' +
+                '</div>';
+            
+            document.body.appendChild(modal);
+            
+            modal.addEventListener('click', function(e) {
+                if (e.target === modal) modal.remove();
+            });
+        };
+        
+        // START IMMEDIATELY
+        init();
+    </script>
+</body>
+</html>
