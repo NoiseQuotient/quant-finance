@@ -710,7 +710,8 @@
       const primaryBtnClass = (isPaywalled && hasArchive) ? 'btn-archive' : 'btn-primary';
       
       // Summary button (will trigger AI summary)
-      const summaryBtn = `<button class="action-btn btn-summary" data-id="${item.link}" onclick="showSummary('${escapeHtml(item.link)}', '${escapeHtml(item.title)}', '${escapeHtml(item.desc || '')}')">Summary</button>`;
+      const itemJson = escapeHtml(JSON.stringify(item));
+      const summaryBtn = `<button class="action-btn btn-summary" data-id="${item.link}" onclick="showSummary('${escapeHtml(item.link)}', '${escapeHtml(item.title)}', '${escapeHtml(item.desc || '')}', ${itemJson})">Summary</button>`;
       
       return `
         <div class="article-card" data-id="${item.link}">
@@ -718,6 +719,7 @@
             <div class="article-source">
               <span class="source-badge ${badgeClass}">${escapeHtml(item.label)}</span>
               ${isPaywalled ? '<span class="source-badge badge-premium" style="background:rgba(245,158,11,0.1);color:#f59e0b;border-color:rgba(245,158,11,0.2);font-size:0.7em;padding:0.15rem 0.5rem;">Premium</span>' : ''}
+              ${item.quant_score ? `<span class="source-badge" style="background:rgba(59,130,246,0.1);color:#3b82f6;border-color:rgba(59,130,246,0.2);font-size:0.7em;padding:0.15rem 0.5rem;">Quant: ${item.quant_score}</span>` : ''}
             </div>
             <div class="article-time">${formatRelativeTime(date)}</div>
           </div>
@@ -740,19 +742,36 @@
     }
 
     // Show summary modal
-    function showSummary(link, title, description) {
-      // For now, use description as summary
-      // In production, this would call an AI API
-      const summary = description || 'No summary available. Click "Read" to view full article.';
+    function showSummary(link, title, description, fullItem) {
+      // Use the pre-generated summary from data if available
+      let summary = description || 'No summary available. Click "Read" to view full article.';
+      
+      // Try to find the full item data for better summary
+      if (fullItem && fullItem.summary) {
+        summary = fullItem.summary;
+      }
+      
+      // Format the summary with better styling
+      const formattedSummary = summary
+        .replace(/\n/g, '<br>')
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/📈|🏦|🛠️|📚|💡|🔬|🎯/g, match => `<span style="font-size: 1.2em;">${match}</span>`);
       
       const modal = document.createElement('div');
       modal.className = 'summary-modal';
       modal.innerHTML = `
         <div class="summary-content">
           <div class="summary-title">${escapeHtml(title)}</div>
-          <div class="summary-text">${escapeHtml(summary)}</div>
-          <div style="text-align: center;">
-            <button class="summary-close" onclick="this.closest('.summary-modal').remove()">Close</button>
+          <div class="summary-text">${formattedSummary}</div>
+          <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+            <div style="font-size: 0.8rem; color: var(--text3); margin-bottom: 0.5rem;">
+              ${fullItem && fullItem.quant_score ? `🎯 Quant Relevance Score: ${fullItem.quant_score}/100` : ''}
+              ${fullItem && fullItem.quant_categories ? `<br>📊 Categories: ${fullItem.quant_categories.map(c => c.replace('_', ' ')).join(', ')}` : ''}
+              ${fullItem && fullItem.is_premium ? '<br>🔒 Premium Content (Archived)' : ''}
+            </div>
+            <div style="text-align: center;">
+              <button class="summary-close" onclick="this.closest('.summary-modal').remove()">Close Summary</button>
+            </div>
           </div>
         </div>
       `;
@@ -763,6 +782,14 @@
       modal.addEventListener('click', (e) => {
         if (e.target === modal) {
           modal.remove();
+        }
+      });
+      
+      // Close on Escape key
+      document.addEventListener('keydown', function closeOnEscape(e) {
+        if (e.key === 'Escape') {
+          modal.remove();
+          document.removeEventListener('keydown', closeOnEscape);
         }
       });
     }
