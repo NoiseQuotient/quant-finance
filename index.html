@@ -683,7 +683,7 @@
     // Render single article
     function renderArticle(item) {
       const date = new Date(item.date);
-      const isPaywalled = item.is_premium || item.tags?.includes('premium');
+      const isPaywalled = item.isPaywalled || item.tags?.includes('premium');
       const hasArchive = item.archiveLink;
       
       // ALWAYS use archive link for paywalled sites if available
