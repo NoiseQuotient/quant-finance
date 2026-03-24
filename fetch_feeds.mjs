@@ -1,27 +1,25 @@
 /**
- * Quant Frontier Feed Fetcher
- * Comprehensive quant finance sources as specified
+ * SECURE Quant Finance Feed Fetcher
+ * ONLY uses the specified secure resources
  */
 
 import { XMLParser } from 'fast-xml-parser';
 import { writeFileSync } from 'fs';
 
-// ========== COMPREHENSIVE QUANT FINANCE SOURCES ==========
+// ========== SECURE QUANT FINANCE SOURCES ONLY ==========
 const feeds = [
   // 1. ACADEMIC RESEARCH & PRE-PRINTS
   {
-    url: 'https://export.arxiv.org/api/query?search_query=cat:q-fin.*&sortBy=lastUpdatedDate&sortOrder=descending&max_results=20',
+    url: 'https://export.arxiv.org/api/query?search_query=cat:q-fin.*&sortBy=lastUpdatedDate&sortOrder=descending&max_results=15',
     label: 'arXiv q-fin',
     type: 'research',
-    tags: ['academic', 'preprint', 'quant'],
-    priority: 1
+    tags: ['academic', 'preprint', 'quant']
   },
   {
     url: 'https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm?q=quantitative%20finance&sort=date',
     label: 'SSRN Quant Finance',
     type: 'research',
-    tags: ['academic', 'working-paper', 'quant'],
-    priority: 1
+    tags: ['academic', 'working-paper', 'quant']
   },
   
   // 2. HIGH-IMPACT ACADEMIC JOURNALS
@@ -29,43 +27,37 @@ const feeds = [
     url: 'https://www.cambridge.org/core/rss/journals/journal-of-financial-and-quantitative-analysis',
     label: 'Journal of Financial and Quantitative Analysis',
     type: 'research',
-    tags: ['journal', 'peer-reviewed', 'quant'],
-    priority: 1
+    tags: ['journal', 'peer-reviewed', 'quant']
   },
   {
     url: 'https://www.tandfonline.com/feed/rquf20',
     label: 'Quantitative Finance Journal',
     type: 'research',
-    tags: ['journal', 'peer-reviewed', 'quant'],
-    priority: 1
+    tags: ['journal', 'peer-reviewed', 'quant']
   },
   {
     url: 'https://onlinelibrary.wiley.com/feed/15406261/most-recent',
     label: 'The Journal of Finance',
     type: 'research',
-    tags: ['journal', 'peer-reviewed', 'finance'],
-    priority: 1
+    tags: ['journal', 'peer-reviewed', 'finance']
   },
   {
     url: 'https://www.bis.org/rss/rss_publ_working_papers.rss',
     label: 'BIS Working Papers',
     type: 'research',
-    tags: ['central-bank', 'policy', 'research'],
-    priority: 1
+    tags: ['central-bank', 'policy', 'research']
   },
   {
     url: 'https://www.federalreserve.gov/feeds/working_papers.xml',
     label: 'Federal Reserve Papers',
     type: 'research',
-    tags: ['central-bank', 'policy', 'research'],
-    priority: 1
+    tags: ['central-bank', 'policy', 'research']
   },
   {
     url: 'https://cepr.org/rss/publications/discussion-papers',
     label: 'CEPR Discussion Papers',
     type: 'research',
-    tags: ['economics', 'policy', 'research'],
-    priority: 1
+    tags: ['economics', 'policy', 'research']
   },
   
   // 3. INDUSTRY NEWS & PRACTITIONER INSIGHTS
@@ -74,22 +66,19 @@ const feeds = [
     label: 'Risk.net',
     type: 'news',
     tags: ['industry', 'professional', 'risk-management'],
-    priority: 2,
     isPaywalled: true
   },
   {
     url: 'https://wilmott.com/feed/',
     label: 'Wilmott',
     type: 'news',
-    tags: ['industry', 'technical', 'quant-community'],
-    priority: 2
+    tags: ['industry', 'technical', 'quant-community']
   },
   {
     url: 'https://www.bloomberg.com/markets/rss',
     label: 'Bloomberg Quant News',
     type: 'news',
     tags: ['markets', 'trading', 'quant'],
-    priority: 2,
     isPaywalled: true
   },
   {
@@ -97,7 +86,6 @@ const feeds = [
     label: 'Financial Times Quant',
     type: 'news',
     tags: ['markets', 'finance', 'quant'],
-    priority: 2,
     isPaywalled: true
   },
   {
@@ -105,7 +93,6 @@ const feeds = [
     label: 'Wall Street Journal Markets',
     type: 'news',
     tags: ['markets', 'finance', 'quant'],
-    priority: 2,
     isPaywalled: true
   },
   {
@@ -113,7 +100,6 @@ const feeds = [
     label: 'The Economist Finance',
     type: 'news',
     tags: ['economics', 'markets', 'finance'],
-    priority: 2,
     isPaywalled: true
   },
   
@@ -122,59 +108,33 @@ const feeds = [
     url: 'https://www.fields.utoronto.ca/activities/quantitative-finance-seminars/rss',
     label: 'Fields Institute Seminars',
     type: 'research',
-    tags: ['seminars', 'academic', 'quant'],
-    priority: 3
+    tags: ['seminars', 'academic', 'quant']
   },
   {
     url: 'https://www.quantstart.com/feed/',
     label: 'QuantStart',
     type: 'analysis',
-    tags: ['tutorials', 'coding', 'quant'],
-    priority: 3
+    tags: ['tutorials', 'coding', 'quant']
   },
   {
     url: 'https://www.alphagamma.eu/feed/',
     label: 'AlphaGamma',
     type: 'analysis',
-    tags: ['community', 'young-professionals', 'finance'],
-    priority: 3
-  },
-  {
-    url: 'https://quantocracy.com/feed/',
-    label: 'Quantocracy',
-    type: 'analysis',
-    tags: ['quant-blog', 'strategies', 'community'],
-    priority: 3
-  },
-  {
-    url: 'https://robotwealth.com/feed/',
-    label: 'Robot Wealth',
-    type: 'analysis',
-    tags: ['quant-blog', 'trading', 'strategies'],
-    priority: 3
-  },
-  {
-    url: 'https://alphaarchitect.com/feed/',
-    label: 'Alpha Architect',
-    type: 'analysis',
-    tags: ['investment', 'research', 'quant'],
-    priority: 3
+    tags: ['community', 'young-professionals', 'finance']
   },
   
-  // 5. DATA & CODING (BONUS)
+  // 5. DATA & CODING
   {
     url: 'https://www.quantconnect.com/forum/rss',
     label: 'QuantConnect Forum',
     type: 'analysis',
-    tags: ['coding', 'platform', 'community'],
-    priority: 4
+    tags: ['coding', 'platform', 'community']
   },
   {
     url: 'https://www.kaggle.com/datasets.rss?search=finance',
     label: 'Kaggle Finance Datasets',
     type: 'research',
-    tags: ['data', 'datasets', 'machine-learning'],
-    priority: 4
+    tags: ['data', 'datasets', 'machine-learning']
   }
 ];
 
@@ -214,7 +174,7 @@ async function fetchFeed(feed) {
     
     const response = await fetch(feed.url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; QuantFrontier/3.0; +https://noisequotient.github.io/quant-finance)',
+        'User-Agent': 'Mozilla/5.0 (compatible; QuantFrontier/SECURE; +https://noisequotient.github.io/quant-finance)',
         'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
       },
       signal: AbortSignal.timeout(15000),
@@ -230,9 +190,8 @@ async function fetchFeed(feed) {
     
     let items = [];
     
-    // Handle different feed formats
+    // Handle arXiv
     if (feed.url.includes('arxiv.org')) {
-      // arXiv Atom format
       const entries = doc?.feed?.entry || [];
       const arr = Array.isArray(entries) ? entries : [entries];
       items = arr.map(entry => ({
@@ -245,8 +204,8 @@ async function fetchFeed(feed) {
         tags: [...(feed.tags || []), ...(feed.isPaywalled ? ['premium'] : [])],
         isPaywalled: feed.isPaywalled || false
       }));
-    } else if (doc.rss?.channel?.item || doc.feed?.entry) {
-      // RSS or Atom
+    } else {
+      // RSS/Atom feeds
       const rawItems = doc.rss?.channel?.item || doc.feed?.entry || [];
       const arr = Array.isArray(rawItems) ? rawItems : [rawItems];
       
@@ -262,13 +221,13 @@ async function fetchFeed(feed) {
       }));
     }
     
-    // Apply quant filtering for news sources
+    // Apply STRICT quant filtering for news sources
     if (feed.type === 'news') {
       const quantKeywords = [
         'quant', 'quantitative', 'algorithm', 'algorithmic', 'trading',
         'hedge fund', 'HFT', 'high frequency', 'market making',
         'risk', 'volatility', 'derivative', 'option', 'portfolio',
-        'machine learning', 'AI', 'systematic', 'statistical'
+        'machine learning', 'AI', 'systematic', 'statistical', 'backtest'
       ];
       
       items = items.filter(item => {
@@ -277,8 +236,8 @@ async function fetchFeed(feed) {
       });
     }
     
-    // Limit items per feed
-    items = items.slice(0, 15);
+    // Limit items
+    items = items.slice(0, 10);
     
     console.log(`    ✓ ${items.length} items`);
     return items;
@@ -290,7 +249,7 @@ async function fetchFeed(feed) {
 }
 
 async function fetchAllFeeds() {
-  console.log('📚 Fetching comprehensive quant finance sources...');
+  console.log('📚 Fetching SECURE quant finance sources only...');
   
   const allItems = [];
   const failed = [];
@@ -304,10 +263,10 @@ async function fetchAllFeeds() {
     }
   }
   
-  // Sort by date (newest first)
+  // Sort by date
   allItems.sort((a, b) => new Date(b.date) - new Date(a.date));
   
-  // Create final data structure
+  // Create data structure
   const data = {
     updated: new Date().toISOString(),
     count: allItems.length,
@@ -315,14 +274,14 @@ async function fetchAllFeeds() {
     items: allItems
   };
   
-  // Save to file
+  // Save
   writeFileSync('./data.json', JSON.stringify(data, null, 2));
   
-  console.log(`\n✅ Done!`);
+  console.log(`\n✅ SECURE feeds fetched!`);
   console.log(`   Total articles: ${allItems.length}`);
-  console.log(`   Failed feeds: ${failed.length}`);
+  console.log(`   Failed: ${failed.length}`);
   
-  // Show breakdown by type
+  // Breakdown
   const byType = {};
   allItems.forEach(item => {
     byType[item.type] = (byType[item.type] || 0) + 1;
@@ -333,7 +292,6 @@ async function fetchAllFeeds() {
     console.log(`   ${type}: ${count}`);
   }
   
-  // Show premium articles
   const premium = allItems.filter(item => item.isPaywalled).length;
   console.log(`   Premium (paywalled): ${premium}`);
 }
