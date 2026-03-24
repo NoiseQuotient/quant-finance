@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quant Finance - Simple & Professional</title>
+    <style>
+        /* Professional Minimal Design */
+        body {
+            margin: 0;
+            padding: 0;
+            background: #f8f9fa;
+            color: #212529;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+        }
+        
+        /* Header */
+        .header {
+            background: white;
+            border-bottom: 1px solid #dee2e6;
+            padding: 24px 0;
+            text-align: center;
+            margin-bottom: 32px;
+        }
+        
+        .logo {
+            font-size: 28px;
+            font-weight: 600;
+            color: #0d6efd;
+            margin: 0;
+        }
+        
+        .subtitle {
+            color: #6c757d;
+            font-size: 16px;
+            margin-top: 8px;
+        }
+        
+        /* Container */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Article Card */
+        .article {
+            background: white;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: box-shadow 0.2s;
+        }
+        
+        .article:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        /* Article Header */
+        .article-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+        
+        .source {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .source-name {
+            background: #e9ecef;
+            color: #495057;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .source-name.premium {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .time {
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        /* Article Content */
+        .title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #212529;
+            line-height: 1.4;
+        }
+        
+        .description {
+            color: #495057;
+            font-size: 15px;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+        
+        /* Tags */
+        .tags {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: #e7f1ff;
+            color: #0d6efd;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+        }
+        
+        /* Actions - Simple & Clean */
+        .actions {
+            display: flex;
+            gap: 12px;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+            cursor: pointer;
+        }
+        
+        .btn-archive {
+            background: #0d6efd;
+            color: white;
+            border-color: #0d6efd;
+        }
+        
+        .btn-archive:hover {
+            background: #0b5ed7;
+            border-color: #0a58ca;
+        }
+        
+        .btn-original {
+            background: white;
+            color: #495057;
+            border-color: #dee2e6;
+        }
+        
+        .btn-original:hover {
+            background: #f8f9fa;
+            border-color: #adb5bd;
+        }
+        
+        .btn-original.premium {
+            color: #856404;
+            border-color: #ffeeba;
+            background: #fff3cd;
+        }
+        
+        .btn-original.premium:hover {
+            background: #ffe8a1;
+            border-color: #ffdf7e;
+        }
+        
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6c757d;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 16px;
+            }
+            
+            .article {
+                padding: 20px;
+            }
+            
+            .article-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            
+            .actions {
+                flex-direction: column;
+            }
+            
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="container">
+            <h1 class="logo">Quant Finance Intelligence</h1>
+            <div class="subtitle">Professional • Simple • Archive.ph integration</div>
+        </div>
+    </div>
+    
+    <!-- Main Content -->
+    <div class="container">
+        <div id="articles">
+            <!-- Articles will be inserted here -->
+        </div>
+    </div>
+    
+    <script>
+        // ========== DATA ==========
+        const articles = [
+            {
+                id: 1,
+                title: "Machine Learning for High-Frequency Trading: A Comprehensive Review",
+                description: "Survey of ML techniques in HFT including reinforcement learning, deep neural networks, and execution algorithms. Covers latest research from 2023-2025.",
+                date: "2026-03-23",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                tags: ["HFT", "Machine Learning", "Survey"],
+                link: "https://arxiv.org/abs/2603.12140",
+                premium: false
+            },
+            {
+                id: 2,
+                title: "Renaissance's Medallion Fund Posts 45% Gain for 2025",
+                description: "Quantitative hedge fund continues exceptional performance with advanced statistical arbitrage strategies. Medallion fund remains one of the best-performing in history.",
+                date: "2026-03-23",
+                source: "Bloomberg Markets",
+                type: "news",
+                tags: ["Hedge Fund", "Renaissance", "Performance"],
+                link: "https://www.bloomberg.com/news/articles/2026-03-23/renaissance-medallion-fund-posts-45-gain-for-2025",
+                premium: true
+            },
+            {
+                id: 3,
+                title: "Reinforcement Learning for Optimal Trade Execution",
+                description: "Novel RL framework for minimizing market impact in large order execution. Achieves 15% better performance than traditional benchmarks.",
+                date: "2026-03-22",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                tags: ["Reinforcement Learning", "Execution", "Market Impact"],
+                link: "https://arxiv.org/abs/2603.12015",
+                premium: false
+            },
+            {
+                id: 4,
+                title: "Citadel Expands AI Research Team with $500M Investment",
+                description: "Major quant fund invests heavily in AI research for next-generation systematic trading strategies. Focus on deep learning and reinforcement learning applications.",
+                date: "2026-03-22",
+                source: "Bloomberg Quant",
+                type: "news",
+                tags: ["Citadel", "AI", "Investment", "Systematic Trading"],
+                link: "https://www.bloomberg.com/news/articles/2026-03-22/citadel-expands-ai-research-for-quantitative-trading",
+                premium: true
+            },
+            {
+                id: 5,
+                title: "Quantitative Hedge Funds Dominate Market Making",
+                description: "Quant funds now control over 60% of US equity market making, fundamentally reshaping market liquidity and price discovery mechanisms.",
+                date: "2026-03-23",
+                source: "Financial Times Markets",
+                type: "news",
+                tags: ["Market Making", "HFT", "Liquidity", "Equities"],
+                link: "https://www.ft.com/content/abcdef123456",
+                premium: true
+            },
+            {
+                id: 6,
+                title: "AI Arms Race Heats Up Among Quantitative Trading Firms",
+                description: "Major quant funds investing billions in AI research to gain competitive edge in algorithmic trading. Focus on transformer models and reinforcement learning.",
+                date: "2026-03-22",
+                source: "Wall Street Journal",
+                type: "news",
+                tags: ["AI", "Quantitative Trading", "Competition", "Algorithmic"],
+                link: "https://www.wsj.com/articles/ai-arms-race-heats-up-among-quantitative-trading-firms",
+                premium: true
+            },
+            {
+                id: 7,
+                title: "Quantum Algorithms for Portfolio Optimization",
+                description: "Applying quantum computing to solve large-scale portfolio optimization problems. Shows 100x speedup for certain problem classes compared to classical methods.",
+                date: "2026-03-21",
+                source: "arXiv q-fin.PM",
+                type: "research",
+                tags: ["Quantum Computing", "Portfolio", "Optimization"],
+                link: "https://arxiv.org/abs/2603.11980",
+                premium: false
+            },
+            {
+                id: 8,
+                title: "The Quant Revolution in Finance",
+                description: "How quantitative methods and data science are transforming traditional finance and investment banking. Analysis of the shift from qualitative to quantitative approaches.",
+                date: "2026-03-21",
+                source: "The Economist Finance",
+                type: "news",
+                tags: ["Quantitative Finance", "Transformation", "Industry", "Data Science"],
+                link: "https://www.economist.com/finance-and-economics/2026/03/21/the-quant-revolution-in-finance",
+                premium: true
+            }
+        ];
+        
+        // ========== RENDER ARTICLES ==========
+        function renderArticles() {
+            const container = document.getElementById('articles');
+            let html = '';
+            
+            articles.forEach(article => {
+                const isPremium = article.premium;
+                const timeAgo = formatTimeAgo(article.date);
+                
+                html += `
+                    <div class="article" id="article-${article.id}">
+                        <div class="article-header">
+                            <div class="source">
+                                <span class="source-name ${isPremium ? 'premium' : ''}">
+                                    ${article.source}
+                                </span>
+                            </div>
+                            <div class="time">${timeAgo}</div>
+                        </div>
+                        
+                        <div class="title">${article.title}</div>
+                        <div class="description">${article.description}</div>
+                        
+                        ${article.tags ? `
+                            <div class="tags">
+                                ${article.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                        
+                        <div class="actions">
+                            ${isPremium ? `
+                                <a href="https://archive.ph/?run=1&url=${encodeURIComponent(article.link)}" 
+                                   class="btn btn-archive" 
+                                   target="_blank" 
+                                   rel="noopener">
+                                    📦 View Archive
+                                </a>
+                            ` : ''}
+                            
+                            <a href="${article.link}" 
+                               class="btn btn-original ${isPremium ? 'premium' : ''}" 
+                               target="_blank" 
+                               rel="noopener">
+                                ${isPremium ? '🔒 Original (Premium)' : '📄 Read Article'}
+                            </a>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+            console.log(`✅ Rendered ${articles.length} articles`);
+        }
+        
+        // ========== HELPER FUNCTIONS ==========
+        function formatTimeAgo(dateStr) {
+            const date = new Date(dateStr);
+            const now = new Date();
+            const diffMs = now - date;
+            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+            
+            if (diffDays === 0) return 'Today';
+            if (diffDays === 1) return 'Yesterday';
+            if (diffDays < 7) return `${diffDays} days ago`;
+            if (diffDays < 30) return `${Math.floor(diffDays / 7)} weeks ago`;
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+        
+        // ========== INITIALIZE ==========
+        (function init() {
+            renderArticles();
+            console.log('✅ Simple professional version loaded');
+            
+            // Add click handler for archive buttons to show they work
+            document.addEventListener('click', function(e) {
+                if (e.target.classList.contains('btn-archive')) {
+                    console.log('📦 Archive button clicked - opens archive.ph with pre-filled URL');
+                }
+            });
+        })();
+    </script>
+</body>
+</html>
