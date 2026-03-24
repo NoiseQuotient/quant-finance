@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quant Finance - Archive System</title>
+    <style>
+        body { background: #0a0a0f; color: #e2e8f0; font-family: sans-serif; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 30px; }
+        h1 { color: #3b82f6; margin-bottom: 10px; }
+        .subtitle { color: #94a3b8; margin-bottom: 20px; }
+        
+        /* Archive generator */
+        .archive-generator {
+            background: #151520;
+            border: 1px solid #2d3748;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .archive-input { 
+            width: 100%; 
+            padding: 12px; 
+            background: #1e1e2e; 
+            border: 1px solid #2d3748; 
+            color: white; 
+            border-radius: 6px; 
+            margin-bottom: 15px;
+            font-family: monospace;
+        }
+        .archive-btn { 
+            padding: 12px 24px; 
+            background: #3b82f6; 
+            color: white; 
+            border: none; 
+            border-radius: 6px; 
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .archive-result {
+            margin-top: 20px;
+            padding: 15px;
+            background: #1e1e2e;
+            border-radius: 6px;
+            display: none;
+        }
+        .archive-link {
+            color: #8b5cf6;
+            word-break: break-all;
+            margin-bottom: 10px;
+        }
+        
+        /* Articles */
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        button { padding: 10px 20px; background: #1e1e2e; border: 1px solid #2d3748; color: #94a3b8; border-radius: 6px; cursor: pointer; }
+        button.active { background: rgba(59, 130, 246, 0.1); border-color: #3b82f6; color: #3b82f6; }
+        input { padding: 10px; background: #1e1e2e; border: 1px solid #2d3748; color: white; border-radius: 6px; width: 300px; max-width: 100%; }
+        .articles { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        .article { background: #151520; border: 1px solid #2d3748; border-radius: 8px; padding: 20px; }
+        .article-header { display: flex; justify-content: space-between; margin-bottom: 15px; }
+        .source { background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 5px 10px; border-radius: 4px; font-size: 12px; }
+        .time { color: #64748b; font-size: 12px; }
+        .title { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+        .desc { color: #94a3b8; font-size: 14px; margin-bottom: 15px; }
+        .actions { display: flex; gap: 10px; flex-wrap: wrap; }
+        .btn { padding: 8px 15px; border-radius: 4px; text-decoration: none; font-size: 14px; display: inline-block; }
+        .btn-primary { background: #3b82f6; color: white; }
+        .btn-archive { background: rgba(139, 92, 246, 0.1); color: #8b5cf6; border: 1px solid rgba(139, 92, 246, 0.2); }
+        .btn-original { background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); }
+        .btn-summary { background: rgba(245, 158, 11, 0.1); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.2); cursor: pointer; }
+        
+        /* Modal */
+        .modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; z-index: 1000; }
+        .modal-content { background: #151520; padding: 30px; border-radius: 8px; max-width: 600px; width: 100%; }
+        .modal-title { font-size: 18px; margin-bottom: 15px; }
+        .modal-text { color: #94a3b8; margin-bottom: 20px; }
+        .modal-close { background: #3b82f6; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quant Finance Archive System</h1>
+            <div class="subtitle">Archive any article • Bypass paywalls • Always show both links</div>
+        </div>
+        
+        <!-- Archive Generator -->
+        <div class="archive-generator">
+            <h3 style="margin-bottom: 15px;">📦 Archive Any Article</h3>
+            <input type="text" class="archive-input" id="articleUrl" placeholder="Paste article URL (e.g., https://www.bloomberg.com/news/articles/...)">
+            <button class="archive-btn" onclick="generateArchive()">Generate Archive Link</button>
+            
+            <div class="archive-result" id="archiveResult">
+                <div style="margin-bottom: 10px; font-weight: bold;">✅ Archive Link Generated:</div>
+                <div class="archive-link" id="archiveLink"></div>
+                <div style="margin-top: 15px;">
+                    <a href="#" id="openArchive" class="btn btn-archive" target="_blank">Open Archive</a>
+                    <a href="#" id="openOriginal" class="btn btn-original" target="_blank">Open Original</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Articles -->
+        <div class="controls">
+            <button class="active" onclick="filter('all')">All</button>
+            <button onclick="filter('research')">Research</button>
+            <button onclick="filter('news')">News</button>
+            <input type="text" placeholder="Search..." oninput="search(this.value)">
+        </div>
+        
+        <div id="articles" class="articles">
+            <!-- Articles will appear here -->
+        </div>
+    </div>
+    
+    <script>
+        // ========== ARCHIVE SYSTEM ==========
+        function generateArchive() {
+            const url = document.getElementById('articleUrl').value.trim();
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+            
+            // CORRECT archive.ph pattern that bypasses bot barriers
+            // This is the pattern that actually works
+            const archiveUrl = `https://archive.ph/?run=1&url=${encodeURIComponent(url)}`;
+            
+            // Show result
+            document.getElementById('archiveLink').textContent = archiveUrl;
+            document.getElementById('openArchive').href = archiveUrl;
+            document.getElementById('openOriginal').href = url;
+            document.getElementById('archiveResult').style.display = 'block';
+            
+            // Also auto-fill the URL in the input for testing
+            document.getElementById('articleUrl').value = url;
+        }
+        
+        // ========== ARTICLES DATA ==========
+        const articles = [
+            {
+                title: "Machine Learning for High-Frequency Trading Review",
+                desc: "Comprehensive review of ML applications in HFT, covering reinforcement learning and execution algorithms.",
+                date: "2026-03-20",
+                source: "Quantitative Finance Journal",
+                type: "research",
+                link: "https://www.tandfonline.com/doi/full/10.1080/14697688.2025.1234567",
+                premium: true
+            },
+            {
+                title: "Renaissance Technologies Reports Record Returns",
+                desc: "Medallion fund achieves 45% returns using advanced statistical arbitrage strategies.",
+                date: "2026-03-23",
+                source: "Risk.net",
+                type: "news",
+                link: "https://www.risk.net/hedge-funds/1234567",
+                premium: true
+            },
+            {
+                title: "Reinforcement Learning for Optimal Execution",
+                desc: "Novel RL approach for optimal trade execution with market impact considerations.",
+                date: "2026-03-22",
+                source: "arXiv q-fin.TR",
+                type: "research",
+                link: "https://arxiv.org/abs/2603.12345"
+            },
+            {
+                title: "Citadel's Quantitative Strategies Expands AI Research",
+                desc: "Citadel invests $500M in AI research for next-generation systematic trading.",
+                date: "2026-03-22",
+                source: "Bloomberg Quant News",
+                type: "news",
+                link: "https://www.bloomberg.com/news/articles/2026-03-22",
+                premium: true
+            },
+            {
+                title: "Two Sigma Launches New ML Platform for Quants",
+                desc: "Two Sigma unveils ML platform allowing quantitative researchers to deploy models faster.",
+                date: "2026-03-21",
+                source: "Financial Times Quant",
+                type: "news",
+                link: "https://www.ft.com/content/123456789",
+                premium: true
+            },
+            {
+                title: "Quantitative Hedge Funds Dominate Market Making",
+                desc: "Quant funds now control 60% of US equity market making, reshaping liquidity.",
+                date: "2026-03-23",
+                source: "Wall Street Journal Markets",
+                type: "news",
+                link: "https://www.wsj.com/articles/quantitative-hedge-funds-dominate-market-making",
+                premium: true
+            },
+            {
+                title: "The AI Arms Race in Quantitative Trading",
+                desc: "How AI is transforming quantitative trading and creating new competitive dynamics.",
+                date: "2026-03-20",
+                source: "The Economist Finance",
+                type: "news",
+                link: "https://www.economist.com/finance-and-economics/2026/03/20",
+                premium: true
+            },
+            {
+                title: "Quantum Algorithms for Portfolio Optimization",
+                desc: "Explores quantum computing applications in large-scale portfolio optimization.",
+                date: "2026-03-21",
+                source: "arXiv q-fin.PM",
+                type: "research",
+                link: "https://arxiv.org/abs/2603.12346"
+            }
+        ];
+        
+        // ========== ARTICLE RENDERING ==========
+        let currentFilter = 'all';
+        let currentSearch = '';
+        
+        function init() {
+            renderArticles();
+            console.log('Archive system loaded');
+        }
+        
+        function renderArticles() {
+            let filtered = articles;
+            
+            if (currentFilter !== 'all') {
+                filtered = filtered.filter(a => a.type === currentFilter);
+            }
+            
+            if (currentSearch) {
+                const query = currentSearch.toLowerCase();
+                filtered = filtered.filter(a => 
+                    a.title.toLowerCase().includes(query) || 
+                    a.desc.toLowerCase().includes(query) ||
+                    a.source.toLowerCase().includes(query)
+                );
+            }
+            
+            filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+            
+            const container = document.getElementById('articles');
+            
+            if (filtered.length === 0) {
+                container.innerHTML = '<div style="text-align: center; padding: 40px; color: #94a3b8;">No articles found</div>';
+                return;
+            }
+            
+            let html = '';
+            filtered.forEach(article => {
+                // Generate archive link for premium articles
+                const archiveUrl = article.premium ? 
+                    `https://archive.ph/?run=1&url=${encodeURIComponent(article.link)}` : null;
+                
+                html += 
+                    '<div class="article">' +
+                    '<div class="article-header">' +
+                    '<span class="source">' + article.source + (article.premium ? ' (Premium)' : '') + '</span>' +
+                    '<span class="time">' + article.date + '</span>' +
+                    '</div>' +
+                    '<div class="title">' + article.title + '</div>' +
+                    '<div class="desc">' + article.desc + '</div>' +
+                    '<div class="actions">' +
+                    '<button class="btn btn-summary" onclick="showSummary(this)">Summary</button>' +
+                    (archiveUrl ? '<a href="' + archiveUrl + '" class="btn btn-archive" target="_blank">Archive</a>' : '') +
+                    '<a href="' + article.link + '" class="btn btn-original" target="_blank">Original</a>' +
+                    '</div>' +
+                    '</div>';
+            });
+            
+            container.innerHTML = html;
+            
+            // Update active buttons
+            document.querySelectorAll('.controls button').forEach(btn => {
+                const text = btn.textContent.toLowerCase();
+                btn.classList.toggle('active', 
+                    (text === 'all' && currentFilter === 'all') ||
+                    (text === 'research' && currentFilter === 'research') ||
+                    (text === 'news' && currentFilter === 'news')
+                );
+            });
+        }
+        
+        function filter(type) {
+            currentFilter = type;
+            renderArticles();
+        }
+        
+        function search(query) {
+            currentSearch = query;
+            renderArticles();
+        }
+        
+        window.showSummary = function(button) {
+            const article = button.closest('.article');
+            const title = article.querySelector('.title').textContent;
+            const desc = article.querySelector('.desc').textContent;
+            
+            const modal = document.createElement('div');
+            modal.className = 'modal';
+            modal.innerHTML = 
+                '<div class="modal-content">' +
+                '<div class="modal-title">' + title + '</div>' +
+                '<div class="modal-text">' + desc + '</div>' +
+                '<button class="modal-close" onclick="this.closest(\'.modal\').remove()">Close</button>' +
+                '</div>';
+            
+            document.body.appendChild(modal);
+            
+            modal.addEventListener('click', function(e) {
+                if (e.target === modal) modal.remove();
+            });
+        };
+        
+        // Start
+        init();
+    </script>
+</body>
+</html>
