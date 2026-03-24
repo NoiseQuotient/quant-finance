@@ -1,8 +1,23 @@
 {
-  "updated": "2026-03-24T13:35:17.875Z",
-  "count": 45,
+  "updated": "2026-03-24T14:05:24.220Z",
+  "count": 46,
   "failed": [],
   "items": [
+    {
+      "title": "Hedge fund Millennium explores shifting Dubai staff to Jersey",
+      "link": "https://www.ft.com/content/3a3dfe47-4afa-4956-9244-893e5899453b",
+      "desc": "Multi-manager firm weighs destinations after requests from staff to relocate",
+      "date": "2026-03-24T12:48:11.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Forecasting and Manipulating the Forecasts of Others",
       "link": "http://arxiv.org/abs/2603.12140v3",
