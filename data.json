@@ -144,9 +144,9 @@
       "isPaywalled": false
     },
     {
-      "title": "Information geometry of L\u00e9vy processes and financial models",
+      "title": "Information geometry of Lévy processes and financial models",
       "link": "http://arxiv.org/abs/2507.23646v3",
-      "desc": "We develop the information geometry of L\u00e9vy processes. Deriving $\u03b1$-divergences directly in terms of the L\u00e9vy triplets of the L\u00e9vy processes, we identify Fisher information matrix and $\u03b1$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several L\u00e9vy processes, b",
+      "desc": "We develop the information geometry of Lévy processes. Deriving $α$-divergences directly in terms of the Lévy triplets of the Lévy processes, we identify Fisher information matrix and $α$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several Lévy processes, b",
       "date": "2026-03-22T23:49:23.000Z",
       "label": "arXiv q-fin",
       "type": "research",
@@ -160,7 +160,7 @@
     {
       "title": "A Rank-Dependent Theory for Decision under Risk and Ambiguity",
       "link": "http://arxiv.org/abs/2312.05977v4",
-      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $\u0394$ of probabilities, a probability weighting function $\u03c8$, generating the measure $\u03bd_\u03c8$ by transforming an objective probability measure, and a utility function $\u03c6$, ",
+      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $Δ$ of probabilities, a probability weighting function $ψ$, generating the measure $ν_ψ$ by transforming an objective probability measure, and a utility function $φ$, ",
       "date": "2026-03-22T20:16:03.000Z",
       "label": "arXiv q-fin",
       "type": "research",
@@ -242,7 +242,7 @@
       "isPaywalled": false
     },
     {
-      "title": "Will South Korea\u2019s epic bull market survive the energy shock?",
+      "title": "Will South Korea’s epic bull market survive the energy shock?",
       "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
       "desc": "Probably, but investors should brace for more volatility",
       "date": "2026-03-17T19:14:10.000Z",
@@ -255,10 +255,10 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F17%2Fwill-south-koreas-epic-bull-market-survive-the-energy-shock"
     },
     {
-      "title": "Pricing of Climate Risk Insurance: Regulation and Cross\u2010Subsidies",
+      "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70029?af=R",
       "desc": "The Journal of Finance, EarlyView.",
       "date": "2026-03-16T08:46:54.000Z",
@@ -286,7 +286,7 @@
       "isPaywalled": false
     },
     {
-      "title": "Donald Trump\u2019s options to cool oil prices are sorely limited",
+      "title": "Donald Trump’s options to cool oil prices are sorely limited",
       "link": "https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited",
       "desc": "He says he has a plan. It would need to be very cunning",
       "date": "2026-03-10T21:55:49.000Z",
@@ -299,7 +299,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F03%2F10%2Fdonald-trumps-options-to-cool-oil-prices-are-sorely-limited"
     },
     {
       "title": "FEDS Paper: Income Mobility of the Top One Percent",
@@ -400,7 +400,7 @@
       "isPaywalled": false
     },
     {
-      "title": "Asset Pricing and Risk\u2010Sharing Implications of Alternative Pension Plan Systems",
+      "title": "Asset Pricing and Risk‐Sharing Implications of Alternative Pension Plan Systems",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13507?af=R",
       "desc": "The Journal of Finance, Volume 81, Issue 1, Page 143-188, February 2026.",
       "date": "2026-02-19T07:03:27.000Z",
@@ -483,10 +483,10 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F02%2F08%2Fhow-to-hedge-a-bubble-ai-edition"
     },
     {
-      "title": "The fate of Japan\u2019s $6trn foreign portfolio rattles global markets",
+      "title": "The fate of Japan’s $6trn foreign portfolio rattles global markets",
       "link": "https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
       "desc": "The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching",
       "date": "2026-01-29T10:00:58.000Z",
@@ -499,12 +499,12 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F29%2Fthe-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets"
     },
     {
-      "title": "Venezuela\u2019s astoundingly messy debts are about to get messier",
+      "title": "Venezuela’s astoundingly messy debts are about to get messier",
       "link": "https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier",
-      "desc": "Oil majors, hedge funds, Chinese lenders\u2014all have a stake",
+      "desc": "Oil majors, hedge funds, Chinese lenders—all have a stake",
       "date": "2026-01-07T19:36:40.000Z",
       "label": "The Economist Finance",
       "type": "news",
@@ -515,10 +515,10 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2026%2F01%2F07%2Fvenezuelas-astoundingly-messy-debts-are-about-to-get-messier"
     },
     {
-      "title": "Investors expect AI use to soar. That\u2019s not happening",
+      "title": "Investors expect AI use to soar. That’s not happening",
       "link": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "desc": "Recent surveys point to flatlining business adoption",
       "date": "2025-11-26T16:30:42.000Z",
@@ -531,7 +531,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F26%2Finvestors-expect-ai-use-to-soar-thats-not-happening"
     },
     {
       "title": "Cboe Global Markets Plans to Launch Bitcoin and Ether Continuous Futures",
@@ -562,7 +562,7 @@
       "isPaywalled": false
     },
     {
-      "title": "Why Wall Street won\u2019t see the next crash coming",
+      "title": "Why Wall Street won’t see the next crash coming",
       "link": "https://www.economist.com/finance-and-economics/2025/11/02/why-wall-street-wont-see-the-next-crash-coming",
       "desc": "Even the best traders struggle to predict sudden jumps in volatility",
       "date": "2025-11-02T11:46:08.000Z",
@@ -575,7 +575,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2025/11/02/why-wall-street-wont-see-the-next-crash-coming"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F11%2F02%2Fwhy-wall-street-wont-see-the-next-crash-coming"
     },
     {
       "title": "Credit markets look increasingly dangerous",
@@ -591,7 +591,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F10%2F02%2Fcredit-markets-look-increasingly-dangerous"
     },
     {
       "title": "The eccentric investment strategy that beats the rest",
@@ -607,7 +607,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2025/10/01/the-eccentric-investment-strategy-that-beats-the-rest"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F10%2F01%2Fthe-eccentric-investment-strategy-that-beats-the-rest"
     },
     {
       "title": "Want better returns? Forget risk. Focus on fear",
@@ -623,7 +623,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.economist.com/finance-and-economics/2025/08/06/want-better-returns-forget-risk-focus-on-fear"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.economist.com%2Ffinance-and-economics%2F2025%2F08%2F06%2Fwant-better-returns-forget-risk-focus-on-fear"
     },
     {
       "title": "Chinese Investors With Few Options Turn to Dividends",
@@ -639,12 +639,12 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fchinese-investors-with-few-options-turn-to-dividends-ad31dcc4%3Fmod%3Drss_markets_main"
     },
     {
       "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
       "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-      "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn\u2019t delivered anything to shock markets so far.",
+      "desc": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
       "date": "2025-01-27T10:02:00.000Z",
       "label": "Wall Street Journal Markets",
       "type": "news",
@@ -655,7 +655,7 @@
         "premium"
       ],
       "isPaywalled": true,
-      "archiveLink": "https://web.archive.org/web/20260324https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main"
+      "archiveLink": "https://archive.ph/?run=1&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fjgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d%3Fmod%3Drss_markets_main"
     }
   ]
 }
