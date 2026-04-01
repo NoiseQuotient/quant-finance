@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-01T11:10:49.913Z",
-  "count": 48,
+  "updated": "2026-04-01T12:53:08.617Z",
+  "count": 47,
   "failed": [],
   "items": [
     {
@@ -8,21 +8,6 @@
       "link": "https://www.ft.com/content/132a728a-75e7-4545-a70c-66801924360b",
       "desc": "Central bank warns conflict likely to hit economic growth as Keir Starmer insists UK ‘well placed’ to weather crisis",
       "date": "2026-04-01T10:17:07.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "UK submarine captain steps down after link to Chinese spy case",
-      "link": "https://www.ft.com/content/93beaf9c-e1c8-4875-b446-2cd148529f6a",
-      "desc": "Navy previously conducted investigation into senior officer to examine potential blackmail risk",
-      "date": "2026-03-31T20:17:59.000Z",
       "label": "Financial Times Quant",
       "type": "news",
       "tags": [
