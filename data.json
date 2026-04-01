@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-01T08:41:06.651Z",
-  "count": 37,
+  "updated": "2026-04-01T09:10:52.564Z",
+  "count": 47,
   "failed": [],
   "items": [
     {
@@ -29,6 +29,146 @@
         "industry",
         "technical",
         "quant-community"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Bridging Stochastic Control and Deep Hedging: Structural Priors for No-Transaction Band Networks",
+      "link": "http://arxiv.org/abs/2603.29994v1",
+      "desc": "This paper studies the problem of hedging and pricing a European call option under proportional transaction costs, from two complementary perspectives. We first derive the optimal hedging strategy under CARA utility, following the stochastic control framework of Davis et al. (1993), characterising the no-transaction band via the Hamilton-Jacobi-Bellman Quasi-Variational Inequality (HJBQVI) and the",
+      "date": "2026-03-31T16:56:17.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Does the Market Anticipate? Can it? Should it?",
+      "link": "http://arxiv.org/abs/2603.02187v2",
+      "desc": "We explore a nuance to 'no arbitrage' in relation to 'informational efficiency': acting immediately on an arbitrage is sometimes suboptimal; in such cases optimised trading can suppress the anticipation of predictable risk-outcomes, thereby creating an apparent Status Quo Bias, with Momentum and Low-Risk effects. This is shown in continuous time under model- or event-risk, where, unlike existing a",
+      "date": "2026-03-31T16:24:57.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Riemannian Geometry of Optimal Rebalancing in Dynamic Weight Automated Market Makers",
+      "link": "http://arxiv.org/abs/2603.05326v3",
+      "desc": "We show that when a dynamic-weight AMM rebalances by creating arbitrage opportunities, the per-step log loss is the KL divergence between successive weight vectors. The Fisher-Rao metric is therefore the natural Riemannian metric on the weight simplex. The loss-minimising interpolation under the leading-order expansion of this KL cost is SLERP (Spherical Linear Interpolation) in the Hellinger coor",
+      "date": "2026-03-31T15:59:56.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Option Pricing on Automated Market Maker Tokens",
+      "link": "http://arxiv.org/abs/2603.29763v1",
+      "desc": "We derive the stochastic price process for tokens whose sole price discovery mechanism is a constant-product automated market maker (AMM). When the net flow into the pool follows a diffusion, the token price follows a constant elasticity of variance (CEV) process, nesting Black-Scholes as the limiting case of infinite liquidity. We obtain closed-form European option prices and introduce liquidity-",
+      "date": "2026-03-31T14:03:00.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Quantum Network of Assets (QNA): A Density-Operator Framework for Market Dependence and Structural Risk Diagnostics",
+      "link": "http://arxiv.org/abs/2511.21515v3",
+      "desc": "Classical correlation and rolling PCA summarize market dependence through covariance spectra, but they do not provide a unified operator representation for entropy, purity-based mixing, and standardized structural deviations built from rolling multi-feature trajectories. We propose the Quantum Network of Assets (QNA), a quantum-inspired but non-physical density-operator framework in which normaliz",
+      "date": "2026-03-31T13:52:32.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Common Risk Factors in Decentralized AI Subnets",
+      "link": "http://arxiv.org/abs/2603.29751v1",
+      "desc": "I derive a size premium from the constant-product automated market maker used to price Bittensor subnet tokens and test the prediction using daily data on 128 subnets. A small-minus-big factor earns 1.01% daily (Newey-West t = 3.28). The December 2025 halving of token emissions, which the theory predicts should halve the premium, reduces it from 1.17% to 0.51% (p = 0.044). Exact slippage calculati",
+      "date": "2026-03-31T13:52:14.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Generative AI on Wall Street -- Opportunities and Risk Controls",
+      "link": "http://arxiv.org/abs/2509.05841v2",
+      "desc": "We give an overview on the emerging applications of GenAI in the financial industry, especially within investment banks. Inherent to these exciting opportunities is a new realm of risks that must be managed properly. By heeding both the Yin and Yang sides of GenAI, we can accelerate its organic growth while safeguarding the entire financial industry during this nascent era of AI.",
+      "date": "2026-03-31T13:15:29.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Be Water: An Evolutionary Proof for Trend-Following",
+      "link": "http://arxiv.org/abs/2603.29593v1",
+      "desc": "The proliferation of diverse, high-leverage trading instruments in modern financial markets presents a complex, \"noisy\" environment, leading to a critical question: which trading strategies are evolutionarily viable? To investigate this, we construct a large-scale agent-based model, \"MAS-Utopia,\" comprising 10,000 agents with five distinct archetypes. This society is immersed in five years of high",
+      "date": "2026-03-31T11:13:07.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE",
+      "link": "http://arxiv.org/abs/2511.13616v2",
+      "desc": "Electricity price forecasts are typically evaluated using accuracy measures such as RMSE and MAE, although these metrics often fail to reflect their economic value in operational decisions. This paper investigates which statistical properties of electricity price forecasts are most relevant for economic performance, using battery energy storage system (BESS) arbitrage as an application. We assess ",
+      "date": "2026-03-31T08:39:33.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Ultra-short-term volatility surfaces",
+      "link": "http://arxiv.org/abs/2603.29430v1",
+      "desc": "Options with maturities below one week, hereafter \"ultra-short-term\" options, have seen a sharp increase in trading activity in recent years. Yet, these instruments are difficult to price jointly using classical pricing models due to the pronounced oscillations observed in the at-the-money implied-volatility term structure across ultra-short-term tenors. We propose Edgeworth++, a parsimonious jump",
+      "date": "2026-03-31T08:36:43.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
       ],
       "isPaywalled": false
     },
