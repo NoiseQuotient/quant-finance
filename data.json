@@ -1,13 +1,13 @@
 {
-  "updated": "2026-03-24T16:05:20.260Z",
-  "count": 46,
+  "updated": "2026-04-01T08:41:06.651Z",
+  "count": 37,
   "failed": [],
   "items": [
     {
-      "title": "Hedge fund Millennium explores shifting Dubai staff to Jersey",
-      "link": "https://www.ft.com/content/3a3dfe47-4afa-4956-9244-893e5899453b",
-      "desc": "Multi-manager firm weighs destinations after requests from staff to relocate",
-      "date": "2026-03-24T12:48:11.000Z",
+      "title": "UK submarine captain steps down after link to Chinese spy case",
+      "link": "https://www.ft.com/content/93beaf9c-e1c8-4875-b446-2cd148529f6a",
+      "desc": "Navy previously conducted investigation into senior officer to examine potential blackmail risk",
+      "date": "2026-03-31T20:17:59.000Z",
       "label": "Financial Times Quant",
       "type": "news",
       "tags": [
@@ -19,44 +19,184 @@
       "isPaywalled": true
     },
     {
-      "title": "Forecasting and Manipulating the Forecasts of Others",
-      "link": "http://arxiv.org/abs/2603.12140v3",
-      "desc": "When actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs (Townsend, 1983) that has resisted exact analysis for four decades. We provide the first exact equilibrium characterization of finite-player continuous-time linear-quadratic games with endogenous signals. Estimating primitive shocks rather than the state collapses the be",
-      "date": "2026-03-23T15:22:56.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
+      "title": "Do No Harm in the Age of the Black Box: A Hippocratic Oath for AI Practitioners",
+      "link": "https://wilmott.com/do-no-harm-in-the-age-of-the-black-box-a-hippocratic-oath-for-ai-practitioners/",
+      "desc": "In 2009, in the aftermath of the worst financial crisis in a generation, quants were on trial. Physicists and mathematicians had built elegant models of risk, fed them assumptions about liquidity and correlation, and watched [...]",
+      "date": "2026-03-31T17:55:01.000Z",
+      "label": "Wilmott",
+      "type": "news",
       "tags": [
-        "academic",
-        "preprint",
-        "quant"
+        "industry",
+        "technical",
+        "quant-community"
       ],
       "isPaywalled": false
     },
     {
-      "title": "Mean Field Equilibrium Asset Pricing Models With Exponential Utility",
-      "link": "http://arxiv.org/abs/2603.22058v1",
-      "desc": "This thesis develops equilibrium asset pricing models in incomplete markets with a large number of heterogeneous agents using mean field game theory. The market equilibrium is characterized by a novel form of mean field backward stochastic differential equations (BSDEs). First, we propose a theoretical model that endogenously derives the equilibrium risk premium. Agents with exponential preference",
-      "date": "2026-03-23T14:54:40.000Z",
-      "label": "arXiv q-fin",
+      "title": "ANNOUNCEMENTS",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70016?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1151-1151, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
       "type": "research",
       "tags": [
-        "academic",
-        "preprint",
-        "quant"
+        "journal",
+        "peer-reviewed",
+        "finance"
       ],
       "isPaywalled": false
     },
     {
-      "title": "Here, there and everywhere: state-dependent time-inconsistent stochastic control",
-      "link": "http://arxiv.org/abs/2603.22022v1",
-      "desc": "This paper addresses the challenge of time-inconsistent stochastic control within a continuous-time framework. Its primary focus lies in uncovering a probabilistic representation, specifically in the shape of a system of backward stochastic differential equations (BSDEs). These equations encapsulate the equilibrium value function essential for resolving cases where the present state affecting the ",
-      "date": "2026-03-23T14:30:10.000Z",
-      "label": "arXiv q-fin",
+      "title": "Report of the 2026 Annual Membership Meeting",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70031?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1147-1150, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
       "type": "research",
       "tags": [
-        "academic",
-        "preprint",
-        "quant"
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "AMERICAN FINANCE ASSOCIATION",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13348?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1152-1153, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "The Benefits of Access: Evidence from Private Meetings with Portfolio Firms",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13495?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 739-789, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "FinTech Lending and Cashless Payments",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70003?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1053-1101, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "The Long‐Lasting Effects of Experiencing Communism on Attitudes toward Financial Markets",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70006?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1103-1145, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70007?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 643-685, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Institutional Investor Attention",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70009?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 791-827, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Default Risk and the Pricing of U.S. Sovereign Bonds",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70014?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 829-869, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Monetary Policy and Wealth Effects: The Role of Risk and Heterogeneity",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70021?af=R",
+      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1011-1052, April 2026.",
+      "date": "2026-03-30T15:54:37.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "FEDS Paper: Validating Large Language Model Annotations",
+      "link": "https://www.federalreserve.gov/econres/feds/validating-large-language-model-annotations.htm",
+      "desc": "Anne Lundgaard Hansen This paper proposes a validation framework for LLM-generated measurements when reliable benchmarks are unavailable. Validity is established by testing whether an LLM can reconstruct passages from annotated labels while maintaining semantic consistency with the original text. The framework avoids circular reasoning by establishing testable prerequisite properties that must be ",
+      "date": "2026-03-30T15:50:00.000Z",
+      "label": "Federal Reserve Papers",
+      "type": "research",
+      "tags": [
+        "central-bank",
+        "policy",
+        "research"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "FEDS Paper: A User's Guide to Reducing the Federal Reserve's Balance Sheet",
+      "link": "https://www.federalreserve.gov/econres/feds/a-users-guide-to-reducing-the-federal-reserves-balance-sheet.htm",
+      "desc": "Alyssa G. Anderson , Alessandro Barbarino , Anthony M. Diercks , and Stephen Miran",
+      "date": "2026-03-26T22:30:00.000Z",
+      "label": "Federal Reserve Papers",
+      "type": "research",
+      "tags": [
+        "central-bank",
+        "policy",
+        "research"
       ],
       "isPaywalled": false
     },
@@ -103,114 +243,16 @@
       "isPaywalled": false
     },
     {
-      "title": "Discovering parametrizations of implied volatility with symbolic regression",
-      "link": "http://arxiv.org/abs/2603.21892v1",
-      "desc": "We investigate the data-driven discovery of parametric representations for implied volatility slices. Using symbolic regression, we search for simple analytic formulas that approximate the total implied variance as a function of log-moneyness and maturity. Our approach generates candidate parametrizations directly from market data without imposing a predefined functional form. We compare the resul",
-      "date": "2026-03-23T12:19:28.000Z",
-      "label": "arXiv q-fin",
+      "title": "IFDP Paper: The Design and Effect of Tariff Retaliation: Evidence from the European Union",
+      "link": "https://www.federalreserve.gov/econres/ifdp/the-design-and-effect-of-tariff-retaliation-evidence-from-the-european-union.htm",
+      "desc": "Ece Fisgin, Johannes Fleck , Keith Richards We show that the EU&#8217;s 2018 retaliation against US steel and aluminum tariffs targeted goods with low US import dependence and high substitutability. For the majority of tariffed goods, the US share of EU imports declined notably and remained below pre-2018 levels even after the retaliatory tariffs were lifted, reflecting asymmetric effects of tarif",
+      "date": "2026-03-20T14:30:00.000Z",
+      "label": "Federal Reserve Papers",
       "type": "research",
       "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Flexible Information Acquisition in the Kyle Model",
-      "link": "http://arxiv.org/abs/2603.21842v1",
-      "desc": "We study an information acquisition problem in which an informed trader acquires costly information prior to trading in the Kyle equilibrium. The cost of information acquisition is represented by an entropy cost. Regardless of the prior distribution of the asset payoff, continuous signals are optimal. Moreover, any continuously distributed signal, together with an associated logit type posterior d",
-      "date": "2026-03-23T11:31:29.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Consumer Choice and Corporate Bankruptcy",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70030?af=R",
-      "desc": "The Journal of Finance, EarlyView.",
-      "date": "2026-03-23T08:46:22.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Mislearning of Factor Risk Premia under Structural Breaks: large A Misspecified Bayesian Learning Framework",
-      "link": "http://arxiv.org/abs/2603.21672v1",
-      "desc": "While asset-pricing models increasingly recognize that factor risk premia are subject to structural change, existing literature typically assumes that investors correctly account for such instability. This paper asks what happens when investors instead learn under a misspecified model that underestimates structural breaks. We propose a minimal Bayesian framework in which this misspecification gene",
-      "date": "2026-03-23T07:54:15.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Information geometry of Lévy processes and financial models",
-      "link": "http://arxiv.org/abs/2507.23646v3",
-      "desc": "We develop the information geometry of Lévy processes. Deriving $α$-divergences directly in terms of the Lévy triplets of the Lévy processes, we identify Fisher information matrix and $α$-connection on the statistical manifold. In addition, we discuss statistical implications of this information geometry, including bias reduction estimation and Bayesian predictive priors. Several Lévy processes, b",
-      "date": "2026-03-22T23:49:23.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "A Rank-Dependent Theory for Decision under Risk and Ambiguity",
-      "link": "http://arxiv.org/abs/2312.05977v4",
-      "desc": "This paper axiomatizes, in a two-stage setup, a new theory for decision under risk and ambiguity. The axiomatized preference relation $\\succeq$ on the space $\\tilde{V}$ of random variables induces an ambiguity index $c$ on the space $Δ$ of probabilities, a probability weighting function $ψ$, generating the measure $ν_ψ$ by transforming an objective probability measure, and a utility function $φ$, ",
-      "date": "2026-03-22T20:16:03.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "The Financial Connectome: A Brain-Inspired Framework for Modeling Latent Market Dynamics",
-      "link": "http://arxiv.org/abs/2508.02012v2",
-      "desc": "We propose the Financial Connectome, a new scientific discipline that models financial markets through the lens of brain functional architecture. Inspired by the foundational work of group independent component analysis (groupICA) in neuroscience, we reimagine markets not as collections of assets, but as high-dimensional dynamic systems composed of latent market modules. Treating stocks as functio",
-      "date": "2026-03-22T17:41:31.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
-      "link": "http://arxiv.org/abs/2603.21330v1",
-      "desc": "We present FinRL-X, a modular and deployment-consistent trading architecture that unifies data processing, strategy construction, backtesting, and broker execution under a weight-centric interface. While existing open-source platforms are often backtesting- or model-centric, they rarely provide system-level consistency between research evaluation and live deployment. FinRL-X addresses this gap thr",
-      "date": "2026-03-22T17:13:10.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
+        "central-bank",
+        "policy",
+        "research"
       ],
       "isPaywalled": false
     },
@@ -243,20 +285,6 @@
       "isPaywalled": false
     },
     {
-      "title": "IFDP Paper: The Design and Effect of Tariff Retaliation: Evidence from the European Union",
-      "link": "https://www.federalreserve.gov/econres/ifdp/the-design-and-effect-of-tariff-retaliation-evidence-from-the-european-union.htm",
-      "desc": "Ece Fisgin, Johannes Fleck , Keith Richards We show that the EU&#8217;s 2018 retaliation against US steel and aluminum tariffs targeted goods with low US import dependence and high substitutability. For the majority of tariffed goods, the US share of EU imports declined notably and remained below pre-2018 levels even after the retaliatory tariffs were lifted, reflecting asymmetric effects of tarif",
-      "date": "2026-03-20T14:30:00.000Z",
-      "label": "Federal Reserve Papers",
-      "type": "research",
-      "tags": [
-        "central-bank",
-        "policy",
-        "research"
-      ],
-      "isPaywalled": false
-    },
-    {
       "title": "Will South Korea’s epic bull market survive the energy shock?",
       "link": "https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock",
       "desc": "Probably, but investors should brace for more volatility",
@@ -270,34 +298,6 @@
         "premium"
       ],
       "isPaywalled": true
-    },
-    {
-      "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70029?af=R",
-      "desc": "The Journal of Finance, EarlyView.",
-      "date": "2026-03-16T08:46:54.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Report of the 2026 Annual Membership Meeting",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70031?af=R",
-      "desc": "The Journal of Finance, EarlyView.",
-      "date": "2026-03-12T12:09:53.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
     },
     {
       "title": "Donald Trump’s options to cool oil prices are sorely limited",
@@ -339,132 +339,6 @@
         "central-bank",
         "policy",
         "research"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "FEDS Paper: The Practice of U.S. Monetary Policy Independence from Martin to Greenspan",
-      "link": "https://www.federalreserve.gov/econres/feds/the-practice-of-us-monetary-policy-independence-from-martin-to-greenspan.htm",
-      "desc": "Edward Nelson Central bank independence is a major area of study, but the economic literature has been characterized by numerous misstatements regarding how U.S. monetary policy independence has operated over time. Against this backdrop, this paper lays out major elements of the practice of central bank independence in the United States in the period from 1951 to 2006&#8212;a time span that encomp",
-      "date": "2026-03-03T21:27:00.000Z",
-      "label": "Federal Reserve Papers",
-      "type": "research",
-      "tags": [
-        "central-bank",
-        "policy",
-        "research"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "IFDP Paper: The Effects of the War on Ukraine on Global Corporate Investment",
-      "link": "https://www.federalreserve.gov/econres/ifdp/the-effects-of-the-war-on-ukraine-on-global-corporate-investment.htm",
-      "desc": "Dario Caldara , Mike McHenry , Matteo Iacoviello , and Immo Schott We study the investment effects of the Russia&#8211;Ukraine war using a novel, text-based measure of firm-level exposure derived from earnings call transcripts. Combining this measure with financial statement data for over 6,500 firms across 50 countries, we show that exposure to the conflict led to sizable and persistent declines ",
-      "date": "2026-03-03T15:00:00.000Z",
-      "label": "Federal Reserve Papers",
-      "type": "research",
-      "tags": [
-        "central-bank",
-        "policy",
-        "research"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "The Benefits of Access: Evidence from Private Meetings with Portfolio Firms",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13495?af=R",
-      "desc": "The Journal of Finance, EarlyView.",
-      "date": "2026-02-23T05:46:11.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "ANNOUNCEMENTS",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70015?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 551-551, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "AMERICAN FINANCE ASSOCIATION",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13346?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 552-553, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Asset Pricing and Risk‐Sharing Implications of Alternative Pension Plan Systems",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13507?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 143-188, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Paying Too Much? Borrower Sophistication and Overpayment in the U.S. Mortgage Market",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70001?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 49-90, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Second Chance: Life with Less Student Debt",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70002?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 507-550, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "An Economic View of Corporate Social Impact",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70004?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 1, Page 285-328, February 2026.",
-      "date": "2026-02-19T07:03:27.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
       ],
       "isPaywalled": false
     },
