@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-07T20:57:49.417Z",
-  "count": 48,
+  "updated": "2026-04-07T21:27:47.158Z",
+  "count": 49,
   "failed": [],
   "items": [
+    {
+      "title": "Oil eases and US stocks close higher as Pakistan floats US-Iran deadline extension",
+      "link": "https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906",
+      "desc": "S&P 500 and Nasdaq end day up 0.1% while Brent fell 2% in afternoon trading",
+      "date": "2026-04-07T20:41:34.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Hedge funds make record bets against European stocks",
       "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
