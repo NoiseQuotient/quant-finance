@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-07T13:10:36.052Z",
-  "count": 46,
+  "updated": "2026-04-07T14:27:48.898Z",
+  "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "Hedge funds make record bets against European stocks",
+      "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
+      "desc": "Short positions rise sharply as traders eye economic fallout from Iran war",
+      "date": "2026-04-07T14:00:05.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Submodular risk measures",
       "link": "http://arxiv.org/abs/2603.01232v2",
