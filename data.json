@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-07T15:57:49.961Z",
-  "count": 48,
+  "updated": "2026-04-07T16:27:51.972Z",
+  "count": 49,
   "failed": [],
   "items": [
+    {
+      "title": "Reform UK accused of risking economy with visa threat over reparations",
+      "link": "https://www.ft.com/content/4010330b-7bd1-4098-8706-1401b18ee9b2",
+      "desc": "Populist party says it would bar citizens of countries demanding compensation over transatlantic slave trade",
+      "date": "2026-04-07T16:10:36.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Hedge funds make record bets against European stocks",
       "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
