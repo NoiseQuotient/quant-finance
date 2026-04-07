@@ -1,22 +1,203 @@
 {
-  "updated": "2026-04-01T15:23:08.793Z",
-  "count": 47,
+  "updated": "2026-04-07T11:10:38.721Z",
+  "count": 46,
   "failed": [],
   "items": [
     {
-      "title": "Iran war shock is intensifying risks to financial system, says BoE",
-      "link": "https://www.ft.com/content/132a728a-75e7-4545-a70c-66801924360b",
-      "desc": "Central bank warns conflict likely to hit economic growth as Keir Starmer insists UK ‘well placed’ to weather crisis",
-      "date": "2026-04-01T15:02:13.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
+      "title": "Submodular risk measures",
+      "link": "http://arxiv.org/abs/2603.01232v2",
+      "desc": "We study submodularity for law-invariant functionals, with particular attention to convex risk measures. Expected losses are modular, and certainty equivalents are submodular exactly when the loss function is convex. Law-invariant coherent risk measures are submodular exactly when they are coherent distortion risk measures, including Expected Shortfall (ES), and several deviation measures are also",
+      "date": "2026-04-06T17:37:31.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
       "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
+        "academic",
+        "preprint",
+        "quant"
       ],
-      "isPaywalled": true
+      "isPaywalled": false
+    },
+    {
+      "title": "On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models",
+      "link": "http://arxiv.org/abs/2603.11046v2",
+      "desc": "This paper is concerned with Merton's portfolio optimization problem in a Volterra stochastic environment described by a multivariate fake stationary Volterra--Heston model. Due to the non-Markovianity and non-semimartingality of the underlying processes, the classical stochastic control approach cannot be directly applied in this setting. Instead, the problem is tackled using a stochastic factor ",
+      "date": "2026-04-06T16:25:54.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "A Nontrivial Upper Bound on the Out-of-Sample $R^2$ in Return Forecasting",
+      "link": "http://arxiv.org/abs/2602.07841v3",
+      "desc": "This study establishes a nontrivial upper bound on the out-of-sample $R^2$ ($R^2_{\\text{OOS}}$) in return forecasting. In particular, we define a coin-flip oracle model that, under the same directional accuracy, theoretically outperforms practical models in terms of MSE. The $R^2_{\\text{OOS}}$ of the oracle model, whose analytical expression is a quadratic function of directional accuracy, can the",
+      "date": "2026-04-06T14:43:30.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "AI-BAAM: AI-Driven Bank Statement Analytics as Alternative Data for Malaysian MSME Credit Scoring",
+      "link": "http://arxiv.org/abs/2510.16066v4",
+      "desc": "Despite accounting for 96.1% of all businesses in Malaysia, access to financing remains one of the most persistent challenges faced by Micro, Small, and Medium Enterprises (MSMEs). Newly established businesses are often excluded from formal credit markets as traditional underwriting approaches rely heavily on credit bureau data. This study investigates the potential of bank statement data as an al",
+      "date": "2026-04-06T14:40:04.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Anticipatory Reinforcement Learning: From Generative Path-Laws to Distributional Value Functions",
+      "link": "http://arxiv.org/abs/2604.04662v1",
+      "desc": "This paper introduces Anticipatory Reinforcement Learning (ARL), a novel framework designed to bridge the gap between non-Markovian decision processes and classical reinforcement learning architectures, specifically under the constraint of a single observed trajectory. In environments characterised by jump-diffusions and structural breaks, traditional state-based methods often fail to capture the ",
+      "date": "2026-04-06T13:15:44.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "$α$-robust utility maximization with intractable claims: A quantile optimization approach",
+      "link": "http://arxiv.org/abs/2604.04649v1",
+      "desc": "This paper studies an $α$-robust utility maximization problem where an investor faces an intractable claim -- an exogenous contingent claim with known marginal distribution but unspecified dependence structure with financial market returns. The $α$-robust criterion interpolates between worst-case ($α=0$) and best-case ($α=1$) evaluations, generalizing both extremes through a continuous ambiguity a",
+      "date": "2026-04-06T12:58:42.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Dividend ratcheting and capital injection under the Cramér-Lundberg model: Strong solution and optimal strategy",
+      "link": "http://arxiv.org/abs/2604.04641v1",
+      "desc": "We consider an optimal dividend payout problem for an insurance company whose surplus follows the classical Cramér-Lundberg model. The dividend rate is subject to a ratcheting constraint (i.e., it must be nondecreasing over time), and the company may inject capital at a proportional cost to avoid ruin. This problem gives rise to a stochastic control problem with a self-path-dependent control const",
+      "date": "2026-04-06T12:50:20.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "The Co-Pricing Factor Zoo",
+      "link": "http://arxiv.org/abs/2604.04430v1",
+      "desc": "We analyze 18 quadrillion models for the joint pricing of corporate bond and stock returns. Strikingly, we find that equity and nontradable factors alone suffice to explain corporate bond risk premia once their Treasury term structure risk is accounted for, rendering the extensive bond factor literature largely redundant for this purpose. While only a handful of factors, behavioral and nontradable",
+      "date": "2026-04-06T05:23:01.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Toward Black Scholes for Prediction Markets: A Unified Kernel and Market Maker's Handbook",
+      "link": "http://arxiv.org/abs/2510.15205v2",
+      "desc": "Prediction markets, such as Polymarket, aggregate dispersed information into tradable probabilities, but they still lack a unifying stochastic kernel comparable to the one options gained from Black-Scholes. As these markets scale with institutional participation, exchange integrations, and higher volumes around elections and macro prints, market makers face belief volatility, jump, and cross-event",
+      "date": "2026-04-06T04:29:37.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI",
+      "link": "http://arxiv.org/abs/2603.14288v2",
+      "desc": "This paper develops an autonomous framework for systematic factor investing via agentic AI. Rather than relying on sequential manual prompts, our approach operationalizes the model as a self-directed engine that endogenously formulates interpretable trading signals. To mitigate data snooping biases, this closed-loop system imposes strict empirical discipline through out-of-sample validation and ec",
+      "date": "2026-04-06T04:00:17.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Size, Returns, and Value: Do Private Equity Firms Allocate Capital According to Manager Skill?",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70036?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-03T07:29:12.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Leader‐Follower Dynamics in Shareholder Activism",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70033?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-02T07:28:41.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Corporate M&As and Labor Market Concentration: Efficiency Gains or Power Grabs?",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70035?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-02T06:05:41.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "FEDS Paper: Monetary Policy under Multiple Financing Constraints",
+      "link": "https://www.federalreserve.gov/econres/feds/monetary-policy-under-multiple-financing-constraints.htm",
+      "desc": "Ander Perez-Orive , Yannick Timmer , Alejandro van der Ghote We revisit the credit channel of monetary policy when firms face multiple financing constraints. Our theory shows that the multiplicity of constraints dampens the transmission of expansionary policy to firm borrowing and investment notably but amplifies the transmission of policy tightening. This asymmetry arises because, when policy tig",
+      "date": "2026-04-01T18:25:00.000Z",
+      "label": "Federal Reserve Papers",
+      "type": "research",
+      "tags": [
+        "central-bank",
+        "policy",
+        "research"
+      ],
+      "isPaywalled": false
     },
     {
       "title": "Do No Harm in the Age of the Black Box: A Hippocratic Oath for AI Practitioners",
@@ -29,146 +210,6 @@
         "industry",
         "technical",
         "quant-community"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Bridging Stochastic Control and Deep Hedging: Structural Priors for No-Transaction Band Networks",
-      "link": "http://arxiv.org/abs/2603.29994v1",
-      "desc": "This paper studies the problem of hedging and pricing a European call option under proportional transaction costs, from two complementary perspectives. We first derive the optimal hedging strategy under CARA utility, following the stochastic control framework of Davis et al. (1993), characterising the no-transaction band via the Hamilton-Jacobi-Bellman Quasi-Variational Inequality (HJBQVI) and the",
-      "date": "2026-03-31T16:56:17.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Does the Market Anticipate? Can it? Should it?",
-      "link": "http://arxiv.org/abs/2603.02187v2",
-      "desc": "We explore a nuance to 'no arbitrage' in relation to 'informational efficiency': acting immediately on an arbitrage is sometimes suboptimal; in such cases optimised trading can suppress the anticipation of predictable risk-outcomes, thereby creating an apparent Status Quo Bias, with Momentum and Low-Risk effects. This is shown in continuous time under model- or event-risk, where, unlike existing a",
-      "date": "2026-03-31T16:24:57.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Riemannian Geometry of Optimal Rebalancing in Dynamic Weight Automated Market Makers",
-      "link": "http://arxiv.org/abs/2603.05326v3",
-      "desc": "We show that when a dynamic-weight AMM rebalances by creating arbitrage opportunities, the per-step log loss is the KL divergence between successive weight vectors. The Fisher-Rao metric is therefore the natural Riemannian metric on the weight simplex. The loss-minimising interpolation under the leading-order expansion of this KL cost is SLERP (Spherical Linear Interpolation) in the Hellinger coor",
-      "date": "2026-03-31T15:59:56.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Option Pricing on Automated Market Maker Tokens",
-      "link": "http://arxiv.org/abs/2603.29763v1",
-      "desc": "We derive the stochastic price process for tokens whose sole price discovery mechanism is a constant-product automated market maker (AMM). When the net flow into the pool follows a diffusion, the token price follows a constant elasticity of variance (CEV) process, nesting Black-Scholes as the limiting case of infinite liquidity. We obtain closed-form European option prices and introduce liquidity-",
-      "date": "2026-03-31T14:03:00.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Quantum Network of Assets (QNA): A Density-Operator Framework for Market Dependence and Structural Risk Diagnostics",
-      "link": "http://arxiv.org/abs/2511.21515v3",
-      "desc": "Classical correlation and rolling PCA summarize market dependence through covariance spectra, but they do not provide a unified operator representation for entropy, purity-based mixing, and standardized structural deviations built from rolling multi-feature trajectories. We propose the Quantum Network of Assets (QNA), a quantum-inspired but non-physical density-operator framework in which normaliz",
-      "date": "2026-03-31T13:52:32.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Common Risk Factors in Decentralized AI Subnets",
-      "link": "http://arxiv.org/abs/2603.29751v1",
-      "desc": "I derive a size premium from the constant-product automated market maker used to price Bittensor subnet tokens and test the prediction using daily data on 128 subnets. A small-minus-big factor earns 1.01% daily (Newey-West t = 3.28). The December 2025 halving of token emissions, which the theory predicts should halve the premium, reduces it from 1.17% to 0.51% (p = 0.044). Exact slippage calculati",
-      "date": "2026-03-31T13:52:14.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Generative AI on Wall Street -- Opportunities and Risk Controls",
-      "link": "http://arxiv.org/abs/2509.05841v2",
-      "desc": "We give an overview on the emerging applications of GenAI in the financial industry, especially within investment banks. Inherent to these exciting opportunities is a new realm of risks that must be managed properly. By heeding both the Yin and Yang sides of GenAI, we can accelerate its organic growth while safeguarding the entire financial industry during this nascent era of AI.",
-      "date": "2026-03-31T13:15:29.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Be Water: An Evolutionary Proof for Trend-Following",
-      "link": "http://arxiv.org/abs/2603.29593v1",
-      "desc": "The proliferation of diverse, high-leverage trading instruments in modern financial markets presents a complex, \"noisy\" environment, leading to a critical question: which trading strategies are evolutionarily viable? To investigate this, we construct a large-scale agent-based model, \"MAS-Utopia,\" comprising 10,000 agents with five distinct archetypes. This society is immersed in five years of high",
-      "date": "2026-03-31T11:13:07.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE",
-      "link": "http://arxiv.org/abs/2511.13616v2",
-      "desc": "Electricity price forecasts are typically evaluated using accuracy measures such as RMSE and MAE, although these metrics often fail to reflect their economic value in operational decisions. This paper investigates which statistical properties of electricity price forecasts are most relevant for economic performance, using battery energy storage system (BESS) arbitrage as an application. We assess ",
-      "date": "2026-03-31T08:39:33.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Ultra-short-term volatility surfaces",
-      "link": "http://arxiv.org/abs/2603.29430v1",
-      "desc": "Options with maturities below one week, hereafter \"ultra-short-term\" options, have seen a sharp increase in trading activity in recent years. Yet, these instruments are difficult to price jointly using classical pricing models due to the pronounced oscillations observed in the at-the-money implied-volatility term structure across ultra-short-term tenors. We propose Edgeworth++, a parsimonious jump",
-      "date": "2026-03-31T08:36:43.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
       ],
       "isPaywalled": false
     },
@@ -271,48 +312,6 @@
       "isPaywalled": false
     },
     {
-      "title": "Institutional Investor Attention",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70009?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 791-827, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Default Risk and the Pricing of U.S. Sovereign Bonds",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70014?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 829-869, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Monetary Policy and Wealth Effects: The Role of Risk and Heterogeneity",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70021?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1011-1052, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
       "title": "FEDS Paper: Validating Large Language Model Annotations",
       "link": "https://www.federalreserve.gov/econres/feds/validating-large-language-model-annotations.htm",
       "desc": "Anne Lundgaard Hansen This paper proposes a validation framework for LLM-generated measurements when reliable benchmarks are unavailable. Validity is established by testing whether an LLM can reconstruct passages from annotated labels while maintaining semantic consistency with the original text. The framework avoids circular reasoning by establishing testable prerequisite properties that must be ",
@@ -397,9 +396,9 @@
       "isPaywalled": false
     },
     {
-      "title": "IFDP Paper: Volatile Rates, Fragile Growth: Global Financial Risk and Productivity Dynamics",
-      "link": "https://www.federalreserve.gov/econres/ifdp/volatile-rates-fragile-growth-global-financial-risk-and-productivity-dynamics.htm",
-      "desc": "Nils Gornemann , Eugenio Rojas, Felipe Saffie Does global financial risk affect long-run growth? Using a panel state-space model for emerging and advanced small open economies, we measure the effects of U.S. monetary policy uncertainty shocks. A one-standard-deviation shock lowers the level of the stochastic trend in emerging markets by at least 25 basis points after three years, with little effec",
+      "title": "IFDP Paper: Risk in a Data-Rich Model",
+      "link": "https://www.federalreserve.gov/econres/ifdp/risk-in-a-data-rich-model.htm",
+      "desc": "Dario Caldara , Haroon Mumtaz, and Molin Zhong We characterize asymmetric tail risk across over one hundred U.S. macroeconomic and financial variables using a dynamic factor model with stochastic volatility. The model unifies growth-at-risk, inflation-at-risk, and sectoral heterogeneity through common factors whose volatility responds endogenously to shocks, combined with heterogeneous factor load",
       "date": "2026-03-20T14:30:00.000Z",
       "label": "Federal Reserve Papers",
       "type": "research",
@@ -411,9 +410,9 @@
       "isPaywalled": false
     },
     {
-      "title": "IFDP Paper: Risk in a Data-Rich Model",
-      "link": "https://www.federalreserve.gov/econres/ifdp/risk-in-a-data-rich-model.htm",
-      "desc": "Dario Caldara , Haroon Mumtaz, and Molin Zhong We characterize asymmetric tail risk across over one hundred U.S. macroeconomic and financial variables using a dynamic factor model with stochastic volatility. The model unifies growth-at-risk, inflation-at-risk, and sectoral heterogeneity through common factors whose volatility responds endogenously to shocks, combined with heterogeneous factor load",
+      "title": "IFDP Paper: Volatile Rates, Fragile Growth: Global Financial Risk and Productivity Dynamics",
+      "link": "https://www.federalreserve.gov/econres/ifdp/volatile-rates-fragile-growth-global-financial-risk-and-productivity-dynamics.htm",
+      "desc": "Nils Gornemann , Eugenio Rojas, Felipe Saffie Does global financial risk affect long-run growth? Using a panel state-space model for emerging and advanced small open economies, we measure the effects of U.S. monetary policy uncertainty shocks. A one-standard-deviation shock lowers the level of the stochastic trend in emerging markets by at least 25 basis points after three years, with little effec",
       "date": "2026-03-20T14:30:00.000Z",
       "label": "Federal Reserve Papers",
       "type": "research",
@@ -459,20 +458,6 @@
       "link": "https://www.federalreserve.gov/econres/feds/income-mobility-of-the-top-one-percent.htm",
       "desc": "David Splinter and Jeff Larrimore Circulation into and out of the top one percent is pronounced in the U.S. One third exit after a year and two-thirds exit after a decade. This mobility lowers top income shares when shifting from annual to multi-year income measures. Intragenerational mobility over two decades lowers recent top one percent fiscal income shares by over 10 percent. Two-decade mobili",
       "date": "2026-03-06T20:10:00.000Z",
-      "label": "Federal Reserve Papers",
-      "type": "research",
-      "tags": [
-        "central-bank",
-        "policy",
-        "research"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "IFDP Paper: Quantifying Deregulation and its Economic Effects: A Large Language Model Approach",
-      "link": "https://www.federalreserve.gov/econres/ifdp/quantifying-deregulation-and-its-economic-effects-a-large-language-model-approach.htm",
-      "desc": "Danilo Cascaldi-Garcia and Matteo Iacoviello We construct a news-based index of deregulation for the United States from 1960 through 2025 using AI to semantically classify newspaper articles. We distinguish articles discussing deregulation from those discussing increased regulation, assigning intensity scores that reflect both the centrality of deregulatory content and whether articles discuss adv",
-      "date": "2026-03-06T19:55:00.000Z",
       "label": "Federal Reserve Papers",
       "type": "research",
       "tags": [
