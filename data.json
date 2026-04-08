@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-08T22:57:48.199Z",
-  "count": 47,
+  "updated": "2026-04-08T23:27:49.116Z",
+  "count": 46,
   "failed": [],
   "items": [
     {
@@ -14,21 +14,6 @@
         "economics",
         "markets",
         "finance",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "Fed officials sparred over response to energy surge caused by Iran war",
-      "link": "https://www.ft.com/content/8e80cb53-eef8-4a59-a5c7-34da5c027381",
-      "desc": "Minutes of March meeting show policymakers debated whether to focus on inflation or jobs market risks",
-      "date": "2026-04-08T18:19:27.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
         "premium"
       ],
       "isPaywalled": true
