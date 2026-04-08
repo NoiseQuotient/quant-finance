@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-08T09:27:52.524Z",
-  "count": 46,
+  "updated": "2026-04-08T09:58:07.710Z",
+  "count": 36,
   "failed": [],
   "items": [
     {
@@ -18,104 +18,6 @@
       "isPaywalled": false
     },
     {
-      "title": "Sequential Audit Sampling with Statistical Guarantees",
-      "link": "http://arxiv.org/abs/2604.06116v1",
-      "desc": "Financial statement auditing is conducted under a risk-based evidence approach to obtain reasonable assurance. In practice, auditors often perform additional sampling or related procedures when an initial sample does not provide a sufficient basis for a conclusion. Across jurisdictions, current standards and practice manuals acknowledge such extensions, while the statistical design of sequential a",
-      "date": "2026-04-07T17:26:23.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models",
-      "link": "http://arxiv.org/abs/2604.06068v1",
-      "desc": "This research addresses accurate option pricing by employing models beyond the traditional Black-Scholes framework. While Black-Scholes provides a closed-form solution, it is limited by assumptions of constant volatility, no dividends, and continuous price movements. To overcome these limitations, we use Monte Carlo simulation alongside the GARCH model, Heston stochastic volatility model, and Mert",
-      "date": "2026-04-07T16:48:26.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Tail copula representation of path-based maximal tail dependence",
-      "link": "http://arxiv.org/abs/2604.05985v1",
-      "desc": "The classical tail dependence coefficient (TDC) may fail to capture non-exchangeable features of tail dependence due to its restrictive focus on the diagonal of the underlying copula. To address this limitation, the framework of path-based maximal tail dependence has been proposed, where a path of maximal dependence is derived to capture the most pronounced feature of dependence over all possible ",
-      "date": "2026-04-07T15:13:22.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Modelling Cascading Physical Climate Risk in Supply Chains with Adaptive Firms: A Spatial Agent-Based Framework",
-      "link": "http://arxiv.org/abs/2509.18633v4",
-      "desc": "We present an open-source Python framework for modelling cascading physical climate risk in a spatial supply-chain economy. The framework integrates geospatial flood hazards with an agent-based model of firms and households, enabling simulation of both direct asset losses and indirect disruptions propagated through economic networks. Firms adapt endogenously through two channels: capital hardening",
-      "date": "2026-04-07T13:54:04.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Does the Market Anticipate? Can it? Should it?",
-      "link": "http://arxiv.org/abs/2603.02187v3",
-      "desc": "We explore a nuance to 'no arbitrage' in relation to 'informational efficiency': acting immediately on an arbitrage is sometimes suboptimal; in such cases optimised trading can suppress the anticipation of predictable risk-outcomes, thereby creating an apparent Status Quo Bias, with Momentum and Low-Risk effects. This is shown in continuous time under model- or event-risk, where, unlike existing a",
-      "date": "2026-04-07T13:08:03.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Priced risk in corporate bonds",
-      "link": "http://arxiv.org/abs/2604.05699v1",
-      "desc": "Recent studies document strong empirical support for multifactor models that aim to explain the cross-sectional variation in corporate bond expected excess returns. We revisit these findings and provide evidence that common factor pricing in corporate bonds is exceedingly difficult to establish. Based on portfolio- and bond-level analyses, we demonstrate that previously proposed bond risk factors,",
-      "date": "2026-04-07T10:49:46.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "FDI versus R\\&D in an endogenous growth model",
-      "link": "http://arxiv.org/abs/2501.12010v2",
-      "desc": "We investigate the role of foreign direct investment (FDI) and research and development (R\\&D) in the transitional dynamics of host countries using an optimal growth model. FDI may benefit the host country's GNP by enabling multinational enterprises to hire local workers. However, if the host country focuses solely on FDI, it may fall into a middle-income trap. Most importantly, we show that if th",
-      "date": "2026-04-07T08:36:22.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
       "title": "Deposit Franchise Runs",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70034?af=R",
       "desc": "The Journal of Finance, EarlyView.",
@@ -126,48 +28,6 @@
         "journal",
         "peer-reviewed",
         "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Interpretable Deep Learning for Stock Returns: A Consensus-Bottleneck Asset Pricing Model",
-      "link": "http://arxiv.org/abs/2512.16251v4",
-      "desc": "We introduce the Consensus-Bottleneck Asset Pricing Model (CB-APM), which embeds aggregate analyst consensus as a structural bottleneck, treating professional beliefs as a sufficient statistic for the market's high-dimensional information set. Unlike post-hoc explainability approaches, CB-APM achieves interpretability-by-design: the bottleneck constraint functions as an endogenous regularizer that",
-      "date": "2026-04-07T07:28:23.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches",
-      "link": "http://arxiv.org/abs/2604.02378v2",
-      "desc": "Forecasting startup success is notoriously difficult, partly because meaningful outcomes, such as exits, large funding rounds, and sustained revenue growth, are rare and can take years to materialize. As a result, signals are sparse and evaluation cycles are slow. Y Combinator batches offer a unique mitigation: each batch comprises around 200 startups, funded simultaneously, with evaluation at Dem",
-      "date": "2026-04-07T06:37:21.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Submodular risk measures",
-      "link": "http://arxiv.org/abs/2603.01232v2",
-      "desc": "We study submodularity for law-invariant functionals, with particular attention to convex risk measures. Expected losses are modular, and certainty equivalents are submodular exactly when the loss function is convex. Law-invariant coherent risk measures are submodular exactly when they are coherent distortion risk measures, including Expected Shortfall (ES), and several deviation measures are also",
-      "date": "2026-04-06T17:37:31.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
       ],
       "isPaywalled": false
     },
