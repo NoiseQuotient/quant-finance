@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T01:27:49.356Z",
+  "updated": "2026-04-08T01:57:48.578Z",
   "count": 48,
   "failed": [],
   "items": [
@@ -32,6 +32,90 @@
         "premium"
       ],
       "isPaywalled": true
+    },
+    {
+      "title": "Modelling Cascading Physical Climate Risk in Supply Chains with Adaptive Firms: A Spatial Agent-Based Framework",
+      "link": "http://arxiv.org/abs/2509.18633v4",
+      "desc": "We present an open-source Python framework for modelling cascading physical climate risk in a spatial supply-chain economy. The framework integrates geospatial flood hazards with an agent-based model of firms and households, enabling simulation of both direct asset losses and indirect disruptions propagated through economic networks. Firms adapt endogenously through two channels: capital hardening",
+      "date": "2026-04-07T13:54:04.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Does the Market Anticipate? Can it? Should it?",
+      "link": "http://arxiv.org/abs/2603.02187v3",
+      "desc": "We explore a nuance to 'no arbitrage' in relation to 'informational efficiency': acting immediately on an arbitrage is sometimes suboptimal; in such cases optimised trading can suppress the anticipation of predictable risk-outcomes, thereby creating an apparent Status Quo Bias, with Momentum and Low-Risk effects. This is shown in continuous time under model- or event-risk, where, unlike existing a",
+      "date": "2026-04-07T13:08:03.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Priced risk in corporate bonds",
+      "link": "http://arxiv.org/abs/2604.05699v1",
+      "desc": "Recent studies document strong empirical support for multifactor models that aim to explain the cross-sectional variation in corporate bond expected excess returns. We revisit these findings and provide evidence that common factor pricing in corporate bonds is exceedingly difficult to establish. Based on portfolio- and bond-level analyses, we demonstrate that previously proposed bond risk factors,",
+      "date": "2026-04-07T10:49:46.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "FDI versus R\\&D in an endogenous growth model",
+      "link": "http://arxiv.org/abs/2501.12010v2",
+      "desc": "We investigate the role of foreign direct investment (FDI) and research and development (R\\&D) in the transitional dynamics of host countries using an optimal growth model. FDI may benefit the host country's GNP by enabling multinational enterprises to hire local workers. However, if the host country focuses solely on FDI, it may fall into a middle-income trap. Most importantly, we show that if th",
+      "date": "2026-04-07T08:36:22.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Interpretable Deep Learning for Stock Returns: A Consensus-Bottleneck Asset Pricing Model",
+      "link": "http://arxiv.org/abs/2512.16251v4",
+      "desc": "We introduce the Consensus-Bottleneck Asset Pricing Model (CB-APM), which embeds aggregate analyst consensus as a structural bottleneck, treating professional beliefs as a sufficient statistic for the market's high-dimensional information set. Unlike post-hoc explainability approaches, CB-APM achieves interpretability-by-design: the bottleneck constraint functions as an endogenous regularizer that",
+      "date": "2026-04-07T07:28:23.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches",
+      "link": "http://arxiv.org/abs/2604.02378v2",
+      "desc": "Forecasting startup success is notoriously difficult, partly because meaningful outcomes, such as exits, large funding rounds, and sustained revenue growth, are rare and can take years to materialize. As a result, signals are sparse and evaluation cycles are slow. Y Combinator batches offer a unique mitigation: each batch comprises around 200 startups, funded simultaneously, with evaluation at Dem",
+      "date": "2026-04-07T06:37:21.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
     },
     {
       "title": "Submodular risk measures",
@@ -80,90 +164,6 @@
       "link": "http://arxiv.org/abs/2510.16066v4",
       "desc": "Despite accounting for 96.1% of all businesses in Malaysia, access to financing remains one of the most persistent challenges faced by Micro, Small, and Medium Enterprises (MSMEs). Newly established businesses are often excluded from formal credit markets as traditional underwriting approaches rely heavily on credit bureau data. This study investigates the potential of bank statement data as an al",
       "date": "2026-04-06T14:40:04.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Anticipatory Reinforcement Learning: From Generative Path-Laws to Distributional Value Functions",
-      "link": "http://arxiv.org/abs/2604.04662v1",
-      "desc": "This paper introduces Anticipatory Reinforcement Learning (ARL), a novel framework designed to bridge the gap between non-Markovian decision processes and classical reinforcement learning architectures, specifically under the constraint of a single observed trajectory. In environments characterised by jump-diffusions and structural breaks, traditional state-based methods often fail to capture the ",
-      "date": "2026-04-06T13:15:44.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "$α$-robust utility maximization with intractable claims: A quantile optimization approach",
-      "link": "http://arxiv.org/abs/2604.04649v1",
-      "desc": "This paper studies an $α$-robust utility maximization problem where an investor faces an intractable claim -- an exogenous contingent claim with known marginal distribution but unspecified dependence structure with financial market returns. The $α$-robust criterion interpolates between worst-case ($α=0$) and best-case ($α=1$) evaluations, generalizing both extremes through a continuous ambiguity a",
-      "date": "2026-04-06T12:58:42.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Dividend ratcheting and capital injection under the Cramér-Lundberg model: Strong solution and optimal strategy",
-      "link": "http://arxiv.org/abs/2604.04641v1",
-      "desc": "We consider an optimal dividend payout problem for an insurance company whose surplus follows the classical Cramér-Lundberg model. The dividend rate is subject to a ratcheting constraint (i.e., it must be nondecreasing over time), and the company may inject capital at a proportional cost to avoid ruin. This problem gives rise to a stochastic control problem with a self-path-dependent control const",
-      "date": "2026-04-06T12:50:20.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "The Co-Pricing Factor Zoo",
-      "link": "http://arxiv.org/abs/2604.04430v1",
-      "desc": "We analyze 18 quadrillion models for the joint pricing of corporate bond and stock returns. Strikingly, we find that equity and nontradable factors alone suffice to explain corporate bond risk premia once their Treasury term structure risk is accounted for, rendering the extensive bond factor literature largely redundant for this purpose. While only a handful of factors, behavioral and nontradable",
-      "date": "2026-04-06T05:23:01.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Toward Black Scholes for Prediction Markets: A Unified Kernel and Market Maker's Handbook",
-      "link": "http://arxiv.org/abs/2510.15205v2",
-      "desc": "Prediction markets, such as Polymarket, aggregate dispersed information into tradable probabilities, but they still lack a unifying stochastic kernel comparable to the one options gained from Black-Scholes. As these markets scale with institutional participation, exchange integrations, and higher volumes around elections and macro prints, market makers face belief volatility, jump, and cross-event",
-      "date": "2026-04-06T04:29:37.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI",
-      "link": "http://arxiv.org/abs/2603.14288v2",
-      "desc": "This paper develops an autonomous framework for systematic factor investing via agentic AI. Rather than relying on sequential manual prompts, our approach operationalizes the model as a self-directed engine that endogenously formulates interpretable trading signals. To mitigate data snooping biases, this closed-loop system imposes strict empirical discipline through out-of-sample validation and ec",
-      "date": "2026-04-06T04:00:17.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
