@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-08T07:27:49.103Z",
+  "updated": "2026-04-08T07:57:49.696Z",
   "count": 46,
   "failed": [],
   "items": [
+    {
+      "title": "The (Missing) Relation between Acquisition Announcement Returns and Value Creation",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70038?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-08T06:19:59.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
     {
       "title": "Sequential Audit Sampling with Statistical Guarantees",
       "link": "http://arxiv.org/abs/2604.06116v1",
@@ -98,6 +112,20 @@
         "academic",
         "preprint",
         "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Deposit Franchise Runs",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70034?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-07T08:18:07.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
       ],
       "isPaywalled": false
     },
@@ -273,34 +301,6 @@
       "title": "FinTech Lending and Cashless Payments",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70003?af=R",
       "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1053-1101, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "The Long‐Lasting Effects of Experiencing Communism on Attitudes toward Financial Markets",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70006?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1103-1145, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70007?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 643-685, April 2026.",
       "date": "2026-03-30T15:54:37.000Z",
       "label": "The Journal of Finance",
       "type": "research",
