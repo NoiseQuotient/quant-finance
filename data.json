@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-08T04:27:49.112Z",
-  "count": 48,
+  "updated": "2026-04-08T04:57:48.537Z",
+  "count": 46,
   "failed": [],
   "items": [
     {
@@ -44,36 +44,6 @@
         "quant"
       ],
       "isPaywalled": false
-    },
-    {
-      "title": "Hedge funds make record bets against European stocks",
-      "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
-      "desc": "Short positions rise sharply as traders eye economic fallout from Iran war",
-      "date": "2026-04-07T14:00:05.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds",
-      "link": "https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f",
-      "desc": "Non-bank lenders rapidly reduce holdings of EM debt during shocks such as the Iran war, analysis suggests",
-      "date": "2026-04-07T14:00:05.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
     },
     {
       "title": "Modelling Cascading Physical Climate Risk in Supply Chains with Adaptive Firms: A Spatial Agent-Based Framework",
