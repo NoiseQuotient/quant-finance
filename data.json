@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-08T21:57:47.068Z",
+  "updated": "2026-04-08T22:27:49.654Z",
   "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "The third Gulf war will scar energy markets for a long time yet",
+      "link": "https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet",
+      "desc": "Residual risks and ruined infrastructure will keep prices high",
+      "date": "2026-04-08T21:55:04.000Z",
+      "label": "The Economist Finance",
+      "type": "news",
+      "tags": [
+        "economics",
+        "markets",
+        "finance",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Fed officials sparred over response to energy surge caused by Iran war",
       "link": "https://www.ft.com/content/8e80cb53-eef8-4a59-a5c7-34da5c027381",
@@ -619,21 +634,6 @@
       "link": "https://www.economist.com/finance-and-economics/2025/10/01/the-eccentric-investment-strategy-that-beats-the-rest",
       "desc": "Introducing the 25/25/25/25 portfolio",
       "date": "2025-10-01T18:45:54.000Z",
-      "label": "The Economist Finance",
-      "type": "news",
-      "tags": [
-        "economics",
-        "markets",
-        "finance",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "Want better returns? Forget risk. Focus on fear",
-      "link": "https://www.economist.com/finance-and-economics/2025/08/06/want-better-returns-forget-risk-focus-on-fear",
-      "desc": "A recent study suggests a new paradigm for asset pricing",
-      "date": "2025-08-06T19:08:11.000Z",
       "label": "The Economist Finance",
       "type": "news",
       "tags": [
