@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-08T23:27:49.116Z",
-  "count": 46,
+  "updated": "2026-04-09T00:27:49.527Z",
+  "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "Ditch ‘alarming’ risk warnings to spur UK retail investment, fund managers told",
+      "link": "https://www.ft.com/content/3778982e-e037-4031-8bb1-53369d5a4e61",
+      "desc": "Trials show more balanced messages boost share of wealth in equities",
+      "date": "2026-04-08T23:01:01.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "The third Gulf war will scar energy markets for a long time yet",
       "link": "https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet",
