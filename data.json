@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T01:27:48.067Z",
+  "updated": "2026-04-09T02:27:51.475Z",
   "count": 47,
   "failed": [],
   "items": [
@@ -34,6 +34,20 @@
       "isPaywalled": true
     },
     {
+      "title": "PyFi: Toward Pyramid-like Financial Image Understanding for VLMs via Adversarial Agents",
+      "link": "http://arxiv.org/abs/2512.14735v2",
+      "desc": "This paper proposes PyFi, a novel framework for pyramid-like financial image understanding that enables vision language models (VLMs) to reason through question chains in a progressive, simple-to-complex manner. At the core of PyFi is PyFi-600K, a dataset comprising 600K financial question-answer pairs organized into a reasoning pyramid: questions at the base require only basic perception, while t",
+      "date": "2026-04-08T06:53:15.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
       "title": "The (Missing) Relation between Acquisition Announcement Returns and Value Creation",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70038?af=R",
       "desc": "The Journal of Finance, EarlyView.",
@@ -44,6 +58,62 @@
         "journal",
         "peer-reviewed",
         "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Asymptotic Analysis of Optimal Diversification in Catastrophe Risk Pooling",
+      "link": "http://arxiv.org/abs/2512.18790v2",
+      "desc": "Catastrophe risk has long been recognized to pose a serious threat to the insurance sector. Catastrophe risk pooling offers an effective way to diversify losses arising from catastrophic events. In this paper, we investigate a structure of catastrophe risk pool and optimize it so that participants can attain the maximum diversification benefit from joining the pool. Determining the practical optim",
+      "date": "2026-04-08T04:05:44.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Efficient Simulation and Calibration of the Rough Bergomi Model via Wasserstein Distance",
+      "link": "http://arxiv.org/abs/2512.00448v2",
+      "desc": "Despite the empirical success of the rough Bergomi (rBergomi) model in modeling volatility dynamics, its practical use remains challenging due to high computational complexity in both pricing and calibration arising from its non-Markovian structure. To address these difficulties, we develop an efficient computational framework. First, we propose a modified-sum-of-exponentials (mSOE) Monte Carlo sc",
+      "date": "2026-04-08T03:07:29.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "SoK of RWA Tokenization: A Systematization of Concepts, Architectures, and Legal Interoperability",
+      "link": "http://arxiv.org/abs/2604.06608v1",
+      "desc": "The global financial architecture is undergoing a shift from intermediary centric-settlement to programmable infrastructure, to transmute trillions in static illiquid capital into active, high-velocity instruments. We argue that Real World Asset (RWA) tokenization represents a conceptual evolution beyond mere digitization, converting passive ledger entries into programmable economic agents capable",
+      "date": "2026-04-08T02:41:23.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Utilizing Pre-trained and Large Language Models for 10-K Items Segmentation",
+      "link": "http://arxiv.org/abs/2502.08875v2",
+      "desc": "Extracting specific items from 10-K reports is challenging due to variations in document formats and item presentation. To improve over traditional rule-based approaches, this study introduces and compares two advanced item segmentation methods: (1) GPT4ItemSeg, using a novel line-ID-based prompting mechanism to utilize a large language model, ChatGPT-4o, for item segmentation, and (2) BERT4ItemSe",
+      "date": "2026-04-08T01:08:45.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
       ],
       "isPaywalled": false
     },
@@ -118,34 +188,6 @@
       "isPaywalled": false
     },
     {
-      "title": "Priced risk in corporate bonds",
-      "link": "http://arxiv.org/abs/2604.05699v1",
-      "desc": "Recent studies document strong empirical support for multifactor models that aim to explain the cross-sectional variation in corporate bond expected excess returns. We revisit these findings and provide evidence that common factor pricing in corporate bonds is exceedingly difficult to establish. Based on portfolio- and bond-level analyses, we demonstrate that previously proposed bond risk factors,",
-      "date": "2026-04-07T10:49:46.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "FDI versus R\\&D in an endogenous growth model",
-      "link": "http://arxiv.org/abs/2501.12010v2",
-      "desc": "We investigate the role of foreign direct investment (FDI) and research and development (R\\&D) in the transitional dynamics of host countries using an optimal growth model. FDI may benefit the host country's GNP by enabling multinational enterprises to hire local workers. However, if the host country focuses solely on FDI, it may fall into a middle-income trap. Most importantly, we show that if th",
-      "date": "2026-04-07T08:36:22.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
       "title": "Deposit Franchise Runs",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70034?af=R",
       "desc": "The Journal of Finance, EarlyView.",
@@ -156,48 +198,6 @@
         "journal",
         "peer-reviewed",
         "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Interpretable Deep Learning for Stock Returns: A Consensus-Bottleneck Asset Pricing Model",
-      "link": "http://arxiv.org/abs/2512.16251v4",
-      "desc": "We introduce the Consensus-Bottleneck Asset Pricing Model (CB-APM), which embeds aggregate analyst consensus as a structural bottleneck, treating professional beliefs as a sufficient statistic for the market's high-dimensional information set. Unlike post-hoc explainability approaches, CB-APM achieves interpretability-by-design: the bottleneck constraint functions as an endogenous regularizer that",
-      "date": "2026-04-07T07:28:23.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches",
-      "link": "http://arxiv.org/abs/2604.02378v2",
-      "desc": "Forecasting startup success is notoriously difficult, partly because meaningful outcomes, such as exits, large funding rounds, and sustained revenue growth, are rare and can take years to materialize. As a result, signals are sparse and evaluation cycles are slow. Y Combinator batches offer a unique mitigation: each batch comprises around 200 startups, funded simultaneously, with evaluation at Dem",
-      "date": "2026-04-07T06:37:21.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Submodular risk measures",
-      "link": "http://arxiv.org/abs/2603.01232v2",
-      "desc": "We study submodularity for law-invariant functionals, with particular attention to convex risk measures. Expected losses are modular, and certainty equivalents are submodular exactly when the loss function is convex. Law-invariant coherent risk measures are submodular exactly when they are coherent distortion risk measures, including Expected Shortfall (ES), and several deviation measures are also",
-      "date": "2026-04-06T17:37:31.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
       ],
       "isPaywalled": false
     },
