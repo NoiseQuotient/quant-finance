@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-09T19:57:48.811Z",
-  "count": 46,
+  "updated": "2026-04-09T20:27:49.345Z",
+  "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "The quantum computing race is wide open",
+      "link": "https://www.ft.com/content/053c8c39-9836-47e5-90f5-4798b3cf4c7c",
+      "desc": "Investor money has been flowing into a widening range of companies with differing technologies",
+      "date": "2026-04-09T16:44:00.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "The third Gulf war will scar energy markets for a long time yet",
       "link": "https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet",
