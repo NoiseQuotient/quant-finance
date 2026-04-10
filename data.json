@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-10T17:57:52.188Z",
+  "updated": "2026-04-10T18:27:50.311Z",
   "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "Crispin Odey abandons £79mn libel case against the FT over sexual misconduct claims",
+      "link": "https://www.ft.com/content/69666b46-8452-4807-add9-712a0394a53c",
+      "desc": "The FT had said 15 women were willing to testify in court against former hedge fund boss",
+      "date": "2026-04-10T17:56:05.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Funding Black High‐Growth Startups",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70039?af=R",
@@ -16,21 +31,6 @@
         "finance"
       ],
       "isPaywalled": false
-    },
-    {
-      "title": "Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks",
-      "link": "https://www.ft.com/content/397bf755-54cf-4018-a01d-8f714d8667c5",
-      "desc": "Meeting with US Treasury secretary comes as latest AI system has detected decades-old vulnerabilities",
-      "date": "2026-04-10T02:11:16.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
     },
     {
       "title": "Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing",
