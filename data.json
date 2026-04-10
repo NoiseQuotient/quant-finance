@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-10T01:57:49.241Z",
-  "count": 47,
+  "updated": "2026-04-10T02:27:48.442Z",
+  "count": 48,
   "failed": [],
   "items": [
+    {
+      "title": "Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks",
+      "link": "https://www.ft.com/content/397bf755-54cf-4018-a01d-8f714d8667c5",
+      "desc": "Meeting with US Treasury secretary comes as latest AI system has detected decades-old vulnerabilities",
+      "date": "2026-04-10T02:11:16.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "The quantum computing race is wide open",
       "link": "https://www.ft.com/content/053c8c39-9836-47e5-90f5-4798b3cf4c7c",
