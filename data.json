@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T02:27:48.442Z",
+  "updated": "2026-04-10T02:57:50.414Z",
   "count": 48,
   "failed": [],
   "items": [
@@ -32,6 +32,20 @@
         "premium"
       ],
       "isPaywalled": true
+    },
+    {
+      "title": "Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing",
+      "link": "http://arxiv.org/abs/2604.08356v1",
+      "desc": "Systematic investment strategies are exposed to a subtle but pervasive vulnerability: the progressive erosion of their effectiveness as market regimes change. Traditional risk measures, designed to capture volatility or drawdowns, overlook this form of structural fragility. This article introduces a quantitative framework for assessing the durability of systematic strategies through minimum regime",
+      "date": "2026-04-09T15:21:07.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
     },
     {
       "title": "ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination",
@@ -150,20 +164,6 @@
       "link": "http://arxiv.org/abs/2604.07870v1",
       "desc": "Cross-sectional dispersion in firm-level realized skewness is significantly and negatively related to future stock market returns. The predictive power of skewness dispersion is robust to in-sample and out-of-sample estimation and is incremental over a broad set of existing predictors, with only a few alternatives retaining independent explanatory ability. Skewness dispersion also delivers substan",
       "date": "2026-04-09T06:33:53.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Pricing and Hedging Strategies for Cross-Currency Equity Protection Swaps",
-      "link": "http://arxiv.org/abs/2409.19387v2",
-      "desc": "In this paper, we explore the pricing and hedging strategies for an innovative insurance product called the equity protection swap(EPS). Notably, we focus on the application of EPSs involving cross-currency reference portfolios, reflecting the realities of investor asset diversification across different economies. The research examines key considerations regarding exchange rate fluctuations, prici",
-      "date": "2026-04-09T04:09:15.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
