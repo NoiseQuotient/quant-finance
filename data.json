@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-10T08:27:52.803Z",
+  "updated": "2026-04-10T08:57:51.271Z",
   "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "Funding Black High‐Growth Startups",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70039?af=R",
+      "desc": "The Journal of Finance, EarlyView.",
+      "date": "2026-04-10T06:43:16.000Z",
+      "label": "The Journal of Finance",
+      "type": "research",
+      "tags": [
+        "journal",
+        "peer-reviewed",
+        "finance"
+      ],
+      "isPaywalled": false
+    },
     {
       "title": "Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks",
       "link": "https://www.ft.com/content/397bf755-54cf-4018-a01d-8f714d8667c5",
@@ -317,20 +331,6 @@
       "title": "The Benefits of Access: Evidence from Private Meetings with Portfolio Firms",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13495?af=R",
       "desc": "The Journal of Finance, Volume 81, Issue 2, Page 739-789, April 2026.",
-      "date": "2026-03-30T15:54:37.000Z",
-      "label": "The Journal of Finance",
-      "type": "research",
-      "tags": [
-        "journal",
-        "peer-reviewed",
-        "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "FinTech Lending and Cashless Payments",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70003?af=R",
-      "desc": "The Journal of Finance, Volume 81, Issue 2, Page 1053-1101, April 2026.",
       "date": "2026-03-30T15:54:37.000Z",
       "label": "The Journal of Finance",
       "type": "research",
