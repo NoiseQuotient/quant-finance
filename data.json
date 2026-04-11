@@ -1,8 +1,38 @@
 {
-  "updated": "2026-04-11T05:27:51.964Z",
-  "count": 47,
+  "updated": "2026-04-11T05:57:49.967Z",
+  "count": 49,
   "failed": [],
   "items": [
+    {
+      "title": "Mortgage borrowers seek shorter-term deals as market volatility saps confidence",
+      "link": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
+      "desc": "Flexibility is the watchword among UK borrowers amid signs of slowing activity in the housing market",
+      "date": "2026-04-11T04:00:41.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
+    {
+      "title": "Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees",
+      "link": "https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483",
+      "desc": "Firms may raise prices for fixed-fee contracts if clients keep sending flurries of emails and letters",
+      "date": "2026-04-11T04:00:12.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Crispin Odey abandons £79mn libel case against the FT over sexual misconduct claims",
       "link": "https://www.ft.com/content/69666b46-8452-4807-add9-712a0394a53c",
