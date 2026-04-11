@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-11T17:57:52.804Z",
-  "count": 49,
+  "updated": "2026-04-11T18:27:51.138Z",
+  "count": 47,
   "failed": [],
   "items": [
     {
@@ -8,36 +8,6 @@
       "link": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
       "desc": "Flexibility is the watchword among UK borrowers amid signs of slowing activity in the housing market",
       "date": "2026-04-11T04:00:41.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees",
-      "link": "https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483",
-      "desc": "Firms may raise prices for fixed-fee contracts if clients keep sending flurries of emails and letters",
-      "date": "2026-04-11T04:00:12.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "Crispin Odey abandons £79mn libel case against the FT over sexual misconduct claims",
-      "link": "https://www.ft.com/content/69666b46-8452-4807-add9-712a0394a53c",
-      "desc": "The FT had said 15 women were willing to testify in court against former hedge fund boss",
-      "date": "2026-04-10T17:56:05.000Z",
       "label": "Financial Times Quant",
       "type": "news",
       "tags": [
