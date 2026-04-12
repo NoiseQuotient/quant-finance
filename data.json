@@ -1,23 +1,8 @@
 {
-  "updated": "2026-04-12T19:27:51.445Z",
-  "count": 48,
+  "updated": "2026-04-12T19:57:51.500Z",
+  "count": 47,
   "failed": [],
   "items": [
-    {
-      "title": "Commodity traders lost ‘billions’ in early days of Iran war",
-      "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
-      "desc": "Firms that normally profit from volatility were caught out by sudden rise in energy prices, new report finds",
-      "date": "2026-04-12T04:00:20.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
     {
       "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
       "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
