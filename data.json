@@ -1,23 +1,8 @@
 {
-  "updated": "2026-04-12T03:57:50.682Z",
-  "count": 47,
+  "updated": "2026-04-12T04:27:49.938Z",
+  "count": 46,
   "failed": [],
   "items": [
-    {
-      "title": "Mortgage borrowers seek shorter-term deals as market volatility saps confidence",
-      "link": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
-      "desc": "Flexibility is the watchword among UK borrowers amid signs of slowing activity in the housing market",
-      "date": "2026-04-11T04:00:41.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
     {
       "title": "Funding Black High‐Growth Startups",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70039?af=R",
