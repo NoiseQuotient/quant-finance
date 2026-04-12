@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-12T06:57:51.065Z",
-  "count": 48,
+  "updated": "2026-04-12T07:27:56.039Z",
+  "count": 49,
   "failed": [],
   "items": [
+    {
+      "title": "Robinhood excludes some prediction markets over manipulation fears",
+      "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
+      "desc": "US broker says it is ‘very focused on insider trading’ as it pushes into fast-growing sector",
+      "date": "2026-04-12T06:57:16.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Commodity traders lost ‘billions’ in early days of Iran war",
       "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
