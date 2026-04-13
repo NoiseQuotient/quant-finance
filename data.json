@@ -1,38 +1,8 @@
 {
-  "updated": "2026-04-13T03:57:54.187Z",
-  "count": 48,
+  "updated": "2026-04-13T04:27:51.979Z",
+  "count": 46,
   "failed": [],
   "items": [
-    {
-      "title": "Commodity traders lost ‘billions’ in early days of Iran war",
-      "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
-      "desc": "Firms that normally profit from volatility were caught out by sudden rise in energy prices, new report finds",
-      "date": "2026-04-12T04:00:20.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
-    {
-      "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
-      "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
-      "desc": "Five largest US lenders expected to unveil highest combined trading revenues since at least 2014",
-      "date": "2026-04-12T04:00:12.000Z",
-      "label": "Financial Times Quant",
-      "type": "news",
-      "tags": [
-        "markets",
-        "finance",
-        "quant",
-        "premium"
-      ],
-      "isPaywalled": true
-    },
     {
       "title": "On options-driven realized volatility forecasting: Information gains via rough volatility model",
       "link": "http://arxiv.org/abs/2604.02743v3",
