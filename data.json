@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-13T04:57:52.437Z",
-  "count": 46,
+  "updated": "2026-04-13T05:27:54.426Z",
+  "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "The risks of Trump’s Strait of Hormuz blockade plan",
+      "link": "https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb",
+      "desc": "Naval embargo designed to cut off Iran’s exports threatens to destabilise global energy markets",
+      "date": "2026-04-13T04:46:54.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "On options-driven realized volatility forecasting: Information gains via rough volatility model",
       "link": "http://arxiv.org/abs/2604.02743v3",
