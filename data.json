@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13T12:57:53.943Z",
-  "count": 37,
+  "updated": "2026-04-13T13:27:56.452Z",
+  "count": 47,
   "failed": [],
   "items": [
     {
@@ -19,6 +19,48 @@
       "isPaywalled": true
     },
     {
+      "title": "On options-driven realized volatility forecasting: Information gains via rough volatility model",
+      "link": "http://arxiv.org/abs/2604.02743v3",
+      "desc": "We examine whether model-based spot volatility estimators extracted from traded options data enhance the predictive power of the Heterogeneous Autoregressive (HAR) model for realized volatility. Specifically, we infer spot volatility under the rough stochastic volatility model via an iterative two-step approach following Andersen et al. (2015a) and adopt a deep learning surrogate to accelerate mod",
+      "date": "2026-04-10T17:35:59.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Optimal Annuitization Time under a Mortality Shock",
+      "link": "http://arxiv.org/abs/2604.09342v1",
+      "desc": "In this paper, we derive explicit closed-form solutions for the value function and the associated optimal stopping boundaries in an optimal annuitization problem under a mortality shock. We consider an individual whose retirement wealth is invested in a financial fund following the dynamics of a geometric Brownian motion and has the option at any time to irreversibly convert their wealth into a li",
+      "date": "2026-04-10T14:09:50.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty",
+      "link": "http://arxiv.org/abs/2604.09187v1",
+      "desc": "We explore a quantitative approach to emerging technological sovereignty and geoeconomic power by assessing the relative positioning of countries with economic complexity methods applied to the structure of national venture-capital (VC) portfolios and their associated Revealed Venture Advantage (RVA) metrics. Using Crunchbase firm- and deal-level data, we map venture-backed startups to 18 emerging",
+      "date": "2026-04-10T10:16:23.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
       "title": "Funding Black High‐Growth Startups",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70039?af=R",
       "desc": "The Journal of Finance, EarlyView.",
@@ -29,6 +71,104 @@
         "journal",
         "peer-reviewed",
         "finance"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Entropy Regularization under Bayesian Drift Uncertainty",
+      "link": "http://arxiv.org/abs/2602.16862v2",
+      "desc": "We study entropy-regularized mean-variance portfolio optimization under Bayesian drift uncertainty. Gaussian policies remain optimal under partial information, the value function is quadratic in wealth, and belief-dependent coefficients admit closed-form solutions. The mean control is identical to deterministic Bayesian Markowitz feedback; entropy regularization affects only the policy variance. A",
+      "date": "2026-04-10T06:28:37.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Forecasting the Evolving Composition of Inbound Tourism Demand: A Bayesian Compositional Time Series Approach Using Platform Booking Data",
+      "link": "http://arxiv.org/abs/2602.18358v3",
+      "desc": "Understanding how the composition of guest origin markets evolves over time is critical for destination marketing organizations, hospitality businesses, and tourism planners. We develop and apply Bayesian Dirichlet autoregressive moving average (BDARMA) models to forecast the compositional dynamics of guest origin market shares using proprietary Airbnb booking data spanning 2017--2025 across four ",
+      "date": "2026-04-09T21:57:37.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Reliability-Aware ETF Tail-Risk Monitoring",
+      "link": "http://arxiv.org/abs/2604.08765v1",
+      "desc": "Daily ETF risk monitoring can become unreliable when market data quality degrades, market conditions shift, or predictive performance becomes unstable. This paper develops a reliability-aware risk monitoring service for next-day tail-risk surveillance. The proposed framework combines service-time quality checks, lower-tail prediction, uncertainty scoring, and conservative risk adjustment. We evalu",
+      "date": "2026-04-09T21:05:24.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "PRAGMA: Revolut Foundation Model",
+      "link": "http://arxiv.org/abs/2604.08649v1",
+      "desc": "Modern financial systems generate vast quantities of transactional and event-level data that encode rich economic signals. This paper presents PRAGMA, a family of foundation models for multi-source banking event sequences. Our approach pre-trains a Transformer-based architecture with masked modelling on a large-scale, heterogeneous banking event corpus using a self-supervised objective tailored to",
+      "date": "2026-04-09T18:00:00.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing",
+      "link": "http://arxiv.org/abs/2604.08356v1",
+      "desc": "Systematic investment strategies are exposed to a subtle but pervasive vulnerability: the progressive erosion of their effectiveness as market regimes change. Traditional risk measures, designed to capture volatility or drawdowns, overlook this form of structural fragility. This article introduces a quantitative framework for assessing the durability of systematic strategies through minimum regime",
+      "date": "2026-04-09T15:21:07.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination",
+      "link": "http://arxiv.org/abs/2510.15949v3",
+      "desc": "Large language models show promise for financial decision-making, yet deploying them as autonomous trading agents raises fundamental challenges: how to adapt instructions when rewards arrive late and obscured by market noise, how to synthesize heterogeneous information streams into coherent decisions, and how to bridge the gap between model outputs and executable market actions. We present ATLAS (",
+      "date": "2026-04-09T13:50:25.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security",
+      "link": "http://arxiv.org/abs/2604.08180v1",
+      "desc": "Quantum computing is becoming strategically relevant to finance because several core financial bottlenecks are already defined by combinatorial search, expectation estimation, rare-event analysis, representation learning, and long-horizon cryptographic resilience. This review examines that landscape across five connected domains: constrained portfolio optimisation, derivative pricing, tail-risk an",
+      "date": "2026-04-09T12:35:53.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
       ],
       "isPaywalled": false
     },
