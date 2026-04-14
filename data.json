@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-14T01:27:53.268Z",
+  "updated": "2026-04-14T01:57:54.225Z",
   "count": 46,
   "failed": [],
   "items": [
     {
-      "title": "On options-driven realized volatility forecasting: Information gains via rough volatility model",
-      "link": "http://arxiv.org/abs/2604.02743v3",
-      "desc": "We examine whether model-based spot volatility estimators extracted from traded options data enhance the predictive power of the Heterogeneous Autoregressive (HAR) model for realized volatility. Specifically, we infer spot volatility under the rough stochastic volatility model via an iterative two-step approach following Andersen et al. (2015a) and adopt a deep learning surrogate to accelerate mod",
-      "date": "2026-04-10T17:35:59.000Z",
+      "title": "AI Patents in the United States and China: Measurement, Organization, and Knowledge Flows",
+      "link": "http://arxiv.org/abs/2604.10529v1",
+      "desc": "We develop a high-precision classifier to measure artificial intelligence (AI) patents by fine-tuning PatentSBERTa on manually labeled data from the USPTO's AI Patent Dataset. Our classifier substantially improves the existing USPTO approach, achieving 97.0% precision, 91.3% recall, and a 94.0% F1 score, and it generalizes well to Chinese patents based on citation and lexical validation. Applying ",
+      "date": "2026-04-12T08:46:30.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -18,10 +18,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Optimal Annuitization Time under a Mortality Shock",
-      "link": "http://arxiv.org/abs/2604.09342v1",
-      "desc": "In this paper, we derive explicit closed-form solutions for the value function and the associated optimal stopping boundaries in an optimal annuitization problem under a mortality shock. We consider an individual whose retirement wealth is invested in a financial fund following the dynamics of a geometric Brownian motion and has the option at any time to irreversibly convert their wealth into a li",
-      "date": "2026-04-10T14:09:50.000Z",
+      "title": "Aharanov-Bohm Type Arbitrage and Homological Obstructions in Financial Markets",
+      "link": "http://arxiv.org/abs/2604.10492v1",
+      "desc": "We introduce a new notion of arbitrage based on global loop effects in filtered market systems. Given a filtration modeled as a contravariant functor $F : \\mathcal{T}^{op} \\to \\mathrm{Prob}$, we consider the associated conditional expectation functor $\\mathcal{E} \\circ F$ and show that it induces a canonical multiplicative distortion $dF(i) := (\\mathcal{E} \\circ F)(i)(1)$, which measures the failu",
+      "date": "2026-04-12T06:51:08.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -32,10 +32,108 @@
       "isPaywalled": false
     },
     {
-      "title": "The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty",
-      "link": "http://arxiv.org/abs/2604.09187v1",
-      "desc": "We explore a quantitative approach to emerging technological sovereignty and geoeconomic power by assessing the relative positioning of countries with economic complexity methods applied to the structure of national venture-capital (VC) portfolios and their associated Revealed Venture Advantage (RVA) metrics. Using Crunchbase firm- and deal-level data, we map venture-backed startups to 18 emerging",
-      "date": "2026-04-10T10:16:23.000Z",
+      "title": "Regime-Aware Specialist Routing for Volatility Forecasting",
+      "link": "http://arxiv.org/abs/2604.10402v1",
+      "desc": "Volatility forecasting becomes challenging when market conditions change and model performance varies across regimes. Motivated by this instability, we develop a regime-aware specialist routing framework for ETF volatility forecasting. The framework uses online risk-sensitive evaluation and state-dependent gating to combine different forecasting specialists across calm and stressed market states. ",
+      "date": "2026-04-12T01:24:02.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk",
+      "link": "http://arxiv.org/abs/2604.10375v1",
+      "desc": "This paper develops a decomposition of standard Risk Contribution (RC) into two economically interpretable components: inherent risk and correlation risk. Using a leave-one-out representation, each position's RC separates into a term reflecting its own volatility contribution independent of the portfolio and a term capturing its covariance with the remainder of the portfolio. The inherent componen",
+      "date": "2026-04-11T23:02:26.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Mandatory Disclosure in Oligopolistic Market Making",
+      "link": "http://arxiv.org/abs/2604.10194v1",
+      "desc": "We develop a multi-period Kyle-type model that incorporates both mandatory disclosure of informed trades and imperfect competition among market makers. We prove the existence and uniqueness of a linear equilibrium and show that the liquidity-enhancing effect of disclosure is fundamentally linked to the degree of market-making competition. Disclosure lowers trading costs by reducing price impact, a",
+      "date": "2026-04-11T12:59:37.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Growth rate of liquidity provider's wealth in G3Ms",
+      "link": "http://arxiv.org/abs/2403.18177v4",
+      "desc": "We study how trading fees and continuous-time arbitrage affect the profitability of liquidity providers (LPs) in Geometric Mean Market Makers (G3Ms). We use stochastic reflected diffusion processes to analyze the dynamics of a G3M model under the arbitrage-driven market. Our research focuses on calculating LP wealth and extends the findings of Tassy and White related to the constant product market",
+      "date": "2026-04-11T11:36:22.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "Optimal Execution under Liquidity Uncertainty",
+      "link": "http://arxiv.org/abs/2506.11813v2",
+      "desc": "We study an optimal execution strategy for purchasing a large block of shares over a fixed time horizon. The execution problem is subject to a general price impact that gradually dissipates due to market resilience. We allow for general limit order book shapes to characterize instantaneous market impact. To model the resilience dynamics, we introduce a stochastic process that governs the rate at w",
+      "date": "2026-04-11T09:53:59.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "An effective interest rate cap: a clarification",
+      "link": "http://arxiv.org/abs/2307.08861v8",
+      "desc": "Many countries impose regulatory restrictions on lending rates known as interest rate caps. In most cases, these restrictions apply to the effective (rather than nominal) interest rate, a measure which incorporates all commissions and fees associated with a loan. Because the effective interest rate is the internal rate of return (IRR) of the loan's cash flow stream, this regulatory rule becomes am",
+      "date": "2026-04-11T09:41:37.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "What Happens When Institutional Liquidity Enters Prediction Markets: Identification, Measurement, and a Synthetic Proof of Concept",
+      "link": "http://arxiv.org/abs/2604.10005v1",
+      "desc": "Prediction markets are starting to look less like crowd polls and more like electronic markets. The central question is therefore no longer only whether these markets forecast well, but what happens when institutional liquidity enters: do spreads tighten, does price discovery improve, and do those gains actually reach the traders who are slowest to react when information arrives? This paper offers",
+      "date": "2026-04-11T03:27:43.000Z",
+      "label": "arXiv q-fin",
+      "type": "research",
+      "tags": [
+        "academic",
+        "preprint",
+        "quant"
+      ],
+      "isPaywalled": false
+    },
+    {
+      "title": "The Long-Only Minimum Variance Portfolio in a One-Factor Market: Theory and Asymptotics",
+      "link": "http://arxiv.org/abs/2604.09986v1",
+      "desc": "We study the long-only minimum variance (LOMV) portfolio under a one-factor covariance model with asset betas of arbitrary sign. We provide an explicit solution in terms of the set of active (positive weight) assets, and provide an explicit and computable characterization of the active set. As a corollary we resolve an open question of \\citet{qi2021} concerning the extension to mixed-sign betas. I",
+      "date": "2026-04-11T02:09:43.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -56,104 +154,6 @@
         "journal",
         "peer-reviewed",
         "finance"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Entropy Regularization under Bayesian Drift Uncertainty",
-      "link": "http://arxiv.org/abs/2602.16862v2",
-      "desc": "We study entropy-regularized mean-variance portfolio optimization under Bayesian drift uncertainty. Gaussian policies remain optimal under partial information, the value function is quadratic in wealth, and belief-dependent coefficients admit closed-form solutions. The mean control is identical to deterministic Bayesian Markowitz feedback; entropy regularization affects only the policy variance. A",
-      "date": "2026-04-10T06:28:37.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Forecasting the Evolving Composition of Inbound Tourism Demand: A Bayesian Compositional Time Series Approach Using Platform Booking Data",
-      "link": "http://arxiv.org/abs/2602.18358v3",
-      "desc": "Understanding how the composition of guest origin markets evolves over time is critical for destination marketing organizations, hospitality businesses, and tourism planners. We develop and apply Bayesian Dirichlet autoregressive moving average (BDARMA) models to forecast the compositional dynamics of guest origin market shares using proprietary Airbnb booking data spanning 2017--2025 across four ",
-      "date": "2026-04-09T21:57:37.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Reliability-Aware ETF Tail-Risk Monitoring",
-      "link": "http://arxiv.org/abs/2604.08765v1",
-      "desc": "Daily ETF risk monitoring can become unreliable when market data quality degrades, market conditions shift, or predictive performance becomes unstable. This paper develops a reliability-aware risk monitoring service for next-day tail-risk surveillance. The proposed framework combines service-time quality checks, lower-tail prediction, uncertainty scoring, and conservative risk adjustment. We evalu",
-      "date": "2026-04-09T21:05:24.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "PRAGMA: Revolut Foundation Model",
-      "link": "http://arxiv.org/abs/2604.08649v1",
-      "desc": "Modern financial systems generate vast quantities of transactional and event-level data that encode rich economic signals. This paper presents PRAGMA, a family of foundation models for multi-source banking event sequences. Our approach pre-trains a Transformer-based architecture with masked modelling on a large-scale, heterogeneous banking event corpus using a self-supervised objective tailored to",
-      "date": "2026-04-09T18:00:00.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing",
-      "link": "http://arxiv.org/abs/2604.08356v1",
-      "desc": "Systematic investment strategies are exposed to a subtle but pervasive vulnerability: the progressive erosion of their effectiveness as market regimes change. Traditional risk measures, designed to capture volatility or drawdowns, overlook this form of structural fragility. This article introduces a quantitative framework for assessing the durability of systematic strategies through minimum regime",
-      "date": "2026-04-09T15:21:07.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination",
-      "link": "http://arxiv.org/abs/2510.15949v3",
-      "desc": "Large language models show promise for financial decision-making, yet deploying them as autonomous trading agents raises fundamental challenges: how to adapt instructions when rewards arrive late and obscured by market noise, how to synthesize heterogeneous information streams into coherent decisions, and how to bridge the gap between model outputs and executable market actions. We present ATLAS (",
-      "date": "2026-04-09T13:50:25.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
-      ],
-      "isPaywalled": false
-    },
-    {
-      "title": "Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security",
-      "link": "http://arxiv.org/abs/2604.08180v1",
-      "desc": "Quantum computing is becoming strategically relevant to finance because several core financial bottlenecks are already defined by combinatorial search, expectation estimation, rare-event analysis, representation learning, and long-horizon cryptographic resilience. This review examines that landscape across five connected domains: constrained portfolio optimisation, derivative pricing, tail-risk an",
-      "date": "2026-04-09T12:35:53.000Z",
-      "label": "arXiv q-fin",
-      "type": "research",
-      "tags": [
-        "academic",
-        "preprint",
-        "quant"
       ],
       "isPaywalled": false
     },
