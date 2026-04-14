@@ -1,8 +1,23 @@
 {
-  "updated": "2026-04-14T03:57:54.788Z",
-  "count": 46,
+  "updated": "2026-04-14T04:27:53.503Z",
+  "count": 47,
   "failed": [],
   "items": [
+    {
+      "title": "Geopolitical upheaval spurs family offices to open global branches",
+      "link": "https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f",
+      "desc": "US tariffs and Iran war cited among motivations for the rich to spread risk",
+      "date": "2026-04-14T04:00:07.000Z",
+      "label": "Financial Times Quant",
+      "type": "news",
+      "tags": [
+        "markets",
+        "finance",
+        "quant",
+        "premium"
+      ],
+      "isPaywalled": true
+    },
     {
       "title": "Pricing Options on Forwards in Function-Valued Affine Stochastic Volatility Models",
       "link": "http://arxiv.org/abs/2508.14813v2",
