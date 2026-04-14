@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-14T02:57:52.399Z",
+  "updated": "2026-04-14T03:27:55.803Z",
   "count": 46,
   "failed": [],
   "items": [
     {
-      "title": "AI Patents in the United States and China: Measurement, Organization, and Knowledge Flows",
-      "link": "http://arxiv.org/abs/2604.10529v1",
-      "desc": "We develop a high-precision classifier to measure artificial intelligence (AI) patents by fine-tuning PatentSBERTa on manually labeled data from the USPTO's AI Patent Dataset. Our classifier substantially improves the existing USPTO approach, achieving 97.0% precision, 91.3% recall, and a 94.0% F1 score, and it generalizes well to Chinese patents based on citation and lexical validation. Applying ",
-      "date": "2026-04-12T08:46:30.000Z",
+      "title": "Pricing Options on Forwards in Function-Valued Affine Stochastic Volatility Models",
+      "link": "http://arxiv.org/abs/2508.14813v2",
+      "desc": "We study the pricing of European-style options written on forward contracts within function-valued infinite-dimensional affine stochastic volatility models. The dynamics of the underlying forward price curves are modeled within the Heath-Jarrow-Morton-Musiela framework as solution to a stochastic partial differential equation modulated by a stochastic volatility process. We analyze two classes of ",
+      "date": "2026-04-13T14:57:22.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -18,10 +18,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Aharanov-Bohm Type Arbitrage and Homological Obstructions in Financial Markets",
-      "link": "http://arxiv.org/abs/2604.10492v1",
-      "desc": "We introduce a new notion of arbitrage based on global loop effects in filtered market systems. Given a filtration modeled as a contravariant functor $F : \\mathcal{T}^{op} \\to \\mathrm{Prob}$, we consider the associated conditional expectation functor $\\mathcal{E} \\circ F$ and show that it induces a canonical multiplicative distortion $dF(i) := (\\mathcal{E} \\circ F)(i)(1)$, which measures the failu",
-      "date": "2026-04-12T06:51:08.000Z",
+      "title": "Risk-Constrained Kelly for Mutually Exclusive Outcomes: CRRA Support Invariance and Logarithmic One-Dimensional Calibration",
+      "link": "http://arxiv.org/abs/2604.11577v1",
+      "desc": "We study the finite mutually exclusive outcome version of risk-constrained Kelly optimization with explicit state prices. The market has outcome probabilities $p_i>0$, state prices $q_i>0$, terminal wealths $W_i=c+x_i/q_i$, and a drawdown-surrogate constraint \\[ \\sum_{i=1}^n p_i W_i^{-λ}\\le 1,\\qquad λ>0. \\] For constant relative risk aversion utility, we work primarily in the standard overround re",
+      "date": "2026-04-13T14:55:44.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -32,10 +32,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Regime-Aware Specialist Routing for Volatility Forecasting",
-      "link": "http://arxiv.org/abs/2604.10402v1",
-      "desc": "Volatility forecasting becomes challenging when market conditions change and model performance varies across regimes. Motivated by this instability, we develop a regime-aware specialist routing framework for ETF volatility forecasting. The framework uses online risk-sensitive evaluation and state-dependent gating to combine different forecasting specialists across calm and stressed market states. ",
-      "date": "2026-04-12T01:24:02.000Z",
+      "title": "A Counterfactual Diagnostic Framework for Explaining KS Deterioration in Credit Risk Model Validation",
+      "link": "http://arxiv.org/abs/2604.11561v1",
+      "desc": "The Kolmogorov-Smirnov (KS) statistic is widely used in credit risk model monitoring and validation to assess discriminatory power. In practice, a material decline in KS often triggers governance review and requires validation teams to identify the breach source and the potential business risk. However, such diagnosis is frequently conducted on an ad hoc basis, relying on the judgment of individua",
+      "date": "2026-04-13T14:45:26.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -46,10 +46,10 @@
       "isPaywalled": false
     },
     {
-      "title": "On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk",
-      "link": "http://arxiv.org/abs/2604.10375v1",
-      "desc": "This paper develops a decomposition of standard Risk Contribution (RC) into two economically interpretable components: inherent risk and correlation risk. Using a leave-one-out representation, each position's RC separates into a term reflecting its own volatility contribution independent of the portfolio and a term capturing its covariance with the remainder of the portfolio. The inherent componen",
-      "date": "2026-04-11T23:02:26.000Z",
+      "title": "OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems",
+      "link": "http://arxiv.org/abs/2604.11477v1",
+      "desc": "The alignment of Multi-Agent Systems (MAS) for autonomous software engineering is constrained by evaluator epistemic uncertainty. Current paradigms, such as Reinforcement Learning from Human Feedback (RLHF) and AI Feedback (RLAIF), frequently induce model sycophancy, while execution-based environments suffer from adversarial \"Test Evasion\" by unconstrained agents. In this paper, we introduce an ob",
+      "date": "2026-04-13T13:45:42.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -60,10 +60,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Mandatory Disclosure in Oligopolistic Market Making",
-      "link": "http://arxiv.org/abs/2604.10194v1",
-      "desc": "We develop a multi-period Kyle-type model that incorporates both mandatory disclosure of informed trades and imperfect competition among market makers. We prove the existence and uniqueness of a linear equilibrium and show that the liquidity-enhancing effect of disclosure is fundamentally linked to the degree of market-making competition. Disclosure lowers trading costs by reducing price impact, a",
-      "date": "2026-04-11T12:59:37.000Z",
+      "title": "A Herding-Based Model of Technological Transfer and Economic Convergence: Evidence from Central and Eastern Europe",
+      "link": "http://arxiv.org/abs/2604.11413v1",
+      "desc": "The long-run convergence of developing economies toward advanced countries exhibits robust empirical regularities, yet the mechanisms underlying technological diffusion remain insufficiently specified in standard growth models. In this paper, we extend the neoclassical framework by introducing a micro-founded mechanism of technological transfer as a driver of total factor productivity. Rather than",
+      "date": "2026-04-13T12:56:21.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -74,10 +74,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Growth rate of liquidity provider's wealth in G3Ms",
-      "link": "http://arxiv.org/abs/2403.18177v4",
-      "desc": "We study how trading fees and continuous-time arbitrage affect the profitability of liquidity providers (LPs) in Geometric Mean Market Makers (G3Ms). We use stochastic reflected diffusion processes to analyze the dynamics of a G3M model under the arbitrage-driven market. Our research focuses on calculating LP wealth and extends the findings of Tassy and White related to the constant product market",
-      "date": "2026-04-11T11:36:22.000Z",
+      "title": "Mean-field approximations in insurance",
+      "link": "http://arxiv.org/abs/2511.04198v2",
+      "desc": "The calculation of the insurance liabilities of a cohort of dependent individuals in general requires the solution of a high-dimensional system of coupled linear forward integro-differential equations, which is infeasible for a larger cohort. However, by using a mean-field model, the high dimensional system of linear forward equations can be replaced by a low-dimensional system of non-linear forwa",
+      "date": "2026-04-13T08:24:13.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -88,10 +88,10 @@
       "isPaywalled": false
     },
     {
-      "title": "Optimal Execution under Liquidity Uncertainty",
-      "link": "http://arxiv.org/abs/2506.11813v2",
-      "desc": "We study an optimal execution strategy for purchasing a large block of shares over a fixed time horizon. The execution problem is subject to a general price impact that gradually dissipates due to market resilience. We allow for general limit order book shapes to characterize instantaneous market impact. To model the resilience dynamics, we introduce a stochastic process that governs the rate at w",
-      "date": "2026-04-11T09:53:59.000Z",
+      "title": "Temperature Anomalies and Climate Physical Risk in Portfolio Construction",
+      "link": "http://arxiv.org/abs/2604.11143v1",
+      "desc": "Driven by the increasing frequency and intensity of natural disasters and chronic climate threats, we investigate the impact of physical climate risk on global equity portfolios. By employing a panel regression analysis on sectoral returns, we provide statistical evidence that extreme temperature events exert a negative effect on most sectors. We introduce two novel metrics based on these temperat",
+      "date": "2026-04-13T08:00:49.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -102,10 +102,10 @@
       "isPaywalled": false
     },
     {
-      "title": "An effective interest rate cap: a clarification",
-      "link": "http://arxiv.org/abs/2307.08861v8",
-      "desc": "Many countries impose regulatory restrictions on lending rates known as interest rate caps. In most cases, these restrictions apply to the effective (rather than nominal) interest rate, a measure which incorporates all commissions and fees associated with a loan. Because the effective interest rate is the internal rate of return (IRR) of the loan's cash flow stream, this regulatory rule becomes am",
-      "date": "2026-04-11T09:41:37.000Z",
+      "title": "Mechanism Design for Investment Regulation under Herding",
+      "link": "http://arxiv.org/abs/2604.11100v1",
+      "desc": "Herding, where investors imitate others' decisions rather than relying on their own analysis, is a prevalent phenomenon in financial markets. Excessive herding distorts rational decisions, amplifies volatility, and can be exploited by manipulators to harm the market. Traditional regulatory tools, such as information disclosure and transaction restrictions, are often imprecise and lack theoretical ",
+      "date": "2026-04-13T07:17:02.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -116,10 +116,10 @@
       "isPaywalled": false
     },
     {
-      "title": "What Happens When Institutional Liquidity Enters Prediction Markets: Identification, Measurement, and a Synthetic Proof of Concept",
-      "link": "http://arxiv.org/abs/2604.10005v1",
-      "desc": "Prediction markets are starting to look less like crowd polls and more like electronic markets. The central question is therefore no longer only whether these markets forecast well, but what happens when institutional liquidity enters: do spreads tighten, does price discovery improve, and do those gains actually reach the traders who are slowest to react when information arrives? This paper offers",
-      "date": "2026-04-11T03:27:43.000Z",
+      "title": "Investing Is Compression",
+      "link": "http://arxiv.org/abs/2604.10758v1",
+      "desc": "Bell Labs describing the relationship between gambling and Information Theory. What became known as the Kelly criterion is an objective or utility function and a closed form solution in simple cases. The economist Paul Samuelson argued that it was an arbitrary utility function, and he successfully kept it out of mainstream economics. But he was wrong. We now know, largely through the work of Tom C",
+      "date": "2026-04-12T17:56:53.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
@@ -130,10 +130,10 @@
       "isPaywalled": false
     },
     {
-      "title": "The Long-Only Minimum Variance Portfolio in a One-Factor Market: Theory and Asymptotics",
-      "link": "http://arxiv.org/abs/2604.09986v1",
-      "desc": "We study the long-only minimum variance (LOMV) portfolio under a one-factor covariance model with asset betas of arbitrary sign. We provide an explicit solution in terms of the set of active (positive weight) assets, and provide an explicit and computable characterization of the active set. As a corollary we resolve an open question of \\citet{qi2021} concerning the extension to mixed-sign betas. I",
-      "date": "2026-04-11T02:09:43.000Z",
+      "title": "Adaptive Multilevel Stochastic Approximation of the Value-at-Risk",
+      "link": "http://arxiv.org/abs/2408.06531v2",
+      "desc": "Crépey, Frikha, and Louzi (2025) introduced a multilevel stochastic approximation scheme to compute the value-at-risk of a financial loss that is only simulatable by Monte Carlo. The best complexity of the scheme is in O($\\varepsilon^{-\\frac52}$), $\\varepsilon>0$ being a prescribed accuracy, which is suboptimal compared to the canonical multilevel Monte Carlo performance. This suboptimality stems ",
+      "date": "2026-04-12T15:37:39.000Z",
       "label": "arXiv q-fin",
       "type": "research",
       "tags": [
